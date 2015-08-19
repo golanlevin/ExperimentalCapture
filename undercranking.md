@@ -23,6 +23,11 @@ Recent iOS iPhones will record time-lapse videos. Many camera manufacturers also
   * [Original audio](http://audio.theguardian.tv/sys-audio/Arts/Culture/2007/01/24/yellowhammerfinal.mp3) (MP3)
   * [*Dawn Chorus*](https://www.youtube.com/watch?v=PCCpnDtgxXk) (YouTube)
 
+1. Keith Loutit, tilt-shift time-lapse videos
+  * [*Beached*, 2008](https://vimeo.com/1785993)
+  * [*Small Worlds*, 2010](https://vimeo.com/10792824)
+  * [*Metal Heart*, 2009](https://vimeo.com/2317118)
+
 1. Assorted time-lapse projects
   * [JK Keller's daily photos, 16 years](https://www.youtube.com/watch?v=XjSfaRzbAHc)
   * [Dove Evolution](https://www.youtube.com/watch?v=iYhCn0jf46U)

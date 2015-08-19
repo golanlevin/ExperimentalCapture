@@ -11,17 +11,18 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 * [Wikipedia article on Slow Motion cinema](https://en.wikipedia.org/wiki/Slow_motion)
 
 ### Things to see and consider
-1. Microexpressions, as revealed through slow-motion
+1. Slow-motion as an analytic tool for "microexpressions"
+  * Slow-motion is widely used for analyzing ballistics and other very short events ([gunshots](https://www.youtube.com/watch?v=7y9apnbI6GA), [impacts](https://www.youtube.com/watch?v=QfDoQwIAaXg), etc.). However, it can also be used for analysis of ultra-fast facial expressions.
   * [Paul Ekman on microexpressions](https://www.youtube.com/watch?v=EXm6YbXxSYk)
   * [David Matsumoto on A-Rod microexpressions](https://www.youtube.com/watch?v=bu3ayOWHX0w)
 1. Miscellaneous Slow-Motion Experiments on the Internet
+  * There is all manner of slow-mo tomfoolery on the internet. 
   * [Time Warp: Water balloon hits face](https://www.youtube.com/watch?v=90VyvOhPmA0)
   * [High speed video of man blowing raspberry](https://www.youtube.com/watch?v=cWGn6_EH2gM)
   * [Face slap](https://www.youtube.com/watch?v=7AXB8nGq5jc)
   * [Baby laugh, with audio](https://www.youtube.com/watch?v=8igSA8HdR_Q)
   * [Ultraslo stock clips](http://www.ultraslo.com/)
   * [High speed video clip database, Colorado State](http://high_speed_video.colostate.edu/)
-
 1. Bill Viola: [*The Passions*](http://www.getty.edu/art/exhibitions/viola/art.html)
   * [The Quintet of the Astonished](https://www.youtube.com/watch?v=As7OtWMYPRc)
   * [Silent Mountain](https://www.youtube.com/watch?v=e2Eam0GMjZg)
@@ -29,13 +30,14 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
   * [Six Heads (The Passions)](https://www.youtube.com/watch?v=RnVCJJeuFaE)
   * [Observance (2002)](https://www.youtube.com/watch?v=TCiQBOkt-rs)
 1. Sam Taylor-Wood, [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM)
-	* In Sam Taylor-Wood's Hysteria (1997), a woman displays extreme emotions in slow-motion. "There are no sounds, so the viewer cannot be certain whether she is moved by joy, despair or both." [Citation](http://www.absolutearts.com/artsnews/2002/01/25/29597.html)
-1. Adam Magyar
+	* In Sam Taylor-Wood's [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM) (1997), a woman displays extreme emotions in slow-motion. "There are no sounds, so the viewer cannot be certain whether she is moved by joy, despair or both." [Citation](http://www.absolutearts.com/artsnews/2002/01/25/29597.html)
+1. Adam Magyar, *Stainless*
+  * High-speed recordings of people on subway platforms. 
   * [Stainless - Shinjuku](https://vimeo.com/77489382)
   * [Stainless, 42 Street](https://vimeo.com/83664407)
-1. The Beatles, Help (Relativity Condensor)
 1. Julien Maire, [*Double-Face* and *Ordonner*](http://julienmaire.ideenshop.net/project3.shtml)
-  * [*Double-Face* ](http://julienmaire.ideenshop.net/mov/df_perf.mov)
-  * [*Ordonner*](http://julienmaire.ideenshop.net/mov/or_perf.mov)
   * French new-media artist Julien Maire plays fun on the concept of slow-motion cinema in these elaborately conceived simulacra, which are not actually presented in slow-motion. In one live performance (*Ordonner*), he heaves "heavy-looking" cardboard boxes which are in reality filled with helium balloons; their slow, gentle tumble through the air is a near-perfect imitation of slowmo video. In Maire's *Double-Face* performance, a coin tossed in the air tumbles ever more slowly until it eventually comes to a rest in mid-air; in fact, the coin is controlled by a mechatronic suspension system with nearly invisible guy-wires.
-1. The Dancing Pigeons, [*Ritalin*](https://vimeo.com/13639493) (music video, 2010)
+  * [*Double-Face* ](http://julienmaire.ideenshop.net/mov/df_perf.mov) (Quicktime)
+  * [*Ordonner*](http://julienmaire.ideenshop.net/mov/or_perf.mov) (Quicktime)
+1. The Dancing Pigeons, [*Ritalin*](https://vimeo.com/13639493) (Music video, 2010)
+1. The Beatles, *Help* ("Relativity Condenser")

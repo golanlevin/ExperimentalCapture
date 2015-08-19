@@ -2,6 +2,9 @@
 
 *This page borrows significantly from the [Computational Portraiture Workshop curriculum](http://www.specular.cc/computational-portraiture-workshop) developed by James George & Alexander Porter of [Specular.cc](http://www.specular.cc/).*
 
+http://jamesgeorge.org/
+http://alexanderporter.net/
+
 * Erik Kessels	24 Hours		http://www.kesselskramer.com/exhibitions/24-hrs-of-photos
 * Penelope Umbrico	Suns (From Sunsets) from Flickr		http://www.penelopeumbrico.net/Suns/Suns_brisbane.html
 * Shinseungback Kimyonghun	Cloud Faces		http://ssbkyh.com/works/cloud_face/
@@ -99,4 +102,235 @@ http://www.buzzfeed.com/danmeth/welcome-to-uncanny-valley#.mw59Yjg23
 * Magic Leap Tech		http://www.nytimes.com/2014/07/15/science/taking-real-life-sickness-out-of-virtual-reality.html?_r=0
 * Stitch		http://www.video-stitch.com/
 * BORGES		http://www.sccs.swarthmore.edu/users/08/bblonder/phys120/docs/borges.pdf	
-				
+
+
+Unsorted: 
+
+* Face Dance Motion Capture & FaceShift https://www.youtube.com/watch?v=dplBh_rxoUc
+* Archive of museum 3D models http://sites.museum.upenn.edu/monrepos/evidence/evidence.html
+* http://www.pbs.org/wgbh/nova/ancient/explore-ancient-egypt.html 
+
+ tutorials on the photogrammetry work we did on Sunday. 
+
+https://vimeo.com/specularprojects/photoscan1
+https://vimeo.com/specularprojects/photoscan2
+
+https://www.youtube.com/watch?v=CrsVa3CzQj0
+https://vimeo.com/38360045 Snack and Drink
+
+
+
+Portraiture Assignment (by James George)
+
+BRIEF
+
+Create an portrait of a subject using a computational photography technique.
+
+CONSTRAINTS
+
+You must choose one of the following explicit constraints when executing your portrait:
+* The viewer of the portrait may interactively influence the perspective of the portrait.
+* The portrait is synthesized from entirely found images that you did not take yourself.
+* Reappropriate a technology that was not intended for expressive photography (i.e. medical imaging, recognition, forensics, etc)
+* The portrait’s final form is not an image, but rather a sculpture.
+* Capture a geometric portrait without a computer, using a manual technique.
+* Create an environmental portrait of a subject using multiple scans composited into a 3D collage.
+
+CONSIDERATIONS
+
+Be mindful of form and content connection. How does your chosen medium or technique help illustrate something unique about your 
+
+subject, beyond what a normal photograph could? The environment, effects or geometry should be illustrative of their nature.
+
+Collaborate with and gain the trust of your subject. Make a good faith effort to show them their portrait when it’s complete.
+
+
+https://vimeo.com/123520067
+
+https://www.youtube.com/watch?v=1rNSTizOsws
+https://github.com/ivaylopg/RGBDToolkit-to-Processing
+
+http://prostheticknowledge.tumblr.com/post/101297249296/computational-portraiture-a-class-at-nyu-itp-run
+
+KINECT FUSION:
+
+Advantages
+- Fast to process
+- Regular geometry
+- real time feedback
+- non cloud based
+- free tool
+
+Disadvantages
+- limited scale
+- does not work in sunlight
+- color is not very good
+- requires specific sensor with wall power
+- no texture map, per vertex color
+
+123D CATCH
+
+Advantages
+- works at any scale
+- works outside
+- works with any regular camera, even your cell phone
+- generates a texture map
+- Photographic quality in color 
+
+Disadvantages
+- Cloud based
+- slow to process
+- dense geometry
+- tools are not free and open
+- no real time feedback
+- more chaotic geometry
+
+
+https://vimeo.com/109422156
+I used Element 3D. It lets you import OBJ files into after effects 
+https://www.videocopilot.net/products/element/
+It managed to handle the hi res exported file from 123D scan relatively easy.
+
+I also used Particular to add the floating dust particle ( that you barely see:))
+http://www.redgiant.com/products/all/trapcode-particular/
+
+All camera movement is done in After effects
+
+
+I mentioned that we used both Kinect Fusion and 123D Catch because they are free powerful but that there are other options out there. Here are a few of those tools: 
+
+Photogrammetry
+The paid version -- http://www.agisoft.com/
+I used this for the landscapes I showed. It looks like they have just added a free trial! I haven't used it and I don't know the limitations but this tool is a very good and fully featured toolset with a well attended forum. If you want more control than 123D Catch offers I recommend this tool! One highlight with this tool is that you can re-import aligned geometry (remember the Meshlab align tool!) and retexture it using your original photographs. 
+
+Open source version(s) -- 
+Visual SFM - http://ccwu.me/vsfm/
+http://opensourcephotogrammetry.blogspot.com/
+Bundler - http://www.cs.cornell.edu/~snavely/bundler/
+
+Kinect Scanning
+http://skanect.occipital.com/
+http://reconstructme.net/
+
+
+Last email of the day I promise! remember you can see all the posts here if they are getting lost in your inbox:
+
+https://groups.google.com/forum/#!forum/compportraits
+
+
+One tool I forgot to mention today is WebGL & Javascript
+
+The Three.js library has native support for both OBJ and PLY and some really nice shaders built in
+
+So if you'd like to use Javascript go for it!
+
+http://threejs.org/examples/webgl_loader_obj.html
+
+http://threejs.org/examples/webgl_loader_ply.html
+
+-- There are also examples out there of people using morph targets (the same as the blendshapes we were looking at today) in three.js.
+
+See the animation examples here: 
+http://threejs.org/examples/#webgl_animation_skinning_blending
+
+https://www.stickmanventures.com/labs/demo/webgl-threejs-morph-target/#
+- show quoted text -
+
+https://vimeo.com/56143282
+
+http://www.makehuman.org/ 
+
+https://github.com/obviousjim/OFGraphicsITP
+
+--------------
+
+
+OBJ and PLY files are commonly used open 3D file formats. This is what we'll be working with in Computational Portraiture.
+ 
+The free tool MeshLab provides a very handy way to convert formats. It's like a 3D pocket knife. We'll be using it not just for converting 3D files to different formats, but also reducing and combining meshes. *see below for how to reduce meshes using a few other applications
+
+Here are some more comprehensive tutorials for cleaning geometry in MeshLab
+https://www.youtube.com/playlist?list=PLBBF41579E4B65566
+
+After capturing your geo, the following links will help you get it into your preferred application
+
+Unity
+Supports OBJ like any other 3D file format!
+
+Processing
+The Saito OBJ loader
+Processing Library https://code.google.com/p/saitoobjloader/
+Tutorial Video: https://www.youtube.com/watch?v=6VSaneuiaWs (scrub to 3:30 for the good stuff)
+
+OpenFrameworks
+The ofMesh and ofVboMesh objects support PLY's with color with the mesh .load() function. This is what you saw in class.
+
+Satoru HIga has a nice OBJ loader addon:
+https://github.com/satoruhiga/ofxObjLoader
+
+The built in addon ofxAssimpModelLoader also works on OBJ files
+
+Cinder
+Cinder has built in support for OBJ
+http://libcinder.org/docs/v0.8.3/classcinder_1_1_obj_loader.html
+
+There is also a Mesh extension block that supports PLY https://github.com/simongeilfus/Cinder-OpenMesh
+
+3D Printing
+NetFabb will help you clean up models if you wish to 3D print them. You'll want to take them through the STL format in MeshLab
+http://www.netfabb.com/downloadcenter.php?basic=1
+
+Creative Tools:
+Many applications support OBJ (and sometimes PLY files)
+
+Photoshop (really!)
+Photoshop natively supports importing and painting on 3D files! Check out this tutorial
+https://www.youtube.com/watch?v=mD39wgDoiHE
+
+After Effects
+The 3D Animator Pro plugin (they offer a free trial) accepts OBJ files
+https://www.youtube.com/watch?v=eEQUba16V5o
+
+Plexus is an amazing tool for After Effects that works on 3D geometry
+https://www.youtube.com/watch?v=44hz_fsjX7o
+
+There is also mesh reduction tutorial for the free program Blender
+https://www.youtube.com/watch?v=ttU6Gz1W0Xw
+
+* You may also explore MeshMixer and MudBox, which ITP has a student license for through Autodesk
+
+Programs like Maya, Cinema4D, Houdini, 3D Studio Max, Modo also work well with OBJ files but are beyond the scope of what we expect to teach in this class. But if you know these programs, by all means use them for your portraits.
+
+--------------------------
+
+Alignment
+Meshlab
+3D Scanning: Alignment - http://youtu.be/4g9Hap4rX0k
+
+Alignment and Registration in CloudCompare - http://www.danielgm.net/cc/doc/wiki/index.php5?title=Alignment_and_Registration 
+I've found that CloudCompare is really good for loading large pointclouds or found research data in lasercanning formats like .las, .xyz etc. and it will do a great job with Kinect or photogrammetry pointclouds. 
+
+Reduction & Remeshing
+Poisson Reconstruction in Meshlab - This is a good general purpose approach for Kinect or other pointclouds. Can also be used to combine meshes when used after "flatten visible layers" in Meshlab. 
+
+Color
+MeshLab Features: Vertex Attribute Transfer
+http://youtu.be/sKKmJdsk7Tg?list=UU70CKZQPj_ZAJ0Osrm6TyTg
+
+References from today
+Kinect Fusion SDK -- http://www.microsoft.com/en-us/kinectforwindows/develop/downloads-docs.aspx
+http://monoskop.org/images/c/c4/Flusser_Vilem_Towards_a_Philosophy_of_Photography.pdf
+http://www.creativeapplications.net/tutorials/guide-to-meshes-in-cinder-cinder-tutorials/
+
+ 3:30 -- 5:00 Kinect Fusion 
+
+https://msdn.microsoft.com/en-us/library/dn188670.aspx
+
+ 1:00 -- 3:00 -- Photogrammetry with 123D catch
+
+ 3:00 -- 3:30 -- Take a break
+
+ 3:30 -- 5:00 -- FaceShift & Unity
+ 
+ 
+

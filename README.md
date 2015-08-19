@@ -5,7 +5,7 @@ A Curriculum for a Semester Course in Computational Videography
 ### Performance in Alternative Time
 
 * [Overcranking (Slow-Motion)](overcranking.md)
-* Undercranking and Time Lapse
+* [Undercranking and Time Lapse](undercranking.md)
 * Stop-Frame and Pixillation
 * Retrograde (Backwards) Time
 * Bullet Time (Multi-Camera Arrays)

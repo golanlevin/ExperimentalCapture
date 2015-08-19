@@ -1,8 +1,10 @@
-# Overcranking (Slow-Mo)
+# Overcranking (Slow-Motion)
 
-Ordinary video is customarily 25 (Europe) or approximately 30 (USA) frames per second (fps). Slow-motion cinema, also known as *overcranking*, is achieved by using a special camera which can record events at higher frame rates, such as 1000fps. When this video is then played back at the usual frame rate, it appears slowed down. Because the exposure time of each frame is so short, high-frame-rate cameras generally require a lot of light.
+Ordinary video is customarily 25 (Europe) or approximately 30 (USA) frames per second (fps). Slow-motion cinema, also known as *overcranking*, is achieved by using a special camera which can record events at higher frame rates, such as 1000fps. When this video is then played back at the usual frame rate, it appears slowed down. 
 
-An inexpensive high-frame-rate camera is the Casio Exilim Pro EX-F1 ($750-1000), which can record low-resolution video at 300, 600, and 1200 frames per-second.Another option is the inexpensive Sony PS3-Eye USB webcam ($50) which can record 320x240 video at 120fps, yielding up to a 4x slowdown. If you have a proper budget, consider renting a Phantom high-speed camera. A lighting kit or bright sunshine is essential for good results with slow-motion cameras. 
+An inexpensive high-frame-rate camera is the Casio Exilim Pro EX-F1 ($750-1000), which can record low-resolution video at 300, 600, and 1200 frames per-second. Another option is the inexpensive Sony PS3-Eye USB webcam ($50) which can record 320x240 video at 120fps, yielding up to a 4x slowdown. If you have a proper budget, consider renting a Phantom high-speed camera :)
+
+Because the exposure time of each frame is so short, high-frame-rate cameras generally require a lot of light. A lighting kit or bright sunshine is essential for good results with slow-motion cameras. 
 
 ### Readings
 

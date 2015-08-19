@@ -15,3 +15,6 @@ A Curriculum for a Semester Course in Computational Videography
 * Looping and Canon Time
 * Multitrack Time
 * Slit Scanning
+
+
+http://www.cassandracjones.com/snap-motion-re-animations

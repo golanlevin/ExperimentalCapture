@@ -1,0 +1,25 @@
+# Assumptions to Question
+
+In this course on "Experimental Capture", we aim to *question the basic assumptions of camera-based imaging*, as we generally understand it today. For example, and in no particular order, we will interrogate and test underlying assumptions such as:
+
+* **a photo shows a scene from only one moment**
+* **a photo shows a scene from only one point of view**
+* **a photograph's exposure is nearly instantaneous**
+* **a photo is viewable (developed) immediately**
+* **a camera is small enough to be handheld**
+* **a camera is large enough to see with the naked eye**  
+* **a photo has a fixed focal plane**
+* **a photo is produced in only one sitting**
+* **a photo persists longer than its subject.**
+* **a photo documents light frequencies similar to those perceived by humans.** (*But what if it documented electromagnetic spectra beyond our perception?*) 
+* **a photo is someone's decisive construction.** (*But what if it were more like the result of a query into a database?*) 
+* **a photo only shows the external surfaces of things.** (*But what if it showed their internal structure?*)
+* **a photograph is comprised of a uniform rectangular grid of pixels**
+* **a photo has homogeneous information density everywhere (not foveal)**
+* **a photo is taken with a camera which you 'own' and over which you have physical control** (found cameras)
+* **a photo is a static media object.** (It could be playable, like a game)
+* **a photo is is rectangular**
+
+
+
+https://vimeo.com/134973504

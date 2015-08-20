@@ -5,6 +5,8 @@
 http://jamesgeorge.org/
 http://alexanderporter.net/
 
+http://www.cassandracjones.com/snap-motion-re-animations
+
 * Erik Kessels	24 Hours		http://www.kesselskramer.com/exhibitions/24-hrs-of-photos
 * Penelope Umbrico	Suns (From Sunsets) from Flickr		http://www.penelopeumbrico.net/Suns/Suns_brisbane.html
 * Shinseungback Kimyonghun	Cloud Faces		http://ssbkyh.com/works/cloud_face/
@@ -333,4 +335,184 @@ https://msdn.microsoft.com/en-us/library/dn188670.aspx
  3:30 -- 5:00 -- FaceShift & Unity
  
  
+Synthetic re-lighting (debevec)
+
+xperimental capture
+
+Full 360: spherical , catadioptric
+Ricoh theta M15 360
+http://www.amazon.com/360-Degree-Spherical-Digital-Monopod-Cleaning/dp/B00TXGYC06/
+V.360
+http://www.vsnmobil.com/products/v360
+
+Neolucida
+
+Stereo (binocular)
+19th century stereographs, NYPL collection, gif generation tool
+
+
+Google cardboard, 
+
+Microscope 
+Telescope
+9dof sensor sparkfun, gps
+Time lapse
+Slitscan
+Panoramic stitching 
+
+CanonSDK open frameworks
+Sensor-Triggered capture
+3d point field capture - Larry 
+Sick LIDAR LMS-111 or ...other inexpensive LIDAR 
+Laser distance ranger 
+Flatbed scanner
+
+Fiducials barcodes tuio
+Opentsps
+Retroreflective tracker
+FaceOSC 
+
+Sensor tracker:
+Breath
+snibbe breath portrait
+Lozano hammer breath portrait
+
+
+
+Visit to CMOA photo archive?
+
+
+Time lapse panorama 
+http://www.amazon.com/Movo-MTP-10-Motorized-Panaromic-Rechargeable/dp/B00RNALPRC/
+
+Lytro camera & Lytro illum, & Lytro tripod adapter
+http://www.amazon.com/Lytro-Light-Field-Camera-Graphite/dp/B0099QUSGM
+http://www.amazon.com/gp/product/B00KAX40LM/
+http://www.amazon.com/gp/product/B0099QUVW8/
+
+Thermal
+Infrared NIR
+
+View-dependent texturing
+Multi-camera arrays
+2-camera calibration
+Kinect Depth-Kit
+slam
+Point cloud library
+
+Retroreflective sheet
+
+
+
+Motion position capture
+Mouse
+Phantom
+Flock of birds
+Leap controller
+Eye tribe
+Kinect skeleton
+Motion capture lab
+Rotoscoping
+Arduino with sensors and datalogger
+
+
+Cameraless imaging
+Photograms, lumenprints
+
+Lensless photography
+Pinhole camera 
+Lytro
+Kinect
+
+
+Alan Hauptmann LTI  
+
+Cinema4d, Netfabb, cura
+Scanify by fuel3d, Skanect, autodesk memento 
+
+
+* [Thermochromic Table, Jay Watson design, 2011](http://www.fubiz.net/en/2014/02/21/thermochromic-table/)
+* [Temperature Sensitive Object, Archilab, Orléans, France, 2001](http://www.mascontext.com/wp-content/uploads/2011/12/12_game_ornaments_09.jpg)
+* [Thermochromic toilet](http://theluxuryofprotest.com/Thermochromic_Toilet_Seat.html)
+* [Thermochromic urinal](http://www.technocrazed.com/wp-content/uploads/2014/08/New-Thermochromic-Furniture-And-Pots-11.jpg)
+
+
+https://en.wikipedia.org/wiki/Full-spectrum_photography#/media/File:UV_Vis_IR_Portrait.jpg
+
+Thermal Recording
+THE OPERATION by Jacob Pander and Marne Lucas, 1995
+https://vimeo.com/24149525
+
+Route 94 - My Love ft. Jess Glynne (Director's Cut)
+https://vimeo.com/84702235
+
+This Photographer Shoots Portraits With a Thermal Camera
+http://www.smithsonianmag.com/science-nature/this-photographer-shoots-portraits-with-a-thermal-camera-1437109/
+http://www.lindaalterwitz.com/thermal_portrait.html
+http://www.lindaalterwitz.com/thermal_core.html 
+
+http://www.theguardian.com/artanddesign/gallery/2012/aug/03/ultraviolet-beauties-cara-phillips-photographs
+
+Identifiable Images of Bystanders Extracted from Corneal Reflections
+Rob Jenkins, Christie Kerr http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083325
+http://motherboard.vice.com/blog/humans-are-really-good-at-facial-recognition
+
+
+
+Surveillance camera players
+Andrew Hammerand
+9 eyes of google street view
+Huge archive of sirvellanxe cameras 
+Motion retargeting 
+BVH reuse mashup 
+Patricio Gonzalez vivo
+Kyle cat scan 
+Medical imaging
+Visible human 
+http://www.timothyscaffidi.com/opensource/ofxvolumetrics/   For CT scan
+http://plum.museum.upenn.edu/~orsa/Overview.html
+http://www.oasis-brains.org
+
+ 
+Canon SLR uv conversion
+http://www.lifepixel.com/shop/ultraviolet-camera-conversion/canon-dslr-uv-camera-conversion
+
+Faceshift license 
+Wiimote
+Autodesk motionBuilder (free..)
+http://www.autodesk.com/education/free-software/motionbuilder
+
+Witrack
+http://witrack.csail.mit.edu/witrack-paper.pdf
+
+Capture reflectance
+Scanner - quarter Princeton
+Debevec
+ Rusinkiewicz
+Levoy
+
+http://herakles.zcu.cz/~skala/PUBL/PUBL_2013/2013_NormalMapAcquisition.pdf
+
+http://www.zarria.net/nrmphoto/nrmphoto.html
+ftp://carbonforumasia.com/Public/Melissa/SA2013/A0%20Posters/2%20October/posters_0039.pdf
+
+Timelapse
+Telecentric lens
+Invention of perspective
+Small people are less significant
+People Are equal size no matter how far. 
+Perspective camera drawing machines 
+
+
+
+Hierarchical size 
+http://www.curatorscorner.com/2014_10_01_archive.html?m=1
+Medieval flat perspective
+Akbar Inspecting the Construction
+of Fatehpur-Sikri
+ http://www-personal.umich.edu/~pomorski/mug1.html
+https://lookatittiswayvc.wordpress.com
+
+
+
 

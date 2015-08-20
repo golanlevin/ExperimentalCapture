@@ -1,6 +1,7 @@
 # Equipment 
 
 
+
 #### Gesture/movement capture equipment 
 
 * [Hokuyo URG-04LX-UG01 Scanning Laser Rangefinder](http://www.robotshop.com/en/hokuyo-urg-04lx-ug01-scanning-laser-rangefinder.html)
@@ -10,11 +11,13 @@
 * [SparkFun FTDI Basic Breakout - 3.3V](https://www.sparkfun.com/products/9873)
 * [Adafruit Ultimate GPS Logger Shield ](https://www.adafruit.com/products/1272)
 * [Adafruit Assembled Data Logging shield for Arduino](https://www.adafruit.com/products/1141)
+* Eyetribe eyetracker
+* Flock of Birds
 
 #### 3D Scanning & Depth Sensors
 
+* [Microsoft Xbox 360 KINECT Sensor (Model 1414)](http://www.ebay.com/itm/NEW-Microsoft-Xbox-360-KINECT-Sensor-w-Kinect-Adventures-Game-Model-1414-/262008460842)
 * [Microsoft Kinect for Windows V2](http://www.amazon.com/Microsoft-Kinect-for-Windows-V2/dp/B00KZIVEXO/)
-* [Microsoft Xbox 360 KINECT Sensor (Model 1414 ONLY)](http://www.ebay.com/itm/NEW-Microsoft-Xbox-360-KINECT-Sensor-w-Kinect-Adventures-Game-Model-1414-/262008460842)
 * [Matter and Form 3D Scanner](https://matterandform.net/store/checkout)
 * [3D Systems iSense 3D Scanner for iPad Mini Retina](http://www.bhphotovideo.com/c/product/1073008-REG/3d_systems_350417_isense_3d_scanner_for.html)
 

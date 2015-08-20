@@ -21,7 +21,8 @@
 * [DepthKit](http://depthkit.tv) (Mac/PC, Free) Kinect + HD Video
 * [Brekel Kinect](http://brekel.com/) (Mac/PC, various licenses) - for Mocap & Scanning
 
-### Point-Cloud Tools				
+### Point-Cloud Tools	
+			
 * [CloudCompare	(Mac/PC/Linux, Free)](http://www.danielgm.net/cc/) - Pointcloud & Mesh Viewer/processor. This tool is great for loading, aligning & reducing large pointclouds.
 
 ### Sculpting / Re-meshing				

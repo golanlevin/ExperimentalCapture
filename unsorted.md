@@ -431,27 +431,6 @@ Cinema4d, Netfabb, cura
 Scanify by fuel3d, Skanect, autodesk memento 
 
 
-* [Thermochromic Table, Jay Watson design, 2011](http://www.fubiz.net/en/2014/02/21/thermochromic-table/)
-* [Temperature Sensitive Object, Archilab, Orléans, France, 2001](http://www.mascontext.com/wp-content/uploads/2011/12/12_game_ornaments_09.jpg)
-* [Thermochromic toilet](http://theluxuryofprotest.com/Thermochromic_Toilet_Seat.html)
-* [Thermochromic urinal](http://www.technocrazed.com/wp-content/uploads/2014/08/New-Thermochromic-Furniture-And-Pots-11.jpg)
-
-
-https://en.wikipedia.org/wiki/Full-spectrum_photography#/media/File:UV_Vis_IR_Portrait.jpg
-
-Thermal Recording
-THE OPERATION by Jacob Pander and Marne Lucas, 1995
-https://vimeo.com/24149525
-
-Route 94 - My Love ft. Jess Glynne (Director's Cut)
-https://vimeo.com/84702235
-
-This Photographer Shoots Portraits With a Thermal Camera
-http://www.smithsonianmag.com/science-nature/this-photographer-shoots-portraits-with-a-thermal-camera-1437109/
-http://www.lindaalterwitz.com/thermal_portrait.html
-http://www.lindaalterwitz.com/thermal_core.html 
-
-http://www.theguardian.com/artanddesign/gallery/2012/aug/03/ultraviolet-beauties-cara-phillips-photographs
 
 Identifiable Images of Bystanders Extracted from Corneal Reflections
 Rob Jenkins, Christie Kerr http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083325
@@ -513,6 +492,47 @@ of Fatehpur-Sikri
  http://www-personal.umich.edu/~pomorski/mug1.html
 https://lookatittiswayvc.wordpress.com
 
+Norman McLaren “animation is not the art of drawings that move, but rather the art of movements that are drawn”
+
+Pixillation
+* [Cassandra C. Jones, *Snap-Motion Re-Animations*](http://www.cassandracjones.com/snap-motion-re-animations)
+* [Marco Brambilla, *Sync*](http://www.marcobrambilla.com/portfolios/sync/) (2005, NSFW)
+* [Hand Pixillation](https://www.youtube.com/watch?v=J96kKEOATrg)
+* [Her Morning Elegance / Oren Lavie](https://www.youtube.com/watch?v=2_HXUhShhmY)
+* [Hovering people](https://www.youtube.com/watch?v=HP1qFD9uPsM)
+* [Guillaume Reymond, Stop My Motioned Movie Characters](https://www.youtube.com/watch?v=dPX6tuRQ2c4)
+* [Guillaume Reymond, Human TETRIS](https://www.youtube.com/watch?v=G0LtUX_6IXY)
+
+Zach Lieberman, Inkspace, drawing apps
+Golan Levin, Yellowtail
+Merce Cunningham & Open Ended Group
+Kyle McDonald & YCAM (mocap)
+
+* Nobumichi Asai, [OMOTE 1](https://vimeo.com/103425574)
+* Nobumichi Asai, [OMOTE 2](https://vimeo.com/117029335)
+
+Kyle & Arturo Face Substitution
+https://vimeo.com/29348533
 
 
+GRL Laser Tag
+https://www.youtube.com/watch?v=cY6vfJAxtH8
+
+* [Acoustic Mirrors](http://webodysseum.com/history/acoustic-mirrors-before-the-invention-of-the-radar/) Pre-Radar WWI listening devices
+* [Ambisonic recording for VR](http://elevr.com/audio-for-vr-film/)
+
+
+Cameras on robots (bot & dolly)
+Come into my world - Gondry
+
+http://imgur.com/LrpYIem selfie stick 
+900 mpixel portraits https://vimeo.com/94662582?ref=tw-share
+
+ Guillaume Reymond human tetris
+ 
+* Marine Radar, Such as Furuno 1623 , or Furuno DRS4W
+ http://www.thegpsstore.com/Furuno-1623-22-kw-Radar-P125.aspx
+
+ 
+ 
 

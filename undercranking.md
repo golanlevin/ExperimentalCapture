@@ -35,4 +35,7 @@ Recent iOS iPhones will record time-lapse videos. Many camera manufacturers also
   * [35 years of Shinjuku construction](https://www.youtube.com/watch?v=laPU0bS8JOc)
   * [Daruma-otoshi skyscraper demolition](https://www.youtube.com/watch?v=jwf9LoS9Xt8)
 
-  
+1. Extreme Timelapse & 'Hyperlapse'
+  * [David Rokeby, Machine for Taking Time (Boul. Saint-Laurent) (2007)](http://www.davidrokeby.com/mftt_fdl.html)
+  * [Vadim Tereshchenko, Los Angeles Hyperlapse/Timelapse Compilation](https://vimeo.com/136722796)
+  * [Microsoft Research *Hyperlapse*](http://research.microsoft.com/en-us/um/redmond/projects/hyperlapse/)

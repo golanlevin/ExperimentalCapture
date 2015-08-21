@@ -514,15 +514,19 @@ Kyle McDonald & YCAM (mocap)
 Kyle & Arturo Face Substitution
 https://vimeo.com/29348533
 
-
 GRL Laser Tag
 https://www.youtube.com/watch?v=cY6vfJAxtH8
 
 * [Acoustic Mirrors](http://webodysseum.com/history/acoustic-mirrors-before-the-invention-of-the-radar/) Pre-Radar WWI listening devices
 * [Ambisonic recording for VR](http://elevr.com/audio-for-vr-film/)
 
+999 
 
-Cameras on robots (bot & dolly)
+* [Cameras on robots (Bot & Dolly)](https://www.youtube.com/watch?v=xWJCxxKuTOw)
+* [Cinetics Axis360 Camera Motion Control](https://www.youtube.com/watch?v=0sJOqciWoR4)
+* [Kyle McDonald, Highsight Testing](https://vimeo.com/136272052)
+* [The Marmalade: High-speed camera on high-speed robot](http://petapixel.com/2012/06/12/amazing-slow-motion-footage-using-a-high-speed-camera-robot/)
+
 Come into my world - Gondry
 
 http://imgur.com/LrpYIem selfie stick 
@@ -533,6 +537,16 @@ http://imgur.com/LrpYIem selfie stick
 * Marine Radar, Such as Furuno 1623 , or Furuno DRS4W
  http://www.thegpsstore.com/Furuno-1623-22-kw-Radar-P125.aspx
 
- 
- 
+
+Long Exposure & Light Painting
+
+* [David Rokeby, *Plot Against Time*](http://www.davidrokeby.com/PlotAgainstTime.html)
+* [Terence Chang, long exposure photos of airplane takeoffs](http://www.amusingplanet.com/2011/05/long-exposure-shots-of-airline-takeoffs.html)
+* [Long Exposure Photographs of Gold Fireflies in Japan](http://www.thisiscolossal.com/2011/12/stunning-time-lapse-photographs-of-gold-fireflies-in-japan/)
+* [Fireflies by Vincent Brady](http://www.vincentbrady.com/fireflies)
+* [Berg/Dentsu, Making Future Magic (iPad Light Painting, 2010)](https://vimeo.com/14958082)
+* [Croix Gagnon and Frank Schott, 12:31. (iPad Light Painting, 2011)](http://www.project1231.com/)
+
+
+SLAM building reconstruction
 

@@ -11,10 +11,10 @@ A Curriculum for a Semester Course in Computational Videography.<br />
 
 ### Projects
 
-1. Still Life. 
-1. Portrait.
-1. Landscape.
-1. Final Project. 
+1. Still Life, Thing, *Natura Morta*. 
+1. Portrait, Effigy, Person.
+1. Landscape, Environment, Place.
+1. Capstone. 
 
 ### Technical Topics (in progress)
 

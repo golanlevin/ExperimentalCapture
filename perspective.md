@@ -13,7 +13,7 @@ Owing to our familiarity with perspective imaging, we take for granted that thin
 
 Size = Importance.
 
-![Hierarchical proportion in Egyptian art](images/hierarchical-proportion.jpg)
+![Hierarchical proportion in Egyptian art](images/hierarchical-proportion.jpg)<br />
 *At left, from [here](http://www.curatorscorner.com/2014_10_01_archive.html?m=1): "Senwosret-senebefny, an Egyptian official in the Twelfth Dynasty (1937–1759 bce), depict the deceased squatting on the ground covered in a cloak. The small figure is Itneferuseneb, most likely Senwosret-senebefny’s wife." At right: Family Group, mortuary statue, ca 2371–2298 bce.*
 
 This is *psychological* rather than *mechanical* representation.
@@ -26,12 +26,12 @@ Size = A Question of Composition
 
 The "lack" of perspective is a common feature in Asian, Indian, and Medieval European art. Notice how the characters are all the same size, even if they are further away. Well, "further away" from what? Who (or what) is the implied observer here? 
 
-![Hierarchical proportion in Egyptian art](images/akbar-flat-perspective.jpg)
+![Hierarchical proportion in Egyptian art](images/akbar-flat-perspective.jpg)<br />
 *[Akbar Inspecting the Construction of Fatehpur-Sikri](http://www-personal.umich.edu/~pomorski/mug1.html)*, Mughal empire, India (c. 1590).
 
 It's important to remember that *perspective is an invented technology for representing the 3D world in two dimensions*. It was invented in 1435, by Leon Battista Alberti (1404-1472), who provided the first theory of what we now call linear perspective in his book, *On Painting.* After 1435, the technology spread rapidly throughout Europe. 
 
-![Before and after the invention of perspective](images/perspective.jpg)
+![Before and after the invention of perspective](images/perspective.jpg)<br />
 *The Last Supper*, by Ugolino De Nerio (circa 1325), and Leonardo Da Vinci (circa 1494).
 
 ### Orthographic/Isometric and Other Projections 
@@ -43,7 +43,7 @@ Orthographic perspective in *Gangster Squad*.
 
 In fact, there are a wide variety of alternative graphical projection methods, including orthographic () mode, above (also called isometric or "ortho"), and more. (For orthographic projection in openFrameworks, see [ofCamera](http://openframeworks.cc/documentation/3d/ofCamera.html) and [ofEnableOrtho()](http://openframeworks.cc/documentation/3d/ofCamera.html#show_enableOrtho).)
 
-![Alternative graphical projection methods](https://upload.wikimedia.org/wikipedia/commons/4/41/Graphical_projection_comparison.png)
+![Alternative graphical projection methods](https://upload.wikimedia.org/wikipedia/commons/4/41/Graphical_projection_comparison.png)<br />
 *Alternative graphical projection methods.*
 
 

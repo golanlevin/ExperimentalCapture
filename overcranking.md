@@ -1,5 +1,6 @@
 # Overcranking (Slow-Motion)
 
+### High-Speed Photography & Videography
 *This page includes contributions by [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/)*. 
 
 Ordinary video is customarily 25 (Europe) or approximately 30 (USA) frames per second (fps). Slow-motion cinema, also known as *overcranking*, is achieved by using a special camera which can record events at higher frame rates, such as 1000fps. When this video is then played back at the usual frame rate, it appears slowed down. 
@@ -44,3 +45,10 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
   * [*Ordonner*](http://julienmaire.ideenshop.net/mov/or_perf.mov) (Quicktime)
 1. The Dancing Pigeons, [*Ritalin*](https://vimeo.com/13639493) (Music video, 2010)
 1. The Beatles, *Help* ("Relativity Condenser")
+
+### Some Really Really Fast Cameras
+
+* [Phantom cameras](http://www.visionresearch.com/Products/High-Speed-Cameras/) can achieve about 1.4 million fps. 
+* [Spinning mirror systems](http://www.stanfordcomputeroptics.com/applications/physics/rotating-mirror-camera.html) can achieve 3 million fps. 
+* This [trillion-fps camera from MIT](http://video.mit.edu/watch/visualizing-video-at-the-speed-of-light-one-trillion-frames-per-second-9742/) can capture the movement of light *as it travels*. 
+

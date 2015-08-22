@@ -2,10 +2,6 @@
 
 *This page borrows significantly from the [Computational Portraiture Workshop curriculum](http://www.specular.cc/computational-portraiture-workshop) developed by James George & Alexander Porter of [Specular.cc](http://www.specular.cc/).*
 
-http://jamesgeorge.org/
-http://alexanderporter.net/
-
-http://www.cassandracjones.com/snap-motion-re-animations
 
 * Erik Kessels	24 Hours		http://www.kesselskramer.com/exhibitions/24-hrs-of-photos
 * Penelope Umbrico	Suns (From Sunsets) from Flickr		http://www.penelopeumbrico.net/Suns/Suns_brisbane.html
@@ -120,6 +116,12 @@ https://vimeo.com/specularprojects/photoscan2
 https://www.youtube.com/watch?v=CrsVa3CzQj0
 https://vimeo.com/38360045 Snack and Drink
 
+### Binocular STEREOGRAPHY
+
+[![Michael Naimark at Gray Area Festival, 2015](http://img.youtube.com/vi/w-WPUus4Ebo/0.jpg)](http://www.youtube.com/watch?v=w-WPUus4Ebo)
+
+* [Michael Naimark](https://www.youtube.com/watch?v=w-WPUus4Ebo) 
+* NYPL stereograms, gif generation tool
 
 
 Portraiture Assignment (by James George)
@@ -432,11 +434,10 @@ Scanify by fuel3d, Skanect, autodesk memento
 
 
 
-Identifiable Images of Bystanders Extracted from Corneal Reflections
-Rob Jenkins, Christie Kerr http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083325
-http://motherboard.vice.com/blog/humans-are-really-good-at-facial-recognition
+Depth measurement from stereo, 1930s
+https://en.wikipedia.org/wiki/Stereoplotter
 
-
+Paul Debevec light field capture, reflectance capture
 
 Surveillance camera players
 Andrew Hammerand
@@ -453,8 +454,7 @@ http://plum.museum.upenn.edu/~orsa/Overview.html
 http://www.oasis-brains.org
 
  
-Canon SLR uv conversion
-http://www.lifepixel.com/shop/ultraviolet-camera-conversion/canon-dslr-uv-camera-conversion
+
 
 Faceshift license 
 Wiimote
@@ -492,16 +492,9 @@ of Fatehpur-Sikri
  http://www-personal.umich.edu/~pomorski/mug1.html
 https://lookatittiswayvc.wordpress.com
 
-Norman McLaren “animation is not the art of drawings that move, but rather the art of movements that are drawn”
 
-Pixillation
-* [Cassandra C. Jones, *Snap-Motion Re-Animations*](http://www.cassandracjones.com/snap-motion-re-animations)
-* [Marco Brambilla, *Sync*](http://www.marcobrambilla.com/portfolios/sync/) (2005, NSFW)
-* [Hand Pixillation](https://www.youtube.com/watch?v=J96kKEOATrg)
-* [Her Morning Elegance / Oren Lavie](https://www.youtube.com/watch?v=2_HXUhShhmY)
-* [Hovering people](https://www.youtube.com/watch?v=HP1qFD9uPsM)
-* [Guillaume Reymond, Stop My Motioned Movie Characters](https://www.youtube.com/watch?v=dPX6tuRQ2c4)
-* [Guillaume Reymond, Human TETRIS](https://www.youtube.com/watch?v=G0LtUX_6IXY)
+
+Norman McLaren “animation is not the art of drawings that move, but rather the art of movements that are drawn”
 
 Zach Lieberman, Inkspace, drawing apps
 Golan Levin, Yellowtail
@@ -538,15 +531,10 @@ http://imgur.com/LrpYIem selfie stick
  http://www.thegpsstore.com/Furuno-1623-22-kw-Radar-P125.aspx
 
 
-Long Exposure & Light Painting
 
-* [David Rokeby, *Plot Against Time*](http://www.davidrokeby.com/PlotAgainstTime.html)
-* [Terence Chang, long exposure photos of airplane takeoffs](http://www.amusingplanet.com/2011/05/long-exposure-shots-of-airline-takeoffs.html)
-* [Long Exposure Photographs of Gold Fireflies in Japan](http://www.thisiscolossal.com/2011/12/stunning-time-lapse-photographs-of-gold-fireflies-in-japan/)
-* [Fireflies by Vincent Brady](http://www.vincentbrady.com/fireflies)
-* [Berg/Dentsu, Making Future Magic (iPad Light Painting, 2010)](https://vimeo.com/14958082)
-* [Croix Gagnon and Frank Schott, 12:31. (iPad Light Painting, 2011)](http://www.project1231.com/)
 
 
 SLAM building reconstruction
 
+retroreflection
+https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/coaxialb.jpg

@@ -36,16 +36,31 @@ It's important to remember that *perspective is an invented technology for repre
 
 ### Orthographic/Isometric and Other Projections 
 
-Furthermore, just because you have 3D-dimensional data, it doesn't mean that it must be rendered with perspective. *Perspective projection is simply the default rendering mode in OpenGL and DirectX.* 
+Orthographic projection is an alternative to perspective projection, in which parallel lines don't converge. It is widely used in engineering drawings, for dimensioning parts. 
+
+![Orthographic projection](images/orthographic.jpg)
+
+Orthographic projection has been known since antiquity; [according to Wikipedia](https://en.wikipedia.org/wiki/Orthographic_projection#Origin), Hipparchus used the projection in the 2nd century BC to determine the places of star-rise and star-set. In about 14 BC, Roman engineer Marcus Vitruvius Pollio used the projection to construct sundials and to compute sun positions.
+
+Here is Hans Lencker's "Machine for Orthographic Projection" in 1571. You can think of this as an *orthographic camera*. 
+
+![Hans Lencker's "Machine for Orthographic Projection"](https://drawingmachines.org/images/machine/17/web/1571_HansLencker_Machine_for_Orthographic_Projection_DETAIL_MachineOnly.jpg)<br />
+*Hans Lencker's "Machine for Orthographic Projection" (1571), from [DrawingMachines.org](https://drawingmachines.org)*
+
+![Alfred Molteni's Cranial Tracing Device, circa 1860]
+(https://drawingmachines.org/images/machine/193/web/1860-62_AlfredMolteni_CranialTracingDevice_by_Broca.jpg)<br />
+*Alfred Molteni's Cranial Tracing Device, circa 1860, from [DrawingMachines.org](https://drawingmachines.org)*
+
+
+Furthermore, just because you have 3D-dimensional data in a computer, it doesn't mean that it must be rendered with perspective projection. *Perspective projection is simply the default rendering mode in OpenGL and DirectX.* 
 
 ![Orthographic perspective in *Gangster Squad*](images/isometric_environment.jpg)<br />
 Orthographic perspective in *Gangster Squad*.
 
-In fact, there are a wide variety of alternative graphical projection methods, including orthographic () mode, above (also called isometric or "ortho"), and more. (For orthographic projection in openFrameworks, see [ofCamera](http://openframeworks.cc/documentation/3d/ofCamera.html) and [ofEnableOrtho()](http://openframeworks.cc/documentation/3d/ofCamera.html#show_enableOrtho).)
+In fact, there are a wide variety of alternative graphical projection methods, including orthographic () mode, above (also called isometric or "ortho"), and more. (For orthographic projection in openFrameworks, see [ofCamera](http://openframeworks.cc/documentation/3d/ofCamera.html) and [ofEnableOrtho()](http://openframeworks.cc/documentation/3d/ofCamera.html#show_enableOrtho).) Are you using linear perspective in your interactive VR? Ask yourself if you're just being *lazy*. 
 
 ![Alternative graphical projection methods](https://upload.wikimedia.org/wikipedia/commons/4/41/Graphical_projection_comparison.png)<br />
 *Alternative graphical projection methods.*
-
 
 ### Telecentric Lenses
 

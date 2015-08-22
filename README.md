@@ -2,9 +2,7 @@
 
 ### A Semester Course in Expanded Videography.<br />
 Golan Levin, Carnegie Mellon University, Fall 2015. <br />
-**Please note: This collection of documents is a work in progress!**
-
-*Golan Levin et al., 2015, with many contributions from [James George](http://jamesgeorge.org/), [Alexander Porter](http://alexanderporter.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), and others.*
+**Please note: This collection of documents is a work in progress!** *This syllabus contains many contributions from [James George](http://jamesgeorge.org/), [Alexander Porter](http://alexanderporter.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), and others.*
 
 ### Objective
 
@@ -40,6 +38,12 @@ Golan Levin, Carnegie Mellon University, Fall 2015. <br />
 * Multitrack Time
 * Slit Scanning
 * Stereography
+
+### Artistic Idioms and Questions 
+
+* [Perspective Capture and Representation](perspective.md)
+* Portraiture
+* Landscape
 
 --- 
 

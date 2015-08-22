@@ -11,6 +11,7 @@ In this course on "Experimental Capture", we aim to *question the basic assumpti
 * **a photo has a fixed focal plane**
 * **a photo is produced in only one sitting**
 * **a photo persists longer than its subject.**
+* **a photo has linear perspective**
 * **a photo documents light frequencies similar to those perceived by human vision.** 
 	* *But what if a photo recorded or transduced electromagnetic phenomena beyond our perception, such as ultraviolet, near infrared, thermal (deep infrared), or x-rays?*
 * **a photo is someone's decisive construction.** 

@@ -21,7 +21,9 @@ Croix Gagnon, Frank Schott	12:31		http://www.frankschott.com/project/1231/photos
 * Mike Pelletier	Kinect Portraits		http://mikepelletier.nl/Kinect-Portraits-1
 * Mark Payne			http://metredux.tumblr.com/
 * Dmitry Zakharov	Inside Me		https://vimeo.com/106671329
-			
+		
+https://vimeo.com/134973504
+	
 RGBD	
 		
 * Michael Arrigo	Visualizing Melinda		https://vimeo.com/117179641
@@ -326,15 +328,9 @@ Kinect Fusion SDK -- http://www.microsoft.com/en-us/kinectforwindows/develop/dow
 http://monoskop.org/images/c/c4/Flusser_Vilem_Towards_a_Philosophy_of_Photography.pdf
 http://www.creativeapplications.net/tutorials/guide-to-meshes-in-cinder-cinder-tutorials/
 
- 3:30 -- 5:00 Kinect Fusion 
-
-https://msdn.microsoft.com/en-us/library/dn188670.aspx
-
- 1:00 -- 3:00 -- Photogrammetry with 123D catch
-
- 3:00 -- 3:30 -- Take a break
-
- 3:30 -- 5:00 -- FaceShift & Unity
+* [Kinect Fusion](https://msdn.microsoft.com/en-us/library/dn188670.aspx)
+* Photogrammetry with 123D catch
+* FaceShift & Unity
  
  
 Synthetic re-lighting (debevec)
@@ -348,9 +344,6 @@ V.360
 http://www.vsnmobil.com/products/v360
 
 Neolucida
-
-Stereo (binocular)
-19th century stereographs, NYPL collection, gif generation tool
 
 
 Google cardboard, 
@@ -378,22 +371,12 @@ Sensor tracker:
 Breath
 snibbe breath portrait
 Lozano hammer breath portrait
-
-
-
+  
 Visit to CMOA photo archive?
 
 
 Time lapse panorama 
 http://www.amazon.com/Movo-MTP-10-Motorized-Panaromic-Rechargeable/dp/B00RNALPRC/
-
-Lytro camera & Lytro illum, & Lytro tripod adapter
-http://www.amazon.com/Lytro-Light-Field-Camera-Graphite/dp/B0099QUSGM
-http://www.amazon.com/gp/product/B00KAX40LM/
-http://www.amazon.com/gp/product/B0099QUVW8/
-
-Thermal
-Infrared NIR
 
 View-dependent texturing
 Multi-camera arrays
@@ -405,7 +388,7 @@ Point cloud library
 Retroreflective sheet
 
 
-
+ 
 Motion position capture
 Mouse
 Phantom
@@ -434,8 +417,7 @@ Scanify by fuel3d, Skanect, autodesk memento
 
 
 
-Depth measurement from stereo, 1930s
-https://en.wikipedia.org/wiki/Stereoplotter
+Depth from stereo, 1930s-style: The [Stereoplotter](https://en.wikipedia.org/wiki/Stereoplotter)
 
 Paul Debevec light field capture, reflectance capture
 
@@ -467,7 +449,7 @@ http://witrack.csail.mit.edu/witrack-paper.pdf
 Capture reflectance
 Scanner - quarter Princeton
 Debevec
- Rusinkiewicz
+Rusinkiewicz
 Levoy
 
 http://herakles.zcu.cz/~skala/PUBL/PUBL_2013/2013_NormalMapAcquisition.pdf
@@ -477,20 +459,11 @@ ftp://carbonforumasia.com/Public/Melissa/SA2013/A0%20Posters/2%20October/posters
 
 Timelapse
 Telecentric lens
-Invention of perspective
-Small people are less significant
-People Are equal size no matter how far. 
-Perspective camera drawing machines 
 
 
 
-Hierarchical size 
-http://www.curatorscorner.com/2014_10_01_archive.html?m=1
-Medieval flat perspective
-Akbar Inspecting the Construction
-of Fatehpur-Sikri
- http://www-personal.umich.edu/~pomorski/mug1.html
-https://lookatittiswayvc.wordpress.com
+
+
 
 
 
@@ -513,7 +486,7 @@ https://www.youtube.com/watch?v=cY6vfJAxtH8
 * [Acoustic Mirrors](http://webodysseum.com/history/acoustic-mirrors-before-the-invention-of-the-radar/) Pre-Radar WWI listening devices
 * [Ambisonic recording for VR](http://elevr.com/audio-for-vr-film/)
 
-999 
+The Robotic Cameraman
 
 * [Cameras on robots (Bot & Dolly)](https://www.youtube.com/watch?v=xWJCxxKuTOw)
 * [Cinetics Axis360 Camera Motion Control](https://www.youtube.com/watch?v=0sJOqciWoR4)
@@ -530,6 +503,14 @@ http://imgur.com/LrpYIem selfie stick
 * Marine Radar, Such as Furuno 1623 , or Furuno DRS4W
  http://www.thegpsstore.com/Furuno-1623-22-kw-Radar-P125.aspx
 
+
+Invention of perspective
+Small people are less significant
+People Are equal size no matter how far. 
+Perspective camera drawing machines 
+
+---
+---
 
 
 

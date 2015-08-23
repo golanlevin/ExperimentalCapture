@@ -45,6 +45,9 @@ Golan Levin, Carnegie Mellon University, Fall 2015. <br />
 * Portraiture
 * Landscape
 
+### Other Information 
+* [Taking screengrab documentation](screengrabs.md)
+
 --- 
 
 *More: a [landfill](unsorted.md) of as-yet unsorted links and resources.*

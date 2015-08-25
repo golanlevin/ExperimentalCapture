@@ -8,7 +8,7 @@
 
 ### What does it look like? 
 
-![Multi-spectral face](images/face-spectra.jpg)
+![Multi-spectral face](images/face-spectra.jpg)<br />
 *A face simultaneously imaged in the (a) visible spectrum, 0.4–0.7 µm, (b) short-wave infrared, 1.0–3.0µm, (c) mid-wave infrared, 3.0–5.0µm, and (d) long-wave infrared, 8.0-14.0µm.*
 
 * [An excellent paper on multispectral face recognition](http://www.intechopen.com/books/reviews-refinements-and-new-ideas-in-face-recognition/thermal-infrared-face-recognition-a-biometric-identification-technique-for-robust-security-system)
@@ -108,15 +108,34 @@ This is the stuff that *really* sees through clothing.
 
 Indeed, it can see through [more than just clothing](http://www.propublica.org/article/drive-by-scanning-officials-expand-use-and-dose-of-radiation-for-security-s). 
 
-![Backscatter examination of truck with illegal immigrants](images/backscatter-truck.jpg)
+![Backscatter examination of truck with illegal immigrants](images/backscatter-truck.jpg)<br />
 *"Treating people like luggage"*
 
 #### CT Scans, MRI, CAT etc. 
 
 X-ray computed tomography (X-ray CT) and magnetic resonance imaging (MRI) and are medical imaging techniques that employ significant computation to produce 3D models of internal body structures and activities. Perhaps if you have a good reason, you can get a scan of yourself at the hospital. 
 
-![Kyle McDonald CT scan](images/kyle-mcdonald-ct-scan.jpg)
+![Kyle McDonald CT scan](images/kyle-mcdonald-ct-scan.jpg)<br />
 *Kyle McDonald experimenting with some of his own CT scan data in openFrameworks.*
+
+### Polarized Light
+
+Polarization is a property of light which describes, not its frequency or wavelength, but the orientation of the spatial plane in which its waves are traveling. It is useful in visualizing several phenomena which cannot otherwise be seen by the human eye. 
+
+![Polarized light eliminates reflections](images/circular-polarizer.jpg)<br />
+Polarized light eliminates reflections. Here, a circular polarizer eliminates reflections on water, making another world visible beneath. From ["Removing Glare with a Circular Polarizer"](https://nicolesyblog.com/2014/07/24/removing-glare-with-a-circular-polarizer-filter/), which includes a nice [video](https://www.youtube.com/watch?v=ZC6DNx0F1o0). 
+
+Polarized light can also reveal internal stresses in (clear) materials, in a phenomenon known as [*photoelasticity*](https://en.wikipedia.org/wiki/Photoelasticity). Here's a plastic ruler between cross-polarized filters:
+
+![Polarized light stress analysis](images/stress-anaylsis.jpg)<br />
+
+![here's the setup](images/photoelasticity.jpg)<br />
+Here's the setup to achive this. More information can be found at (e.g.) [Andrew Davidhazy's site](https://people.rit.edu/andpph/text-polarizer-by-glare.html). 
+
+Some nice videos of polarization and stress visualization:
+* [https://www.youtube.com/watch?v=3QBGgypAjkY](https://www.youtube.com/watch?v=3QBGgypAjkY)
+* [https://www.youtube.com/watch?v=gP751qpm4n4](https://www.youtube.com/watch?v=gP751qpm4n4)
+* [https://www.youtube.com/watch?v=7YaoSODkymc](https://www.youtube.com/watch?v=7YaoSODkymc)
 
 
 

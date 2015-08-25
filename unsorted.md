@@ -2,6 +2,11 @@
 
 *This page borrows significantly from the [Computational Portraiture Workshop curriculum](http://www.specular.cc/computational-portraiture-workshop) developed by James George & Alexander Porter of [Specular.cc](http://www.specular.cc/).*
 
+* [Edgerton](https://www.youtube.com/watch?v=SMoIKNZGyf8)
+* [Muybridge](https://www.youtube.com/watch?v=5Awo-P3t4Ho)
+* [Schlieren photography](https://www.youtube.com/watch?v=mLp_rSBzteI)
+
+----------
 
 * Erik Kessels	24 Hours		http://www.kesselskramer.com/exhibitions/24-hrs-of-photos
 * Penelope Umbrico	Suns (From Sunsets) from Flickr		http://www.penelopeumbrico.net/Suns/Suns_brisbane.html

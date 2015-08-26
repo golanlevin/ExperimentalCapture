@@ -1,6 +1,6 @@
 # Experimental Capture
 
-### A Semester Course in Expanded Videography.<br />
+#### A Semester Course in Computational Imaging and Expanded Cinema<br />
 Golan Levin, Carnegie Mellon University, Fall 2015. <br />
 **Please note: This collection of documents is a work in progress!** *This syllabus contains many contributions from [James George](http://jamesgeorge.org/), [Alexander Porter](http://alexanderporter.net/), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), and others.*
 

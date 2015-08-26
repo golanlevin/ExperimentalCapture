@@ -7,3 +7,4 @@
 * [Jeroen Offerman, making of](https://www.youtube.com/watch?v=nF3caoBIpao)
 * [*Top Secret!* (1984) Backwards Bookstore](https://www.youtube.com/watch?v=uuYTVl0iOkk)
 * [Weird Al Yankovic, *Amish Paradise*](https://www.youtube.com/watch?v=lOfZLb33uCg) (jump to 2'50")
+* [Pharcyde with Spike Jonze, *Drop*](https://www.youtube.com/watch?v=co3qMdkucM0&spfreload=10) (1995)

@@ -5,7 +5,14 @@
 * [Edgerton](https://www.youtube.com/watch?v=SMoIKNZGyf8)
 * [Muybridge](https://www.youtube.com/watch?v=5Awo-P3t4Ho)
 * [Schlieren photography](https://www.youtube.com/watch?v=mLp_rSBzteI)
-
+* Telescopy: Trevor paglen
+* Microscopy: Robert Hooke, Micrographia
+* Paul Debevec lecture from RI/HCII? Youtube? 
+* Erkki lecture, Mareorama
+* Erkki lecture, "Stereoscopy and Art CMU 2011"
+* Telestereoscope (Cassidy)
+* Anamorphosis (in Perspective), see also Erkki's lecture at end
+* ofxRemovePerspective (in perspective)
 ----------
 
 * Erik Kessels	24 Hours		http://www.kesselskramer.com/exhibitions/24-hrs-of-photos

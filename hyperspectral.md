@@ -4,9 +4,27 @@
 
 [*Hyperspectral imaging*](https://en.wikipedia.org/wiki/Hyperspectral_imaging) attempts to capture the entire reflective or emissive spectrum for every pixel, essentially representing an image with a three-dimensional (x,y,λ) data cube.
 
+This lesson includes a discussion of the following: 
+
+* Overview of Multi/Hyperspectral Imaging
+* Near-Infrared (NIR) Imaging
+* X-Ray Imaging
+* Thermal Imaging
+* Thermochromic Imaging
+* Ultraviolet (UV) Imaging
+* Millimeter Wave & Terahertz Imaging
+* CT Scans, MRI, CAT Etc.
+
+In addition, two other imaging techniques, while not properly multi-spectral, deal with unusual properties of light and its transmissive medium: 
+* Polarized Light
+* Schlieren Photography
+
+
 --- 
 
-### What does it look like? 
+### Overview. What does it look like? 
+
+Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, and so forth, an imaging technology is required to translate energy patterns in these spectra into patterns we can see. The "right" way to visualize such energy patterns is always arbitrary, or, at least, an artifact of the sensing and display technology. 
 
 ![Multi-spectral face](images/face-spectra.jpg)<br />
 *A face simultaneously imaged in the (a) visible spectrum, 0.4–0.7 µm, (b) short-wave infrared, 1.0–3.0µm, (c) mid-wave infrared, 3.0–5.0µm, and (d) long-wave infrared, 8.0-14.0µm.*
@@ -40,22 +58,39 @@ Widely used in security cameras.
 
 ### X-Ray imaging
 
+#### A Lecture on X-Ray Imaging
+
+#### X-Ray Imaging in the Arts
+
 * [X-ray portraits by Ayako Kanda and Mayuka Hayashi](http://www.boredpanda.com/x-ray-couple-portraits-ayako-kanda-mayuka-hayashi/)
 * [*Lick* by Wim Delvoye](http://curiator.com/art/wim-delvoye/lick-1)
 * [*Pinup Calendar* by German ad firm, BUTTER](http://www.themarysue.com/x-ray-pin-up-calendar/)
 * [Xograms, by Hugh Turvey](http://www.smithsonianmag.com/arts-culture/x-ray-art-deeper-look-everyday-objects-180949540/?no-ist)
 * [*X-Ray Photographic Art* (Survey)](http://www.theapricity.com/forum/showthread.php?147702-X-Ray-Photographic-Art-Seeing-Humans-Nature-Objects-Beneath-The-Surface)
 
+It is also possible to design or arrange objects for the express purpose of having them discovered in X-Ray images. 
+* Arguably some of these people have done so. (X-ray insertions)
+* Evan Roth, TSA interventions
+
 ---
 
 ### Thermal Imaging 
 
-* [Satellite thermal imaging of roofs](http://mashable.com/2015/08/20/google-house-solar/?utm_cid=mash-com-fb-main-link)
-* [THE OPERATION by Jacob Pander and Marne Lucas, 1995](https://vimeo.com/24149525) (NSFW)
-* [Route 94: *My Love*](https://vimeo.com/84702235)
+*Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. Interestingly, most of what we see when we observe radiation in this range is *emissive* rather than *reflective*. In short, we see where something is hot. 
+
+* A cult classic, this 1995 hybrid art/porn movie was shot completely with a thermal camera. [Jacob Pander and Marne Lucas, *THE OPERATION*](https://vimeo.com/24149525) (NSFW)
+* [Route 94: *My Love*](https://vimeo.com/84702235) is a much more recent music video with much the same idea. 
 * [This Photographer Shoots Portraits With a Thermal Camera](http://www.smithsonianmag.com/science-nature/this-photographer-shoots-portraits-with-a-thermal-camera-1437109/)
   * [Linda Alterwitz 1](http://www.lindaalterwitz.com/thermal_portrait.html)
   * [Linda Alterwitz 2](http://www.lindaalterwitz.com/thermal_core.html)
+
+Note that there is no "correct" way to view thermal imagery. Cameras offer a variety of different spectra for mapping their temperature ranges, including grayscale, black-body, chromatic (blue = cold), etc. 
+
+Sometimes simply presenting such alternative views can be a provocative, entertaining or educational experience for audiences. 
+
+* Many science museums have a display in which the public can see themselves in a thermal camera. 
+* An artist was recently commissioned to create a live-video installation in New York's Time Square, in which she connected up a thermal camera (trained on passersby) to a large electronic billboard.
+* [Satellite thermal imaging of roofs](http://mashable.com/2015/08/20/google-house-solar/?utm_cid=mash-com-fb-main-link)
 
 ---
 
@@ -118,6 +153,8 @@ X-ray computed tomography (X-ray CT) and magnetic resonance imaging (MRI) and ar
 ![Kyle McDonald CT scan](images/kyle-mcdonald-ct-scan.jpg)<br />
 *Kyle McDonald experimenting with some of his own CT scan data in openFrameworks.*
 
+---
+
 ### Polarized Light
 
 Polarization is a property of light which describes, not its frequency or wavelength, but the orientation of the spatial plane in which its waves are traveling. It is useful in visualizing several phenomena which cannot otherwise be seen by the human eye. 
@@ -137,5 +174,8 @@ Some nice videos of polarization and stress visualization:
 * [https://www.youtube.com/watch?v=gP751qpm4n4](https://www.youtube.com/watch?v=gP751qpm4n4)
 * [https://www.youtube.com/watch?v=7YaoSODkymc](https://www.youtube.com/watch?v=7YaoSODkymc)
 
+---
 
+### Schlieren Photography
 
+Schlieren photography creates images which reveal, and depend on, minute differences in the index of refraction of air. In short, it depends not on a property of light, but on a property of light's medium. 

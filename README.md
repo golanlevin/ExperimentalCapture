@@ -14,26 +14,26 @@ In this experimental, interdisciplinary course, we seek:
 
 * *To explore the affordances of exotic, forgotten, and nascent image capture technologies in revealing unseen or alternative realities.*
 * *To explore the use of computation in expanding our expressive vocabulary for representations of people, things, and environments.*
-* *[To question the assumptions](assumptions.md) that underpin the project of capturing representations of reality with devices.*
+* *[To question the assumptions](docs/assumptions.md) that underpin the project of capturing representations of reality with devices.*
 
 --
 ### Course Logistics
 
-* [Course Policies](policies.md)
-* [Course Calendar](calendar.md)
-* [Submitting Work](submitting-work.md)
+* [Course Policies](docs/policies.md)
+* [Course Calendar](docs/calendar.md)
+* [Submitting Work](docs/submitting-work.md)
 
 --
 ### Semester Projects
 
 Our semester is organized around four main projects:
 
-1. [Quiddity of an **Object**](assignment1-object.md) *("Still Life")* - Due Wed. 9/23
-1. [Quiddity of a **Person**](assignment2-person.md) *("Portrait")* - Due Mon. 10/19
-1. [Quiddity of a **Place**](assignment3-place.md) *("Landscape")* - Due Wed. 11/18
-1. [Final Project](assignment4-final.md): Due+Exhibited Wed. 12/9
+1. [Quiddity of an **Object**](docs/assignment1-object.md) *("Still Life")* - Due Wed. 9/23
+1. [Quiddity of a **Person**](docs/assignment2-person.md) *("Portrait")* - Due Mon. 10/19
+1. [Quiddity of a **Place**](docs/assignment3-place.md) *("Landscape")* - Due Wed. 11/18
+1. [Final Project](docs/assignment4-final.md): Due+Exhibited Wed. 12/9
 
-Additionally, students must complete 10 brief "[**Looking Outwards**](looking-outwards.md)" assignments, on an approximately weekly schedule. 
+Additionally, students must complete 10 brief "[**Looking Outwards**](docs/looking-outwards.md)" assignments, on an approximately weekly schedule. 
 
 --
 ### Some Imaging and Capture Techniques
@@ -43,16 +43,16 @@ Additionally, students must complete 10 brief "[**Looking Outwards**](looking-ou
 * Silhouette (Blob) Tracking
 * Depth Sensors and RGBD
 * Photogrammetry and 3D scanning
-* [Overcranking (Slow-Motion)](overcranking.md)
-* [Undercranking and Time Lapse](undercranking.md)
-* [Long Exposure and Light Painting](longexposure.md)
-* [Bullet Time (Array Videography)](bullettime.md)
-* [Pixillation and Stop-Frame](pixillation.md)
-* [Synthesis from Image Databases](collection-synthesis.md)
-* [Backwards (Retrograde) Time](backwards.md)
-* [Looping (Canon) Time](looping.md)
-* [Gonioreflectometry](gonioreflectometry.md)
-* [Multispectral & hyperspectral imaging](hyperspectral.md)
+* [Overcranking (Slow-Motion)](docs/overcranking.md)
+* [Undercranking and Time Lapse](docs/undercranking.md)
+* [Long Exposure and Light Painting](docs/longexposure.md)
+* [Bullet Time (Array Videography)](docs/bullettime.md)
+* [Pixillation and Stop-Frame](docs/pixillation.md)
+* [Synthesis from Image Databases](docs/collection-synthesis.md)
+* [Backwards (Retrograde) Time](docs/backwards.md)
+* [Looping (Canon) Time](docs/looping.md)
+* [Gonioreflectometry](docs/gonioreflectometry.md)
+* [Multispectral & hyperspectral imaging](docs/hyperspectral.md)
 * Multitrack Time
 * Slit Scanning
 * Panoramic imaging and environmental capture
@@ -62,17 +62,17 @@ Additionally, students must complete 10 brief "[**Looking Outwards**](looking-ou
 --
 ### Artistic Idioms and Questions 
 
-* [Readings](readings.md)
-* [Perspective Capture and Representation](perspective.md)
+* [Readings](docs/readings.md)
+* [Perspective Capture and Representation](docs/perspective.md)
 * Portraiture
 * Landscape
 
 --
 ### Helpful Information 
-* [How to take screengrab documentation](screengrabs.md)
-* [Some software tools used in this course](tools.md)
-* [Some equipment used in this course](equipment.md)
+* [How to take screengrab documentation](docs/screengrabs.md)
+* [Some software tools used in this course](docs/tools.md)
+* [Some equipment used in this course](docs/equipment.md)
 
 --- 
 
-*More: a [huge landfill](unsorted.md) of as-yet unsorted links and resources.*
+*More: a [huge landfill](docs/unsorted.md) of as-yet unsorted links and resources.*

@@ -19,6 +19,22 @@
 * Find game players with bpm
 * Tinapple breath debate = video + data
 
+
+Still Life
+Lost Childhood Object: https://www.youtube.com/watch?v=QgHsYOybXa0
+Embarrassing Object: https://www.youtube.com/watch?v=7mxM6mNSv5s
+Desktop Monument: 
+Never Seen, Never Will
+
+Landscape
+https://www.youtube.com/watch?v=ktcd2ZMWqAU
+
+Portrait
+https://www.youtube.com/watch?v=0posLr4TTiI
+
+MoCap
+Movement Telephone https://www.youtube.com/watch?v=AneJi1wGYvw
+
 ----------
 
 * Erik Kessels	24 Hours		http://www.kesselskramer.com/exhibitions/24-hrs-of-photos

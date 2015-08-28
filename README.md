@@ -1,6 +1,6 @@
 # Experimental Capture
 
-### A Course in Computational Imaging and Expanded Cinema
+### Computational and Expanded █████ography
 Prof. Golan Levin, Carnegie Mellon University, Fall 2015. <br />
 Course numbers: 16-461 (RI), 60-461/761 (Art) <br />
 M/W 1:30-2:50pm, in HL-A10A and CFA-111. <br />
@@ -10,10 +10,10 @@ M/W 1:30-2:50pm, in HL-A10A and CFA-111. <br />
 --
 ### Learning Objectives
 
-In this experimental, interdisciplinary course, we seek:
+This is an interdisciplinary course in experimental media practices that arise from using devices that "capture" the world. In this course, we seek:
 
 * *To explore the affordances of exotic, forgotten, and nascent image capture technologies in revealing unseen or alternative realities.*
-* *To explore the use of computation in expanding our expressive vocabulary for representations of people, things, and environments.*
+* *To explore the use of computation in expanding our expressive vocabulary for representations of people, objects, environments, and events.*
 * *[To question the assumptions](docs/assumptions.md) that underpin the project of capturing representations of reality with devices.*
 
 --
@@ -28,9 +28,9 @@ In this experimental, interdisciplinary course, we seek:
 
 Our semester is organized around four main projects:
 
-1. [Quiddity of an **Object**](docs/assignment1-object.md) *("Still Life")* - Due Wed. 9/23
-1. [Quiddity of a **Person**](docs/assignment2-person.md) *("Portrait")* - Due Mon. 10/19
-1. [Quiddity of a **Place**](docs/assignment3-place.md) *("Landscape")* - Due Wed. 11/18
+1. [An **Object**](docs/assignment1-object.md) *("Still Life")* - Due Wed. 9/23
+1. [A **Person in Time**](docs/assignment2-person.md) *("Portrait")* - Due Mon. 10/19
+1. [A **Place**](docs/assignment3-place.md) *("Landscape")* - Due Wed. 11/18
 1. [Final Project](docs/assignment4-final.md): Due+Exhibited Wed. 12/9
 
 Additionally, students must complete 10 brief "[**Looking Outwards**](docs/looking-outwards.md)" assignments, on an approximately weekly schedule. 

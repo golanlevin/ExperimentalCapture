@@ -20,7 +20,7 @@ Wed 09/09	Guest lecture (tentative):
 			* Alex Oliver: Early History of Photography
 ---------------------------
 Mon 09/14	Guest lecture (tentative):
-			* Jeff Hinkleman: The Dynamic Still Life
+			* Jeff Hinkelman: The Dynamic Still Life
 			Technologies II (Still imaging): 
 			* Hyperspectral imaging 
 			* Photogrammetry
@@ -51,7 +51,7 @@ Wed 09/30	Technologies IV (Body & Gesture):
 			* 3D Mocap laboratory
 ---------------------------
 Mon 10/05	Guest lecture (tentative):
-			* Jeff Hinkleman: The Dynamic Portrait
+			* Jeff Hinkelman: The Dynamic Portrait
 			Technologies V (Facial capture)
 			* Viola/Jones, Saraghi, FaceShift
 Wed 10/07	Technologies VI (Gesture)
@@ -68,7 +68,7 @@ Mon 10/19	PROJECT 2 (PERSON) DUE; CRITIQUE.
 Wed 10/21	Special guests: James George & Alex Porter
 ---------------------------
 Mon 10/26	Guest lecture (tentative):
-			* Jeff Hinkleman: The Dynamic Landscape
+			* Jeff Hinkelman: The Dynamic Landscape
 Wed 10/28	Guest lecture (tentative):
 			* Jesse Stiles: Binaural & Ambisonic Sound
 ---------------------------

@@ -13,6 +13,12 @@
 * Telestereoscope (Cassidy)
 * Anamorphosis (in Perspective), see also Erkki's lecture at end
 * ofxRemovePerspective (in perspective)
+* Taper, Blindspot Tim Hawkinson photographic self-portrait
+* John Gerrard, ["Infinite Freedom Exercise" (2011)](https://www.youtube.com/watch?v=xUKC11NEK0A), [landscapes](https://www.youtube.com/watch?v=R9t2ApMEPX0)
+* Luke duBois, *[Play](https://www.youtube.com/watch?v=VzFA11pQIIo)*, 2006.
+* Find game players with bpm
+* Tinapple breath debate = video + data
+
 ----------
 
 * Erik Kessels	24 Hours		http://www.kesselskramer.com/exhibitions/24-hrs-of-photos
@@ -515,10 +521,6 @@ http://imgur.com/LrpYIem selfie stick
 * Marine Radar, Such as Furuno 1623 , or Furuno DRS4W
  http://www.thegpsstore.com/Furuno-1623-22-kw-Radar-P125.aspx
 
-
-Invention of perspective
-Small people are less significant
-People Are equal size no matter how far. 
 Perspective camera drawing machines 
 
 ---

@@ -39,7 +39,9 @@ Salavon has also created [averages of homes-for-sale](http://salavon.com/work/Ho
 
 ![Jason Salavon's 100 Special Moments](images/image-averaging/salavon-homes.jpg)<br />
 
-Salavon writes about his "[amalgamations](http://salavon.com/work/category/amalgamations/)" work (as he calls it) in the [web page for his *Portrait* series](http://salavon.com/work/Portrait/). 
+Salavon writes about his "[amalgamations](http://salavon.com/work/category/amalgamations/)" work (as he calls it) in the [web page for his *Portrait* series](http://salavon.com/work/Portrait/).
+
+#### Others 
 
 Idris Khan interrogates the notion of a photo series by creating [these mashups](http://www.saatchigallery.com/artists/idris_khan.htm) of the [famous gas tanks by Bernd & Hilla Becher](http://c4gallery.com/artist/database/bernd-hilla-becher/bernd-hilla-becher.html):
 

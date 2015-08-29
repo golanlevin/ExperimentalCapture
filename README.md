@@ -1,9 +1,9 @@
 # Experimental Capture
 
-### Computational and Expanded █████ography
-Prof. Golan Levin, Carnegie Mellon University, Fall 2015. <br />
-Course numbers: 16-461 (RI), 60-461/761 (Art) <br />
-M/W 1:30-2:50pm, in HL-A10A and CFA-111. <br />
+### Computational and Expanded ████ography
+Prof. [Golan Levin](http://flong.com), Carnegie Mellon University, Fall 2015. <br />
+Course numbers: 16-461 (Robotics Institute), 60-461/761 (Art) <br />
+M/W 1:30-2:50pm, in HL-A10A and the STUDIO (CFA-111). <br />
 
 **Please note: This collection of documents is a work in progress!** *This syllabus contains many contributions from [James George](http://jamesgeorge.org/), [Alexander Porter](http://alexanderporter.net/), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), and others.*
 
@@ -30,9 +30,9 @@ This is an interdisciplinary course in experimental media practices that arise f
 
 Our semester is organized around four main projects:
 
-1. [An **Object**](docs/assignment1-object.md) *("Still Life")* - Due Wed. 9/23
-1. [A **Person in Time**](docs/assignment2-person.md) *("Portrait")* - Due Mon. 10/19
-1. [A **Place**](docs/assignment3-place.md) *("Landscape")* - Due Wed. 11/18
+1. **[An Object](docs/assignment1-object.md)** *("Still Life")* - Due Wed. 9/23
+1. **[A Person in Time](docs/assignment2-person.md)** *("Portrait")* - Due Mon. 10/19
+1. **[A Place](docs/assignment3-place.md)** *("Landscape")* - Due Wed. 11/18
 1. [Final Project](docs/assignment4-final.md): Due+Exhibited Wed. 12/9
 
 Additionally, students must complete 10 brief "[**Looking Outwards**](docs/looking-outwards.md)" assignments, on an approximately weekly schedule. 

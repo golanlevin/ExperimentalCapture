@@ -96,12 +96,12 @@ Sometimes simply presenting such alternative views can be a provocative, enterta
 
 ### Thermochromic Imaging
 
-Some substances temporarily change color in response to heat. 
+Some substances temporarily change color in response to heat. In different contexts, thermochromic pigments can work as a capture technology or a display technology. 
 
-* [*Thermochromic Table*, Jay Watson design, 2011](http://www.fubiz.net/en/2014/02/21/thermochromic-table/)
-* [*Temperature Sensitive Object*, Archilab, Orléans, France, 2001](http://www.mascontext.com/wp-content/uploads/2011/12/12_game_ornaments_09.jpg)
-* [Thermochromic toilet](http://theluxuryofprotest.com/Thermochromic_Toilet_Seat.html)
-* [Thermochromic urinal](http://www.technocrazed.com/wp-content/uploads/2014/08/New-Thermochromic-Furniture-And-Pots-11.jpg)
+* Jay Watson's *[Thermochromic Table](http://www.fubiz.net/en/2014/02/21/thermochromic-table/)* (2011) reveals where and how people have sat at the furniture. 
+* The *[Temperature Sensitive Object](http://www.mascontext.com/wp-content/uploads/2011/12/12_game_ornaments_09.jpg)* chair (2001) by Orléans-based design group, Archilab, is similar. 
+* The revelatory potential of this technology is directly connected to considerations of mammalian territory-marking behavior in this *[thermochromic toilet seat](http://theluxuryofprotest.com/Thermochromic_Toilet_Seat.html)* and this remarkable *[thermochromic urinal](http://www.technocrazed.com/wp-content/uploads/2014/08/New-Thermochromic-Furniture-And-Pots-11.jpg)*
+* Dutch artist [Carina Hesper](http://carinahesper.nl) has created a book, *[Like a Pearl in My Hand](http://www.carinahesper.nl/#!visually-impaired)*, in which portrait photographs have been overprinted with thermochromic coating. The reader of the book must interactively reveal the underlying photographs 
 
 ---
 

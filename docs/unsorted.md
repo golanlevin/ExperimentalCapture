@@ -26,7 +26,9 @@ Once you have a 3D scan
 https://twitter.com/albertomoss/status/634870714856660992
 https://www.youtube.com/watch?v=3yyLIG935zc
 
-http://prostheticknowledge.tumblr.com/
+
+
+[Camera shutter speed synchronized with helicopter blade frequency](https://www.youtube.com/watch?v=cxddi8m_mzk)
 
 [Candice Breitz](https://www.youtube.com/watch?v=A5JjFsXaYV0)
 

@@ -7,24 +7,31 @@ M/W 1:30-2:50pm, in HL-A10A and the STUDIO (CFA-111). <br />
 
 > <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and hyperspectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays. Please note that there are usage/materials fees associated with this course.</small>
 
-*This syllabus contains many contributions from [James George](http://jamesgeorge.org/), [Alexander Porter](http://alexanderporter.net/), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), and others.*
+*This syllabus contains many contributions from [James George](http://jamesgeorge.org/) and [Alexander Porter](http://alexanderporter.net/) (of [Specular.cc](http://www.specular.cc/)), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), and others.*
 
 --
 ### Learning Objectives
 
-This is an interdisciplinary course in experimental media practices that arise from using devices that "capture" the world. In this course, we seek:
+This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. In this course, we seek:
 
 * *To explore the affordances of exotic, forgotten, and nascent image capture technologies in revealing unseen or alternative realities.*
 * *To explore the use of computation in expanding our expressive vocabulary for representations of people, objects, environments, and events.*
 * *[To question the assumptions](docs/assumptions.md) that underpin the project of capturing representations of reality with devices.*
+
+At the conclusion of this course, students will be able to 
+
+* Recognize and identify the use of expanded capture techniques (such as photogrammetry, motion capture, hyperspectral imaging, binaural audio, stroboscopy, etc.) in popular and experimental media. 
+* Demonstrate understanding of the scientific principles and/or engineering foundations underlying such techniques, in revealing phenomena beyond the limits of ordinary human perception.
+* Demonstrate understanding of the poetic and elucidative potentials of such techniques, and their application to the production of expressive and provocative new culture.
+* Command the practical use of one or more such techniques.
 
 --
 ### Course Logistics
 
 * [Course Policies](docs/policies.md)
 * [Course Calendar](docs/calendar.md)
-* [Course Fee](docs/course-fee.md)
-* [Submitting Work](docs/submitting-work.md) *(TBA)*
+* [Course Lab Fee](docs/course-fee.md)
+* [Submitting Work](docs/submitting-work.md)
 * [Course Code base](code/index.md)
 
 --
@@ -42,7 +49,7 @@ In addition to the above, students are also expected to complete:
 * One **[Technical Assistance Tutorial](docs/tutorials.md)**.  
 * Ten brief "**[Looking Outwards](docs/looking-outwards.md)**" assignments, on an approximately weekly schedule. 
 
-All assignments submissions will take the form of pull requests on Github. For more information, please see [Submitting Work](docs/submitting-work.md). 
+All assignment submissions will take the form of pull requests on Github. For more information, please see [Submitting Work](docs/submitting-work.md). 
 
 --
 ### Some Imaging and Capture Techniques

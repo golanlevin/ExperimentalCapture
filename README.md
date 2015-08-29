@@ -22,6 +22,7 @@ This is an interdisciplinary course in experimental media practices that arise f
 * [Course Policies](docs/policies.md)
 * [Course Calendar](docs/calendar.md)
 * [Submitting Work](docs/submitting-work.md)
+* [Course Code base](code/index.md)
 
 --
 ### Semester Projects
@@ -55,6 +56,7 @@ Additionally, students must complete 10 brief "[**Looking Outwards**](docs/looki
 * [Multispectral & hyperspectral imaging](docs/hyperspectral.md)
 * Multitrack Time
 * Slit Scanning
+* [Moving Cameras (shutter stroboscopy)](docs/moving-cameras.md)
 * Panoramic imaging and environmental capture
 * Stereography
 * Binaural and Ambisonic Sound

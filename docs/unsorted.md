@@ -19,6 +19,15 @@
 * Find game players with bpm
 * Tinapple breath debate = video + data
 
+Once you have a 3D scan
+https://twitter.com/albertomoss/status/634870714856660992
+https://www.youtube.com/watch?v=3yyLIG935zc
+
+
+eee
+
+* [Japan’s New Satellite Captures an Image of Earth Every 10 Minutes](http://www.nytimes.com/interactive/2015/07/10/science/An-Image-of-Earth-Every-Ten-Minutes.html) (Himawari-8 weather satellite)
+
 
 Still Life
 Lost Childhood Object: https://www.youtube.com/watch?v=QgHsYOybXa0

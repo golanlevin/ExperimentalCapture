@@ -21,7 +21,8 @@ This is an interdisciplinary course in experimental media practices that arise f
 
 * [Course Policies](docs/policies.md)
 * [Course Calendar](docs/calendar.md)
-* [Submitting Work](docs/submitting-work.md)
+* [Course Fee](docs/course-fee.md)
+* [Submitting Work](docs/submitting-work.md) *(TBA)*
 * [Course Code base](code/index.md)
 
 --

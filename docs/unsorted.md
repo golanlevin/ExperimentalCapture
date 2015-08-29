@@ -26,10 +26,15 @@ Once you have a 3D scan
 https://twitter.com/albertomoss/status/634870714856660992
 https://www.youtube.com/watch?v=3yyLIG935zc
 
+http://prostheticknowledge.tumblr.com/
+
+[Candice Breitz](https://www.youtube.com/watch?v=A5JjFsXaYV0)
 
 eee
 
 * [Japan’s New Satellite Captures an Image of Earth Every 10 Minutes](http://www.nytimes.com/interactive/2015/07/10/science/An-Image-of-Earth-Every-Ten-Minutes.html) (Himawari-8 weather satellite)
+
+[One Man, Eight Cameras](https://vimeo.com/91836700)
 
 
 Still Life

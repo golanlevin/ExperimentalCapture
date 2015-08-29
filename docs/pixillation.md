@@ -15,3 +15,5 @@
 * [Her Morning Elegance / Oren Lavie](https://www.youtube.com/watch?v=2_HXUhShhmY) (2009)
 * [Guillaume Reymond, Stop My Motioned Movie Characters](https://www.youtube.com/watch?v=dPX6tuRQ2c4)
 * [Guillaume Reymond, Human TETRIS](https://www.youtube.com/watch?v=G0LtUX_6IXY) (2007)
+* [C-Mon & Kypski, *One Frame of Fame*](https://www.youtube.com/watch?v=InmMfUrhb4o)
+* [Sour, *Hibi no Neiro*](https://www.youtube.com/watch?v=WfBlUQguvyw)

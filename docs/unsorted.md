@@ -19,6 +19,9 @@
 * Find game players with bpm
 * Tinapple breath debate = video + data
 
+
+Portrait from motion capture: Merce Cunningham & Open-Ended Group
+
 Once you have a 3D scan
 https://twitter.com/albertomoss/status/634870714856660992
 https://www.youtube.com/watch?v=3yyLIG935zc

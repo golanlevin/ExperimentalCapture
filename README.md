@@ -1,13 +1,13 @@
 # Experimental Capture
 
-### Computational and Expanded ████ography
+### Computational and Expanded ███ography
 Prof. [Golan Levin](http://flong.com), Carnegie Mellon University, Fall 2015. <br />
 Course numbers: 16-461 (Robotics Institute), 60-461/761 (Art) <br />
 M/W 1:30-2:50pm, in HL-A10A and the STUDIO (CFA-111). <br />
 
-**Please note: This collection of documents is a work in progress!** *This syllabus contains many contributions from [James George](http://jamesgeorge.org/), [Alexander Porter](http://alexanderporter.net/), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), and others.*
-
 > <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and hyperspectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays. Please note that there are usage/materials fees associated with this course.</small>
+
+*This syllabus contains many contributions from [James George](http://jamesgeorge.org/), [Alexander Porter](http://alexanderporter.net/), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), and others.*
 
 --
 ### Learning Objectives
@@ -28,16 +28,21 @@ This is an interdisciplinary course in experimental media practices that arise f
 * [Course Code base](code/index.md)
 
 --
-### Semester Projects
+### Deliverables 
 
 Our semester is organized around four main projects:
 
 1. **[An Object](docs/assignment1-object.md)** *("Still Life")* - Due Wed. 9/23
 1. **[A Person in Time](docs/assignment2-person.md)** *("Portrait")* - Due Mon. 10/19
 1. **[A Place](docs/assignment3-place.md)** *("Landscape")* - Due Wed. 11/18
-1. [Final Project](docs/assignment4-final.md): Due+Exhibited Wed. 12/9
+1. **[Final Project](docs/assignment4-final.md)**: Due+Exhibited Wed. 12/9. *It is expected (but not required) that the Final Project will be a revised version of one of the first three projects.*
 
-Additionally, students must complete 10 brief "[**Looking Outwards**](docs/looking-outwards.md)" assignments, on an approximately weekly schedule. 
+In addition to the above, students are also expected to complete: 
+
+* One **[Technical Assistance Tutorial](docs/tutorials.md)**.  
+* Ten brief "**[Looking Outwards](docs/looking-outwards.md)**" assignments, on an approximately weekly schedule. 
+
+All assignments submissions will take the form of pull requests on Github. For more information, please see [Submitting Work](docs/submitting-work.md). 
 
 --
 ### Some Imaging and Capture Techniques
@@ -69,8 +74,10 @@ Additionally, students must complete 10 brief "[**Looking Outwards**](docs/looki
 
 * [Readings](docs/readings.md)
 * [Perspective Capture and Representation](docs/perspective.md)
-* Portraiture
-* Landscape
+* *What is a camera?*
+* *Still Life*
+* *Portraiture*
+* *Landscape*
 
 --
 ### Helpful Information 

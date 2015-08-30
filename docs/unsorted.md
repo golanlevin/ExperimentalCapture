@@ -20,6 +20,7 @@
 * Tinapple breath debate = video + data
 
 
+
 Portrait from motion capture: Merce Cunningham & Open-Ended Group
 
 Once you have a 3D scan

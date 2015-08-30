@@ -16,7 +16,7 @@ This is an interdisciplinary course in experimental media practices that arise f
 
 * *To explore the affordances of exotic, forgotten, and nascent image capture technologies in revealing unseen or alternative realities.*
 * *To explore the use of computation in expanding our expressive vocabulary for representations of people, objects, environments, and events.*
-* *[To question the assumptions](docs/assumptions.md) that underpin the project of capturing representations of reality with devices.*
+* *[To question the practical and epistemological assumptions](docs/assumptions.md) that underpin the project of capturing representations of reality with devices.*
 
 At the conclusion of this course, students will be able to 
 
@@ -39,15 +39,15 @@ At the conclusion of this course, students will be able to
 
 Our semester is organized around four main projects:
 
-1. **[An Object](docs/assignment1-object.md)** *("Still Life")* - Due Wed. 9/23
-1. **[A Person in Time](docs/assignment2-person.md)** *("Portrait")* - Due Mon. 10/19
-1. **[A Place](docs/assignment3-place.md)** *("Landscape")* - Due Wed. 11/18
-1. **[Final Project](docs/assignment4-final.md)**: Due+Exhibited Wed. 12/9. *It is expected (but not required) that the Final Project will be a revised version of one of the first three projects.*
+1. **[An Object](docs/assignment1-object.md)** *("Still Life")* - Due Wed., September 23
+1. **[A Person in Time](docs/assignment2-person.md)** *("Portrait")* - Due Mon., October 19
+1. **[A Place](docs/assignment3-place.md)** *("Landscape")* - Due Wed., November 18
+1. **[Final Project](docs/assignment4-final.md)**: Due and Exhibited Wed., December 9. <br />*It is expected (but not required) that the Final Project will be a revised version of one of the first three projects.*
 
 In addition to the above, students are also expected to complete: 
 
 * One **[Technical Assistance Tutorial](docs/tutorials.md)**.  
-* Ten brief "**[Looking Outwards](docs/looking-outwards.md)**" assignments, on an approximately weekly schedule. 
+* Ten brief "**[Looking Outwards](docs/looking-outwards.md)**" reports, on an approximately weekly schedule. 
 
 All assignment submissions will take the form of pull requests on Github. For more information, please see [Submitting Work](docs/submitting-work.md). 
 

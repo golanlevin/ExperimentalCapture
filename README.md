@@ -92,6 +92,7 @@ All assignment submissions will take the form of pull requests on Github. For mo
 * [How to take screengrab documentation](docs/screengrabs.md)
 * [Some software tools used in this course](docs/tools.md)
 * [Some equipment used in this course](docs/equipment.md)
+* [How to use Git and Github](docs/git.md)
 
 --- 
 

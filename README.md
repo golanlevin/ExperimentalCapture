@@ -34,6 +34,7 @@ At the conclusion of this course, students will be able to
 * [Submitting Work](docs/submitting-work.md)
 * [Course Code base](code/index.md)
 * [Room Reservation](docs/equipment.md)
+* [Enrollment Questionnaire & FERPA Waiver](ferpa.md)
 
 --
 ### Deliverables 

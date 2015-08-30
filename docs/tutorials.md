@@ -10,7 +10,7 @@ The effort involved in producing these tutorials will be necessarily inhomogenou
 
 ### How to Write Your Tutorial
 
-Your job is to create a brief (1-2 page) explanation of how to get some piece of kit working. The intended audience is the other students in the class. Pretend you have to quickly get your BFF up to speed on the equipment. 
+Your job is to create a brief (1-2 page) one-stop-shop explanation of how to get some piece of kit working. The intended audience is the other students in the class. Pretend you have to quickly get your BFF up to speed on the equipment. 
 
 You will need to find or create media such as the following: 
 
@@ -26,8 +26,9 @@ Some tips:
 * Here's an index of [techniques for screengrabbing](screengrabs.md). 
 * If you need to make a Processing library or openFrameworks addon (etc), don't forget to provide an example program. *Always check to see if someone else has already done it!*
 * Give credit to any media you incorporate. 
+* Put your name and date at the top. 
 
-Issue your Tutorial as a pull request to this site. 
+Issue your Tutorial as a pull request to this site. Tutorials will be placed in the [tutorials](tutorials/) directory.
 
 -- 
 

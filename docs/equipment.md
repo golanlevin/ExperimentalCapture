@@ -1,7 +1,20 @@
-# Equipment 
+# Facilities and Equipment 
+
+**For anyone making use of the room outside of regular class times it will be necessary to make an online reservation.  The online reservation system is to be found at:**
+
+> **[http://ideate.andrew.cmu.edu/reservations/day.php?area=5](http://ideate.andrew.cmu.edu/reservations/day.php?area=5)**
+
+Zach Ali can explain the procedure for creating an account there that will allow you and students to make room reservations.
+
+I'm sure we'd all appreciate it if the room was restored to a usable state at the end of each class. Work/props/gear should be loaded out, or stored on the shelves in a semi-orderly manner.  
+
+We also recommend powering down the sound console at the end of any work session to avoid any potential sonic mischief. This is a digital mixer that can also be used as a multichannel USB audio interface.
+
+The room has a very nice Mac Pro desktop that all may feel free to use. For students there is a "Media Lab User" account. 
 
 
 
+--
 #### Gesture/movement capture equipment 
 
 * [Hokuyo URG-04LX-UG01 Scanning Laser Rangefinder](http://www.robotshop.com/en/hokuyo-urg-04lx-ug01-scanning-laser-rangefinder.html)

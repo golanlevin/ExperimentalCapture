@@ -33,6 +33,7 @@ At the conclusion of this course, students will be able to
 * [Course Lab Fee](docs/course-fee.md)
 * [Submitting Work](docs/submitting-work.md)
 * [Course Code base](code/index.md)
+* [Room Reservation](docs/equipment.md)
 
 --
 ### Deliverables 

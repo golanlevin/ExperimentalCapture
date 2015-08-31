@@ -19,7 +19,7 @@
 * Find game players with bpm
 * Tinapple breath debate = video + data
 
-
+[Pitt Orthopedics](http://www.engineering.pitt.edu/Sub-Sites/Labs/Orthopaedic_Robotics/Contact/) - contacted Drs. Musahl, Debski, Bell, and Miller...
 
 Portrait from motion capture: Merce Cunningham & Open-Ended Group
 
@@ -554,8 +554,6 @@ http://imgur.com/LrpYIem selfie stick
 
  Guillaume Reymond human tetris
  
-* Marine Radar, Such as Furuno 1623 , or Furuno DRS4W
- http://www.thegpsstore.com/Furuno-1623-22-kw-Radar-P125.aspx
 
 Perspective camera drawing machines 
 

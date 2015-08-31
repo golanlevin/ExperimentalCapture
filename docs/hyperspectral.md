@@ -12,12 +12,17 @@ This lesson includes a discussion of the following:
 * Thermal Imaging
 * Thermochromic Imaging
 * Ultraviolet (UV) Imaging
+* Radar 
 * Millimeter Wave & Terahertz Imaging
 * CT Scans, MRI, CAT Etc.
 
 In addition, two other imaging techniques, while not properly multi-spectral, deal with unusual properties of light and its transmissive medium: 
 * Polarized Light
 * Schlieren Photography
+
+Finally, it's not even necessary to image with electromagnetic radiation; let's not forget about sound. 
+
+* Sonar and Ultrasonic Imaging
 
 
 --- 
@@ -128,6 +133,19 @@ UV is also [widely used in forensics](http://ultravioletcameras.com/applications
 * It is [worth pointing out](http://www.savazzi.net/photography/uv.htm) that UV & NIR photography also benefit from using [special lenses](http://www.savazzi.net/photography/coastalopt_60.html) which better focus these wavelengths. 
 * Of course, [dedicated UV cameras](http://www.edmundoptics.com/cameras/nir-uv-cameras/sony-xc-e-series-monochrome-ccd-cameras/56346/) also exist. 
 
+---
+### Radar
+
+[From [Wikipedia](https://en.wikipedia.org/wiki/Radar)] **Radar** is an object-detection system that uses radio waves to determine the range, angle, or velocity of objects. It can be used to detect aircraft, ships, spacecraft, missiles, motor vehicles, weather formations, and terrain. A radar transmits radio waves or microwaves that reflect from any object in their path. 
+
+![Marine radar](images/marine-radar.jpg)<br />
+
+**Marine radar** is surprisingly inexpensive and produces fascinating images of the world, allowing (for example) imaging of nearby whales. Devices such as the [Furuno 1623](http://www.thegpsstore.com/Furuno-1623-22-kw-Radar-P125.aspx) or Furuno DRS4W systems cost under $1500. 
+
+![Ground penetrating radar](images/ground-penetrating-radar.jpg)<br />*(Image from [here](http://www.malags.com/getattachment/Innovation/GPR-Explained/MALA-GPR-principle.jpg)).*
+
+**Ground-penetrating radar** images features such as underground pipes. Speak to the professor if you're interested in this; we have a contact at Pittsburgh-area providers, [Geospatial Corporation](http://www.geospatialcorporation.com/).
+
 --- 
 ### And Beyond...
 
@@ -179,3 +197,23 @@ Some nice videos of polarization and stress visualization:
 ### Schlieren Photography
 
 Schlieren photography creates images which reveal, and depend on, minute differences in the index of refraction of air. In short, it depends not on a property of light, but on a property of light's medium. 
+
+--- 
+### Sonar and Ultrasound
+
+It's well-known that bats and dolphins image the world through ultrasonic reflections. 
+
+But were you aware of *human echolocation*? Here are three different individuals, who despite being blind are able to map a detailed mental plan of their surroundings:
+* [Ben Underwood](https://www.youtube.com/watch?v=AiBeLoB6CKE)
+* [Sam](https://www.youtube.com/watch?v=zXtExOMCDfE)
+* [Daniel](https://www.youtube.com/watch?v=2IKT2akh0Ng)
+
+Of course, there are also *devices* for sonar imaging. You are probably familiar with ultrasonic fetal imaging. 2D is more common, but recently 3D ultrasound has become available. 
+
+![Fetal ultrasound](images/ultrasound.jpg)<br />
+
+It has become popular in Japan to [3D-print copies of the unborn](http://microfabricator.com/articles/view/id/54cc021d313944ec4a8b456c/unborn-babies-come-to-life-through-new-full-color-ultrasound-3d-printing-service). 
+
+![3D-printed fetus](images/3d-printed-unborn.jpg)
+
+http://www.blueview.com/products/3d-multibeam-scanning-sonar/3/

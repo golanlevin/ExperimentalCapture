@@ -27,6 +27,11 @@ Once you have a 3D scan
 https://twitter.com/albertomoss/status/634870714856660992
 https://www.youtube.com/watch?v=3yyLIG935zc
 
+Contact Yang Cai to borrow camera, visit lab, invite lecture. 
+
+
+Robert Hooke, *Micrographia*
+* https://www.reading.ac.uk/web/FILES/special-collections/featuremicrographia.pdf
 
 
 [Camera shutter speed synchronized with helicopter blade frequency](https://www.youtube.com/watch?v=cxddi8m_mzk)

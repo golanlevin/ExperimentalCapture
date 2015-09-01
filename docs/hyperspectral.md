@@ -1,5 +1,9 @@
 # Multispectral & Hyperspectral Imaging
 
+http://stopocsmartmeters.com/uploads/3/5/1/6/3516580/7934370_orig.jpg
+
+https://www.nasa.gov/sites/default/files/spectrum_wall_chart_aug2011.jpg
+
 [*Multispectral imaging*](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more. 
 
 [*Hyperspectral imaging*](https://en.wikipedia.org/wiki/Hyperspectral_imaging) attempts to capture the entire reflective or emissive spectrum for every pixel, essentially representing an image with a three-dimensional (x,y,λ) data cube.
@@ -214,6 +218,9 @@ Of course, there are also *devices* for sonar imaging. You are probably familiar
 
 It has become popular in Japan to [3D-print copies of the unborn](http://microfabricator.com/articles/view/id/54cc021d313944ec4a8b456c/unborn-babies-come-to-life-through-new-full-color-ultrasound-3d-printing-service). 
 
-![3D-printed fetus](images/3d-printed-unborn.jpg)
+![3D-printed fetus](images/3d-printed-unborn.jpg)<br />
 
-http://www.blueview.com/products/3d-multibeam-scanning-sonar/3/
+Sonar can also be used to image *environments* in both 2D and 3D. Using equipment such as [this](http://www.blueview.com/products/3d-multibeam-scanning-sonar/3/), for example, people investigate and discover seafloor shipwrecks. 
+
+![3D-printed fetus](images/sonar-shipwreck.jpg)<br />
+

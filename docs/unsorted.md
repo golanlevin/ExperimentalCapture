@@ -29,6 +29,10 @@ https://www.youtube.com/watch?v=3yyLIG935zc
 
 Contact Yang Cai to borrow camera, visit lab, invite lecture. 
 
+Human Flesh Search 
+* http://www.theatlantic.com/international/archive/2012/10/what-is-a-human-flesh-search-and-how-is-it-changing-china/263258/
+* http://www.buzzfeed.com/mjs538/how-i-became-a-minor-celebrity-in-china-after-my#.mawpEk5Rb
+
 
 Robert Hooke, *Micrographia*
 * https://www.reading.ac.uk/web/FILES/special-collections/featuremicrographia.pdf

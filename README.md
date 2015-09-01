@@ -37,6 +37,7 @@ At the conclusion of this course, students will be able to
 * [Course Code base](code/index.md)
 * [Room Reservation](docs/equipment.md)
 * [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md)
+* [Student Area](students/index.md)
 
 --
 ### Deliverables 

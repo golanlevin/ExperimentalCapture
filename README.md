@@ -49,12 +49,15 @@ Our semester is organized around four main projects:
 1. **[A Place](docs/assignment3-place.md)** *("Landscape")* - Due Wed., November 18
 1. **[Final Project](docs/assignment4-final.md)**: Due and Exhibited Wed., December 9. <br />*It is expected (but not required) that the Final Project will be a revised version of one of the first three projects.*
 
-In addition to the above, students are also expected to complete: 
+All assignment submissions will take the form of pull requests on Github. For more information, please see [Submitting Work](docs/submitting-work.md). In addition to the above, students are also expected to complete: 
 
 * One **[Technical Assistance Tutorial](docs/tutorials.md)**.  
 * Ten brief "**[Looking Outwards](docs/looking-outwards.md)**" reports, on an approximately weekly schedule. 
 
-All assignment submissions will take the form of pull requests on Github. For more information, please see [Submitting Work](docs/submitting-work.md). 
+There are also some minor deliverables, primarily related to housekeeping: 
+
+* **For Wednesday, September 9th**, please complete the [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md); create a [Github account](https://github.com/) (if you do not already have one), and start learning [how to use it](docs/git.md); give some thought to which piece of equipment you'd like to write your [Tutorial](docs/tutorials.md) for (or even, finish it); and issue a pull request to update your [student page](students/index.md).
+
 
 --
 ### Some Imaging and Capture Techniques

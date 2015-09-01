@@ -32,6 +32,8 @@ Contact Yang Cai to borrow camera, visit lab, invite lecture.
 
 Robert Hooke, *Micrographia*
 * https://www.reading.ac.uk/web/FILES/special-collections/featuremicrographia.pdf
+* http://digitalcollections.library.cmu.edu/portal/pdfopener?sid=769E294948EBDB6B2DB081B6D777987E&ctm=1441088078640&md=1&attachment=yes
+* http://doi.library.cmu.edu/10.1184/OCLC/02940462  
 
 
 [Camera shutter speed synchronized with helicopter blade frequency](https://www.youtube.com/watch?v=cxddi8m_mzk)

@@ -24,6 +24,7 @@ All assignment submissions will take the form of pull requests on Github. For mo
 	* create a [Github account](https://github.com/) (if you do not already have one), and start learning [how to use git](git.md).
 	* fork this repo, and issue a pull request to update your [student page](students/index.md);
 	* write your first [Looking Outwards](looking-outwards.md) report, on some art or other research project from the realms of computational photography, expanded cinema, experimental capture etc. Issue a pull request to have this included. 
+	* read Chapter 2 (*The Technical Image*) in Vilem Flusser's [Towards a Philosophy of Photography](http://cmuems.com/excap/readings/flusser-towards-a-philosophy-of-photography.pdf).
 	* read Chapter 1 (Introduction) in Richard Szeliski's [*Computer Vision: Algorithms and Applications*](http://szeliski.org/Book/). Browse the book and find something that interests you. 
 	* give some thought to your first assignment, due 9/23, the documentation of [an object](assignment1-object.md).
 	* give some thought to the piece of equipment for which you'd like to write your [Tutorial](tutorials.md).

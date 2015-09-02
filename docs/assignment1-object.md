@@ -37,7 +37,8 @@ Using expanded capture techniques, realize the [lost/embarrassing] object virtua
 * **Create** a Markdown document called <code>project1.md</code> in your student folder. You will document your project in this file. 
 * In this document, **write** a couple of paragraphs (150-250 words) about the experience of creating the piece. Critique your work: where do you feel you succeeded? Where do you feel you fell short of what you'd hoped to achieve? What did you learn? 
 * *All* projects must be documented with at least one digital image at least 1600 pixels wide. 
-* With the exception of still renderings, *all* projects will be documented through online video hosted on YouTube or Vimeo, and linked from the <code>project1.md</code> page. (Note, Markdown does not allow video embedding, so use the technique [described here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos).) Software executables must be documented with a screencaptured video. 
+* With the exception of still renderings, *all* projects will be documented through online video hosted on YouTube or Vimeo, and linked from the <code>project1.md</code> page. (Note, Markdown does not allow video embedding, so use the technique [described here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos).) Software executables must be documented with a screencaptured video.
+* Optionally, you are invited to publish 3D files to sharing/hosting sites such as [Thingiverse](http://www.thingiverse.com/thing:19276) or [Sketchfab](https://sketchfab.com/models/5bb11bc427eb49d7952fb857a1e3d98f).
 * **Submit** your files (<code>project1.md</code>, various images, etc.) in the form of a pull request to this repository. 
 
 -- 

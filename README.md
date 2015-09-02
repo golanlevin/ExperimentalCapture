@@ -74,7 +74,7 @@ At the conclusion of this course, students will be able to
 * [Perspective Capture and Representation](docs/perspective.md)
 * *What is a camera?*
 * *Still Life*
-* *Portraiture*
+* *[Portraiture](docs/portraits.md)*
 * *Landscape*
 
 --

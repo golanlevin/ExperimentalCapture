@@ -202,6 +202,8 @@ Some nice videos of polarization and stress visualization:
 
 Schlieren photography creates images which reveal, and depend on, minute differences in the index of refraction of air. In short, it depends not on a property of light, but on a property of light's medium. 
 
+[Schlieren photography](https://www.youtube.com/watch?v=mLp_rSBzteI)
+
 --- 
 ### Sonar and Ultrasound
 

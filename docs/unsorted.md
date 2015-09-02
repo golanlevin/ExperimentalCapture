@@ -4,7 +4,6 @@
 
 * [Edgerton](https://www.youtube.com/watch?v=SMoIKNZGyf8)
 * [Muybridge](https://www.youtube.com/watch?v=5Awo-P3t4Ho)
-* [Schlieren photography](https://www.youtube.com/watch?v=mLp_rSBzteI)
 * Telescopy: Trevor paglen
 * Microscopy: Robert Hooke, Micrographia
 * Paul Debevec lecture from RI/HCII? Youtube? 
@@ -12,8 +11,7 @@
 * Erkki lecture, "Stereoscopy and Art CMU 2011"
 * Telestereoscope (Cassidy)
 * Anamorphosis (in Perspective), see also Erkki's lecture at end
-* ofxRemovePerspective (in perspective)
-* Taper, Blindspot Tim Hawkinson photographic self-portrait
+* *Taper*, *Blindspot* Tim Hawkinson photographic self-portrait
 * John Gerrard, ["Infinite Freedom Exercise" (2011)](https://www.youtube.com/watch?v=xUKC11NEK0A), [landscapes](https://www.youtube.com/watch?v=R9t2ApMEPX0)
 * Luke duBois, *[Play](https://www.youtube.com/watch?v=VzFA11pQIIo)*, 2006.
 * Find game players with bpm

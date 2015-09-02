@@ -62,6 +62,8 @@ In fact, there are a wide variety of alternative graphical projection methods, i
 ![Alternative graphical projection methods](https://upload.wikimedia.org/wikipedia/commons/4/41/Graphical_projection_comparison.png)<br />
 *Alternative graphical projection methods.*
 
+-- 
+
 ### Telecentric Lenses
 
 A [*telecentric lens*](https://en.wikipedia.org/wiki/Telecentric_lens) is an unusual type of lens whose focal point is at infinity. It naturally produces an orthographic view of its subject. 
@@ -72,3 +74,15 @@ A [*telecentric lens*](https://en.wikipedia.org/wiki/Telecentric_lens) is an unu
 ![Telecentric imaging, from Edmund Optics](images/telecentric-photo.jpg)<br />
 *Illusion picture made with a digital camera and a telecentric lens system, [from here](http://www.lhup.edu/~dsimanek/3d/telecent.htm).*
 
+-- 
+
+### Perspective Correction
+
+![ofxCorrectPerspective](images/ofxCorrectPerspective.jpg)<br />
+
+#### ofxCorrectPerspective 
+
+* [ofxCorrectPerspective](https://vimeo.com/95204456) on Vimeo
+* [ofxCorrectPerspective](https://github.com/harisusmani/ofxCorrectPerspective) on GitHub
+
+*ofxCorrectPerspective* by Haris Usmani is an OpenFrameworks add-on that performs automatic 2d rectification of images. It’s based on work done in “Shape from Angle Regularity” by Zaheer et al., ECCV 2012. Unlike previous methods of perspective correction, it does not require any user input (provided the image has EXIF data). Instead, it relies on the geometric constraint of ‘angle regularity’ where we leverage the fact that man-made designs are dominated by the 90 degree angle. It solves for the camera tilt and pan that maximizes the number of right angles, resulting in the fronto-parallel view of the most dominant plane in the image.

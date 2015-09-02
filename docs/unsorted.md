@@ -573,6 +573,8 @@ Perspective camera drawing machines
 
 The [Human Clock](http://www.humanclock.com/) is a clock made from crowdsourced photographs. The [Photo'Clock](http://mono-1.com/photoclock/) is similar, by Mono-1.
 
+[Michael Kontopoulous, *Horizons*](https://vimeo.com/1609048)
+
 
 SLAM building reconstruction
 

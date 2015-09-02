@@ -30,6 +30,7 @@ At the conclusion of this course, students will be able to
 --
 ### Course Logistics
 
+* [**Deliverables**](docs/deliveables.md)
 * [Course Policies](docs/policies.md)
 * [Course Calendar](docs/calendar.md)
 * [Course Lab Fee](docs/course-fee.md)
@@ -54,9 +55,15 @@ All assignment submissions will take the form of pull requests on Github. For mo
 * One **[Technical Assistance Tutorial](docs/tutorials.md)**.  
 * Ten brief "**[Looking Outwards](docs/looking-outwards.md)**" reports, on an approximately weekly schedule. 
 
-There are also some minor deliverables, primarily related to housekeeping: 
+There are also some readings, minor deliverables, and housekeeping tasks: 
 
-* **For Wednesday, September 9th**, please complete the [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md); create a [Github account](https://github.com/) (if you do not already have one), and start learning [how to use it](docs/git.md); give some thought to which piece of equipment you'd like to write your [Tutorial](docs/tutorials.md) for (or even, finish it); and issue a pull request to update your [student page](students/index.md).
+* **For Wednesday, September 9th**, please: 
+	* complete the [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md); 
+	* create a [Github account](https://github.com/) (if you do not already have one), and start learning [how to use it](docs/git.md); 
+	* give some thought to which piece of equipment you'd like to write your [Tutorial](docs/tutorials.md) for; 
+	* issue a pull request to update your [student page](students/index.md);
+	* read Chapter 1 (Introduction) in Richard Szeliski's [*Computer Vision: Algorithms and Applications*](http://szeliski.org/Book/). Browse the book and find something that interests you. 
+
 
 
 --

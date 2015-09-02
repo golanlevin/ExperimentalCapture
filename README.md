@@ -43,7 +43,7 @@ At the conclusion of this course, students will be able to
 --
 ### Deliverables 
 
-Our semester is organized around four main projects:
+Our semester is organized around four main projects: 
 
 1. **[An Object](docs/assignment1-object.md)** *("Still Life")* - Due Wed., September 23
 1. **[A Person in Time](docs/assignment2-person.md)** *("Portrait")* - Due Mon., October 19

@@ -23,6 +23,8 @@ Recent iOS iPhones will record time-lapse videos. Many camera manufacturers also
   * [Original audio](http://audio.theguardian.tv/sys-audio/Arts/Culture/2007/01/24/yellowhammerfinal.mp3) (MP3)
   * [*Dawn Chorus*](https://www.youtube.com/watch?v=PCCpnDtgxXk) (YouTube)
 
+1. Luke DuBois, *[Fashionably Late for the Relationship](https://vimeo.com/30496329)*, (2008). Using a visual averaging computational process, a three-day long public performance by Lián Amaris Sifuentes was algorithmically time-compressed into a 63 minute video work.
+
 1. Keith Loutit, tilt-shift time-lapse videos
   * [*Beached*, 2008](https://vimeo.com/1785993)
   * [*Small Worlds*, 2010](https://vimeo.com/10792824)

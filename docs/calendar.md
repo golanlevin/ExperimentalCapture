@@ -28,14 +28,7 @@ Mon 09/14	Guest lecture (tentative):
 			* Light field imaging
 			* Reflectometry
 			* Scale (Microscopy, Telescopy)
-Wed 09/16	Guest lecture (tentative): Kyle McDonald
----------------------------	
-Mon 09/21	In-class work session
-			Working dinner at the STUDIO
-Wed 09/23	PROJECT 1 (OBJECT) DUE; CRITIQUE. 
-Thu 09/24 Guest Lecture: Allahyari+Rourke (5:00pm, CFA-111)
----------------------------
-Mon 09/28	Technologies III (Time, Space, and Motion): 
+Wed 09/16	Technologies III (Time, Space, and Motion): 
 			* Overcranking (Slow-Motion)
 			* Undercranking and Time Lapse
 			* Long Exposure and Light Painting
@@ -45,6 +38,13 @@ Mon 09/28	Technologies III (Time, Space, and Motion):
 			* Looping (Canon) Time
 			* Slit-Scanning
 			* Stroboscopy
+---------------------------	
+Mon 09/21	In-class work session
+			Working dinner at the STUDIO
+Wed 09/23	PROJECT 1 (OBJECT) DUE; CRITIQUE. 
+Thu 09/24 Guest Lecture: Allahyari+Rourke (5:00pm, CFA-111)
+---------------------------
+Mon 09/28	Guest lecture (confirmed): Kyle McDonald
 Wed 09/30	Technologies IV (Body & Gesture):
 			* Silhouettes & Blob Tracking
 			* The Kinect skeleton 
@@ -59,7 +59,7 @@ Wed 10/07	Technologies VI (Gesture)
 			  (Mouse, Pen, Wii, Phantom, Leap, LIDAR, GPS,
 			  Eyetribe, Flock of Birds, Sparkfun 9DOF, etc.)
 ---------------------------
-Mon 10/12	Catch-up day (TBA) [Alt. Date for Kyle]
+Mon 10/12	Catch-up day (TBA)
 Wed 10/14	In-class work session 
 ---------------------------
 Sun 10/18	Working dinner at the STUDIO

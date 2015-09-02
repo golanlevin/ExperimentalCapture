@@ -39,6 +39,8 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
   * High-speed recordings of people on subway platforms. 
   * [Stainless - Shinjuku](https://vimeo.com/77489382)
   * [Stainless, 42 Street](https://vimeo.com/83664407)
+1. Luke DuBois, [Vertical Music](https://vimeo.com/41507465) (2012). A chamber piece written for 12 players, lasting 4 1/2 minutes. Each musician was filmed individually in several takes using a high-speed (300fps) camera and an extremely high definition (1 MHz) analog-to-digital audio recording setup. When played back at 30fps, total time is ~45 minutes.
+
 1. Julien Maire, [*Double-Face* and *Ordonner*](http://julienmaire.ideenshop.net/project3.shtml)
   * French new-media artist Julien Maire plays fun on the concept of slow-motion cinema in these elaborately conceived simulacra, which are not actually presented in slow-motion. In one live performance (*Ordonner*), he heaves "heavy-looking" cardboard boxes which are in reality filled with helium balloons; their slow, gentle tumble through the air is a near-perfect imitation of slowmo video. In Maire's *Double-Face* performance, a coin tossed in the air tumbles ever more slowly until it eventually comes to a rest in mid-air; in fact, the coin is controlled by a mechatronic suspension system with nearly invisible guy-wires.
   * [*Double-Face* ](http://julienmaire.ideenshop.net/mov/df_perf.mov) (Quicktime)
@@ -51,4 +53,9 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 * [Phantom cameras](http://www.visionresearch.com/Products/High-Speed-Cameras/) can achieve about 1.4 million fps. 
 * [Spinning mirror systems](http://www.stanfordcomputeroptics.com/applications/physics/rotating-mirror-camera.html) can achieve 3 million fps. 
 * This [trillion-fps camera from MIT](http://video.mit.edu/watch/visualizing-video-at-the-speed-of-light-one-trillion-frames-per-second-9742/) can capture the movement of light *as it travels*. 
+
+### Audio 
+
+Special things happen to sound when it is slowed down *and* time-stretched. The best-known example of this is the "800% slower" Justin Bieber track, *[U Smile](http://knowyourmeme.com/memes/800-slower-time-stretch)*. Note that the time-stretching preserves the original frequences of the audio, rather than causing the pitch to drop into the infrasonic range. 
+
 

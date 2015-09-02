@@ -30,7 +30,7 @@ At the conclusion of this course, students will be able to
 --
 ### Course Logistics
 
-* [**Deliverables**](docs/deliveables.md)
+* [**Deliverables**](docs/deliverables.md)
 * [Course Policies](docs/policies.md)
 * [Course Calendar](docs/calendar.md)
 * [Course Lab Fee](docs/course-fee.md)

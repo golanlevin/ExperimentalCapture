@@ -40,6 +40,7 @@ At the conclusion of this course, students will be able to
 * [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md)
 * [Student Area](students/index.md)
 
+*[Lecture notes](docs/lecture-notes.md)*
 
 --
 ### Some Imaging and Capture Techniques

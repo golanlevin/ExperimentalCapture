@@ -2,7 +2,7 @@
 
 ### Perspective Representation
 
-Size = Proximity.
+Size = Proximity. (Right?)
 
 ![Forced perspective by mtsonic](images/forced-perspective.jpg)<br />
 *Forced perspective by [mtsonic](https://www.flickr.com/photos/mtsonic/2933383930/).*
@@ -85,4 +85,4 @@ A [*telecentric lens*](https://en.wikipedia.org/wiki/Telecentric_lens) is an unu
 * [ofxCorrectPerspective](https://vimeo.com/95204456) on Vimeo
 * [ofxCorrectPerspective](https://github.com/harisusmani/ofxCorrectPerspective) on GitHub
 
-*ofxCorrectPerspective* by Haris Usmani is an OpenFrameworks add-on that performs automatic 2d rectification of images. It’s based on work done in “Shape from Angle Regularity” by Zaheer et al., ECCV 2012. Unlike previous methods of perspective correction, it does not require any user input (provided the image has EXIF data). Instead, it relies on the geometric constraint of ‘angle regularity’ where we leverage the fact that man-made designs are dominated by the 90 degree angle. It solves for the camera tilt and pan that maximizes the number of right angles, resulting in the fronto-parallel view of the most dominant plane in the image.
+**[ofxCorrectPerspective](http://golancourses.net/2014/haris/05/14/capstone/)** by CMU student Haris Usmani is an OpenFrameworks add-on that performs automatic 2d rectification of images. It’s based on work done in “Shape from Angle Regularity” by Zaheer et al., ECCV 2012. Unlike previous methods of perspective correction, it does not require any user input (provided the image has EXIF data). Instead, it relies on the geometric constraint of ‘angle regularity’ where we leverage the fact that man-made designs are dominated by the 90 degree angle. It solves for the camera tilt and pan that maximizes the number of right angles, resulting in the fronto-parallel view of the most dominant plane in the image.

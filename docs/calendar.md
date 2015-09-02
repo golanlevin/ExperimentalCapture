@@ -42,7 +42,7 @@ Wed 09/16	Technologies III (Time, Space, and Motion):
 Mon 09/21	In-class work session
 			Working dinner at the STUDIO
 Wed 09/23	PROJECT 1 (OBJECT) DUE; CRITIQUE. 
-Thu 09/24 Guest Lecture: Allahyari+Rourke (5:00pm, CFA-111)
+Thu 09/24	Guest Lecture: Allahyari+Rourke (5:00pm, CFA-111)
 ---------------------------
 Mon 09/28	Guest lecture (confirmed): Kyle McDonald
 Wed 09/30	Technologies IV (Body & Gesture):

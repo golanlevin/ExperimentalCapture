@@ -21,7 +21,7 @@ Mon 09/07	No class session (Labor Day)
 Wed 09/09	Guest lecture (tentative):
 			* Alex Oliver: Early History of Photography
 ---------------------------
-Mon 09/14	Guest lecture (tentative):
+Mon 09/14	Guest lecture (confirmed):
 			* Jeff Hinkelman: The Dynamic Still Life
 			Technologies II (Still imaging): 
 			* Hyperspectral imaging 
@@ -52,7 +52,7 @@ Wed 09/30	Technologies IV (Body & Gesture):
 			* The Kinect skeleton 
 			* 3D Mocap laboratory
 ---------------------------
-Mon 10/05	Guest lecture (tentative):
+Mon 10/05	Guest lecture (confirmed):
 			* Jeff Hinkelman: The Dynamic Portrait
 			Technologies V (Facial capture)
 			* Viola/Jones, Saraghi, FaceShift
@@ -66,18 +66,18 @@ Wed 10/14	In-class work session
 ---------------------------
 Sun 10/18	Working dinner at the STUDIO
 Mon 10/19	PROJECT 2 (PERSON) DUE; CRITIQUE.
-			Special guests: James George & Alex Porter
-Wed 10/21	Special guests: James George & Alex Porter
----------------------------
-Mon 10/26	Guest lecture (tentative):
+Wed 10/21	Guest lecture (MOVED, tentative):
 			* Jeff Hinkelman: The Dynamic Landscape
-Wed 10/28	Guest lecture (tentative):
-			* Jesse Stiles: Binaural & Ambisonic Sound
+---------------------------
+Mon 10/26	Guest visitors (confirmed): Specular.cc
+			(James George, Alex Porter, & Mei-Ling Wong)
+Wed 10/28	Guest visitors (confirmed): Specular.cc
 ---------------------------
 Mon 11/02	Technologies VII
 			* Panoramic imaging
 			* HDR imaging 
-Wed 11/04	TBD.
+Wed 11/04	Guest lecture (MOVED, tentative):
+			* Jesse Stiles: Binaural & Ambisonic Sound
 ---------------------------
 Mon 11/09	TBD.	
 Wed 11/11	TBD.	

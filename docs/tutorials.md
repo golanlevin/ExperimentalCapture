@@ -38,9 +38,9 @@ Issue your Tutorial as a pull request to this site. Tutorials will be placed in 
 
 #### Gesture/Movement Capture Equipment
 
-* Hokuyo URG-04LX-UG01 Scanning Laser Rangefinder
+* Hokuyo URG-04LX-UG01 Scanning Laser Rangefinder **[Dan_Moore]**
 * Leap Motion Controller
-* Wacom Inkling Digital Sketch Pen (MDP123)
+* Wacom Inkling Digital Sketch Pen (MDP123) **[Miranda]**
 * 9 Degrees of Freedom - Razor IMU
 * Adafruit Ultimate GPS Logger Shield
 * Adafruit Assembled Data Logging shield for Arduino
@@ -57,9 +57,9 @@ Issue your Tutorial as a pull request to this site. Tutorials will be placed in 
 #### Optical Imagers & Cameras
 
 * Edgertronic Color High-Speed Camera
-* Ricoh Theta M15 360 Degree Spherical Panorama Camera
-* Lytro Light Field Camera
-* LYTRO ILLUM 40 Megaray Light Field Camera
+* Ricoh Theta M15 360 Degree Spherical Panorama Camera **[Irene]**
+* Lytro Light Field Camera  **[Ben]**
+* LYTRO ILLUM 40 Megaray Light Field Camera **[Smokey]**
 * V.360 HD Camera Kit
 * Minoru 3D Webcam
 * Narrative Clip Wearable Camera
@@ -67,6 +67,6 @@ Issue your Tutorial as a pull request to this site. Tutorials will be placed in 
 
 #### Miscellaneous
 
-* Free Space - Binaural Microphone
+* Free Space - Binaural Microphone **[Kevin]**
 * Agisoft PhotoScan Professional Edition
 * Flicker Free plugin for Premiere and AfterEffects

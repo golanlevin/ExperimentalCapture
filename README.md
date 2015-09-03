@@ -63,8 +63,8 @@ At the conclusion of this course, students will be able to
 * Multitrack Time
 * Slit Scanning
 * [Moving Cameras (shutter stroboscopy)](docs/moving-cameras.md)
-* Panoramic imaging and environmental capture
-* Stereography
+* Panoramic imaging, 360-degree, and environmental capture
+* Stereography & Binocular Imaging
 * Binaural and Ambisonic Sound
 
 --
@@ -73,7 +73,7 @@ At the conclusion of this course, students will be able to
 * [Readings](docs/readings.md)
 * [Perspective Capture and Representation](docs/perspective.md)
 * *What is a camera?*
-* *Still Life*
+* *[Still Life](still-lifes.md)*
 * *[Portraiture](docs/portraits.md)*
 * *Landscape*
 

@@ -2,10 +2,10 @@
 
 *This page borrows significantly from the [Computational Portraiture Workshop curriculum](http://www.specular.cc/computational-portraiture-workshop) developed by James George & Alexander Porter of [Specular.cc](http://www.specular.cc/).*
 
-* [Edgerton](https://www.youtube.com/watch?v=SMoIKNZGyf8)
-* [Muybridge](https://www.youtube.com/watch?v=5Awo-P3t4Ho)
-* Telescopy: Trevor paglen
-* Microscopy: Robert Hooke, Micrographia
+* [Edgerton](https://www.youtube.com/watch?v=SMoIKNZGyf8) Documentary developing strobe light & using it to capture fast movements 
+* [Muybridge](https://www.youtube.com/watch?v=5Awo-P3t4Ho) Extreme classical nature photographer
+* Telescopy: Trevor paglen "a guy who points his camera through astronomy telescopes at secret military sites to photography things that are off limits to the public."
+* Microscopy: Robert Hooke, Micrographia - microscope history
 * Paul Debevec lecture from RI/HCII? Youtube? 
 * Erkki lecture, Mareorama
 * Erkki lecture, "Stereoscopy and Art CMU 2011"
@@ -42,7 +42,6 @@ Robert Hooke, *Micrographia*
 
 [Candice Breitz](https://www.youtube.com/watch?v=A5JjFsXaYV0)
 
-eee
 
 * [Japan’s New Satellite Captures an Image of Earth Every 10 Minutes](http://www.nytimes.com/interactive/2015/07/10/science/An-Image-of-Earth-Every-Ten-Minutes.html) (Himawari-8 weather satellite)
 
@@ -58,8 +57,9 @@ Never Seen, Never Will
 Landscape
 https://www.youtube.com/watch?v=ktcd2ZMWqAU
 
-Portrait
+<del>Portrait
 https://www.youtube.com/watch?v=0posLr4TTiI
+</del>
 
 MoCap
 Movement Telephone https://www.youtube.com/watch?v=AneJi1wGYvw
@@ -219,7 +219,7 @@ https://vimeo.com/123520067
 https://www.youtube.com/watch?v=1rNSTizOsws
 https://github.com/ivaylopg/RGBDToolkit-to-Processing
 
-http://prostheticknowledge.tumblr.com/post/101297249296/computational-portraiture-a-class-at-nyu-itp-run
+<del> http://prostheticknowledge.tumblr.com/post/101297249296/computational-portraiture-a-class-at-nyu-itp-run </del>
 
 KINECT FUSION:
 

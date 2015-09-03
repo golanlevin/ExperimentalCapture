@@ -43,5 +43,7 @@ Using expanded capture techniques, realize the [lost/embarrassing] object virtua
 
 -- 
 
+#### References
 
+A list of references and viewings is available [here](object-references.md). 
 

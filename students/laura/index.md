@@ -2,7 +2,7 @@
 
 ### About Me
 
-Laura is a Information Systems senior, minoring in Animation and Special Effects. In her free time she does lots of dancing (ballroom, west coast swing, salsa) and watchs Dr Who.
+Laura is a Information Systems senior, minoring in Animation and Special Effects. In her free time she does lots of dancing (ballroom, west coast swing, salsa) and watches Dr Who.
 
 --
 ### Contact

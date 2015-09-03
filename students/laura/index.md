@@ -2,7 +2,7 @@
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+Laura is a Information Systems senior, minoring in Animation and Special Effects. In her free time she does lots of dancing (ballroom, west coast swing, salsa) and watchs Dr Who.
 
 --
 ### Contact

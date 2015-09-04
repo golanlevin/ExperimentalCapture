@@ -65,7 +65,7 @@ At the conclusion of this course, students will be able to
 * [Moving Cameras (shutter stroboscopy)](docs/moving-cameras.md)
 * Panoramic imaging, 360-degree, and environmental capture
 * Stereography & Binocular Imaging
-* Binaural and Ambisonic Sound
+* [Experimental Audio Capture](docs/audio.md)
 
 --
 ### Artistic Idioms and Questions 

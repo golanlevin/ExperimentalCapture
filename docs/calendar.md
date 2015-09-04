@@ -2,7 +2,7 @@
 
 This course meets Monday and Wednesday afternoons from 1:30-2:50pm. Meetings are usually held in the CMU Hunt Library Black Box (HL A10A), and occasionally in the Frank-Ratchye STUDIO for Creative Inquiry (CFA-111). 
 
-<big>**[GOOGLE CALENDAR](https://www.google.com/calendar/embed?src=vp27n8rq9eo74un00uah7ktcco%40group.calendar.google.com&ctz=America/New_York)**</big> *(link)*
+<big>**[GOOGLE CALENDAR](https://www.google.com/calendar/embed?src=vp27n8rq9eo74un00uah7ktcco%40group.calendar.google.com&ctz=America/New_York)**</big> *(link to Google doc)*
 
 ### Sessions and Topics, Fall 2015
 
@@ -76,8 +76,8 @@ Wed 10/28	Guest visitors (confirmed): Specular.cc
 Mon 11/02	Technologies VII
 			* Panoramic imaging
 			* HDR imaging 
-Wed 11/04	Guest lecture (MOVED, tentative):
-			* Jesse Stiles: Binaural & Ambisonic Sound
+Wed 11/04	Guest lecture (confirmed):
+			* Jesse Stiles: Experimental Sound Capture
 ---------------------------
 Mon 11/09	TBD.	
 Wed 11/11	TBD.	

@@ -19,7 +19,7 @@ All assignment submissions will take the form of pull requests on Github. For mo
 
 # Deliverables, by the Week
 
-### For Wednesday, September 9th, please: 
+### For Wednesday, September 9: 
 
 * Review all of the course documents: [Deliverables](docs/deliverables.md), [Course Policies](docs/policies.md), [Course Calendar](docs/calendar.md), [Course Lab Fee](docs/course-fee.md), [Submitting Work](docs/submitting-work.md).
 * Complete the [Enrollment Questionnaire & FERPA Waiver](ferpa.md). 

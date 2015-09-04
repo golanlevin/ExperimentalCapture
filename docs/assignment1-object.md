@@ -43,7 +43,43 @@ Using expanded capture techniques, realize the [lost/embarrassing] object virtua
 
 -- 
 
+#### What would be a "minimum viable project"? 
+
+One example of a possible solution might be something like this: 
+
+* Make a thing out of clay
+* 3D scan it
+* Bring it into Unity3D
+* Add some sparkles, make it wiggle
+* Record a screengrab video
+
+Be more creative than that. 
+
+-- 
+
 #### References
 
 A list of references and viewings is available [here](object-references.md). 
+
+-- 
+
+#### What Options do I have for Scanning Something? 
+
+Hardware Options: 
+
+* 3D Systems iSense 3D Scanner for iPad Mini Retina
+* Kinect (v1 and v2), with e.g. oF, p5, Kinect Fusion
+* Matter and Form 3D Scanner
+
+More difficult, but still available: 
+* Pitt orthopedics
+* Yaser Sheikh 3d scanner
+* School of Art 3d scanner 
+
+Software tools
+* 123D Catch with your phone
+* Agisoft photoscan (professional edition)
+
+
+
 

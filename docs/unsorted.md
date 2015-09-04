@@ -16,6 +16,14 @@
 * Luke duBois, *[Play](https://www.youtube.com/watch?v=VzFA11pQIIo)*, 2006.
 * Find game players with bpm
 * Tinapple breath debate = video + data
+* Visual hulls for thermal carving
+* sensing normal polarization lens sense normals
+* marios sarrides - face scanner 
+* breathing life into 3d models, michael black
+* eulerian video magnification 
+* Artec Space Spider - Yaser's 3D scanner 
+* Yaser's other small scanner NextEngine 3DEngine Scanner
+* 3D printed zoetrope of multiple people
 
 [Pitt Orthopedics](http://www.engineering.pitt.edu/Sub-Sites/Labs/Orthopaedic_Robotics/Contact/) - contacted Drs. Musahl, Debski, Bell, and Miller...
 

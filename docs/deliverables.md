@@ -12,7 +12,7 @@ Our semester is organized around four main projects:
 
 All assignment submissions will take the form of pull requests on Github. For more information, please see [Submitting Work](submitting-work.md). In addition to the above, students are also expected to complete: 
 
-* One **[Technical Assistance Tutorial](tutorials.md)**.  
+* One "**[Technical Assistance Tutorial](tutorials-howto.md)**".  
 * Ten brief "**[Looking Outwards](looking-outwards.md)**" reports, on an approximately weekly schedule. 
 
 -- 

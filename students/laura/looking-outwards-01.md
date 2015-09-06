@@ -8,7 +8,9 @@
 ###My Thoughts
 I found this project interesting because of it examines the interplay between something very old (the concept of love) and something very new (social media). I have always felt that in today's society social media is over whelming and chaotic. Many use the internet to shout their own life and emotions, with little time of care spent listening to someone else. Tweets (or posts) are rarely connected, unless by hashtag. Even then, the hashtag can have many different meanings based on context. (Examining the different uses of hashtags seems like it might be an interesting project, but that’s for another time.)
 This project brings separate posts together into a stream of words and sound that creates the feeling of a unified subject, instead of simply a stream of narcissistic information about strangers. When I read about the project before viewing it, I thought it might show a unified society that, despite cultural differences, still fundamentally feels the same thing: love.
+
 I was disappointed. Mostly by my own optimism.
+
 Instead, within the first minute, I had a tweet that went along the lines of "@someone I love you follow me" followed by another that began "If you love levis you will love our new..."
 Instead, I felt like this project showed how easily we use the word 'love' and that it's use no longer is connected to a strong fundamental human emotion. Maybe this is different in languages such as spanish, where 'te amo' and 'te quiero' both mean 'I love you', but have different strengths, but most of the tweets I saw were in english, and seemed to range from silly to vulgar. Perhaps this was meant as a rude awakening to how our society is changing, but I would have liked to see the world in a more positive light. Maybe this is why I'm not on Twitter in the first place.
 

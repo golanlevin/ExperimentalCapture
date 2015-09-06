@@ -1,0 +1,9 @@
+# Looking Outwards 1: The Visual Microphone
+
+This Looking Outward reflects on the paper [The Visual Microphone: Passive Recovery of Sound from Video](LO1.pdf).
+
+The research group investigated methods of extracting environmental audio by analyzing the movement of objects due to sound wave pressure.  This analysis was performed on both high-speed recoded videos, and commodity DSLRs, taking advantage of the rolling shutters these cameras use to capture audio at a higher frequency than the camera's frame rate.
+
+The study limited itself to analyzing the vibrations of single objects which are in a space that is physically seperated from the source of the audio.  I would be very interested to see how analyzing the video of multiple items on a table would have affected the quality of the audio extracted.  If audio was being passively captured for a lunch meeting and their was a bag of chips, a cup, and a napkin, would analyzing these different vibrations and then compositing the results have provided a clearer audio output?  Or would it have introduced additional noise into the system?
+
+The paper presented its bibliographic peers interestingly given the fact that there were so many stages to the analysis.  Although there were many direct comparisons between the final passive solution the researchers developed and the active solutions that had been previously studied, there didn't appear to be much comment on why certain analysis methods were selected over their peers at each stage of the passive processing.  I would be interested to find out more about why these processing methods were selected by the research team, and whether the results could be improved further by mixing and matching different methods.

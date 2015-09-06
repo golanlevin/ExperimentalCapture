@@ -20,7 +20,7 @@ Laura is a Information Systems senior, minoring in Animation and Special Effects
 --
 ### Looking Outwards reports: 
 
-1. [TBD](looking-outwards-01.md)
+1. [Making Love: Poetry in Motion](looking-outwards-01.md)
 1. [TBD](looking-outwards-02.md) 
 1. [TBD](looking-outwards-03.md)
 1. [TBD](looking-outwards-04.md)

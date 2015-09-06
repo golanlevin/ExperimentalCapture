@@ -1,14 +1,15 @@
-# Your Name
+# Michelle Ma
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+I am currently a third year undergrad at Carnegie Mellon University studying computer science and visual art. I'm interested in 3D animation and in this class I'm looking forward to learning MEL scripting in order to generate forms based on human motion.
 
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Web Site: [michelledowswhat.com](http://www.michelledoeswhat.com)
+* Vimeo: [vimeo.com/michell3](http://www.vimeo.com/michell3)
+* Twitter: [@ma_michell3](http://twitter.com/ma_michell3)
 
 -- 
 ### Projects

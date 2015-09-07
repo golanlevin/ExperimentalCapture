@@ -1,5 +1,12 @@
 ## Tutorial: Using PyMEL to Generate Forms and Motion in Maya
 
+In this tutorial I will briefly introduce how to get started with scripting in Maya with a focus on Python commands. Below are some useful tutorials and references that helped me. Most of my tutorial will be derived from Casey Alt's tutorial, [Creating Form & Motion from Data using Maya + Python (2009)](http://u2325.com/tutorial/mayapython/1.html).
+
+In addition, I will go over importing CSVs into Maya, importing motion capture data, and generating basic forms using that data.
+
+--
+### Scripts
+* Import a CSV
 
 --
 ### References

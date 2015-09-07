@@ -52,10 +52,10 @@ Other documents:
 ### Some Imaging and Capture Techniques
 *This is a partial list of some of the capture technologies and techniques we will discuss this semester. Some of these pages are still under construction.*
 
-* Gesture recording and playback; 2D & 3D motion capture
+* [Gesture recording and playback; 2D & 3D motion capture](docs/gesture)
 * Silhouette (Blob) Tracking
 * Depth Sensors and RGBD
-* Photogrammetry and 3D scanning
+* [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)
 * [Overcranking (Slow-Motion)](docs/overcranking.md)
 * [Undercranking and Time Lapse](docs/undercranking.md)
 * [Long Exposure and Light Painting](docs/longexposure.md)
@@ -69,8 +69,8 @@ Other documents:
 * Multitrack Time
 * Slit Scanning
 * [Moving Cameras (shutter stroboscopy)](docs/moving-cameras.md)
-* Panoramic imaging, 360-degree, and environmental capture
-* Stereography & Binocular Imaging
+* [Panoramic imaging, 360-degree, and environmental capture](docs/environmental-capture.md)
+* [Stereography & Binocular Imaging](docs/Binocular-Sterography.md)
 * [Experimental Audio Capture](docs/audio.md)
 
 --

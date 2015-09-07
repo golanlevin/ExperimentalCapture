@@ -21,6 +21,8 @@
 * marios sarrides - face scanner 
 * breathing life into 3d models, michael black
 * eulerian video magnification 
+
+<del>
 * Artec Space Spider - Yaser's 3D scanner 
 * Yaser's other small scanner NextEngine 3DEngine Scanner
 * 3D printed zoetrope of multiple people
@@ -29,6 +31,9 @@
 * [*Late for Meeting* by David Lewandowski](https://www.youtube.com/watch?v=wBqM2ytqHY4)
 
 [Pitt Orthopedics](http://www.engineering.pitt.edu/Sub-Sites/Labs/Orthopaedic_Robotics/Contact/) - contacted Drs. Musahl, Debski, Bell, and Miller...
+
+</del>
+
 
 Portrait from motion capture: Merce Cunningham & Open-Ended Group
 
@@ -130,8 +135,9 @@ http://www.buzzfeed.com/danmeth/welcome-to-uncanny-valley#.mw59Yjg23
 * 4D Views		http://www.4dviews.com/	
 				
 				
-				
-### PHOTOGRAMMETRY ++ (Static scanning)				
+			
+### PHOTOGRAMMETRY ++ (Static scanning)
+<del>				
 * SketchUp>Photogrammetry		http://www.mastersketchup.com/why-google-doesnt-need-sketchup-anymore/	
 * Google Earth		https://www.youtube.com/watch?v=N6Douyfa7l8
 * Satellite		http://eijournal.sensorsandsystems.com/newsite/wp-content/uploads/2012/06/cover_section3_grx.jpg
@@ -145,7 +151,7 @@ http://www.buzzfeed.com/danmeth/welcome-to-uncanny-valley#.mw59Yjg23
 * LightField		http://www.theverge.com/2014/4/22/5625264/lytro-changed-photography-meet-the-new-illum-camera	
 * Raytrix		https://www.youtube.com/watch?v=7YIJg6Dp5ew
 * RGB+Z Cam		http://www.arri.com/news/news/prototype-motion-scene-camera/	
-				
+		
 				
 ### VR: People 			
 * EleVR	VR Research team	http://elevr.com/
@@ -177,28 +183,30 @@ http://www.buzzfeed.com/danmeth/welcome-to-uncanny-valley#.mw59Yjg23
 * Stitch		http://www.video-stitch.com/
 * BORGES		http://www.sccs.swarthmore.edu/users/08/bblonder/phys120/docs/borges.pdf	
 
+</del>	
 
 Unsorted: 
 
-* Face Dance Motion Capture & FaceShift https://www.youtube.com/watch?v=dplBh_rxoUc
-* Archive of museum 3D models http://sites.museum.upenn.edu/monrepos/evidence/evidence.html
+* <del> Face Dance Motion Capture & FaceShift https://www.youtube.com/watch?v=dplBh_rxoUc </del>
+* <del>Archive of museum 3D models http://sites.museum.upenn.edu/monrepos/evidence/evidence.html</del>
 * http://www.pbs.org/wgbh/nova/ancient/explore-ancient-egypt.html 
 
- tutorials on the photogrammetry work we did on Sunday. 
+ <del> tutorials on the photogrammetry work we did on Sunday. 
 
 https://vimeo.com/specularprojects/photoscan1
 https://vimeo.com/specularprojects/photoscan2
 
 https://www.youtube.com/watch?v=CrsVa3CzQj0
 https://vimeo.com/38360045 Snack and Drink
+</del>
 
 ### Binocular STEREOGRAPHY
 
 [![Michael Naimark at Gray Area Festival, 2015](http://img.youtube.com/vi/w-WPUus4Ebo/0.jpg)](http://www.youtube.com/watch?v=w-WPUus4Ebo)
-
+<del>
 * [Michael Naimark](https://www.youtube.com/watch?v=w-WPUus4Ebo) 
 * NYPL stereograms, gif generation tool
-
+</del>
 
 Portraiture Assignment (by James George)
 
@@ -225,12 +233,14 @@ subject, beyond what a normal photograph could? The environment, effects or geom
 Collaborate with and gain the trust of your subject. Make a good faith effort to show them their portrait when it’s complete.
 
 
-https://vimeo.com/123520067
+<del> https://vimeo.com/123520067 </del>
 
-https://www.youtube.com/watch?v=1rNSTizOsws
-https://github.com/ivaylopg/RGBDToolkit-to-Processing
+
+<del> https://github.com/ivaylopg/RGBDToolkit-to-Processing </del>
 
 <del> http://prostheticknowledge.tumblr.com/post/101297249296/computational-portraiture-a-class-at-nyu-itp-run </del>
+
+<del>
 
 KINECT FUSION:
 
@@ -264,7 +274,7 @@ Disadvantages
 - tools are not free and open
 - no real time feedback
 - more chaotic geometry
-
+</del>
 
 https://vimeo.com/109422156
 I used Element 3D. It lets you import OBJ files into after effects 
@@ -323,7 +333,7 @@ http://www.makehuman.org/
 https://github.com/obviousjim/OFGraphicsITP
 
 --------------
-
+<del>
 
 OBJ and PLY files are commonly used open 3D file formats. This is what we'll be working with in Computational Portraiture.
  
@@ -402,8 +412,8 @@ Kinect Fusion SDK -- http://www.microsoft.com/en-us/kinectforwindows/develop/dow
 http://monoskop.org/images/c/c4/Flusser_Vilem_Towards_a_Philosophy_of_Photography.pdf
 http://www.creativeapplications.net/tutorials/guide-to-meshes-in-cinder-cinder-tutorials/
 
-* [Kinect Fusion](https://msdn.microsoft.com/en-us/library/dn188670.aspx)
-* Photogrammetry with 123D catch
+</del>
+
 * FaceShift & Unity
  
  
@@ -449,8 +459,8 @@ Lozano hammer breath portrait
 Visit to CMOA photo archive?
 
 
-Time lapse panorama 
-http://www.amazon.com/Movo-MTP-10-Motorized-Panaromic-Rechargeable/dp/B00RNALPRC/
+<del> Time lapse panorama 
+http://www.amazon.com/Movo-MTP-10-Motorized-Panaromic-Rechargeable/dp/B00RNALPRC/ </del>
 
 View-dependent texturing
 Multi-camera arrays
@@ -490,8 +500,8 @@ Cinema4d, Netfabb, cura
 Scanify by fuel3d, Skanect, autodesk memento 
 
 
-
-Depth from stereo, 1930s-style: The [Stereoplotter](https://en.wikipedia.org/wiki/Stereoplotter)
+<del>
+Depth from stereo, 1930s-style: The [Stereoplotter](https://en.wikipedia.org/wiki/Stereoplotter)</del>
 
 Paul Debevec light field capture, reflectance capture
 
@@ -548,11 +558,15 @@ Golan Levin, Yellowtail
 Merce Cunningham & Open Ended Group
 Kyle McDonald & YCAM (mocap)
 
+
+
+<del>
 * Nobumichi Asai, [OMOTE 1](https://vimeo.com/103425574)
 * Nobumichi Asai, [OMOTE 2](https://vimeo.com/117029335)
 
+
 Kyle & Arturo Face Substitution
-https://vimeo.com/29348533
+https://vimeo.com/29348533 </del>
 
 GRL Laser Tag
 https://www.youtube.com/watch?v=cY6vfJAxtH8
@@ -572,8 +586,10 @@ Come into my world - Gondry
 http://imgur.com/LrpYIem selfie stick 
 900 mpixel portraits https://vimeo.com/94662582?ref=tw-share
 
+<del>
  Guillaume Reymond human tetris
  
+ </del>
 
 Perspective camera drawing machines 
 
@@ -582,7 +598,7 @@ Perspective camera drawing machines
 
 The [Human Clock](http://www.humanclock.com/) is a clock made from crowdsourced photographs. The [Photo'Clock](http://mono-1.com/photoclock/) is similar, by Mono-1.
 
-[Michael Kontopoulous, *Horizons*](https://vimeo.com/1609048)
+<del>[Michael Kontopoulous, *Horizons*](https://vimeo.com/1609048)</del>
 
 
 SLAM building reconstruction

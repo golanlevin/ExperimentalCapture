@@ -67,18 +67,26 @@ A list of references and viewings is available [here](object-references.md).
 
 Hardware Options: 
 
-* 3D Systems iSense 3D Scanner for iPad Mini Retina
-* Kinect (v1 and v2), with e.g. oF, p5, Kinect Fusion
+* [3D Systems iSense 3D Scanner for iPad Mini Retina](http://cubify.com/info/tutorialssense)
+* Kinect (v1 and v2)
+	* [oF](https://github.com/micuat/ofxActiveScan)
+	* p5 
+	* [Skanect (seems good for beginners)](http://skanect.occipital.com/)
+	* [Kinect Fusion (pc)](https://msdn.microsoft.com/en-us/library/dn188670.aspx)
+	* [other](https://sites.google.com/site/csekinect/)
 * Matter and Form 3D Scanner
 
-More difficult, but still available: 
+More difficult, but still available:
+
 * Pitt orthopedics
 * Yaser Sheikh 3d scanner
-* School of Art 3d scanner 
+* [School of Art 3d scanner at the DAS](http://www.cmu.edu/art/digital-arts-studio/3dscanning/index.html)
 
-Software tools
-* 123D Catch with your phone
-* Agisoft photoscan (professional edition)
+Software tools:
+
+* [123D Catch with your phone](http://www.123dapp.com/howto/catch)
+	* if you dont like 123D Catch - [Visual FSM & Meshlab] (http://www.instructables.com/id/Make-a-3D-model-from-pictures/?ALLSTEPS)
+* [Agisoft photoscan (professional edition)](https://www.youtube.com/watch?v=DzCeHFEUaro)
 
 
 

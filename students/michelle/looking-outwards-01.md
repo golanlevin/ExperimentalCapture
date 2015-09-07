@@ -29,8 +29,3 @@ I had the pleasure of experiencing these projects at the 2015 conference. It is 
 Haptomime also reminded me of a simple technique of creating holograms using an LCD that I would like to investigate.
 
 [![Creating holograms](http://img.youtube.com/vi/7YWTtCsvgvg/0.jpg)](https://www.youtube.com/watch?v=7YWTtCsvgvg)
-=======
-# Looking Outwards 01
-
-### Project (WIP)
-

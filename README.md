@@ -31,14 +31,19 @@ At the conclusion of this course, students will be able to
 ### Course Logistics
 
 * [**Deliverables**](docs/deliverables.md)
+* [**Student Area**](students/index.md)
+* [**Tutorials**](docs/tutorials.md)
+* [**Calendar**](docs/calendar.md)
+* [**Readings**](docs/readings.md)
+
+Other documents: 
+
 * [Course Policies](docs/policies.md)
-* [Course Calendar](docs/calendar.md)
 * [Course Lab Fee](docs/course-fee.md)
 * [Submitting Work](docs/submitting-work.md)
 * [Course Code base](code/index.md)
 * [Room Reservation](docs/equipment.md)
 * [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md)
-* [Student Area](students/index.md)
 
 *[Lecture notes](docs/lecture-notes.md)*
 
@@ -70,7 +75,6 @@ At the conclusion of this course, students will be able to
 --
 ### Artistic Idioms and Questions 
 
-* [Readings](docs/readings.md)
 * [Perspective Capture and Representation](docs/perspective.md)
 * *What is a camera?*
 * *[Still Life](docs/object-references.md)*

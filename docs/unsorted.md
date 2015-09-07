@@ -24,6 +24,9 @@
 * Artec Space Spider - Yaser's 3D scanner 
 * Yaser's other small scanner NextEngine 3DEngine Scanner
 * 3D printed zoetrope of multiple people
+* [bodies from mocap](http://thecreatorsproject.vice.com/blog/open-motion-capture-data-becomes-a-surreal-3d-short-film)
+* [*Going to the Store* by David Lewandowski](https://www.youtube.com/watch?v=iRZ2Sh5-XuM)
+* [*Late for Meeting* by David Lewandowski](https://www.youtube.com/watch?v=wBqM2ytqHY4)
 
 [Pitt Orthopedics](http://www.engineering.pitt.edu/Sub-Sites/Labs/Orthopaedic_Robotics/Contact/) - contacted Drs. Musahl, Debski, Bell, and Miller...
 

@@ -15,5 +15,6 @@ In addition, I will go over importing CSVs into Maya, importing motion capture d
 
 --
 ### Tutorials
+* [The Autodesk Scripting and SDK Learning Channel](https://www.youtube.com/channel/UCn_SncP23QP819Y__Ew7VIA)
 * [Up and Running with MEL Scripting in Maya (2015)](http://www.lynda.com/Maya-tutorials/Up-Running-MEL-Scripting-Maya/180106-2.html)
 * [Creating Form & Motion from Data using Maya + Python (2009)](http://u2325.com/tutorial/mayapython/1.html)

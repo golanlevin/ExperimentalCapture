@@ -55,6 +55,9 @@ While an MFA student at CMU, [David Tinapple](http://herbergerinstitute.asu.edu/
 
 ![David Tinapple](images/image-averaging/tinapple-video-faces.jpg)<br />
 
+Through Animation
+
+* [Play by R. Luke DuBois (2006)](https://www.youtube.com/watch?v=VzFA11pQIIo)
 
 #### Expanded Automation with Image Search
 

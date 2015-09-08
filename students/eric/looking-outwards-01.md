@@ -8,6 +8,6 @@ According to the article, Erin Robinson Swink wanted to create a game that felt 
 
 The main driving force behind the production of this game was that Erin wanted to make a game where violence and failure did not drive the gameplay.  On the game’s website, she mentions how “*Gravity Ghost* is a game to soothe your senses.  There’s no killing.  No dying, No way to fail.  Just hours of blissing out to buttery-smooth gravity goodness.”  Instead, since she has a background in experimental psychology (interested in the intersection between neuroscience and video games, she used to work as a research assistant in a neuroscience lab), she focused on how to make a game feel rewarding without killing something.  There’s no way to fail, and also due to her background in psychology much of the game focuses on the fear of death and tragedy, which is tied with the sense of loneliness felt in the game and unconventional story.  The game was actually conceptualized through her view that the world is tiny, and from various sketches to a test in the Unity software she took out the health, lives, enemies, and death and placed her characters in a large lonely world.  If there was any inspiration, it was her background in psychology in addition to all of the games which she felt were based on rewarding kills.
 
-[Link](http://thecreatorsproject.vice.com/blog/gore-free-indie-game-gives-a-childs-view-into-the-afterlife) to article
+[Link to article](http://thecreatorsproject.vice.com/blog/gore-free-indie-game-gives-a-childs-view-into-the-afterlife)
 
-[Link](https://www.youtube.com/watch?v=GzTPdIld_gQ) to video trailer
+[Link to video trailer](https://www.youtube.com/watch?v=GzTPdIld_gQ)

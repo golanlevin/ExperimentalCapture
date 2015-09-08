@@ -35,6 +35,7 @@ At the conclusion of this course, students will be able to
 * [**Tutorials**](docs/tutorials.md)
 * [**Calendar**](docs/calendar.md)
 * [**Readings**](docs/readings.md)
+* [*Google group*](https://groups.google.com/d/forum/experimental-capture)
 
 Other documents: 
 

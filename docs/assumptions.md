@@ -28,4 +28,4 @@ In this course on "Experimental Capture", we aim to *question the basic assumpti
 
 
 
-https://vimeo.com/134973504
+[Eyeo 2015 – James George] (https://vimeo.com/134973504)

@@ -1,14 +1,12 @@
-# Your Name
+# Ariel Tian
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
-
+I am a junior computer science major pursuing an IDEATE minor in animation and special effects. I'm on the CMU Track and Field varsity team and I love playing and watching sports (especially football, I'm a huge Patriots fan). 
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Facebook: [Link to Facebook](https://www.facebook.com/ariel.tian.3)
 
 -- 
 ### Projects
@@ -20,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed l
 --
 ### Looking Outwards reports: 
 
-1. [apple](looking-outwards-01.md)
+1. [An App that Detects Boredom](looking-outwards-01.md)
 1. [bear](looking-outwards-02.md) 
 1. [cat](looking-outwards-03.md)
 1. [dog](looking-outwards-04.md)

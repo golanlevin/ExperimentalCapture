@@ -31,14 +31,20 @@ At the conclusion of this course, students will be able to
 ### Course Logistics
 
 * [**Deliverables**](docs/deliverables.md)
+* [**Student Area**](students/index.md)
+* [**Tutorials**](docs/tutorials.md)
+* [**Calendar**](docs/calendar.md)
+* [**Readings**](docs/readings.md)
+* [*Google group*](https://groups.google.com/d/forum/experimental-capture)
+
+Other documents: 
+
 * [Course Policies](docs/policies.md)
-* [Course Calendar](docs/calendar.md)
 * [Course Lab Fee](docs/course-fee.md)
 * [Submitting Work](docs/submitting-work.md)
 * [Course Code base](code/index.md)
 * [Room Reservation](docs/equipment.md)
 * [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md)
-* [Student Area](students/index.md)
 
 *[Lecture notes](docs/lecture-notes.md)*
 
@@ -46,10 +52,10 @@ At the conclusion of this course, students will be able to
 ### Some Imaging and Capture Techniques
 *This is a partial list of some of the capture technologies and techniques we will discuss this semester. Some of these pages are still under construction.*
 
-* Gesture recording and playback; 2D & 3D motion capture
+* [Gesture recording and playback; 2D & 3D motion capture](docs/gesture)
 * Silhouette (Blob) Tracking
 * Depth Sensors and RGBD
-* Photogrammetry and 3D scanning
+* [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)
 * [Overcranking (Slow-Motion)](docs/overcranking.md)
 * [Undercranking and Time Lapse](docs/undercranking.md)
 * [Long Exposure and Light Painting](docs/longexposure.md)
@@ -63,17 +69,16 @@ At the conclusion of this course, students will be able to
 * Multitrack Time
 * Slit Scanning
 * [Moving Cameras (shutter stroboscopy)](docs/moving-cameras.md)
-* Panoramic imaging and environmental capture
-* Stereography
-* Binaural and Ambisonic Sound
+* [Panoramic imaging, 360-degree, and environmental capture](docs/environmental-capture.md)
+* [Stereography & Binocular Imaging](docs/Binocular-Sterography.md)
+* [Experimental Audio Capture](docs/audio.md)
 
 --
 ### Artistic Idioms and Questions 
 
-* [Readings](docs/readings.md)
 * [Perspective Capture and Representation](docs/perspective.md)
 * *What is a camera?*
-* *Still Life*
+* *[Still Life](docs/object-references.md)*
 * *[Portraiture](docs/portraits.md)*
 * *Landscape*
 

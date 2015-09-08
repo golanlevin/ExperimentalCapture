@@ -184,6 +184,19 @@ Polarization is a property of light which describes, not its frequency or wavele
 ![Polarized light eliminates reflections](images/circular-polarizer.jpg)<br />
 Polarized light eliminates reflections. Here, a circular polarizer eliminates reflections on water, making another world visible beneath. From ["Removing Glare with a Circular Polarizer"](https://nicolesyblog.com/2014/07/24/removing-glare-with-a-circular-polarizer-filter/), which includes a nice [video](https://www.youtube.com/watch?v=ZC6DNx0F1o0). 
 
+By computing the difference between images of scenes taken with and without polarizations, it's possible to cleave the diffuse appearance of an object from its specular appearance. The images below, taken from "[How To Split Specular And Diffuse In Real Images](http://filmicgames.com/archives/233)", show how this can be done. The first image is the 'regular' appearance, and then (through image differencing) the diffuse-only and specular-only images. 
+
+![Ordinary image of scissors](images/scissor-both.jpg)<br />
+![Diffuse image of scissors](images/scissor-diff.jpg)<br />
+![Specular image of scissors](images/scissor-spec.jpg)<br />
+
+You can see this technique applied to a human face in [this video](https://www.youtube.com/watch?v=piJ4Zke7EUw) of the photoreal Digital Emily Project.
+
+Incidentally, there are some [other very clever ways of separating specular from diffuse appearances](http://www.mit.edu/~yzli/ECCV02-Sep.pdf) of objects.
+
+
+#### Transmissive Polarized Light: Visualizing Stress
+
 Polarized light can also reveal internal stresses in (clear) materials, in a phenomenon known as [*photoelasticity*](https://en.wikipedia.org/wiki/Photoelasticity). Here's a plastic ruler between cross-polarized filters:
 
 ![Polarized light stress analysis](images/stress-anaylsis.jpg)<br />

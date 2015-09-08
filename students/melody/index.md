@@ -16,4 +16,4 @@ Facebook: Melody Ting
 --
 ### Looking Outwards reports: 
 
-1. (looking_outwards.md) Looking Outwards 1: Oil workers (from the Shell company of Nigeria) returning home from work, caught in torrential rain, 2013
+1. Looking Outwards 1: Oil workers (from the Shell company of Nigeria) returning home from work, caught in torrential rain, 2013

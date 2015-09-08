@@ -67,18 +67,126 @@ A list of references and viewings is available [here](object-references.md).
 
 Hardware Options: 
 
-* 3D Systems iSense 3D Scanner for iPad Mini Retina
-* Kinect (v1 and v2), with e.g. oF, p5, Kinect Fusion
+* [3D Systems iSense 3D Scanner for iPad Mini Retina](http://cubify.com/info/tutorialssense)
+* Kinect (v1 and v2)
+	* [oF](https://github.com/micuat/ofxActiveScan)
+	* [p5](https://github.com/ivaylopg/RGBDToolkit-to-Processing)
+	* [Skanect (seems good for beginners)](http://skanect.occipital.com/)
+	* [Kinect Fusion (pc)](https://www.youtube.com/watch?v=of6d7C_ZWwc	) [more info](https://msdn.microsoft.com/en-us/library/dn188670.aspx) 
+       - Fast to process
+		- Regular geometry
+		- real time feedback
+		- non cloud based
+		- free tool
+		- limited scale
+		- does not work in sunlight
+		- color is not very good
+		- requires specific sensor with wall power
+		- no texture map, per vertex color
+		- [more on kinect fusion sdk](http://www.microsoft.com/en-us/kinectforwindows/develop/downloads-docs.aspx)
+	* [DepthKit](http://depthkit.tv/)
+		* [Depthkit js](https://vimeo.com/123520067)
+
+
 * Matter and Form 3D Scanner
 
-More difficult, but still available: 
-* Pitt orthopedics
-* Yaser Sheikh 3d scanner
-* School of Art 3d scanner 
+More difficult, but still available:
 
-Software tools
-* 123D Catch with your phone
-* Agisoft photoscan (professional edition)
+* [Pitt Orthopedics](http://www.engineering.pitt.edu/Sub-Sites/Labs/Orthopaedic_Robotics/Contact/)
+* [Artec Space Spider] (https://www.youtube.com/watch?v=socspJqfkNE) (thanks to Yaser Sheikh) 3d scanner
+* [School of Art 3d scanner at the DAS](http://www.cmu.edu/art/digital-arts-studio/3dscanning/index.html)
+
+Software tools:
+
+* [123D Catch ](http://www.123dapp.com/howto/catch) works with any regular camera, even your cell phone
+	
+	- works at any scale
+	- works outside
+	- generates a texture map
+	- Photographic quality in color 
+	- slow to process
+	- cloud based
+	- dense geometry
+	- tools are not free and open
+	- no real time feedback
+	- more chaotic geometry 
+
+* if you dont like 123D Catch - [Visual FSM & Meshlab] (http://www.instructables.com/id/Make-a-3D-model-from-pictures/?ALLSTEPS)
+* [Agisoft photoscan (professional edition)](https://www.youtube.com/watch?v=DzCeHFEUaro)
+  * [Tutorial from Specular](https://vimeo.com/specularprojects/photoscan1)
+  * [part 2 of Specular tutorial](https://vimeo.com/specularprojects/photoscan2)
+
+
+### After its Scanned What Can I Do?
+(all of the following is from James George)
+
+OBJ and PLY files are commonly used open 3D file formats.
+
+The free tool MeshLab provides a very handy way to convert formats. It's like a 3D pocket knife. We'll be using it not just for converting 3D files to different formats, but also reducing and combining meshes. *see below for how to reduce meshes using a few other applications
+
+[Here](https://www.youtube.com/playlist?list=PLBBF41579E4B65566) are some more comprehensive tutorials for cleaning geometry in MeshLab
+
+
+After capturing your geo, the following links will help you get it into your preferred application
+
+* [Unity3d](https://unity3d.com/)
+Supports OBJ like any other 3D file format!
+
+* Processing
+The Saito OBJ loader
+[Processing Library](https://code.google.com/p/saitoobjloader/)
+[Tutorial Video]( https://www.youtube.com/watch?v=6VSaneuiaWs) (scrub to 3:30 for the good stuff)
+
+* OpenFrameworks
+The ofMesh and ofVboMesh objects support PLY's with color with the mesh .load() function. This is what you saw in class.
+	* The built in addon ofxAssimpModelLoader also works on OBJ files
+
+* [Satoru HIga has a nice OBJ loader addon:]
+(https://github.com/satoruhiga/ofxObjLoader)
+
+* Cinder
+   * [Cinder has built in support for OBJ]
+(http://libcinder.org/docs/v0.8.3/classcinder_1_1_obj_loader.html)
+
+    * [There is also a Mesh extension block that supports PLY] (https://github.com/simongeilfus/Cinder-OpenMesh)
+    * [Meshes in cinder tutorial] (http://www.creativeapplications.net/tutorials/guide-to-meshes-in-cinder-cinder-tutorials/)
+
+* 3D Printing
+	* NetFabb will help you clean up models if you wish to 3D print them. You'll want to take them through the STL format in MeshLab
+[http://www.netfabb.com/downloadcenter.php?basic=1](http://www.netfabb.com/downloadcenter.php?basic=1)
+
+Creative Tools:
+Many applications support OBJ (and sometimes PLY files)
+
+* Photoshop (really!)
+Photoshop natively supports importing and painting on 3D files! Check out [this tutorial](https://www.youtube.com/watch?v=mD39wgDoiHE)
+
+* After Effects
+The 3D Animator Pro plugin (they offer a free trial) accepts OBJ files [video ](https://www.youtube.com/watch?v=eEQUba16V5o)
+
+* Plexus is an amazing tool for After Effects that works on 3D geometry [video](https://www.youtube.com/watch?v=44hz_fsjX7o)
+
+* There is also mesh reduction tutorial for the free program Blender [video]
+(https://www.youtube.com/watch?v=ttU6Gz1W0Xw)
+
+Programs like Maya, Cinema4D, Houdini, 3D Studio Max, Modo also work well with OBJ files but are beyond the scope of what we expect to teach in this class. But if you know these programs, by all means use them for your portraits.
+
+--------------------------
+
+Alignment
+
+* [Meshlab 3D Scanning: Alignment] (http://youtu.be/4g9Hap4rX0k)
+* [Alignment and Registration in CloudCompare] (http://www.danielgm.net/cc/doc/wiki/index.php5?title=Alignment_and_Registration )
+   * I've found that CloudCompare is really good for loading large pointclouds or found research data in lasercanning formats like .las, .xyz etc. and it will do a great job with Kinect or photogrammetry pointclouds. 
+
+Reduction & Remeshing
+
+* Poisson Reconstruction in Meshlab - This is a good general purpose approach for Kinect or other pointclouds. Can also be used to combine meshes when used after "flatten visible layers" in Meshlab. 
+
+Color
+
+ * [MeshLab Features: Vertex Attribute Transfer](
+http://youtu.be/sKKmJdsk7Tg?list=UU70CKZQPj_ZAJ0Osrm6TyTg)
 
 
 

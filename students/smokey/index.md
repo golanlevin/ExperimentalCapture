@@ -18,4 +18,4 @@ Hey, I'm Smokey. That's a nickname. I'm in the Emerging Media program on a track
 --
 ### Looking Outwards reports: 
 
-1. [BUMP Music Video](/LookingForward/1-BumpMusicVideo.md)
+1. [BUMP Music Video](students/smokey/LookingForward/1-BumpMusicVideo.md)

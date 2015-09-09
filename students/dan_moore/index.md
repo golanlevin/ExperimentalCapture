@@ -19,7 +19,7 @@ Dan Moore is a Brooklyn-based media artist.  His experience building interactive
 --
 ### Looking Outwards reports: 
 
-1. [apple](looking-outwards-01.md)
+1. [Adam Magyar's High Speed Study](looking-outwards-01.md)
 1. [bear](looking-outwards-02.md) 
 1. [cat](looking-outwards-03.md)
 1. [dog](looking-outwards-04.md)

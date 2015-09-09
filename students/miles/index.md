@@ -1,21 +1,21 @@
-# Your Name
+# Miles Peyton
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+I am a third year BCSA (art + computer science) student. I use digital materials and processes to create situations for animals, objects and bots. 
 
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Web Site: [http://mileshiroo.info](http://mileshiroo.info)
+* Twitter: [@mileshiroo](http://twitter.com/mileshiroo)
 
 -- 
 ### Projects
 
-* [Object](project1.md): *Shoe*
-* [Person in Time](project2.md): *My Sister*
-* [Place](project3.md): *Interesting Stairwell*
+* [Object](project1.md): *Nothing yet!*
+* [Person in Time](project2.md): *Nothing yet!*
+* [Place](project3.md): *Nothing yet!*
 
 --
 ### Looking Outwards reports: 

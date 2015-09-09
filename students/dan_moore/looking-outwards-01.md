@@ -1,6 +1,6 @@
 ##Looking Outward
 
-[Adam Magyar](http://www.magyaradam.com/) is a Hungarian artist and photographer experimenting with slow motion photography.  Magyar uses high speed photography to captures his subjects in urban areas.  Magyar's series _Stainless_ and _Array_ focuses on individuals in public transit and public space. 
+[Adam Magyar](http://www.magyaradam.com/) is a Hungarian artist and photographer experimenting with slow motion photography.  Magyar uses high speed photography to capture his subjects in urban areas.  Magyar's series _Stainless_ and _Array_ focuses on individuals utilizing public transit. 
 
 The work captures the emotions and expressions of people in transit.  The moments when individuals are focused on their destinations and simply passing through space without interacting with the environment or the other individuals in the space.  The work shows the stark contrast between adults and children in public space.  In the Alexanderplatz capture we see the stoic adults waiting for a train while a child runs and plays with the environment.  It comments on loss of the exploration and intrigue as we transition to adults.  In _Array #1_ we see the exhausted public moving as a group but individually isolated from one another with each person listening to some form of personalized audio via headphones.  The project's black and white aesthetic invokes this haunting feeling in the viewer.  
 

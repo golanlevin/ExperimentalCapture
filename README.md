@@ -5,7 +5,7 @@ Prof. [Golan Levin](http://flong.com), Carnegie Mellon University, Fall 2015. <b
 Course numbers: 16-461 (Robotics Institute), 60-461/761 (Art) <br />
 M/W 1:30-2:50pm, in HL-A10A and the STUDIO (CFA-111). <br />
 Email: golan at andrew dot cmu dot edu <br />
-Twitter: @[golan](twitter.com/golan) & @[golancourses](twitter.com/golancourses)
+Twitter: @[golan](https://twitter.com/golan) & @[golancourses](https://twitter.com/golancourses)
 
 > <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and hyperspectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays. Please note that there are usage/materials fees associated with this course.</small>
 
@@ -52,7 +52,7 @@ Other documents:
 ### Some Imaging and Capture Techniques
 *This is a partial list of some of the capture technologies and techniques we will discuss this semester. Some of these pages are still under construction.*
 
-* [Gesture recording and playback; 2D & 3D motion capture](docs/gesture)
+* [Gesture recording and playback; 2D & 3D motion capture](docs/gesture.md)
 * Silhouette (Blob) Tracking
 * Depth Sensors and RGBD
 * [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)

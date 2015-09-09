@@ -15,5 +15,5 @@ This installation allows the participant to visually immerse himself in a three-
 
 ## Sources
 [http://www.danielsteegmann.info/works/41/index.html](http://www.danielsteegmann.info/works/41/index.html)  
-[https://vimeo.com/119324295](https://vimeo.com/119324295)
+[https://vimeo.com/119324295](https://vimeo.com/119324295)  
 [https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)](https://en.wikipedia.org/wiki/The\_Sword\_of\_Damocles\_(virtual\_reality))

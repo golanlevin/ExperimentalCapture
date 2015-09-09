@@ -328,7 +328,7 @@ https://www.stickmanventures.com/labs/demo/webgl-threejs-morph-target/#
 
 https://vimeo.com/56143282
 
-http://www.makehuman.org/ 
+<del> http://www.makehuman.org/ </del>
 
 https://github.com/obviousjim/OFGraphicsITP
 

@@ -1,14 +1,14 @@
-# Your Name
+# Ben Snell
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+I'm interested in understanding how we perceive and interact with our environments and how we can manipulate the objects around us to facilitate certain behaviors or experiences. My jam? Physical computing, speculative design and cognitive psychology. Bam!
 
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Web Site: [http://ben-snell.com](http://ben-snell.com)
+* Twitter: [@lleusueq](http://twitter.com/lleusueq)
 
 -- 
 ### Projects

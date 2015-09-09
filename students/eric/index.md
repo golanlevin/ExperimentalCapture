@@ -1,14 +1,15 @@
-# Your Name
+# Eric Yu
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+An Information Systems major at Carnegie Mellon who intends to become an Animation minor.  Very interested in seeing how emotion can be depicted through scenes, objects, and characters.
 
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Vimeo: [Here!](https://vimeo.com/home/myvideos)
+* LinkedIn: [Here!](https://www.linkedin.com/profile/view?id=AAIAABeB780B13CFCzczXrC4in6YTmCHsfjTDQ0&trk=nav_responsive_tab_profile)
+* Email: ey@andrew.cmu.edu
 
 -- 
 ### Projects

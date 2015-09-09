@@ -1,14 +1,18 @@
-# Your Name
+# Miranda Jacoby
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+I have a strong interest in biological subjects, from the beauty of birds to the depths of disease, and I use these elements of life to create fantastic creatures, new worlds, and the occasional thoughtful experience. A sense of humor is always welcome.
+
+I'm also interested in the intersection between production management and creative vision, and am always excited to explore new methods of animation to understand differences in production requirements and visual styles.
+
+Remember: Birds are the best. Pigeons especially.
 
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Web Site: [http://be.net/mirandajacoby](http://be.net/mirandajacoby)
+* Twitter: [@PracticalPigeon](https://twitter.com/PracticalPigeon?lang=en)
 
 -- 
 ### Projects
@@ -20,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed l
 --
 ### Looking Outwards reports: 
 
-1. [apple](looking-outwards-01.md)
+1. [Olars, Kinetic Toy & Evolution Simulation](looking-outwards-01.md)
 1. [bear](looking-outwards-02.md) 
 1. [cat](looking-outwards-03.md)
 1. [dog](looking-outwards-04.md)

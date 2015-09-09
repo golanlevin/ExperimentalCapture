@@ -6,7 +6,6 @@ I read through all the papers from SIGGRAPH 2014 about shapes because I'm intere
 <a href="http://s2014.siggraph.org/attendees/technical-papers/sessions/shape-collection">They're listed here.</a> You can find the papers themselves on ACM.
 
 ![shapes](images/shapes1.png)
-![shapes](images/shapes2.png)
 
 There's a really promising field of research of the automatic segmentation and labeling of 3D models. Many algorithms are being developed to computationally recognize and learn about the shapes of objects. 
 

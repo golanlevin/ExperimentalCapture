@@ -11,7 +11,7 @@
 #### Gesture/Movement Capture Equipment
 
 * Hokuyo URG-04LX-UG01 Scanning Laser Rangefinder **[Dan_Moore]**
-* Leap Motion Controller
+* Leap Motion Controller **[Ryan]**
 * Wacom Inkling Digital Sketch Pen (MDP123) **[Miranda]**
 * 9 Degrees of Freedom - Razor IMU
 * Adafruit Ultimate GPS Logger Shield

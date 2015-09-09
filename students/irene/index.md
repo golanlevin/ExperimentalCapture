@@ -8,7 +8,7 @@ I'm a first year masters student in the Emerging Media program, Interactions in 
 ### Contact
  
 * Web Site: [coming soon](coming soon)
-* Twitter: [@yirealva](https://twitter.com/ire_alva)
+* Twitter: [@ire_alva](https://twitter.com/ire_alva)
 
 -- 
 ### Projects

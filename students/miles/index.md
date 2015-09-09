@@ -20,7 +20,7 @@ I am a third year BCSA (art + computer science) student. I use digital materials
 --
 ### Looking Outwards reports: 
 
-1. [apple](looking-outwards-01.md)
+1. [Driving High-Resolution Facial Scans With Video Performance Capture](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/miles/looking-outwards-01.md)
 1. [bear](looking-outwards-02.md) 
 1. [cat](looking-outwards-03.md)
 1. [dog](looking-outwards-04.md)

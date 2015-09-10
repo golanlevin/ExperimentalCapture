@@ -11,6 +11,7 @@
 * [Bodies from mocap](http://thecreatorsproject.vice.com/blog/open-motion-capture-data-becomes-a-surreal-3d-short-film)
 * [All Things Fall by Mat Collishaw] (https://vimeo.com/125791075) 3D printed zoetrope
 * [46°41’58.365″ lat. -91°59’49.0128″ long. @ 30m by David Bowen ](http://www.creativeapplications.net/objects/longitude-and-latitude-david-bowens-cnc-routed-sculptures-capture-the-waves/)CNC'd water surfaces from picture
+* [*Brilliant Noise* by SemiConductor](http://www.vdb.org/titles/brilliant-noise) (a hyperspectral portrait of the Sun)
 
 ### Other 3d obj to consider
 * [Archive of museum 3D models] (http://sites.museum.upenn.edu/monrepos/evidence/evidence.html)

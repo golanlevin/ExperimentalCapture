@@ -21,6 +21,8 @@
 * marios sarrides - face scanner 
 * breathing life into 3d models, michael black
 * eulerian video magnification 
+* [Digital portraits by Chris Coleman](https://www.flickr.com/photos/digitalcoleman/albums/72157656141589104)
+* 
 
 
 ### CONCEPTUAL CAMERAS (NEW):

@@ -11,7 +11,19 @@
 * [Bodies from mocap](http://thecreatorsproject.vice.com/blog/open-motion-capture-data-becomes-a-surreal-3d-short-film)
 * [All Things Fall by Mat Collishaw] (https://vimeo.com/125791075) 3D printed zoetrope
 * [46°41’58.365″ lat. -91°59’49.0128″ long. @ 30m by David Bowen ](http://www.creativeapplications.net/objects/longitude-and-latitude-david-bowens-cnc-routed-sculptures-capture-the-waves/)CNC'd water surfaces from picture
-* [*Brilliant Noise* by SemiConductor](http://www.vdb.org/titles/brilliant-noise) (a hyperspectral portrait of the Sun)
+
+### Large and Small
+
+In capturing representations of objects, keep in mind that the world of the microscope and the telescope are available to you.
+
+* [*Brilliant Noise*](https://vimeo.com/1284717), a hyperspectral portrait of the Sun, by SemiConductor (Ruth Jarman and Joe Gerhardt, 2006)
+* *[Snowtime](https://vimeo.com/87342468)*, Microscopic timelapse of snowflakes forming, by Slava Ivanov (2014)
+* *[Daphnia](https://vimeo.com/136739473)*, high-speed microvideography of a water-flea, by Slava Ivanov (2015)
+
+
+
+from  PLUS  1 year ago / Creative Commons License: by nc  NOT YET RATED
+
 
 ### Other 3d obj to consider
 * [Archive of museum 3D models] (http://sites.museum.upenn.edu/monrepos/evidence/evidence.html)

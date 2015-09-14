@@ -37,3 +37,16 @@ Closely related to this project is *[The Unoptic Camera](http://cl.ly/1h2Q0q0h1J
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ColrQao4Hlg" target="_blank"><img src="http://img.youtube.com/vi/ColrQao4Hlg/0.jpg" width="640" height="480" border="0" /></a><br />
 
+--
+
+### Image Fulgurator
+
+Julius von Bismarck's *[Image Fulgurator](http://juliusvonbismarck.com/fulgurator/)* (2007) is a device for physically manipulating photographs. It intervenes when a photo is being taken, without the photographer being able to detect anything. The manipulation is only visible on the photo afterwards.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=c6RC6pSHijY" target="_blank"><img src="http://img.youtube.com/vi/c6RC6pSHijY/0.jpg" width="640" height="480" border="0" /></a><br />
+
+von Bismarck writes: 
+
+> In principle, the Fulgurator can be used anywhere where there is another camera nearby that is being used with a flash. It operates via a kind of reactive flash projection that enables an image to be projected on an object exactly at the moment when someone else is photographing it. The intervention is unobtrusive because it takes only a few milliseconds. Every photo another photographer takes of an object at which the Fulgurator is also aimed is affected by the manipulation. Hence visual information can be smuggled unnoticed into the images of others.
+
+

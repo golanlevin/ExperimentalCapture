@@ -4,19 +4,21 @@
 
 ---
 
-![Rain Room](2-2.png)
+![Rain Room](2-2.png)  
 Rain Room (2012)  
 *source: https://vimeo.com/51830893*
 
-![Rain Room](2-1.png)
+![Rain Room](2-1.png)  
 Rain Room (2012)  
 *source: https://vimeo.com/51830893*
 
-![MIT's Digital Water Pavillion](2-3.jpg)
+---
+
+![MIT's Digital Water Pavillion](2-3.jpg)  
 MIT's Digital Water Pavillion (2008)  
 *source: http://sap.mit.edu/article/standard/building-made-water*
 
-![MIT's Digital Water Pavillion](2-4.jpg)
+![MIT's Digital Water Pavillion](2-4.jpg)  
 MIT's Digital Water Pavillion (2008)  
 *source: http://sap.mit.edu/article/standard/building-made-water*  
 

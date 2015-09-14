@@ -9,7 +9,7 @@ Twitter: @[golan](https://twitter.com/golan) & @[golancourses](https://twitter.c
 
 > <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and hyperspectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays. Please note that there are usage/materials fees associated with this course.</small>
 
-*This syllabus contains many contributions from [James George](http://jamesgeorge.org/) and [Alexander Porter](http://alexanderporter.net/) (of [Specular.cc](http://www.specular.cc/)), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Kyle McDonald](http://kylemcdonald.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), and others.*
+*This syllabus contains many contributions from [James George](http://jamesgeorge.org/) and [Alexander Porter](http://alexanderporter.net/) (of [Specular.cc](http://www.specular.cc/)), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Kyle McDonald](http://kylemcdonald.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Suzie Silver](http://suziesilver.com/), and others.*
 
 --
 ### Learning Objectives
@@ -49,9 +49,10 @@ Other documents:
 *[Lecture notes](docs/lecture-notes.md)*
 
 --
-### Some Imaging and Capture Techniques
+### Lectures
 *This is a partial list of some of the capture technologies and techniques we will discuss this semester. Some of these pages are still under construction.*
 
+* [Conceptual Cameras](docs/conceptual-cameras.md)
 * [Gesture recording and playback; 2D & 3D motion capture](docs/gesture.md)
 * Silhouette (Blob) Tracking
 * Depth Sensors and RGBD

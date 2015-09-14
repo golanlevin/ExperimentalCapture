@@ -20,4 +20,5 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 --
 ### Looking Outwards reports: 
 
-1. [Looking Outwards #1](looking-outwards-01.md)
+1. [Phantom *(kingdom of all the animals and all the beasts is my name)* by Daniel Steegmann Mangrané (2015)](looking-outwards-01.md)
+2. [Rain Room by Random International (2012)](looking-outwards-02.md)

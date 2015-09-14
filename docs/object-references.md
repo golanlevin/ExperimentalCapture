@@ -18,16 +18,15 @@ Perhaps less common is the kind of conceptual leap that's made when an artist li
 
 ![David Bowen's Wave](images/bowen-wave.jpg)<br />
 
-
 --
 
 #### Various still lifes by Samantha Taylor-Johnson
 
-3D scanning is cool and I'mma let you finish, but
+3D scanning is cool and I'mma let you finish, but it's not the only option available to us in *Experimental Capture*. Consider, for example, [time-lapse](undercranking.md). 
 
 Samantha Taylor-Johnson (also known as Sam Taylor-Wood) has created some exceptional time-lapse still-lifes which make heavy reference to the history of painting: 
-* [*Still Life* (2001)](https://www.youtube.com/watch?v=pXPP8eUlEtk)
-* [*A Little Death* (2002)](https://www.youtube.com/watch?v=01tx6u3lasM)
+* [*Still Life*](https://www.youtube.com/watch?v=pXPP8eUlEtk) (2001)
+* [*A Little Death*](https://www.youtube.com/watch?v=01tx6u3lasM) (2002)
 
 [![Still Life, 2001](http://img.youtube.com/vi/pXPP8eUlEtk/0.jpg)](http://www.youtube.com/watch?v=pXPP8eUlEtk)
 
@@ -47,9 +46,11 @@ In capturing representations of objects, keep in mind that the world of the micr
 
 #### Box with the Sound of Its Own Making
 
+Sometimes the conditions of capture are meaningful because of the conditions of presentation. There's nothing especially unusual about making a recording of doing some light woodwork, for example, unless you're constructing a... 
+
 ![Box with the Sound of Its Own Making](images/morris-box-1961.jpg)<br />
 
-[Box with the Sound of Its Own Making](http://www.wikiart.org/en/robert-morris/box-with-the-sound-of-its-own-making-1961), by Robert Morris (1961) represents a unique scenario of superimposed capture and presentation: 
+[*Box with the Sound of Its Own Making*](http://www.wikiart.org/en/robert-morris/box-with-the-sound-of-its-own-making-1961), by Robert Morris (1961) represents a unique scenario of superimposed capture and presentation: 
 
 > As its title indicates, Morris's "Box with the Sound of Its Own Making" consists of an unadorned wooden cube, accompanied by a recording of the sounds produced during its construction. Lasting for three-and-a-half hours, the audio component of the piece denies the air of romantic mystery surrounding the creation of the art object, presenting it as a time-consuming and perhaps even tedious endeavor. In so doing, the piece also combines the resulting artwork with the process of artmaking, transferring the focus from one to the other. Fittingly, the first person in New York Morris invited to see the piece was John Cage. Cage was reportedly transfixed by Box with the Sound of Its Own Making, as Morris later recalled: *"When Cage came, I turned it on... and he wouldn't listen to me. He sat and listened to it for three hours and that was really impressive to me. He just sat there."*
 

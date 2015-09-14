@@ -10,6 +10,10 @@ Art of Arrangement: Photography and the Still Life Tradition i
 
 ## Some Things to Contemplate
 
+
+
+
+
 ![David Bowen's Wave](images/bowen-wave.jpg)<br />
 
 [46°41’58.365″ lat. -91°59’49.0128″ long. @ 30m](http://www.creativeapplications.net/objects/longitude-and-latitude-david-bowens-cnc-routed-sculptures-capture-the-waves/) by David Bowen is a collection of CNC-routed clear acrylic sculptures generated from the 3D-scanned surface of the ocean. 

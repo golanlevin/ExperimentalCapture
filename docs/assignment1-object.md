@@ -98,10 +98,10 @@ More difficult, but still available:
 
 Software tools:
 
-* **Agisoft photoscan-** Professional edition. Allows for much higher resolution images and larger scenes than any other application avalible. [Video](https://www.youtube.com/watch?v=DzCeHFEUaro)
-  * [Tutorial from Specular](https://vimeo.com/specularprojects/photoscan1)
-  * [part 2 of Specular tutorial](https://vimeo.com/specularprojects/photoscan2)
-* **123D Catch-** Works with any regular camera, even your cell phone.
+* **Agisoft photoscan -** Professional edition. Allows for much higher resolution images and larger scenes than any other application available. Considered best photogrammetry software by many. [Video](https://www.youtube.com/watch?v=DzCeHFEUaro)
+  * [Tutorial from Specular](https://vimeo.com/specularprojects/photoscan1) (Vimeo)
+  * [Part 2 of Specular tutorial](https://vimeo.com/specularprojects/photoscan2) (Vimeo)
+* **123D Catch -** Works with any regular camera, even your cell phone.
 	- Works at any scale
 	- Works outside
 	- Generates a texture map
@@ -114,42 +114,40 @@ Software tools:
 	- More chaotic geometry 
 	- [How to](http://www.123dapp.com/howto/catch)
 
-* **Visual FSM & Meshlab-** If you dont like 123D Catch or Agisoft. [Tutorial] (http://www.instructables.com/id/Make-a-3D-model-from-pictures/?ALLSTEPS)
+* **Visual FSM & Meshlab-** If you don't like 123D Catch or Agisoft. [Tutorial](http://www.instructables.com/id/Make-a-3D-model-from-pictures/?ALLSTEPS)
 
+---
 
 ### After it's Scanned, What Can I Do?
-*(All of the following is from James George.)*
+*(The following materials are from James George and Alexander Porter.)*
 
-OBJ and PLY files are commonly used open 3D file formats, if you need to convert your scanned object's format:
+.OBJ and .PLY files are commonly used open-source 3D file formats. If you need to convert your scanned object's format:
 
-* **MeshLab-** This free tool provides a very handy way to convert formats. It's like a 3D pocket knife. It can also be used to reduce and combine meshes. *see below for how to reduce meshes using a few other applications. 
+* **MeshLab -** This free tool provides a very handy way to convert formats; it's like a 3D pocket knife. It can also be used to reduce and combine meshes. *see below for how to reduce meshes using a few other applications. 
 	* [Here](https://www.youtube.com/playlist?list=PLBBF41579E4B65566) are some more comprehensive tutorials for cleaning geometry in MeshLab
 
 After capturing your geometry, the following links will help you get it into your preferred application:
 
-* **Unity3d-** Supports OBJ like any other 3D file format. [More info](https://unity3d.com/)
-* **Processing-** The Saito OBJ loader
-[Processing Library](https://code.google.com/p/saitoobjloader/)
-[Tutorial Video]( https://www.youtube.com/watch?v=6VSaneuiaWs) (Scrub to 3:30 for the good stuff)
-* **OpenFrameworks-** (Again.) The ofMesh and ofVboMesh objects support PLY's with color with the mesh .load() function. This is what you saw in class.
-	* The built in addon ofxAssimpModelLoader also works on OBJ files
-
-* **Satoru HIga-** [has a nice OBJ loader addon:]
-(https://github.com/satoruhiga/ofxObjLoader)
-
-* **Cinder-** A powerful toolbox for programming graphics, audio, video, networking, image processing and computational geometry also in C++.
-   * [Cinder has built in support for OBJ]
-(http://libcinder.org/docs/v0.8.3/classcinder_1_1_obj_loader.html)
-    * [There is also a Mesh extension block that supports PLY] (https://github.com/simongeilfus/Cinder-OpenMesh)
-    * [Meshes in cinder tutorial] (http://www.creativeapplications.net/tutorials/guide-to-meshes-in-cinder-cinder-tutorials/)
+* **Unity3d -** Supports .OBJ like any other 3D file format. [More info](https://unity3d.com/)
+* **Processing -** The Saito .OBJ loader
+[Processing Library](https://code.google.com/p/saitoobjloader/) and
+[Tutorial Video](https://www.youtube.com/watch?v=6VSaneuiaWs) (Scrub to 3:30 for the good stuff)
+* **OpenFrameworks-** The ofMesh and ofVboMesh objects support PLY's with color with the mesh `.load()` function. 
+    * The built-in addon *ofxAssimpModelLoader* also works with .OBJ files.
+    * Satoru Higa [has a nice OBJ loader addon]
+(https://github.com/satoruhiga/ofxObjLoader), *ofxObjLoader*.
+* **Cinder -** A powerful toolbox for programming graphics, audio, video, networking, image processing and computational geometry also in C++.
+    * [Cinder has built in support for .OBJ files](http://libcinder.org/docs/v0.8.3/classcinder_1_1_obj_loader.html)
+    * [There is also a Mesh extension block that supports PLY](https://github.com/simongeilfus/Cinder-OpenMesh)
+    * [Meshes in cinder tutorial](http://www.creativeapplications.net/tutorials/guide-to-meshes-in-cinder-cinder-tutorials/)
 
 * 3D Printing
-	* **NetFabb-** Helps you clean up models if you wish to 3D print them. You'll want to take them through the STL format in MeshLab.
+	* **NetFabb -** Helps you clean up models if you wish to 3D print them. You'll want to take them through the STL format in MeshLab.
 [Download](http://www.netfabb.com/downloadcenter.php?basic=1)
-	* **MakerBot-** If youre using the MackerBot use this software from MackerBot to print. [Download](http://www.makerbot.com/desktop)
+	* **MakerBot -** If you're using a MakerBot, print using their software: [Download](http://www.makerbot.com/desktop)
 
 Creative Tools:<br/>
-Many applications support OBJ (and sometimes PLY files) <br/>
+Many applications support .OBJ (and sometimes .PLY files) <br/>
 
 * **Photoshop-** (really!)
 Photoshop natively supports importing and painting on 3D files. [Video](https://www.youtube.com/watch?v=mD39wgDoiHE)
@@ -159,7 +157,7 @@ The 3D Animator Pro plugin (they offer a free trial) accepts OBJ files. [Video ]
 * **Blender-** Here is also mesh reduction tutorial. [Video]
 (https://www.youtube.com/watch?v=ttU6Gz1W0Xw)
 
-Programs like Maya, Cinema4D, Houdini, 3D Studio Max, Modo also work well with OBJ files but are beyond the scope of what we expect to teach in this class. But if you know these programs, by all means use them for your projects.
+Programs like Maya, Cinema4D, Houdini, 3D Studio Max, Modo also work well with .OBJ files, but are beyond the scope of what we expect to teach in this class. If you know these programs, by all means use them for your projects!
 
 --------------------------
 
@@ -175,8 +173,7 @@ Reduction & Remeshing
 
 Color
 
- * [MeshLab Features: Vertex Attribute Transfer](
-http://youtu.be/sKKmJdsk7Tg?list=UU70CKZQPj_ZAJ0Osrm6TyTg)
+ * [MeshLab Features: Vertex Attribute Transfer](http://youtu.be/sKKmJdsk7Tg?list=UU70CKZQPj_ZAJ0Osrm6TyTg)
 
 
 

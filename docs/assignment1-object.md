@@ -4,7 +4,7 @@
 
 --
 
-Select one of the following two prompts: 
+Select one of the following two* prompts: 
 
 (A) ***[Lost Childhood Object](https://www.youtube.com/watch?v=QgHsYOybXa0)*** by Lenka Clayton:
 
@@ -13,6 +13,8 @@ Select one of the following two prompts:
 or (B) ***[Embarrassing Object](https://www.youtube.com/watch?v=7mxM6mNSv5s)*** by Geof Oppenheimer:
 
 [![Your Art Assignment: Geof Oppenheimer's Embarrassing Object, 2015](http://img.youtube.com/vi/7mxM6mNSv5s/0.jpg)](https://www.youtube.com/watch?v=7mxM6mNSv5s)
+
+*Got another concept? *Speak with the professor.*
 
 --
 

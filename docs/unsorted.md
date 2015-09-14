@@ -19,10 +19,20 @@
 * Visual hulls for thermal carving
 * sensing normal polarization lens sense normals
 * marios sarrides - face scanner 
-* breathing life into 3d models, michael black
+* [breathing life into 3d models](https://www.youtube.com/watch?v=4CRMgPcgKp4), michael black
 * eulerian video magnification 
 * [Digital portraits by Chris Coleman](https://www.flickr.com/photos/digitalcoleman/albums/72157656141589104)
 * Pseudo-analog 3D scanner Sculptural Device, [Balint Bolygo - *Trace (Self Portrait)*](https://www.youtube.com/watch?v=J3XWQzz_JWs)
+
+
+GL put these back, 9/12/2015 (they're for mocap & bodies):
+
+* [*Going to the Store* by David Lewandowski](https://www.youtube.com/watch?v=iRZ2Sh5-XuM)
+* [*Late for Meeting* by David Lewandowski](https://www.youtube.com/watch?v=wBqM2ytqHY4)
+* [Bodies from mocap](http://thecreatorsproject.vice.com/blog/open-motion-capture-data-becomes-a-surreal-3d-short-film)
+* [All Things Fall by Mat Collishaw] (https://vimeo.com/125791075), a 3D-printed zoetrope
+* [Make a realistic human with makehuman](makeHuman.org)
+
 
 
 

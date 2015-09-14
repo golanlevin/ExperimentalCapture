@@ -10,13 +10,26 @@ Art of Arrangement: Photography and the Still Life Tradition i
 
 ## Some Things to Contemplate
 
+In 2012, the Metropolitan Museum of Art in NYC and Makerbot collaborated on a "Scanathon", in which the public roamed the museum with 123DCatch iPhone software, and uploaded [hundreds of 3D CAD models to Thingiverse](http://www.thingiverse.com/met/designs). Considered progressive for its time, more and more museums are publishing their [archives of sculpture as 3D models] (http://sites.museum.upenn.edu/monrepos/evidence/evidence.html). Scanning and sharing 3D models of objects is a common thing now. 
 
+![Metropolitan Museum of Art + Thingiverse: Scanathon](images/met-museum-scanathon.jpg)<br />
 
-
+Perhaps less common is the kind of conceptual leap that's made when an artist like David Bowen produces a work like [46°41’58.365″ lat. -91°59’49.0128″ long. @ 30m](http://www.creativeapplications.net/objects/longitude-and-latitude-david-bowens-cnc-routed-sculptures-capture-the-waves/), a collection of CNC-routed clear acrylic sculptures generated from the 3D-scanned surface of the ocean: 
 
 ![David Bowen's Wave](images/bowen-wave.jpg)<br />
 
-[46°41’58.365″ lat. -91°59’49.0128″ long. @ 30m](http://www.creativeapplications.net/objects/longitude-and-latitude-david-bowens-cnc-routed-sculptures-capture-the-waves/) by David Bowen is a collection of CNC-routed clear acrylic sculptures generated from the 3D-scanned surface of the ocean. 
+
+--
+
+#### Various still lifes by Samantha Taylor-Johnson
+
+3D scanning is cool and I'mma let you finish, but
+
+Samantha Taylor-Johnson (also known as Sam Taylor-Wood) has created some exceptional time-lapse still-lifes which make heavy reference to the history of painting: 
+* [*Still Life* (2001)](https://www.youtube.com/watch?v=pXPP8eUlEtk)
+* [*A Little Death* (2002)](https://www.youtube.com/watch?v=01tx6u3lasM)
+
+[![Still Life, 2001](http://img.youtube.com/vi/pXPP8eUlEtk/0.jpg)](http://www.youtube.com/watch?v=pXPP8eUlEtk)
 
 --
 
@@ -29,15 +42,6 @@ In capturing representations of objects, keep in mind that the world of the micr
 
 [![Still Life, 2001](http://img.youtube.com/vi/DYgbsAWNHq0/0.jpg)](http://www.youtube.com/watch?v= DYgbsAWNHq0)<br />
 
--- 
-
-#### Various still lifes by Samantha Taylor-Johnson
-
-Samantha Taylor-Johnson (also known as Sam Taylor-Wood) has created some exceptional time-lapse still-lifes which make heavy reference to the history of painting: 
-* [*Still Life* (2001)](https://www.youtube.com/watch?v=pXPP8eUlEtk)
-* [*A Little Death* (2002)](https://www.youtube.com/watch?v=01tx6u3lasM)
-
-[![Still Life, 2001](http://img.youtube.com/vi/pXPP8eUlEtk/0.jpg)](http://www.youtube.com/watch?v=pXPP8eUlEtk)
 
 --
 
@@ -64,22 +68,3 @@ The *[Nail Art Museum](https://www.youtube.com/watch?v=40pSU5ZM784&t=2m26s)*, by
 [![Nail Art Museum](http://img.youtube.com/vi/40pSU5ZM784/0.jpg)](http://www.youtube.com/watch?v=40pSU5ZM784&t=2m26s)<br />
 
 
-
-More:
-
-* [*Going to the Store* by David Lewandowski](https://www.youtube.com/watch?v=iRZ2Sh5-XuM)
-* [*Late for Meeting* by David Lewandowski](https://www.youtube.com/watch?v=wBqM2ytqHY4)
-* [Bodies from mocap](http://thecreatorsproject.vice.com/blog/open-motion-capture-data-becomes-a-surreal-3d-short-film)
-* [All Things Fall by Mat Collishaw] (https://vimeo.com/125791075) 3D printed zoetrope
-
-
-
-
-
-
-
-
-
-### Other 3d obj to consider
-* [Archive of museum 3D models] (http://sites.museum.upenn.edu/monrepos/evidence/evidence.html)
-* [Make a realistic human with makehuman](makeHuman.org)

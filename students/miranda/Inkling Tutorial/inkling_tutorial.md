@@ -3,7 +3,7 @@
 
 #####What is Inkling? It’s a Wacom product that uses infra-red to electronically record your drawings. [Here’s a link to the manual.](http://us.wacom.com/~/media/WTC/Files/Manuals/Current/Inkling%20Manual%20English.pdf/)
 
-![Wacom Inkling](Images/inkling.png)
+![Wacom Inkling](Images/inkling.PNG)
 
 
 ##SETUP
@@ -28,12 +28,12 @@ Essentially, choosing either re-directs you to the Inkling website:
 [http://inkling.wacom.eu/?en](http://inkling.wacom.eu/?en)
 
 ##USAGE
-![Receiver](Images/inkling_receiver.png)
+![Receiver](Images/inkling_receiver.PNG)
 ###Drawing
 To use the Inkling, clip the receiver to the edge of a sheet of paper up to size A4, turn on the receiver, and it will track the pen. Note that, there is a 2 cm zone right below the receiver where it cannot accurately record marks. Additionally, there must be a line of sight between the head of the pen and the receiver for marks to be recorded.
 
 
-![Wacom Inkling](Images/hold_pen.png)
+![Wacom Inkling](Images/hold_pen.PNG)
 
 The receiver has two buttons: one for power, and one for layers. Yes, you can create multiple layers in a drawing, just by pressing a button! However, this has a few drawbacks:
 
@@ -42,7 +42,7 @@ The receiver has two buttons: one for power, and one for layers. Yes, you can cr
 the alignment between the page and the receiver.
 
 
-![](Images/inkling_layers.png)
+![](Images/inkling_layers.PNG)
 
 ###Accuracy (Or Lack of It)
 This brings me to the Inkling’s biggest issue: It is incredibly finicky due to the receiver's tendency to shift position, and this results in a lot of frustrating inaccuracy, as demonstrated in the images below. 

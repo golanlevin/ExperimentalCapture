@@ -1,8 +1,8 @@
 # Multispectral & Hyperspectral Imaging
 
-http://stopocsmartmeters.com/uploads/3/5/1/6/3516580/7934370_orig.jpg
+![Electromagnet_spectrum](http://stopocsmartmeters.com/uploads/3/5/1/6/3516580/7934370_orig.jpg)
 
-https://www.nasa.gov/sites/default/files/spectrum_wall_chart_aug2011.jpg
+![Nasa_spectrum](https://www.nasa.gov/sites/default/files/spectrum_wall_chart_aug2011.jpg)
 
 [*Multispectral imaging*](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more. 
 
@@ -58,7 +58,7 @@ Widely used in security cameras.
 
 * You can [see veins easily](https://www.flickr.com/photos/nebarnix/2034727799) in NIR.
 * This has been used in some medical AR applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) device. 
-* In some circumstances, depending on materials, NIR cameras can [kindof see through clothes](http://www.komonews.com/news/problemsolvers/94802064.html). 
+* In some circumstances, depending on materials, NIR cameras can [kind of see through clothes](http://www.komonews.com/news/problemsolvers/94802064.html). 
 * [Detecting traced signatures](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/tracingb.jpg)
 * Osman Khan created a strictly [IR-viewable image](http://www.osmankhan.com/works.asp?name=Unviewed).
 * The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com/oliverlutz_prjct_lfrnk.htm) and [*"Stella at the Playground"*](http://www.oliverlutz.com/oliverlutz_prjct_plygrnd_inst.htm) by Oliver Lutz (2010) use a (visibly) black acrylic overpainting covering a secret image that can only be observed by a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera). 

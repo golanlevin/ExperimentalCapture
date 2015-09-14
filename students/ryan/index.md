@@ -7,8 +7,8 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 --
 ### Contact
 
-[rchuber@cmu.edu](mailto:rchuber@cmu.edu)
-* Web Site: [http://ryanhuber.com](http://ryanhuber.com)
+- [rchuber@cmu.edu](mailto:rchuber@cmu.edu)
+- [http://ryanhuber.com](http://ryanhuber.com)
 
 -- 
 ### Projects
@@ -20,5 +20,5 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 --
 ### Looking Outwards reports: 
 
-1. [Phantom *(kingdom of all the animals and all the beasts is my name)* by Daniel Steegmann Mangrané (2015)](looking-outwards-01.md)
-2. [Rain Room by Random International (2012)](looking-outwards-02.md)
+1. [*Phantom (kingdom of all the animals and all the beasts is my name)* (2015) by Daniel Steegmann Mangrané](looking-outwards-01.md)
+2. [*Rain Room* (2012) by Random International](looking-outwards-02.md)

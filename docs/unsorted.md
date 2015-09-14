@@ -22,13 +22,9 @@
 * breathing life into 3d models, michael black
 * eulerian video magnification 
 * [Digital portraits by Chris Coleman](https://www.flickr.com/photos/digitalcoleman/albums/72157656141589104)
-* 
+* Pseudo-analog 3D scanner Sculptural Device, [Balint Bolygo - *Trace (Self Portrait)*](https://www.youtube.com/watch?v=J3XWQzz_JWs)
 
 
-### CONCEPTUAL CAMERAS (NEW):
-* *[The Descriptive Camera](http://mattrichardson.com/Descriptive-Camera/)* by Matt Richardson works a lot like a regular camera: point it at subject and press the shutter button to capture the scene. However, instead of producing an image, this prototype uses crowdsourcing to output a text description of the scene. https://www.youtube.com/watch?v=8vkWb15Uudg
-* *[Camera Restricta](http://philippschmitt.com/projects/camera-restricta)* by Philipp Schmitt is a 'disobedient' camera designed to take unique photographs. By using data of geotagged photos the camera will refuse to operate in popular places.
-* *[The Unoptic Camera](http://cl.ly/1h2Q0q0h1J32)* by Kyle McDonald and Chris Woebken. 
 
 <del>
 * Artec Space Spider - Yaser's 3D scanner 

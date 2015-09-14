@@ -49,9 +49,10 @@ Other documents:
 *[Lecture notes](docs/lecture-notes.md)*
 
 --
-### Some Imaging and Capture Techniques
+### Lectures
 *This is a partial list of some of the capture technologies and techniques we will discuss this semester. Some of these pages are still under construction.*
 
+* [Conceptual Cameras](docs/conceptual-cameras.md)
 * [Gesture recording and playback; 2D & 3D motion capture](docs/gesture.md)
 * Silhouette (Blob) Tracking
 * Depth Sensors and RGBD

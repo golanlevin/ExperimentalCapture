@@ -1,28 +1,79 @@
 
 # 'Object' References
 
-### References for Still Lifes, etc.
 
-* Sam Taylor-Wood
- - [*Still Life* (2001)](https://www.youtube.com/watch?v=pXPP8eUlEtk)
- - [*A Little Death* (2002)](https://www.youtube.com/watch?v=01tx6u3lasM)
+What does it mean? Still Life Symbolism in Photograpy
+https://www.youtube.com/watch?v=iQ_ftM0ZXy8
+Art of Arrangement: Photography and the Still Life Tradition i
+
+
+
+## Some Things to Contemplate
+
+![David Bowen's Wave](images/bowen-wave.jpg)<br />
+
+[46°41’58.365″ lat. -91°59’49.0128″ long. @ 30m](http://www.creativeapplications.net/objects/longitude-and-latitude-david-bowens-cnc-routed-sculptures-capture-the-waves/) by David Bowen is a collection of CNC-routed clear acrylic sculptures generated from the 3D-scanned surface of the ocean. 
+
+--
+
+#### Large and Small
+
+In capturing representations of objects, keep in mind that the world of the microscope and the telescope are available to you.
+
+* [*Brilliant Noise*](https://vimeo.com/1284717) (2006) is a hyperspectral portrait of the Sun, by the British media arts collective SemiConductor (Ruth Jarman and Joe Gerhardt
+* *[Snowtime](https://vimeo.com/87342468)*, Microscopic timelapse of snowflakes forming, by Slava Ivanov (2014). Also by Slava Ivanov is *[Daphnia](https://vimeo.com/136739473)* (2015), high-speed microvideography of a water-flea.
+
+[![Still Life, 2001](http://img.youtube.com/vi/DYgbsAWNHq0/0.jpg)](http://www.youtube.com/watch?v= DYgbsAWNHq0)<br />
+
+-- 
+
+#### Various still lifes by Samantha Taylor-Johnson
+
+Samantha Taylor-Johnson (also known as Sam Taylor-Wood) has created some exceptional time-lapse still-lifes which make heavy reference to the history of painting: 
+* [*Still Life* (2001)](https://www.youtube.com/watch?v=pXPP8eUlEtk)
+* [*A Little Death* (2002)](https://www.youtube.com/watch?v=01tx6u3lasM)
+
+[![Still Life, 2001](http://img.youtube.com/vi/pXPP8eUlEtk/0.jpg)](http://www.youtube.com/watch?v=pXPP8eUlEtk)
+
+--
+
+#### Box with the Sound of Its Own Making
+
+![Box with the Sound of Its Own Making](images/morris-box-1961.jpg)<br />
+
+[Box with the Sound of Its Own Making](http://www.wikiart.org/en/robert-morris/box-with-the-sound-of-its-own-making-1961), by Robert Morris (1961) represents a unique scenario of superimposed capture and presentation: 
+
+> As its title indicates, Morris's "Box with the Sound of Its Own Making" consists of an unadorned wooden cube, accompanied by a recording of the sounds produced during its construction. Lasting for three-and-a-half hours, the audio component of the piece denies the air of romantic mystery surrounding the creation of the art object, presenting it as a time-consuming and perhaps even tedious endeavor. In so doing, the piece also combines the resulting artwork with the process of artmaking, transferring the focus from one to the other. Fittingly, the first person in New York Morris invited to see the piece was John Cage. Cage was reportedly transfixed by Box with the Sound of Its Own Making, as Morris later recalled: *"When Cage came, I turned it on... and he wouldn't listen to me. He sat and listened to it for three hours and that was really impressive to me. He just sat there."*
+
+--
+
+#### Capturing *Archives*; Presenting *Archives*
+
+![Pockets Full of Memories, by George Legrady](images/legrady.jpg)<br />
+
+*Pockets Full of Memories* (2003-2006) by [George Legrady](http://pulse.mat.ucsb.edu/~g.legrady/) is an installation in which a data collection station allows the public to contribute a digital image of an object from their pockets, and add descriptive keywords. A Kohonen self-organizing map algorithm is used to visualize the data, arranging the contributors' objects according to similarities defined by their semantic descriptions.
+
+[![Pockets Full of Memories](http://img.youtube.com/vi/W2eNTVVjC9g/0.jpg)](http://www.youtube.com/watch?v=W2eNTVVjC9g)<br />
+
+The *[Nail Art Museum](https://www.youtube.com/watch?v=40pSU5ZM784&t=2m26s)*, by Jeremy Bailey (2014) is an augmented reality archive of virtual objects, presented on the artist's hands. 
+
+[![Nail Art Museum](http://img.youtube.com/vi/40pSU5ZM784/0.jpg)](http://www.youtube.com/watch?v=40pSU5ZM784&t=2m26s)<br />
+
+
+
+More:
+
 * [*Going to the Store* by David Lewandowski](https://www.youtube.com/watch?v=iRZ2Sh5-XuM)
 * [*Late for Meeting* by David Lewandowski](https://www.youtube.com/watch?v=wBqM2ytqHY4)
 * [Bodies from mocap](http://thecreatorsproject.vice.com/blog/open-motion-capture-data-becomes-a-surreal-3d-short-film)
 * [All Things Fall by Mat Collishaw] (https://vimeo.com/125791075) 3D printed zoetrope
-* [46°41’58.365″ lat. -91°59’49.0128″ long. @ 30m by David Bowen ](http://www.creativeapplications.net/objects/longitude-and-latitude-david-bowens-cnc-routed-sculptures-capture-the-waves/)CNC'd water surfaces from picture
-
-### Large and Small
-
-In capturing representations of objects, keep in mind that the world of the microscope and the telescope are available to you.
-
-* [*Brilliant Noise*](https://vimeo.com/1284717), a hyperspectral portrait of the Sun, by SemiConductor (Ruth Jarman and Joe Gerhardt, 2006)
-* *[Snowtime](https://vimeo.com/87342468)*, Microscopic timelapse of snowflakes forming, by Slava Ivanov (2014)
-* *[Daphnia](https://vimeo.com/136739473)*, high-speed microvideography of a water-flea, by Slava Ivanov (2015)
 
 
 
-from  PLUS  1 year ago / Creative Commons License: by nc  NOT YET RATED
+
+
+
+
 
 
 ### Other 3d obj to consider

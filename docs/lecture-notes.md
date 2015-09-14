@@ -4,16 +4,20 @@
 
 ---
 
-### September 14, 2015
+### Wednesday, September 16, 2015
+
+* Meetings for projects. 
+* Lectures on technologies. 
+
+### Monday, September 14, 2015
 
 * [Conceptual Cameras](conceptual-cameras.md)
 * [Still Life: some references](object-references.md)
-* [Gonioreflectometry](gonioreflectometry.md) (time permitting)
 * Lecture by Jeff Hinkelman
 
 ---
 
-### September 2, 2015
+### Wednesday, September 2, 2015
 
 * [Syllabus & policies](../README.md)
 * Upcoming [deliverables](deliverables.md)

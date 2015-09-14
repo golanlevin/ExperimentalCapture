@@ -11,18 +11,18 @@ In this lecture, in laying the groundwork for your *[Object](assignment1-object.
 
 There's plenty more symbolism where that came from. See, for example, [here](http://www.easy-oil-painting-techniques.org/still-life-symbolism.html).
 
-* **Flowers**. Different flowers hold different meanings.  They can symbolize innocence, the four seasons, or religious symbols.  The rose for instance, stands for love, the lily for purity, and the sunflower for devotion.  
+* **Flowers**, different flowers hold different meanings.  They can symbolize innocence, the four seasons, or religious symbols.  The rose for instance, stands for love, the lily for purity, and the sunflower for devotion.  
 * **Birds**, or a pair of birds represent the resurrection of the soul after death.
 * The **bee**, as well as the **butterfly**, are symbols of hope, and because they are rather delicate, are a reminder to the fragility of life.
 * The **mouse**, being a very fertile animal, became a symbol of lechery and destruction.
 * **Ivy**, as an evergreen symbolizes eternal life.  
-* The **peach** symbolizes truth and salvation, and is used as a replacement to the maligned apple
+* The **peach** symbolizes truth and salvation, and is used as a replacement to the maligned apple.
 * **Feathers** symbolize the virtues of hope, faith, and charity (in religious works), and they represent freedom (by enabling flight) and the heavens.
 * **Skulls** symbolize mortality. 
-* **Books**: learning or of transmitting knowledge.
-* The **Lute with broken strings**:  Death or discord.
+* **Books**, learning or of transmitting knowledge.
+* The **Lute with broken strings**, Death or discord.
 * The **candle** can indicate the passing of time, faith in God (when its burning).  When extinguished, it means death, or the loss of innocence, and the corruption of matter.
-* The **clock**: the passing of time. 
+* The **clock**, the passing of time. 
 * **Mirror**: stands for truth or vanity. 
 
 
@@ -36,7 +36,7 @@ There's plenty more symbolism where that came from. See, for example, [here](htt
 
 Here's an extremely early digital still life -- the *[Golden Calf](http://www.leonardo.info/gallery/gallery332/shaw.html)* responsive installation by Australian media art pioneer, Jeffrey Shaw. 
  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=paaacEIF6wU" target="_blank"><img src="http://img.youtube.com/vi/paaacEIF6wU/0.jpg" width="640" height="480" border="0" /></a><br />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=paaacEIF6wU" target="_blank"><img src="http://scaraba.net/creanum/images/stories/M1_2009/revue/21256_996.jpg" width="640" height="480" border="0" /></a><br />
 
 > This work is constituted by a white pedestal on which there stands an LCD colour monitor. The viewer of this work picks up and holds this monitor in his hands. The screen shows a representation of the pedestal with a computer-generated image of a golden calf on top. By moving the monitor around the actual pedestal the viewer can examine this golden calf from above and below and all sides. Thus the monitor functions like a window that reveals a virtual body apparently located physically in the real space.
 
@@ -72,7 +72,8 @@ Perhaps less common is the kind of conceptual leap that's made when an artist li
 
 3D scanning is cool and I'mma let you finish, but it's not the only option available to us in *Experimental Capture*. Consider, for example, [time-lapse](undercranking.md). 
 
-Samantha Taylor-Johnson (also known as Sam Taylor-Wood) has created some exceptional time-lapse still-lifes which make heavy reference to the history of painting: 
+Samantha Taylor-Johnson (also known as Sam Taylor-Wood) has created some exceptional time-lapse still-lifes which make heavy reference to the history of painting:
+ 
 * [*Still Life*](https://www.youtube.com/watch?v=pXPP8eUlEtk) (2001)
 * [*A Little Death*](https://www.youtube.com/watch?v=01tx6u3lasM) (2002)
 
@@ -85,6 +86,13 @@ Samantha Taylor-Johnson (also known as Sam Taylor-Wood) has created some excepti
 In capturing representations of objects, keep in mind that the world of the microscope and the telescope are available to you.
 
 * [*Brilliant Noise*](https://vimeo.com/1284717) (2006) is a hyperspectral portrait of the Sun, by the British media arts collective SemiConductor (Ruth Jarman and Joe Gerhardt
+
+![](http://semiconductorfilms.com/wordpress/wp-content/uploads/2006/04/Marc_Domage-1b+w-960x637.jpg)
+
+* Photogtapher Trevor Paglen photographs secret military sites with an astronomy telescope. He has a sereis called [Limit Telephotography](http://www.paglen.com/?l=work&s=limit) (2012) which is classified military bases, that are tucked away in remote parts of the US. [Here](http://petapixel.com/2015/03/17/trevor-paglen-on-photographing-secret-military-sites-with-a-telescope/) is more info about how he creates his work.
+
+![](http://petapixel.com/assets/uploads/2015/03/example1.jpg)
+ 
 * *[Snowtime](https://vimeo.com/87342468)*, Microscopic timelapse of snowflakes forming, by Slava Ivanov (2014). Also by Slava Ivanov is *[Daphnia](https://vimeo.com/136739473)* (2015), high-speed microvideography of a water-flea.
 
 [![Still Life, 2001](http://img.youtube.com/vi/DYgbsAWNHq0/0.jpg)](http://www.youtube.com/watch?v= DYgbsAWNHq0)<br />
@@ -96,7 +104,12 @@ In capturing representations of objects, keep in mind that the world of the micr
 Carefully study the following two projects by former CMU MFA student, [Cassandra C. Jones](http://www.cassandracjones.com): 
 
 * *[Eventide](http://www.cassandracjones.com/snap-motion-re-animations)* (2004) represents a single object -- the Sun -- constructed from hundreds of photos by different people. 
+
+[![](images/eventide.jpg)](https://vimeo.com/84883569)
+
 * *[Car Fire](http://www.cassandracjones.com/snap-motion-re-animations)* (2009) constructs a virtual, 'conceptual' object from many, similar, others.
+
+[![](images/carfire.jpg)](https://vimeo.com/84894920)
 
 --
 

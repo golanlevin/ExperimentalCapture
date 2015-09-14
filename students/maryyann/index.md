@@ -1,26 +1,25 @@
-# Your Name
+# Maryyann Landlord
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+Going into my final year, I hope to create and fully capture my interests by drawing from previous experiences. Pherhaps this means a little more combination of disciplines or skills or maybe just an new technical exploration. Whatever it may be, I intend to make the best of first semester senior year. :)
 
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Web Site: maryyann.com
 
 -- 
 ### Projects
 
-* [Object](project1.md): *Shoe*
-* [Person in Time](project2.md): *My Sister*
-* [Place](project3.md): *Interesting Stairwell*
+* [Object](project1.md):TBA
+* [Person in Time](project2.md):TBA
+* [Place](project3.md): TBA
 
 --
 ### Looking Outwards reports: 
 
-1. [apple](looking-outwards-01.md)
+1. [Historial Photos and Artworks Set in Motion](looking-outwards-01.md)
 1. [bear](looking-outwards-02.md) 
 1. [cat](looking-outwards-03.md)
 1. [dog](looking-outwards-04.md)

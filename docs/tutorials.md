@@ -24,7 +24,7 @@
 * Microsoft Xbox 360 KINECT Sensor 
 * Microsoft Kinect for Windows V2
 * Matter and Form 3D Scanner
-* 3D Systems iSense 3D Scanner for iPad Mini Retina
+* 3D Systems iSense 3D Scanner for iPad Mini Retina **[Nivetha]**
 
 #### Optical Imagers & Cameras
 

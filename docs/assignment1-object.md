@@ -4,23 +4,36 @@
 
 --
 
-Select one of the following two* prompts: 
+Select **one** of the following four (yes, 4) objects to capture: 
 
-(A) ***[Lost Childhood Object](https://www.youtube.com/watch?v=QgHsYOybXa0)*** by Lenka Clayton:
+### (A) ***Something Ephemeral***<br />
+
+![Big soap bubble](images/bubble.jpg)<br />
+
+*(This bubble is just an example.)*
+
+### (B) ***Something which has accompanied you everywhere***
+
+You might initially think this means "your most treasured possession", but it could also be ***something you can't seem to get rid of***, such as a gift you've always hated, a broken loved item...
+
+![Big soap bubble](images/old-running-shoes.png)<br />
+
+
+### (C) A ***[Lost Childhood Object](https://www.youtube.com/watch?v=QgHsYOybXa0)*** (by Lenka Clayton):
 
 [![Your Art Assignment: Lenka Clayton's Lost Childhood Object, 2015](http://img.youtube.com/vi/QgHsYOybXa0/0.jpg)](https://www.youtube.com/watch?v=QgHsYOybXa0)
 
-or (B) ***[Embarrassing Object](https://www.youtube.com/watch?v=7mxM6mNSv5s)*** by Geof Oppenheimer:
+### or (D) ***[Embarrassing Object](https://www.youtube.com/watch?v=7mxM6mNSv5s)*** (by Geof Oppenheimer):
 
 [![Your Art Assignment: Geof Oppenheimer's Embarrassing Object, 2015](http://img.youtube.com/vi/7mxM6mNSv5s/0.jpg)](https://www.youtube.com/watch?v=7mxM6mNSv5s)
 
-*Got another concept? *Speak with the professor.*
+Got another concept? *Speak with the professor. We're flexible.*
 
 --
 
 ### Task
 
-Using expanded capture techniques, realize the [lost/embarrassing] object virtually.  
+Using expanded capture techniques, acquire the object and realize it object virtually. Your presentation should unlock some portion of its spirit 
 
 --
 

@@ -2,9 +2,14 @@
 
 *Due Wednesday, September 23rd at the beginning of class.* 
 
---
+This assignment asks you to: 
 
-Select **one** of the following four (yes, 4) objects to capture: 
+* "capture" (with any of a variety of acquisition technologies) some object that intrigues/fascinates/grips you, and then
+* design a presentation that somehow "unlocks a portion of its spirit" -- whatever that could mean -- in some technologized medium. 
+
+Below are four potential starting points for helping you select a possible "charged" object.
+
+--
 
 ### (A) ***Something Ephemeral***<br />
 

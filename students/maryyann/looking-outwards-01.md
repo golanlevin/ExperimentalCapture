@@ -14,7 +14,9 @@ become different methods of experimentally capturing experiences.
 
 I think Nicolas is really good at repurposing the pieces that he transforms. However, I think some of the pieces are a lot
 stronger than others. Although in all pieces, the viewer knows that the photo or painting has been manipulated, some pieces
-create more believable animations when by considering surrounding influences around the animation. 
+create more believable animations by considering surrounding influences around the animation. 
+
+His work reminds me of the more modern cinemagraphs (http://cinemagraphs.com/), which are cinematic gifs, often highlighting only one moving object. Cinemagraphs take advantage of both the timeless presence of the still photograph and the elegant gestures of a film.  
 
 **Further work on his tumblr:** http://un-gif-dans-ta-gueule.tumblr.com/ 
 **and website:** https://www.behance.net/UGDTG

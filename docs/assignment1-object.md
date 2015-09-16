@@ -79,7 +79,7 @@ One example of a possible solution might be something like this:
 
 #### References
 
-A list of references and viewings is available [here](object-references.md). 
+A list of references and viewings is available **[here](object-references.md)**. 
 
 -- 
 

@@ -35,7 +35,11 @@ At the conclusion of this course, students will be able to
 * [**Tutorials**](docs/tutorials.md)
 * [**Calendar**](docs/calendar.md)
 * [**Readings**](docs/readings.md)
-* [*Google group*](https://groups.google.com/d/forum/experimental-capture)
+* [**Piazza Forum**](http://piazza.com/cmu/fall2015/1646160461761/home)
+
+Regards,
+Golan Levin
+
 
 Other documents: 
 

@@ -2,23 +2,43 @@
 
 *Due Wednesday, September 23rd at the beginning of class.* 
 
+This assignment asks you to: 
+
+* "capture" (with any of a variety of acquisition technologies) some object that intrigues/fascinates/grips you, and then
+* design a presentation that somehow "unlocks a portion of its spirit" -- whatever that could mean -- in some technologized medium. 
+
+Below are four potential starting points for helping you select a possible "charged" object.
+
 --
 
-Select one of the following two prompts: 
+### (A) ***Something Ephemeral***<br />
 
-(A) ***[Lost Childhood Object](https://www.youtube.com/watch?v=QgHsYOybXa0)*** by Lenka Clayton:
+![Big soap bubble](images/bubble.jpg)<br />
+
+*(This bubble is just an example.)*
+
+### (B) ***Something which has accompanied you everywhere***
+
+You might initially think this means "your most treasured possession", but it could also be ***something you can't seem to get rid of***, such as a gift you've always hated, a broken loved item...
+
+![Big soap bubble](images/old-running-shoes.png)<br />
+
+
+### (C) A ***[Lost Childhood Object](https://www.youtube.com/watch?v=QgHsYOybXa0)*** (by Lenka Clayton):
 
 [![Your Art Assignment: Lenka Clayton's Lost Childhood Object, 2015](http://img.youtube.com/vi/QgHsYOybXa0/0.jpg)](https://www.youtube.com/watch?v=QgHsYOybXa0)
 
-or (B) ***[Embarrassing Object](https://www.youtube.com/watch?v=7mxM6mNSv5s)*** by Geof Oppenheimer:
+### or (D) ***[Embarrassing Object](https://www.youtube.com/watch?v=7mxM6mNSv5s)*** (by Geof Oppenheimer):
 
 [![Your Art Assignment: Geof Oppenheimer's Embarrassing Object, 2015](http://img.youtube.com/vi/7mxM6mNSv5s/0.jpg)](https://www.youtube.com/watch?v=7mxM6mNSv5s)
+
+Got another concept? *Speak with the professor. We're flexible.*
 
 --
 
 ### Task
 
-Using expanded capture techniques, realize the [lost/embarrassing] object virtually.  
+Using expanded capture techniques, acquire the object and realize it object virtually. Your presentation should unlock some portion of its spirit 
 
 --
 
@@ -67,7 +87,10 @@ A list of references and viewings is available [here](object-references.md).
 
 Hardware Options: 
 
-* **3D Systems iSense 3D Scanner-** For iPad Mini Retina. [Tutorial](http://cubify.com/info/tutorialssense)
+* **3D Systems iSense -** 3D Scanner for iPad Mini Retina. [Tutorial](http://cubify.com/info/tutorialssense)
+
+![](http://i.ytimg.com/vi/JDit_SrVc2E/maxresdefault.jpg)
+
 * **Kinect-** (v1 and v2)
 	* [OpenFrameworks](https://github.com/micuat/ofxActiveScan) C++ wrapper for creative coding.
 	* [Processing (Java)](https://github.com/ivaylopg/RGBDToolkit-to-Processing) Creative coding in Java.
@@ -86,13 +109,17 @@ Hardware Options:
 		- [Video example](https://www.youtube.com/watch?v=of6d7C_ZWwc	)
 		- [Tools and resources](http://www.microsoft.com/en-us/kinectforwindows/develop/downloads-docs.aspx)
 * **[DepthKit](http://depthkit.tv/)**
-	* [Depthkit js](https://vimeo.com/123520067)
+	* Made by [Specular](http://www.specular.cc/), a RGB D filmmaking tool 
+	* Combines a Kinect with DSLR.
+	* Can be viewed in 3D program like Maya, Cinema4D.
+	* Everything is avalible for lending, including mounts.
+	* [Depthkit js](https://vimeo.com/123520067) 
 
+![](http://www.cinematographydb.com/wp-content/uploads/2014/10/specular-psyop-final.Still007-1600x900.jpg)
+*A combination of four Depth Kits to capture a 360 volume of skateboarder.*
 
 * **Matter and Form 3D Scanner**
-
 More difficult, but still available:
-
 * [Pitt Orthopedics](http://www.engineering.pitt.edu/Sub-Sites/Labs/Orthopaedic_Robotics/Contact/)
 * [School of Art 3d scanner at the DAS](http://www.cmu.edu/art/digital-arts-studio/3dscanning/index.html)
 
@@ -101,6 +128,10 @@ Software tools:
 * **Agisoft photoscan -** Professional edition. Allows for much higher resolution images and larger scenes than any other application available. Considered best photogrammetry software by many. [Video](https://www.youtube.com/watch?v=DzCeHFEUaro)
   * [Tutorial from Specular](https://vimeo.com/specularprojects/photoscan1) (Vimeo)
   * [Part 2 of Specular tutorial](https://vimeo.com/specularprojects/photoscan2) (Vimeo)
+
+![](https://accordproject.files.wordpress.com/2014/07/glanecrop_monteath_sfmscreenshot.jpg)
+*A point cloud image of the Monteath Mausoleum (not finished), generated.*
+
 * **123D Catch -** Works with any regular camera, even your cell phone.
 	- Works at any scale
 	- Works outside
@@ -114,7 +145,10 @@ Software tools:
 	- More chaotic geometry 
 	- [How to](http://www.123dapp.com/howto/catch)
 
-* **Visual FSM & Meshlab-** If you don't like 123D Catch or Agisoft. [Tutorial](http://www.instructables.com/id/Make-a-3D-model-from-pictures/?ALLSTEPS)
+![](http://finishtheshot.com/wp-content/uploads/2012/01/gargoyle_123dCatch.png)
+                *Gargoyle in 123D Catch*
+
+* **Visual FSM & Meshlab -** If you don't like 123D Catch or Agisoft. [Tutorial](http://www.instructables.com/id/Make-a-3D-model-from-pictures/?ALLSTEPS)
 
 ---
 
@@ -161,13 +195,13 @@ Programs like Maya, Cinema4D, Houdini, 3D Studio Max, Modo also work well with .
 
 --------------------------
 
-Alignment
+Alignment:
 
 * [Meshlab 3D Scanning: Alignment] (http://youtu.be/4g9Hap4rX0k)
 * [Alignment and Registration in CloudCompare] (http://www.danielgm.net/cc/doc/wiki/index.php5?title=Alignment_and_Registration )
    * I've found that CloudCompare is really good for loading large pointclouds or found research data in lasercanning formats like .las, .xyz etc. and it will do a great job with Kinect or photogrammetry pointclouds. 
 
-Reduction & Remeshing
+Reduction & Remeshing:
 
 * Poisson Reconstruction in Meshlab - This is a good general purpose approach for Kinect or other pointclouds. Can also be used to combine meshes when used after "flatten visible layers" in Meshlab. 
 

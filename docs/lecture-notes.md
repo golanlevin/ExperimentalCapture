@@ -6,18 +6,20 @@
 
 ### Wednesday, September 16, 2015
 
-* Meetings for projects. 
-* Lectures on technologies. 
+* [Hyperspectral and Multispectral imaging](hyperspectral.md). 
+* [Demonstration of 3DSystems iSense capture, Agisoft Photoscan tutorial](assignment1-object.md#how-can-i-3d-scan).
+
+--
 
 ### Monday, September 14, 2015
 
 * [Conceptual Cameras](conceptual-cameras.md)
 * [Still Life: some references](object-references.md)
-* Lecture by Jeff Hinkelman
+* [Lecture by Jeff Hinkelman](object-references.md#references-from-jeff-hinkelman)
 
----
+--
 
 ### Wednesday, September 2, 2015
 
 * [Syllabus & policies](../README.md)
-* Upcoming [deliverables](deliverables.md)
+* [Upcoming Deliverables](deliverables.md)

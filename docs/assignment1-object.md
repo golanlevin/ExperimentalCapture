@@ -1,13 +1,19 @@
 # Project 1: Documentation of an Object
 
-*Due Wednesday, September 23rd at the beginning of class.* 
+*Due Wednesday, September 23rd at the beginning of class.*<br />
+Check [here](object-references.md) for the references presented on [Objects & Still Lives](object-references.md). 
 
-This assignment asks you to: 
 
-* "capture" (with any of a variety of acquisition technologies) some object that intrigues/fascinates/grips you, and then
+## The Assignment
+
+*Using expanded capture techniques, acquire a digital impression of a charged object and realize it virtually. Your presentation should unlock some portion of its spirit.*
+
+To rephrase somewhat, this assignment asks you to: 
+
+* "capture" (with any of a variety of acquisition technologies) some "charged object" that intrigues/fascinates/grips you, and then
 * design a presentation that somehow "unlocks a portion of its spirit" -- whatever that could mean -- in some technologized medium. 
 
-Below are four potential starting points for helping you select a possible "charged" object.
+Below are four potential starting points for helping you select a possible "charged object". These are not the only possible starting points, but they can each help point you toward identifying your subject.
 
 --
 
@@ -34,11 +40,6 @@ You might initially think this means "your most treasured possession", but it co
 
 Got another concept? *Speak with the professor. We're flexible.*
 
---
-
-### Task
-
-Using expanded capture techniques, acquire the object and realize it object virtually. Your presentation should unlock some portion of its spirit 
 
 --
 
@@ -47,9 +48,9 @@ Using expanded capture techniques, acquire the object and realize it object virt
 * Regardless of any intermediate processes or materials that your concept may or may not require (e.g. clay, papier-mache, etc.), your final project must be a virtual manifestation. Acceptable projects are limited to one of the following forms: 
 	* a real-time software executable (created, for example, in Unity3D, openFrameworks, Processing, three.js, etc.) (Note: *interactivity* is optional).
 	* a video or computer-generated animation 
-	* a computer-generated rendering 
+	* a computer-generated model or rendering 
 * Regardless of any subsequent digital transformations you might apply, you must "capture" "something" real (using a "device") as the initial basis for your virtual manifestation. 
-* Your virtual object must be presented on a neutral background. 
+* Your virtual object should be presented on a neutral background. 
 
 
 #### Details 
@@ -65,7 +66,7 @@ Using expanded capture techniques, acquire the object and realize it object virt
 
 #### What would be a "minimum viable project"? 
 
-One example of a possible solution might be something like this: 
+Well... one example of a possible solution might be something like this: 
 
 * Make a thing out of clay
 * 3D scan it
@@ -73,7 +74,7 @@ One example of a possible solution might be something like this:
 * Add some sparkles, make it wiggle
 * Record a screengrab video
 
-*Be more creative than that.*
+... but there are *many* other possible ways you could realize this assignment. For example, you might create a [cinemagraph (animated GIF)](http://www.hongkiat.com/blog/cinemagraph/) of your object spinning around, etc. 
 
 -- 
 
@@ -81,11 +82,21 @@ One example of a possible solution might be something like this:
 
 A list of references and viewings is available **[here](object-references.md)**. 
 
--- 
+---
+---
+---
 
-#### What Options do I have for Scanning Something? 
+### How Can I 3D Scan? 
 
-Hardware Options: 
+As of September 2015, our top recommendations are either:
+* using the 3DSystems iSense depth sensor with the iPad ([tutorial](http://cubify.com/info/tutorialssense) here), or 
+* creating a photo from 3D models (photogrammetry) with Agisoft Photoscan ([tutorial](https://vimeo.com/specularprojects/photoscan1) here). 
+
+*More information on these and other options is below.*
+
+--
+
+#### Hardware Options: 
 
 * **3D Systems iSense -** 3D Scanner for iPad Mini Retina. [Tutorial](http://cubify.com/info/tutorialssense)
 
@@ -109,7 +120,7 @@ Hardware Options:
 		- [Video example](https://www.youtube.com/watch?v=of6d7C_ZWwc	)
 		- [Tools and resources](http://www.microsoft.com/en-us/kinectforwindows/develop/downloads-docs.aspx)
 * **[DepthKit](http://depthkit.tv/)**
-	* Made by [Specular](http://www.specular.cc/), a RGB D filmmaking tool 
+	* Made by [Specular](http://www.specular.cc/), a RGBD filmmaking tool 
 	* Combines a Kinect with DSLR.
 	* Can be viewed in 3D program like Maya, Cinema4D.
 	* Everything is avalible for lending, including mounts.

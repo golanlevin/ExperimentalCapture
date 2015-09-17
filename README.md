@@ -56,11 +56,14 @@ Other documents:
 ### Lectures
 *This is a partial list of some of the capture technologies and techniques we will discuss this semester. Some of these pages are still under construction.*
 
-* [Conceptual Cameras](docs/conceptual-cameras.md)
+
+* [What is a Camera? Conceptual Cameras](docs/conceptual-cameras.md)
+* [Capturing and Representing Objects: Still Life & More](docs/object-references.md)
+* [Multispectral & Hyperspectral Imaging](docs/hyperspectral.md)
 * [Gesture recording and playback; 2D & 3D motion capture](docs/gesture.md)
 * Silhouette (Blob) Tracking
 * Depth Sensors and RGBD
-* [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)
+* [Photogrammetry and 3D scanning](docs/photogrammetry-and-3D-scanning.md)
 * [Overcranking (Slow-Motion)](docs/overcranking.md)
 * [Undercranking and Time Lapse](docs/undercranking.md)
 * [Long Exposure and Light Painting](docs/longexposure.md)
@@ -70,20 +73,13 @@ Other documents:
 * [Backwards (Retrograde) Time](docs/backwards.md)
 * [Looping (Canon) Time](docs/looping.md)
 * [Gonioreflectometry](docs/gonioreflectometry.md)
-* [Multispectral & hyperspectral imaging](docs/hyperspectral.md)
 * Multitrack Time
 * Slit Scanning
 * [Moving Cameras (shutter stroboscopy)](docs/moving-cameras.md)
 * [Panoramic imaging, 360-degree, and environmental capture](docs/environmental-capture.md)
-* [Stereography & Binocular Imaging](docs/Binocular-Sterography.md)
+* [Stereography & Binocular Imaging](docs/binocular-stereography.md)
 * [Experimental Audio Capture](docs/audio.md)
-
---
-### Artistic Idioms and Questions 
-
 * [Perspective Capture and Representation](docs/perspective.md)
-* *What is a camera?*
-* *[Still Life](docs/object-references.md)*
 * *[Portraiture](docs/portraits.md)*
 * *Landscape*
 

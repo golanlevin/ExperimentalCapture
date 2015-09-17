@@ -32,10 +32,10 @@ At the conclusion of this course, students will be able to
 ### Course Logistics
 
 * [**Deliverables**](docs/deliverables.md)
-   1. [An Object](assignment1-object.md), due 9/23
-   1. [A Person in Time](assignment2-person.md), due 10/19
-   1. [A Place](assignment3-place.md), due 11/18
-   1. [Final Project](assignment4-final.md), due 12/9
+   1. [An Object](docs/assignment1-object.md), due 9/23
+   1. A Person in Time, due 10/19
+   1. A Place, due 11/18
+   1. Final Project, due 12/9
 * [**Student Area**](students/index.md)
 * [**Tutorials**](docs/tutorials.md)
 * [**Calendar**](docs/calendar.md)

@@ -1,5 +1,7 @@
 # Conceptual Cameras
 
+This lecture is intended to provoke reconsiderations about what a camera "is" or could be. 
+
 -- 
 
 ### The Descriptive Camera

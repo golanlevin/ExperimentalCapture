@@ -149,7 +149,23 @@ Here's cutting edge work in capturing and manipulating objects from SIGGRAPH. Co
 *Viscous SPH deformation* by A. Peer et al.: 
 [![Nail Art Museum](http://img.youtube.com/vi/3yyLIG935zc/0.jpg)](https://www.youtube.com/watch?v=3yyLIG935zc&t=0m34s)<br />
 
+-- 
 
+### References from Jeff Hinkelman
+
+Eadweard Muybridge ostrich images:
+
+![Muybridge Ostrich](https://media.giphy.com/media/cpEcMFXAA9yrS/giphy.gif)<br />
+
+Video clips from:
+
+- "The Man Who Did Not Want to Paint", which was the prelude to the film *THE AGONY AND THE ECSTASY* (D: Reed, 1965).
+- *THE MYSTERY OF PICASSO* (D: Clouzot, 1956)
+- *EAT DRINK MAN WOMAN* (D: Lee, 1994)
+- *TOPS* (D: Charles & Ray Eames, 1969)
+- *NEW DIMENSIONS* (D: Norling, 1940)
+- *LATE SPRING* (D: Ozu, 1949)
+- *STUDY IN CHOREOGRAPHY FOR CAMERA* (D: Maya Deren, 1943)
 
 
 

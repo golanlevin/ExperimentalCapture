@@ -25,7 +25,7 @@ Remember: Birds are the best. Pigeons especially.
 ### Looking Outwards reports: 
 
 1. [Olars, Kinetic Toy & Evolution Simulation](looking-outwards-01.md)
-1. [bear](looking-outwards-02.md) 
+1. [Bird Motion Capture](looking-outwards-02.md) 
 1. [cat](looking-outwards-03.md)
 1. [dog](looking-outwards-04.md)
 1. [egg](looking-outwards-05.md)

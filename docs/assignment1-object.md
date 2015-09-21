@@ -214,7 +214,7 @@ Alignment:
 
 Reduction & Remeshing:
 
-* Poisson Reconstruction in Meshlab - This is a good general purpose approach for Kinect or other pointclouds. Can also be used to combine meshes when used after "flatten visible layers" in Meshlab. 
+* [Poisson Reconstruction in Meshlab](https://vimeo.com/20933872) - This is a good general purpose approach for Kinect or other pointclouds. Can also be used to combine meshes when used after "flatten visible layers" in Meshlab. 
 
 Color
 

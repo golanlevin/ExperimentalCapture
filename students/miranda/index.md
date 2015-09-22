@@ -17,7 +17,7 @@ Remember: Birds are the best. Pigeons especially.
 -- 
 ### Projects
 
-* [Object](project1.md): *Shoe*
+* [Object](project1.md): *Frame Differencing - Bird Movement*
 * [Person in Time](project2.md): *My Sister*
 * [Place](project3.md): *Interesting Stairwell*
 

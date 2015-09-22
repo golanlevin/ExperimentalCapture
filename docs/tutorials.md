@@ -12,7 +12,7 @@
 
 * Hokuyo URG-04LX-UG01 Scanning Laser Rangefinder **[Dan_Moore]**
 * Leap Motion Controller
-* Wacom Inkling Digital Sketch Pen (MDP123) **[Miranda]**
+* [Wacom Inkling Digital Sketch Pen (MDP123)](../students/miranda/Inkling_Tutorial/inkling_tutorial.md) **[Miranda]**
 * 9 Degrees of Freedom - Razor IMU
 * Adafruit Ultimate GPS Logger Shield
 * Adafruit Assembled Data Logging shield for Arduino

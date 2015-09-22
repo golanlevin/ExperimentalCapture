@@ -1,6 +1,4 @@
-## Project 01
-
-### Pepper's Pig
+## Project 1: Pepper's Pig
 #### Project Members: [Michelle Ma](../michelle/index.md), [Vidya Vinnakota](../vidya/index.md)
 -
 #### Project Video

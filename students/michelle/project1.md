@@ -20,15 +20,15 @@ So we decided to give my Piggy Bank a new life using this illusion. The Piggy Ba
 
 Our process has several parts, involving many programs and machines. Here is the break down.
 
-*3D Scanning*
+*3D Scan*
 - 3D scan the subject using **123D Catch** for the iPad
 - Reduce and clean the geometry using **Maya** and the **DynaMesh** feature in **ZBrush**
 
-*Generating Forms with Maya*
+*Generate Forms with Maya*
 - Generate new renditions of our piggy using **MEL scripting in Maya**
 - Format their pivots and export the OBJs for **Unity**
 
-*Interactions in Unity*
+*Implement Interactions in Unity*
 - Implement touch interactions with 3D objects, including rotate and spawning
 - Adjust the standard shader to give the right appearance
 - Use the **Unity Remote** to debug the program in real time

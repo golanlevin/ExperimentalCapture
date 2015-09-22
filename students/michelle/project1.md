@@ -10,7 +10,7 @@
 
 Our original inspiration for this project came from the Pepper's Ghost illusion that you can easily create with any LCD screen and clear plastic. We were especially influenced by this video on [How to Turn Your iPhone into a 3D Hologram](http://www.telegraph.co.uk/technology/mobile-phones/11780393/How-to-turn-your-phone-into-a-3D-hologram-projector.html). Of course, it's not an actual hologram, but it projects the iPad screen perpendicular to the viewer's line of vision to create an amazing suspended effect. There are a number of companies who have tried to capitalize on this concept such as [Youlalight](http://youlalight.com/en/3dpiramidforipad), however we wanted to take advantage of the affordable nature of its implementation, and also enrich the experience by adding the interactivity of an iPad.
 
-So we decided to give my Piggy Bank a new life using this illusion. The Piggy Bank was the perfect choice because it was a childhood object, it involves a unique interaction, and it has personality.
+So we decided to give my Piggy Bank a new life using this illusion. The Piggy Bank was the perfect choice because it was a childhood object, it involves a unique interaction, and it has personality. And since we wanted to give it a new life, we decided to play with its 3D mesh and give it new forms.
 
 *Piggy Bank Image*
 

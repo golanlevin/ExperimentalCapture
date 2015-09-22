@@ -29,7 +29,7 @@ Our process has several parts, involving many programs and machines. Here is the
 - Format their pivots and export the OBJs for **Unity**
 
 *Implement Interactions in Unity*
-- Implement touch interactions with 3D objects, including rotate and spawning
+- Implement touch interactions with 3D objects, including rotation and spawning
 - Adjust the standard shader to give the right appearance
 - Use the **Unity Remote** to debug the program in real time
 

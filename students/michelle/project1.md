@@ -34,7 +34,7 @@ Our process has several parts, involving many programs and machines. Here is the
 - Use the **Unity Remote** to debug the program in real time
 
 *Build on iOS*
-- Deploy the Unity build for an **iPad 4** using XCode7, which thankfully allows developers to build on devices for free starting this year
+- Deploy the Unity build for an iPad 4 using **XCode7**, which thankfully allows developers to build on devices for free starting this year
 
 *Construct the Pyramid*
 - Calculate proportions of pyramid

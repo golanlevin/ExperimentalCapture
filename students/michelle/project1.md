@@ -38,7 +38,7 @@ Our process has several parts, involving many programs and machines. Here is the
 
 *Construct the Pyramid*
 - Calculate proportions of pyramid
-- Lasercut on clear acrylic (prototype) and black-tinted acrylic
+- Laser cut on clear acrylic (prototype) and black-tinted acrylic
 - Assemble with acrylic cement
 
 -

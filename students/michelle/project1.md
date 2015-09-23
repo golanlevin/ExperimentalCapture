@@ -54,7 +54,7 @@ Our process has several parts, involving many programs and machines. Here is the
 #### Links
 - [Michelle's Unity Project](https://github.com/michell3/peppers-pig/tree/master/Pepper%20Unity)
 - [More Project Images](https://github.com/michell3/peppers-pig/tree/master/Project%20Images)
-- *Vidya's MEL Scripts*
+- [Vidya's MEL Scripts](https://github.com/vvinnak1/MEL-Scripts)
 
 -
 #### Special thanks to

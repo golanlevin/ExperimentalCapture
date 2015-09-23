@@ -12,6 +12,7 @@ So we decided to give my Piggy Bank a new life using this illusion. The Piggy Ba
 
 In conclusion, our project was pretty fun to implement despite the hiccups that come with using so many different platforms and software. If we were to revisit the project in the future, we would focus more on harnessing the interactions with animation controllers and generating the forms directly in Unity. We would also scan a variety of other objects to experiment with different mesh forms.
 
+<br>
 <img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/pink_02.jpg" width="400"> <img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/ipad_01.jpg" width="400">
 <img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/green_01.jpg" height="257"> <img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/screens.png" height="257"> 
 

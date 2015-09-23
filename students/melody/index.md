@@ -1,32 +1,21 @@
-# Your Name
+# Melody Ting
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
-
+I am a sophomore BHA student studying Cognitive Science and Art. Other interests include good food and great conversation.
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Facebook: Melody Ting (https://www.facebook.com/mting780)
 
 -- 
 ### Projects
 
-* [Object](project1.md): *Shoe*
-* [Person in Time](project2.md): *My Sister*
-* [Place](project3.md): *Interesting Stairwell*
+* [Object](project1.md):
+* [Person in Time](project2.md):
+* [Place](project3.md):
 
 --
 ### Looking Outwards reports: 
 
-1. [apple](looking-outwards-01.md)
-1. [bear](looking-outwards-02.md) 
-1. [cat](looking-outwards-03.md)
-1. [dog](looking-outwards-04.md)
-1. [egg](looking-outwards-05.md)
-1. [fridge](looking-outwards-06.md)
-1. [giraffe](looking-outwards-07.md)
-1. [hat](looking-outwards-08.md)
-1. [ice cream](looking-outwards-09.md)
-1. [jam](looking-outwards-10.md)
+1. Oil workers (from the Shell company of Nigeria) returning home from work, caught in torrential rain, 2013

@@ -33,6 +33,8 @@ I built the light painting stick with a Raspberry Pi brain, which is a completel
 *Maiden x4*
 
 ---
+![Rig](./media/project1/rig.jpg)  
+*Light painting rig, with internals exposed*
 
 ![Rig Test](./media/project1/rigtest.jpg)  
 *Test of light painting rig*

@@ -11,8 +11,8 @@ The goal was to be able to create 3 dimensonal models of objets that are otherwi
 
 Smokey is particularly interested in using this tool as a compositing aide to create "pretty 3D renders of pretty things", while Irene enjoys the process of figuring out how to turn a bunch of images into a 3 dimensonal model.
 
-![images/pinkSplash.jpg](This is a sloppy photoshop job, don't judge me.)
-![images/blueSplash.jpg](Another sloppy photoshop. Shhhh.)
+![This is a sloppy photoshop job, but whatever](images/pinkSplash.jpg)
+![Another Sloppy photoshop job. JUDGE ME.](images/blueSplash.jpg)
 
 ---
 
@@ -32,7 +32,7 @@ The camera with the flash itself was triggered through a triggertrap, which conn
 
 This low tech and inelegant (yet clever) solution prevented us away from getting tangled with a million wires. All we needed was a little assistance (thanks Charlotte, others!) and some practice (which consumed time).
 
-![images/timeLapse.gif](Time Lapse of rearranging the setup)
+![Time Lapse of rearranging the setup](images/timeLapse.gif)
 
 ## Sparse Photogrammetry
 While 14 DSLR camera (not to mention tripods, arms, lightstands, etc) is a large and cumbersome system to handle, in the world of photogrammetry, 14 is actually rather small. We hit an immedeate problem: the lack of overlap between the images prevented the software (Agisoft PhotoScan) from accuratey being able to place the images in 3D space. Here are some tricks we discovered for generating better images from models.

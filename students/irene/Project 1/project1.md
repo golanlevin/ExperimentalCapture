@@ -11,7 +11,8 @@ Smokey is particularly interested in using this tool as a compositing aide to cr
 
 ![Slime capture #1, slightly edited in Photoshop](images/pinkSplash.jpg)
 ![Slime capture #2](images/blueSplash.jpg)
-[![Project Video](https://vimeo.com/140151342/0.jpg)](https://vimeo.com/140151342)
+
+[Project Video](https://vimeo.com/140151342)
 
 ---
 

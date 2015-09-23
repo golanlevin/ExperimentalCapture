@@ -14,7 +14,7 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 -- 
 ### Projects
 
-* [Object](project1.md): *Shoe*
+* [Object](project1.md): *Pepper's Pig*
 * [Person in Time](project2.md): *My Sister*
 * [Place](project3.md): *Interesting Stairwell*
 
@@ -22,7 +22,7 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 ### Looking Outwards reports: 
 
 1. [Haptomime and the Visuo-Tactile Projector](looking-outwards-01.md)
-2. [bear](looking-outwards-02.md) 
+2. [LazyFluids: Appearance Transfer for Fluid Animations](looking-outwards-02.md) 
 3. [cat](looking-outwards-03.md)
 4. [dog](looking-outwards-04.md)
 5. [egg](looking-outwards-05.md)

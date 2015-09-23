@@ -12,7 +12,7 @@ Hello!  I am a Senior in the school of art interested in making animations and g
 -- 
 ### Projects
 
-* [Object](project1.md): *Shoe*
+* [Object](project1.md): *Thumb Prints*
 * [Person in Time](project2.md): *My Sister*
 * [Place](project3.md): *Interesting Stairwell*
 
@@ -20,7 +20,7 @@ Hello!  I am a Senior in the school of art interested in making animations and g
 ### Looking Outwards reports: 
 
 1. [Live2D](looking-outwards-01.md)
-1. [bear](looking-outwards-02.md) 
+1. [Smoothie-3D](looking-outwards-02.md) 
 1. [cat](looking-outwards-03.md)
 1. [dog](looking-outwards-04.md)
 1. [egg](looking-outwards-05.md)

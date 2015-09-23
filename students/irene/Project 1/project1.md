@@ -57,6 +57,8 @@ If you can model half of an object, and that object is symmetric, there is no ne
 
 ---
 
+![Blue Gunk! Yay Blue Gunk! It's Creamer! It smells! Woo!](images/blueGunk.jpg)
+
 # Lessons Learned
 Most of our problems from extended from a lack of resources. While it would have been great to do test shots and adjust our rig (feedback loops!) The limited time span we were able to rent the cameras within forced us to spend all of our camera time setting up, shooting, and tearing down our rig. Knowing we were unsure of what would work best in PhotoScan, we had hoped to try different angles and methods (and take video), but time was not on our side. Instead we hoped for the best, and spent a good deal of time learning how to work with an imperfect set of images for photogrammetry ("False Photogrammetry") rather than wishing we had something better and moving on. That said, we would love to set a rig like this up again with everything we've learend about photogrammetry and camera triggering.
 
@@ -65,5 +67,5 @@ We enjoyed the process of setting up and using such a large capture rig - Smokey
 Both Smokey and Irene feel that they would be lost with unlimited resorces - it's the limitations that spur creativity and challenge us to invent clever solutions. Troubleshooting this project was frustrating but very enjoyable. 
 
 # The Final Products
+![3D model of a Shoe floating in air](images/shoe.gif)
 
-	

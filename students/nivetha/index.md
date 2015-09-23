@@ -12,7 +12,7 @@ Hello!  I am a Senior in the school of art interested in making animations and g
 -- 
 ### Projects
 
-* [Object](project1.md): *Shoe*
+* [Object](project1.md): *Thumb Prints*
 * [Person in Time](project2.md): *My Sister*
 * [Place](project3.md): *Interesting Stairwell*
 

@@ -13,7 +13,7 @@ Graduate student from Heinz MISM-BIDA program. Specialization data science. Love
 -- 
 ### Projects
 
-* [Object](project1.md): *Shoe*
+* [Object](project1.md): *Paper Bunny*
 * [Person in Time](project2.md): *My Sister*
 * [Place](project3.md): *Interesting Stairwell*
 

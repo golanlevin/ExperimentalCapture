@@ -42,6 +42,10 @@ Our process has several parts, involving many programs and machines. Here is the
 - Laser cut on clear acrylic (prototype) and black-tinted acrylic
 - Assemble with acrylic cement
 
+*Other*
+- Document the project in semi-dark settings
+- Use the **Flicker Free** plugin for **Premiere Pro** because it's hard to record screens in the dark
+
 -
 #### Links
 - [Michelle's Unity Project](https://github.com/michell3/peppers-pig/tree/master/Pepper%20Unity)

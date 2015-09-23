@@ -4,6 +4,8 @@
 * [Michael Kontopoulous, *Horizons*](https://vimeo.com/1609048)
 * [Time lapse panorama](
 http://www.amazon.com/Movo-MTP-10-Motorized-Panaromic-Rechargeable/dp/B00RNALPRC/) tool
+* [Aleppo Syria in 360-degree video](http://www.ryot.org/syria-virtual-reality-war-zone-welcome-to-aleppo-ryot/940261)
+* LIDAR-scanned woodland, [Marshmallow Laser Feast](http://thecreatorsproject.vice.com/en_au/blog/virtual-reality-lets-you-become-a-mystical-forest-creature?utm_source=tcptwitteranz)
 
 ##Virtual Reality
 (from James George)

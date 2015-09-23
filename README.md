@@ -3,9 +3,10 @@
 ### Computational & Expanded ███ography
 Prof. [Golan Levin](http://flong.com), Carnegie Mellon University, Fall 2015. <br />
 Course numbers: 16-461 (Robotics Institute), 60-461/761 (Art) <br />
-M/W 1:30-2:50pm, in HL-A10A and the STUDIO (CFA-111). <br />
+M/W 1:30-2:50pm, in the STUDIO (CFA-111) and HL-A10A.<br />
+Tel: Nine one seven, five two zero, seven four five six.<br />
 Email: golan at andrew dot cmu dot edu <br />
-Twitter: @[golan](https://twitter.com/golan) & @[golancourses](https://twitter.com/golancourses)
+Twitter: @[golan](https://twitter.com/golan) & @[golancourses](https://twitter.com/golancourses)<br />
 
 > <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and hyperspectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays. Please note that there are usage/materials fees associated with this course.</small>
 
@@ -31,11 +32,16 @@ At the conclusion of this course, students will be able to
 ### Course Logistics
 
 * [**Deliverables**](docs/deliverables.md)
+   1. [An Object](docs/assignment1-object.md), due 9/23
+   1. A Person in Time, due 10/19
+   1. A Place, due 11/18
+   1. Final Project, due 12/9
 * [**Student Area**](students/index.md)
 * [**Tutorials**](docs/tutorials.md)
 * [**Calendar**](docs/calendar.md)
 * [**Readings**](docs/readings.md)
-* [*Google group*](https://groups.google.com/d/forum/experimental-capture)
+* [**Piazza Forum**](http://piazza.com/cmu/fall2015/1646160461761/home)
+* ***[Daily Lecture notes](docs/lecture-notes.md)***
 
 Other documents: 
 
@@ -46,16 +52,19 @@ Other documents:
 * [Room Reservation](docs/equipment.md)
 * [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md)
 
-*[Lecture notes](docs/lecture-notes.md)*
 
 --
-### Some Imaging and Capture Techniques
+### Lectures
 *This is a partial list of some of the capture technologies and techniques we will discuss this semester. Some of these pages are still under construction.*
 
+
+* [What is a Camera? Conceptual Cameras](docs/conceptual-cameras.md)
+* [Capturing and Representing Objects: Still Life & More](docs/object-references.md)
+* [Multispectral & Hyperspectral Imaging](docs/hyperspectral.md)
 * [Gesture recording and playback; 2D & 3D motion capture](docs/gesture.md)
 * Silhouette (Blob) Tracking
 * Depth Sensors and RGBD
-* [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)
+* [Photogrammetry and 3D scanning](docs/photogrammetry-and-3D-scanning.md)
 * [Overcranking (Slow-Motion)](docs/overcranking.md)
 * [Undercranking and Time Lapse](docs/undercranking.md)
 * [Long Exposure and Light Painting](docs/longexposure.md)
@@ -65,20 +74,13 @@ Other documents:
 * [Backwards (Retrograde) Time](docs/backwards.md)
 * [Looping (Canon) Time](docs/looping.md)
 * [Gonioreflectometry](docs/gonioreflectometry.md)
-* [Multispectral & hyperspectral imaging](docs/hyperspectral.md)
 * Multitrack Time
 * Slit Scanning
 * [Moving Cameras (shutter stroboscopy)](docs/moving-cameras.md)
 * [Panoramic imaging, 360-degree, and environmental capture](docs/environmental-capture.md)
-* [Stereography & Binocular Imaging](docs/Binocular-Sterography.md)
+* [Stereography & Binocular Imaging](docs/binocular-stereography.md)
 * [Experimental Audio Capture](docs/audio.md)
-
---
-### Artistic Idioms and Questions 
-
 * [Perspective Capture and Representation](docs/perspective.md)
-* *What is a camera?*
-* *[Still Life](docs/object-references.md)*
 * *[Portraiture](docs/portraits.md)*
 * *Landscape*
 

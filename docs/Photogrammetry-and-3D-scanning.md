@@ -1,6 +1,6 @@
 #Photogrammetry and 3D scanning
 
-###Tutorials from Specular:
+### Tutorials from Specular:
 
 * [Part 1] (https://vimeo.com/specularprojects/photoscan1)
 * [Part 2] (https://vimeo.com/specularprojects/photoscan2)

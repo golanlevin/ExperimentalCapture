@@ -22,12 +22,17 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 ### Looking Outwards reports: 
 
 1. [Haptomime and the Visuo-Tactile Projector](looking-outwards-01.md)
-1. [bear](looking-outwards-02.md) 
-1. [cat](looking-outwards-03.md)
-1. [dog](looking-outwards-04.md)
-1. [egg](looking-outwards-05.md)
-1. [fridge](looking-outwards-06.md)
-1. [giraffe](looking-outwards-07.md)
-1. [hat](looking-outwards-08.md)
-1. [ice cream](looking-outwards-09.md)
-1. [jam](looking-outwards-10.md)
+2. [bear](looking-outwards-02.md) 
+3. [cat](looking-outwards-03.md)
+4. [dog](looking-outwards-04.md)
+5. [egg](looking-outwards-05.md)
+6. [fridge](looking-outwards-06.md)
+7. [giraffe](looking-outwards-07.md)
+8. [hat](looking-outwards-08.md)
+9. [ice cream](looking-outwards-09.md)
+10. [jam](looking-outwards-10.md)
+
+--
+### Tutorials
+
+[Using PyMEL to Generate Forms and Motion in Maya](tutorial.md)

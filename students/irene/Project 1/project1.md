@@ -11,8 +11,16 @@ The goal was to be able to create 3 dimensonal models of objets that are otherwi
 
 Smokey is particularly interested in using this tool as a compositing aide to create "pretty 3D renders of pretty things", while Irene enjoys the process of figuring out how to turn a bunch of images into a 3 dimensonal model.
 
+<<<<<<< HEAD
 ![This is a sloppy photoshop job, but whatever](images/pinkSplash.jpg)
 ![Another Sloppy photoshop job. JUDGE ME.](images/blueSplash.jpg)
+||||||| merged common ancestors
+![images/pinkSplash.jpg](This is a sloppy photoshop job, don't judge me.)
+![images/blueSplash.jpg](Another sloppy photoshop. Shhhh.)
+=======
+![/images/pinkSplash.jpg](This is a sloppy photoshop job, don't judge me.)
+![/images/blueSplash.jpg](Another sloppy photoshop. Shhhh.)
+>>>>>>> 0523403d3c330a5097567a2350e319e27551b720
 
 ---
 

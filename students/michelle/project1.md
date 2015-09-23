@@ -56,4 +56,8 @@ Our process has several parts, involving many programs and machines. Here is the
 #### Special thanks to
 - **Roberto Andaya** for laser cutting and assembling the pyramid
 - [**The Studio for Creative Inquiry**](http://studioforcreativeinquiry.org/) for accepting our Microgrant application to purchase an iPad and other supplies
+- Michelle's Piggy Bank
+
+<br>
+<img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/piggy_bank_01.jpg" width="350">
 

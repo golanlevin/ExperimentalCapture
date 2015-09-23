@@ -11,16 +11,8 @@ The goal was to be able to create 3 dimensonal models of objets that are otherwi
 
 Smokey is particularly interested in using this tool as a compositing aide to create "pretty 3D renders of pretty things", while Irene enjoys the process of figuring out how to turn a bunch of images into a 3 dimensonal model.
 
-<<<<<<< HEAD
 ![This is a sloppy photoshop job, but whatever](images/pinkSplash.jpg)
 ![Another Sloppy photoshop job. JUDGE ME.](images/blueSplash.jpg)
-||||||| merged common ancestors
-![images/pinkSplash.jpg](This is a sloppy photoshop job, don't judge me.)
-![images/blueSplash.jpg](Another sloppy photoshop. Shhhh.)
-=======
-![/images/pinkSplash.jpg](This is a sloppy photoshop job, don't judge me.)
-![/images/blueSplash.jpg](Another sloppy photoshop. Shhhh.)
->>>>>>> 0523403d3c330a5097567a2350e319e27551b720
 
 ---
 
@@ -46,13 +38,13 @@ This low tech and inelegant (yet clever) solution prevented us away from getting
 While 14 DSLR camera (not to mention tripods, arms, lightstands, etc) is a large and cumbersome system to handle, in the world of photogrammetry, 14 is actually rather small. We hit an immedeate problem: the lack of overlap between the images prevented the software (Agisoft PhotoScan) from accuratey being able to place the images in 3D space. Here are some tricks we discovered for generating better images from models.
 
 #### Use Markers
-	Adding markers to signify 'This point is HERE' accross images to manually aide the process of image alignment is a simple enough process, although tedious.
+Adding markers to signify 'This point is HERE' accross images to manually aide the process of image alignment is a simple enough process, although tedious.
 
 #### Use Masks
-	Using Masks removing all extrateraneous and confusing data that the software may struggle with matching greatly aids the process - although it takes trial and error to see just what sorts of objects in the scene are confusing the software.
+Using Masks removing all extrateraneous and confusing data that the software may struggle with matching greatly aids the process - although it takes trial and error to see just what sorts of objects in the scene are confusing the software.
 
 #### Increase source image contrast
-	A batch photoshop job to increase the contrast on all of the images is an easy way to greatly aid the software's ability to align the cameras and generate the dense point cloud.
+A batch photoshop job to increase the contrast on all of the images is an easy way to greatly aid the software's ability to align the cameras and generate the dense point cloud.
 
 #### Camera Location Transitivity
 ur cameras did not change location from one image to the next. If we managed to align images A and B in one photo and B and C in another, we can tell the second image where camera A is in space, relative to camera B. While any of our straight image alignment processes only usually managed to align 3 or 4 images, we were able to use this camera location trick to bring ourselves up to 7 cameras.
@@ -61,16 +53,16 @@ ur cameras did not change location from one image to the next. If we managed to 
 Low quality renderings work better for low quality dense cloud generation. This is because the higher quality, more detailed, approach would read what - for our sparse number of cameras - was really just noise. The low quality setting acted as a low-pass filter of sorts, cutting our a lot of the inconsistent data noisily spread in the images (This 'noise' data is usually averaged away through a high number of images).
 
 #### Use Symmery/Cheat with the 3D model
-	If you can model half of an object, and that object is symmetric, there is no nead to model the other half. Just flip it around (either in photoscan by duplicating a chunk, applying markers between the chunks, and then merging them; or far more simply in any 3D modeling software such as maya or Cinema4D.
+If you can model half of an object, and that object is symmetric, there is no nead to model the other half. Just flip it around (either in photoscan by duplicating a chunk, applying markers between the chunks, and then merging them; or far more simply in any 3D modeling software such as maya or Cinema4D.
 
 ---
 
 # Lessons Learned
-	Most of our problems from extended from a lack of resources. While it would have been great to do test shots and adjust our rig (feedback loops!) The limited time span we were able to rent the cameras within forced us to spend all of our camera time setting up, shooting, and tearing down our rig. Knowing we were unsure of what would work best in PhotoScan, we had hoped to try different angles and methods (and take video), but time was not on our side. Instead we hoped for the best, and spent a good deal of time learning how to work with an imperfect set of images for photogrammetry ("False Photogrammetry") rather than wishing we had something better and moving on. That said, we would love to set a rig like this up again with everything we've learend about photogrammetry and camera triggering.
+Most of our problems from extended from a lack of resources. While it would have been great to do test shots and adjust our rig (feedback loops!) The limited time span we were able to rent the cameras within forced us to spend all of our camera time setting up, shooting, and tearing down our rig. Knowing we were unsure of what would work best in PhotoScan, we had hoped to try different angles and methods (and take video), but time was not on our side. Instead we hoped for the best, and spent a good deal of time learning how to work with an imperfect set of images for photogrammetry ("False Photogrammetry") rather than wishing we had something better and moving on. That said, we would love to set a rig like this up again with everything we've learend about photogrammetry and camera triggering.
 
-	We enjoyed the process of setting up and using such a large capture rig - Smokey is a camera junkie and gear head, he very much enjoyed just playing wtih the small mountain of DSLR's. Irene really enjoyed the puzzle of making something good out of a bad thing, putting our heads together and coming up with a soltuion that may not be ideal, but gets the job done at the end of the end of the day. THis is where wee succeeded - while a correctly established camera rig with enough ovelap was where we failed.
+We enjoyed the process of setting up and using such a large capture rig - Smokey is a camera junkie and gear head, he very much enjoyed just playing wtih the small mountain of DSLR's. Irene really enjoyed the puzzle of making something good out of a bad thing, putting our heads together and coming up with a soltuion that may not be ideal, but gets the job done at the end of the end of the day. THis is where wee succeeded - while a correctly established camera rig with enough ovelap was where we failed.
 
-	Both Smokey and Irene feel that they would be lost with unlimited resorces - it's the limitations that spur creativity and challenge us to invent clever solutions. Troubleshooting this project was frustrating but very enjoyable. 
+Both Smokey and Irene feel that they would be lost with unlimited resorces - it's the limitations that spur creativity and challenge us to invent clever solutions. Troubleshooting this project was frustrating but very enjoyable. 
 
 # The Final Products
 

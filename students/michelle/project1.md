@@ -10,7 +10,10 @@ Our original inspiration for this project came from the Pepper's Ghost illusion 
 
 So we decided to give my Piggy Bank a new life using this illusion. The Piggy Bank was the perfect choice because it was a childhood object, it involves a unique interaction, and it has personality. And since we wanted to give it a new life, we decided to play with its 3D mesh and give it new forms.
 
-*Piggy Bank Image*
+In conclusion, our project was pretty fun to implement despite the hiccups that come with using so many different platforms and software. If we were to revisit the project in the future, we would focus more on harnessing the interactions with animation controllers and generating the forms directly in Unity. We would also scan a variety of other objects to experiment with different mesh forms.
+
+<img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/pink_02.jpg" width="400"> <img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/ipad_01.jpg" width="400">
+<img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/green_01.jpg" height="257"> <img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/screens.png" height="257"> 
 
 -
 
@@ -38,6 +41,12 @@ Our process has several parts, involving many programs and machines. Here is the
 - Calculate proportions of pyramid
 - Laser cut on clear acrylic (prototype) and black-tinted acrylic
 - Assemble with acrylic cement
+
+-
+#### Links
+- [Michelle's Unity Project](https://github.com/michell3/peppers-pig/tree/master/Pepper%20Unity)
+- [More Project Images](https://github.com/michell3/peppers-pig/tree/master/Project%20Images)
+- *Vidya's MEL Scripts*
 
 -
 #### Special thanks to

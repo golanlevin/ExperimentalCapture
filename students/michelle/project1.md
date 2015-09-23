@@ -2,6 +2,9 @@
 #### Project Members: [Michelle Ma](../michelle/index.md), [Vidya Vinnakota](../vidya/index.md)
 -
 #### Project Video
+
+[![IMAGE ALT TEXT](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/cluster_01.jpg)](https://vimeo.com/140160707 "Pepper's Pig")
+
 -
 
 #### Concept

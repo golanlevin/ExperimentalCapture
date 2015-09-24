@@ -22,6 +22,8 @@ Lytro needs to process the files in order to edit, export, and so on and so fort
 
 Lytro will, eventually, release an [SDK](https://support.lytro.com/hc/en-us/articles/200863200-What-are-your-plans-for-open-development-). This hasn’t happened yet. But don’t worry, there us hope! There is been a lot of headway into hacking open the Lytro camera and file format. Most of this research is centered around [this webpage](http://optics.miloush.net/lytro/), which contains a [library](http://optics.miloush.net/lytro/TheViewer.aspx), as well as lots of glorious technical information about the file format.
 
+Update: Lytro has released a beta to its "Lytro Power Tools" [Here](https://www.lytro.com/platform/power-tools/). From the website: *Lytro Power Tools are a set of Python camera, image control and web tools and support for Android Debug Bridge (ADB) command line interface. Developed for programmers, developers and researchers, or anyone who is interested in experimenting with light field imagery using a Lytro camera, LPT provides full access for complete control at every step – from raw light field data to Living Pictures to animation.*
+
 ## Editing for Static Images
 
 Once an image is processed, it’s time to edit.

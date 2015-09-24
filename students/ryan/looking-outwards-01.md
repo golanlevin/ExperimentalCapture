@@ -4,13 +4,13 @@ This installation allows the participant to visually immerse himself in a three-
 
 ---
 
-![Mangrané's Phantom: Rendering](1-1.jpg)
-![Mangrané's Phantom: Installation](1-2.jpg)
-![Mangrané's Phantom: Scanning of Brazilian rainforest](1-3.jpg)  
+![Mangrané's Phantom: Rendering](./media/lookingoutwards/1-1.jpg)
+![Mangrané's Phantom: Installation](./media/lookingoutwards/1-2.jpg)
+![Mangrané's Phantom: Scanning of Brazilian rainforest](./media/lookingoutwards/1-3.jpg)  
 
 ---
 
-![Sword of Damocles, 1968](1-4.jpg)  
+![Sword of Damocles, 1968](./media/lookingoutwards/1-4.jpg)  
 *Sword of Damocles*, "First head mounted VR" (1968)
 
 ## Sources

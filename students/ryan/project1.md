@@ -1,12 +1,12 @@
 ## Project #1: Maiden
 
-This project explores a sentimental item that is captured in its home but then depicted out of place, and 'captured' again. The subject of the piece is a wooden sculpture of the torso of a woman, entitled 'Maiden'. The sculpture was created by my great-grandmother, Rainold Murray. Asides from the ancestral significance, the sculpture also is intimately attached to a significant place – it sits on a pedestal in my grandmother's home 600 miles away.
+This project explores a sentimental item that is captured in its natural setting but then depicted out of place and 'captured' again. The subject of the piece is a wooden sculpture of the torso of a woman, entitled *Maiden*. The sculpture was created by my great-grandmother, Rainold Murray. Asides from the ancestral significance, the sculpture also is intimately attached to an important place – it sits on a pedestal in my grandmother's home 600 miles away.
 
-The image of 'Maiden' is now several times removed from the original subject. First to wood, then to photograph, and finally to a light painting captured in a second photograph at an entirely new location (where it is literally 'out of place').
+This *Maiden* is depicted on a shelf in my temporary Pittsburgh home. The image of *Maiden* is now several times removed from the original subject. First to wood, then to photograph, and finally to a light painting captured in a second photograph at an entirely new location. The intent is not to create the illusion that the sculpture is here, rather the opposite – the physical absence of the sculpture is underlined.
 
 ### Process
 
-I was intrigued by the idea of capturing the superimposed image of objects onto the real world. To accomplish this, I built a light painting device. The device consists of a 60 pixel RGB LED strip and a Raspberry Pi, with various electronics to make them play nice. The software is a modified version of the Python light painting script by Adafruit. It relies on a library created by Jeremy Garff (with other contributions). The software takes images, reads RGB informtion pixel column by column, corrects for gamma, and displays each column in sequence. The final 'image of an image' (of an image) was captured using a DSLR with long exposure.
+I was intrigued by the idea of capturing the superimposed image of objects onto the real world. To accomplish this, I built a light painting device. The device consists of a 60 pixel RGB LED strip and a Raspberry Pi, with various electronics to make them play nice. The software is a modified version of the Python light painting script by Adafruit. It relies on a library created by Jeremy Garff (with other contributions). The software takes images, reads RGB pixel information column by column, corrects for gamma, and displays each column in sequence. The final 'image of an image' (of an image) was captured using a DSLR with long exposure.
 
 ### Successes and failures
 
@@ -35,7 +35,7 @@ I built the light painting stick with a Raspberry Pi brain, which is a completel
 ---
 
 ![4 Maidens](./media/project1/maiden.jpg) 
-*Maiden, by Rainold Murrray x4*
+*Maiden, by Rainold Murray*
 
 ---
 ![Rig](./media/project1/rig.jpg)  

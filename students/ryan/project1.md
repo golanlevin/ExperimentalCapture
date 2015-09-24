@@ -35,7 +35,7 @@ I built the light painting stick with a Raspberry Pi brain, which is a completel
 ---
 
 ![4 Maidens](./media/project1/maiden.jpg) 
-*Maiden, by Rainold Murrray x4*
+*Maiden, by Rainold Murray*
 
 ---
 ![Rig](./media/project1/rig.jpg)  

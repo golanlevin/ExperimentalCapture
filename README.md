@@ -64,7 +64,7 @@ Other documents:
 * [Gesture recording and playback; 2D & 3D motion capture](docs/gesture.md)
 * Silhouette (Blob) Tracking
 * Depth Sensors and RGBD
-* [Photogrammetry and 3D scanning](docs/photogrammetry-and-3D-scanning.md)
+* [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)
 * [Overcranking (Slow-Motion)](docs/overcranking.md)
 * [Undercranking and Time Lapse](docs/undercranking.md)
 * [Long Exposure and Light Painting](docs/longexposure.md)

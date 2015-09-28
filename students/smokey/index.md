@@ -13,7 +13,7 @@ Hey, I'm Smokey. That's a nickname. I'm in the Emerging Media program on a track
 -- 
 ### Projects
 
-* None, yet.
+* [Project 1 - Ephemral Object. High Speed Photogrammetry](../irene/Project%201/project1.md)
 
 --
 ### Looking Outwards reports: 

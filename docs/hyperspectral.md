@@ -1,8 +1,8 @@
 # Multispectral & Hyperspectral Imaging
 
-http://stopocsmartmeters.com/uploads/3/5/1/6/3516580/7934370_orig.jpg
+![Electromagnet_spectrum](http://stopocsmartmeters.com/uploads/3/5/1/6/3516580/7934370_orig.jpg)
 
-https://www.nasa.gov/sites/default/files/spectrum_wall_chart_aug2011.jpg
+![Nasa_spectrum](https://www.nasa.gov/sites/default/files/spectrum_wall_chart_aug2011.jpg)
 
 [*Multispectral imaging*](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more. 
 
@@ -58,10 +58,12 @@ Widely used in security cameras.
 
 * You can [see veins easily](https://www.flickr.com/photos/nebarnix/2034727799) in NIR.
 * This has been used in some medical AR applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) device. 
-* In some circumstances, depending on materials, NIR cameras can [kindof see through clothes](http://www.komonews.com/news/problemsolvers/94802064.html). 
+* In some circumstances, depending on materials, NIR cameras can [kind of see through clothes](http://www.komonews.com/news/problemsolvers/94802064.html). 
 * [Detecting traced signatures](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/tracingb.jpg)
 * Osman Khan created a strictly [IR-viewable image](http://www.osmankhan.com/works.asp?name=Unviewed).
 * The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com/oliverlutz_prjct_lfrnk.htm) and [*"Stella at the Playground"*](http://www.oliverlutz.com/oliverlutz_prjct_plygrnd_inst.htm) by Oliver Lutz (2010) use a (visibly) black acrylic overpainting covering a secret image that can only be observed by a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera). 
+* Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a documentary film about the ongoing civil war in Congo, shot on infrared color film. 
+* Hey, here's an [infrared time-lapse](https://vimeo.com/58232705) video by Andrew Shurtleff.
 
 ---
 
@@ -97,9 +99,9 @@ Note that there is no "correct" way to view thermal imagery. Cameras offer a var
 
 Sometimes simply presenting such alternative views can be a provocative, entertaining or educational experience for audiences. 
 
-* Many science museums have a display in which the public can see themselves in a thermal camera. 
-* An artist was recently commissioned to create a live-video installation in New York's Time Square, in which she connected up a thermal camera (trained on passersby) to a large electronic billboard.
-* [Satellite thermal imaging of roofs](http://mashable.com/2015/08/20/google-house-solar/?utm_cid=mash-com-fb-main-link)
+* Many science museums, such as the Exploratorium, have a "[Heat Camera](http://exs.exploratorium.edu/exhibits/heat-camera/)" display in which the public can see themselves in a thermal camera. 
+* *[City Thermogram](http://thecreatorsproject.vice.com/blog/times-square-is-a-heat-sensitive-camera-thanks-to-peggy-ahwesh)*, by Peggy Ahwesh (2015), was commissioned to create a live-video installation in New York's Time Square, in which she connected up a thermal camera (trained on passersby) to a large electronic billboard.
+* Google has recently made [satellite thermal imaging of roofs](http://mashable.com/2015/08/20/google-house-solar/?utm_cid=mash-com-fb-main-link) available to the public, to prompt people's awareness about the  heat inefficiency of their homes. 
 
 ---
 

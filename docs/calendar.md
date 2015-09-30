@@ -23,14 +23,15 @@ Wed 09/09	Guest lecture (tentative):
 ---------------------------
 Mon 09/14	Guest lecture (confirmed):
 			* Jeff Hinkelman: The Dynamic Still Life
-			Technologies II (Still imaging): 
+			* References on the documentation of objects
+Wed 09/16	Meetings about projects;
+			Technologies II/III
 			* Hyperspectral imaging 
 			* Photogrammetry
 			* Depth sensing
 			* Light field imaging
 			* Reflectometry
 			* Scale (Microscopy, Telescopy)
-Wed 09/16	Technologies III (Time, Space, and Motion): 
 			* Overcranking (Slow-Motion)
 			* Undercranking and Time Lapse
 			* Long Exposure and Light Painting

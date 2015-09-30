@@ -19,8 +19,23 @@
 * Visual hulls for thermal carving
 * sensing normal polarization lens sense normals
 * marios sarrides - face scanner 
-* breathing life into 3d models, michael black
+* [breathing life into 3d models](https://www.youtube.com/watch?v=4CRMgPcgKp4), michael black
 * eulerian video magnification 
+* [Digital portraits by Chris Coleman](https://www.flickr.com/photos/digitalcoleman/albums/72157656141589104)
+* Pseudo-analog 3D scanner Sculptural Device, [Balint Bolygo - *Trace (Self Portrait)*](https://www.youtube.com/watch?v=J3XWQzz_JWs)
+*  Scanning Electron Microscope, DIY, $2000
+
+
+GL put these back, 9/12/2015 (they're for mocap & bodies):
+
+* [*Going to the Store* by David Lewandowski](https://www.youtube.com/watch?v=iRZ2Sh5-XuM)
+* [*Late for Meeting* by David Lewandowski](https://www.youtube.com/watch?v=wBqM2ytqHY4)
+* [Bodies from mocap](http://thecreatorsproject.vice.com/blog/open-motion-capture-data-becomes-a-surreal-3d-short-film)
+* [All Things Fall by Mat Collishaw] (https://vimeo.com/125791075), a 3D-printed zoetrope
+* [Make a realistic human with makehuman](makeHuman.org)
+
+
+
 
 <del>
 * Artec Space Spider - Yaser's 3D scanner 
@@ -328,7 +343,7 @@ https://www.stickmanventures.com/labs/demo/webgl-threejs-morph-target/#
 
 https://vimeo.com/56143282
 
-http://www.makehuman.org/ 
+<del> http://www.makehuman.org/ </del>
 
 https://github.com/obviousjim/OFGraphicsITP
 
@@ -605,3 +620,22 @@ SLAM building reconstruction
 
 retroreflection
 https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/coaxialb.jpg
+
+
+
+
+### hopefully elsewhwere
+
+* [audio](http://audio.theguardian.tv/sys-audio/Arts/Culture/2007/01/24/yellowhammerfinal.mp3) and then [Marcus Coates, *Dawn Chorus*](https://www.youtube.com/watch?v=PCCpnDtgxXk) 
+* [*Visible Human Project*](https://www.youtube.com/watch?v=dPPjUtiAGYs) and [Croix Gagnon and Frank Schott, *12:31*](http://www.project1231.com/)
+* [James George at *Eyeo 2015* (Vimeo)](https://vimeo.com/134973504)
+* [James George & Jonathan Minard, *CLOUDS*](http://cloudsdocumentary.com/)
+* [Nancy Burson, *Guys who Look Like Jesus*](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/image-averaging/burson_jesus_guys.jpg)
+* [Cassandra C. Jones (CMU MFA '04), *Snap Motion Reanimations*](http://www.cassandracjones.com/snap-motion-re-animations)
+* [Paul Debevec's *light stage rendering*](http://www.pauldebevec.com/Research/LS/)
+* [Sam Taylor-Wood, *Still Life*](https://www.youtube.com/watch?v=pXPP8eUlEtk)
+* [DIY Bullet Time](https://www.youtube.com/watch?v=OEd5lTmeAH8)
+* [John Gerrard, *Infite Freedom Exercise*](https://www.youtube.com/watch?v=xUKC11NEK0A)
+* [Jay Watson, *Linger a Litter Longer*](http://www.fubiz.net/en/2014/02/21/thermochromic-table/)
+* [Hyperspectral face recognition](http://www.intechopen.com/books/reviews-refinements-and-new-ideas-in-face-recognition/thermal-infrared-face-recognition-a-biometric-identification-technique-for-robust-security-system)
+* [Corneal reflectography](http://petapixel.com/2012/08/17/great-scott-corneal-imaging-is-a-real-thing/)

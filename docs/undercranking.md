@@ -36,6 +36,7 @@ Recent iOS iPhones will record time-lapse videos. Many camera manufacturers also
   * [How to Make a Baby](https://www.youtube.com/watch?v=MsBMG-p1HDM)
   * [35 years of Shinjuku construction](https://www.youtube.com/watch?v=laPU0bS8JOc)
   * [Daruma-otoshi skyscraper demolition](https://www.youtube.com/watch?v=jwf9LoS9Xt8)
+  * *Movements in Red*, an [infrared time-lapse](https://vimeo.com/58232705) video by Andrew Shurtleff.
 
 1. Extreme Timelapse & 'Hyperlapse'
   * [David Rokeby, Machine for Taking Time (Boul. Saint-Laurent) (2007)](http://www.davidrokeby.com/mftt_fdl.html)

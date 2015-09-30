@@ -66,9 +66,9 @@ Mon 10/12	Catch-up day (TBA)
 Wed 10/14	In-class work session 
 ---------------------------
 Sun 10/18	Working dinner at the STUDIO
-Mon 10/19	PROJECT 2 (PERSON) DUE; CRITIQUE.
-Wed 10/21	Guest lecture (MOVED, tentative):
-			* Jeff Hinkelman: The Dynamic Landscape
+Mon 10/19	TBA.
+Wed 10/21	PROJECT 2 (PERSON) DUE; CRITIQUE.
+			// Reschedule: Hinkelman: The Dynamic Landscape
 ---------------------------
 Mon 10/26	Guest visitors (confirmed): Specular.cc
 			(James George, Alex Porter, & Mei-Ling Wong)

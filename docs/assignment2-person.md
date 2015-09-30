@@ -1,6 +1,6 @@
 # Project 2: A Person in Time
 
-*Due Wednesday, October 23rd at the beginning of class.*<br />
+*Due Wednesday, October 21 at the beginning of class.*<br />
 
 
 ## The Assignment
@@ -27,6 +27,8 @@ For this assignment, it is strongly recommended that you develop your project by
 * Heartbeat (pulse) plus full-body motion capture
 * Audio plus body skeleton data (from a Kinect) 
 * LIDAR plus audio.....
+
+You may also use time-lapse and slow-motion approaches.....
 
 --
 

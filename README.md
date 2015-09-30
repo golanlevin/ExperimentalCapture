@@ -33,7 +33,7 @@ At the conclusion of this course, students will be able to
 
 * [**Deliverables**](docs/deliverables.md)
    1. [An Object](docs/assignment1-object.md), due 9/23
-   1. A Person in Time, due 10/19
+   1. [A Person in Time](docs/assignment2-person.md), due 10/21
    1. A Place, due 11/18
    1. Final Project, due 12/9
 * [**Student Area**](students/index.md)

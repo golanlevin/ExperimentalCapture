@@ -35,5 +35,5 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 --
 ### Tutorials
 
-[Agisoft PhotoScan Professional Edition](tutorial2.md)
-[Using PyMEL to Generate Forms and Motion in Maya](tutorial.md)
+* [Agisoft PhotoScan Professional Edition](tutorial2.md)
+* [Using PyMEL to Generate Forms and Motion in Maya](tutorial.md)

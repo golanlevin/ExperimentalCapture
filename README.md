@@ -33,7 +33,7 @@ At the conclusion of this course, students will be able to
 
 * [**Deliverables**](docs/deliverables.md)
    1. [An Object](docs/assignment1-object.md), due 9/23
-   1. A Person in Time, due 10/19
+   1. [A Person in Time](docs/assignment2-person.md), due 10/21
    1. A Place, due 11/18
    1. Final Project, due 12/9
 * [**Student Area**](students/index.md)
@@ -64,7 +64,7 @@ Other documents:
 * [Gesture recording and playback; 2D & 3D motion capture](docs/gesture.md)
 * Silhouette (Blob) Tracking
 * Depth Sensors and RGBD
-* [Photogrammetry and 3D scanning](docs/photogrammetry-and-3D-scanning.md)
+* [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)
 * [Overcranking (Slow-Motion)](docs/overcranking.md)
 * [Undercranking and Time Lapse](docs/undercranking.md)
 * [Long Exposure and Light Painting](docs/longexposure.md)

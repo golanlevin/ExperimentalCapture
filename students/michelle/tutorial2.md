@@ -5,7 +5,18 @@ In this tutorial I will go over the basics of generating an OBJ file using [**Ag
 --
 ### Installation
 
-Go to the [installation page](http://www.agisoft.com/downloads/installer/) on the Agisoft website and download
+Go to the [installation page](http://www.agisoft.com/downloads/installer/) on the Agisoft website and download the professional edition installer for your operating system.
+
+![Installer](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/agisoft_download.png)
+
+After the download, open the application.
+
+![Icon](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/agisoft_download.png)
+
+Enter your license code or continue in demo mode to activate your software. If you use demo mode, be aware that you cannot save the project, export reconstruction results, or use some Python commands. After activation, you can move on to using the program.
+
+--
+### The Agisoft Workflow
 
 --
 ### Tutorials

@@ -77,4 +77,4 @@ To export your model, go to the **File** menu, select **Export Model**, and then
 --
 ### Tutorials
 * [Agisoft PhotoScan User Manual (English)](http://www.agisoft.com/pdf/photoscan-pro_1_1_en.pdf)
-* [Youtube Tutorial by gevelmeting](https://www.youtube.com/watch?v=RMjdG93BwpU)
+* [Photoscan Portraits Part 1: Capturing with Photoscan](https://vimeo.com/123701711)

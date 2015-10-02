@@ -29,7 +29,7 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 6. [--](looking-outwards-06.md)
 7. [--](looking-outwards-07.md)
 8. [--](looking-outwards-08.md)
-9. [-- cream](looking-outwards-09.md)
+9. [--](looking-outwards-09.md)
 10. [--](looking-outwards-10.md)
 
 --

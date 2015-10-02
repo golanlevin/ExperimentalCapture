@@ -15,8 +15,8 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 ### Projects
 
 * [Object](project1.md): *Pepper's Pig*
-* [Person in Time](project2.md): *My Sister*
-* [Place](project3.md): *Interesting Stairwell*
+* [Person in Time](project2.md): --
+* [Place](project3.md): --
 
 --
 ### Looking Outwards reports: 
@@ -24,13 +24,13 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 1. [Haptomime and the Visuo-Tactile Projector](looking-outwards-01.md)
 2. [LazyFluids: Appearance Transfer for Fluid Animations](looking-outwards-02.md) 
 3. [Wobble Strings: Spatially Divided Stroboscopic Effect for Augmenting Wobbly Motion of Stringed Instruments](looking-outwards-03.md)
-4. [dog](looking-outwards-04.md)
-5. [egg](looking-outwards-05.md)
-6. [fridge](looking-outwards-06.md)
-7. [giraffe](looking-outwards-07.md)
-8. [hat](looking-outwards-08.md)
-9. [ice cream](looking-outwards-09.md)
-10. [jam](looking-outwards-10.md)
+4. [--](looking-outwards-04.md)
+5. [--](looking-outwards-05.md)
+6. [--](looking-outwards-06.md)
+7. [--](looking-outwards-07.md)
+8. [--](looking-outwards-08.md)
+9. [-- cream](looking-outwards-09.md)
+10. [--](looking-outwards-10.md)
 
 --
 ### Tutorials

@@ -12,11 +12,11 @@ I won't be going into detail about how you should take your photos, but you shou
 
 Go to the [installation page](http://www.agisoft.com/downloads/installer/) on the Agisoft website and download the professional edition installer for your operating system.
 
-![Installer](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/agisoft_download.png)
+![Installer](https://github.com/michell3/Photos/blob/master/agisoft_download.png)
 
 After the download, open the application.
 
-![Icon](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/agisoft_download.png)
+![Icon](https://github.com/michell3/Photos/blob/master/icon.png)
 
 Enter your license code or continue in demo mode to activate your software. If you use demo mode, be aware that you cannot save the project, export reconstruction results, or use some Python commands. After activation, you can move on to using the program.
 
@@ -25,7 +25,7 @@ Enter your license code or continue in demo mode to activate your software. If y
 
 Upon opening the software, you are faced with a new project window.
 
-![New Project](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/new_window.png)
+![New Project](https://github.com/michell3/Photos/blob/master/new_window.png)
 
 The left panel is the **workspace** where you can manage your **cameras**. Cameras are basically the camera perspective contructed from each photo you upload. In the workspace you can add and remove cameras, manage chunks, and etc.
 
@@ -49,7 +49,7 @@ You can add photos by going to the Wokflow menu, or you can click the second ico
 
 Once you have finished your upload, your Workspace should be populated with cameras and your photo thumbnails should appear in the bottom panel.
 
-![Adding Photos](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/add_photos.png)
+![Adding Photos](https://github.com/michell3/Photos/blob/master/add_photos.png)
 
 To get the best photogrammetry result, you need to filter out cameras that you don't need.You can do this by selecting one or several cameras from the workspace, right clicking, and disabling/enabling/removing your cameras. Once you are done, you are ready to align your photos.
 
@@ -58,14 +58,14 @@ To get the best photogrammetry result, you need to filter out cameras that you d
 
 The process of aligning your photos takes the longest and is basically when the camera perspectives are generated. You can perform this function by going to the workspace menu after you have added your photos. After you select this option, you may change the preferences or leave them be. When you proceed, a progress bar will appear and you can probably go out and get a coffee and come back to find that it is done. When the process has completed, you should see the cameras in your 3D view.
 
-![Adding Photos](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/photos_aligned.png)
+![Adding Photos](https://github.com/michell3/Photos/blob/master/photos_aligned.png)
 
 --
 ### Building a Mesh and Texture
 
 To build your mesh, you just go to the Workflow menu and select "Build Mesh". You'll get another options window which you can modify or just proceed. Then you will get another progress bar, but it won't take as long. After you generate your mesh, you can generate the texture by similarly going to the Workflow menu and selecting "Build Texture". After all of this, you should have something that is ready to be converted to an OBJ.
 
-![Adding Photos](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/ready.png)
+![Adding Photos](https://github.com/michell3/Photos/blob/master/ready.png)
 
 --
 ### Exporting the OBJ

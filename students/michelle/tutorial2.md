@@ -1,6 +1,11 @@
 ## Tutorial: Agisoft PhotoScan Professional Edition
 
-In this tutorial I will go over the basics of generating an OBJ file using [**Agisoft Photoscan Professional Edition**](http://www.agisoft.com/). All of this information and more can be found in the official user manual linked below. Note that this tutorial is for version **1.1.6** and uses **Mac OSX** screenshots but this can also be used on **Windows** or **Debian/Ubuntu**.
+In this tutorial I will go over the basics of generating an OBJ file using [**Agisoft Photoscan Professional Edition**](http://www.agisoft.com/). All of this information and more can be found in the official user manual linked below. Note that this tutorial is for version **1.1.6** and uses **Mac OSX** screenshots but this can also be used on **Windows** or **Debian/Ubuntu**. Also note that I will be using the [**Doll Sample Data**](http://www.agisoft.com/downloads/sample-data/) that can be found on the Agisoft website.
+
+--
+### A Note on Taking Photos
+
+I won't be going into detail about how you should take your photos, but you should generally have a sample space of 60-100 photos. The user manual linked below goes into more detail about how you take your photos.
 
 --
 ### Installation
@@ -35,8 +40,41 @@ Lastly the toolbar has icon shortcuts for most of the functions that you'll be u
 3. Build Mesh
 4. Build Texture
 
-Throughout these stages, you can use the functions under **View**, **Tools**, and **Photo** to do corrective changes and etc.
+Throughout these stages, you can use the functions under **View**, **Tools**, and **Photo** to do corrective changes and etc. Also note that you should always save your projects, which come in the **Photoscan Project File format (.psz)**.
+
+--
+### Adding Photos
+
+You can add photos by going to the Wokflow menu, or you can click the second icon in the Workspace toolbar. Then, through the file browser, you can select your photos.
+
+Once you have finished your upload, your Workspace should be populated with cameras and your photo thumbnails should appear in the bottom panel.
+
+![Adding Photos](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/add_photos.png)
+
+To get the best photogrammetry result, you need to filter out cameras that you don't need.You can do this by selecting one or several cameras from the workspace, right clicking, and disabling/enabling/removing your cameras. Once you are done, you are ready to align your photos.
+
+--
+### Aligning Photos
+
+The process of aligning your photos takes the longest and is basically when the camera perspectives are generated. You can perform this function by going to the workspace menu after you have added your photos. After you select this option, you may change the preferences or leave them be. When you proceed, a progress bar will appear and you can probably go out and get a coffee and come back to find that it is done. When the process has completed, you should see the cameras in your 3D view.
+
+![Adding Photos](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/photos_aligned.png)
+
+--
+### Building a Mesh and Texture
+
+To build your mesh, you just go to the Workflow menu and select "Build Mesh". You'll get another options window which you can modify or just proceed. Then you will get another progress bar, but it won't take as long. After you generate your mesh, you can generate the texture by similarly going to the Workflow menu and selecting "Build Texture". After all of this, you should have something that is ready to be converted to an OBJ.
+
+![Adding Photos](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/ready.png)
+
+--
+### Exporting the OBJ
+
+Before you export your OBJ, you might want to take advantage of some mesh cleanup functions in the software. You can access these in the Mesh option in the **Tools** menu. You might also just want to do this in an external software after export, such as **MeshLab**, **ZBrush**, or **Maya**.
+
+To export your model, go to the **File** menu, select **Export Model**, and then select **Export FBX/OBJ/KMZ...**. I recommend saving the file as an OBJ, but you can use STL format for 3D printing. You will be shown another window for exporting options, but the standard settings are usually fine. Once you are done, you should have a usable 3D model that you can bring into other 3D software.
 
 --
 ### Tutorials
 * [Agisoft PhotoScan User Manual (English)](http://www.agisoft.com/pdf/photoscan-pro_1_1_en.pdf)
+* [Youtube Tutorial by gevelmeting](https://www.youtube.com/watch?v=RMjdG93BwpU)

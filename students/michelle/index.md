@@ -24,7 +24,7 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 1. [Haptomime and the Visuo-Tactile Projector](looking-outwards-01.md)
 2. [LazyFluids: Appearance Transfer for Fluid Animations](looking-outwards-02.md) 
 3. [Wobble Strings: Spatially Divided Stroboscopic Effect for Augmenting Wobbly Motion of Stringed Instruments](looking-outwards-03.md)
-4. [--](looking-outwards-04.md)
+4. [Art & Science of 3D Scan by Photogrammetry](looking-outwards-04.md)
 5. [--](looking-outwards-05.md)
 6. [--](looking-outwards-06.md)
 7. [--](looking-outwards-07.md)

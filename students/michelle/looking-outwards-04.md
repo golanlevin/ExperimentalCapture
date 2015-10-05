@@ -13,7 +13,6 @@ The Art & Science of 3D Scan by Photogrammetry is more of a documentary about th
 
 The reason why I was drawn to this project is because Kwai Bun repurposed the aesthetic of photogrammetry in a way that allowed the actors or models to directly control their output. In this way, his project truly captures a person in time. He also conducted this project in order to feed into a unique feature of his [Quantum Human](http://www.quantum-human.com/) Maya Plugin, which includes Automatic Human Modelling and Rigging from an Arbitrary Mesh. Overall, the software and hardware produced by Kwai Bun are very promising and fascinating to watch.
 
-
 [Project Page](https://www.behance.net/gallery/16983235/Art-Science-of-Photogrammetry-3D-Scan)
 --
 ![Rig](http://manymany.asia/wp-content/uploads/2015/01/ArtScienceOfPhotogrammetry.mp4_snapshot_02.05_2014.05.23_18.26.19.jpg)

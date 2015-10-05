@@ -9,10 +9,18 @@
 [![Project Video](https://m2.behance.net/rendition/pm/16983235/hd/0890e2d050c79af4abc2daa1c6634fa3.jpg)](https://vimeo.com/96186101)
 
 --
-Wobble Strings explores how CMOS sensor scans distorts and captures fast moving objects using the rolling-shutter effect. The effect can normally only be seen in a camera viewfinder or a PC screen, but the Wobble Strings team implemented the effect live and in real time. They used spatially divided stroboscopic projection to reproduce the effect by generating animation of sweep lines. To demonstrate their research, they projected onto a guitar play so that the motion of how the guitar string wobbles can be perceived in slow motion.
+The Art & Science of 3D Scan by Photogrammetry is more of a documentary about the 3D scanning, motorized rig installation created by Kwai Bun. From the video, it appears that he is using 12 DSLR cameras. There are four stands with three cameras each that rotate 360 degrees around the human in the center. Each set of three cameras captures top view, eye level, and bottom view, giving 180 degrees of camera angles for each sculpture. In addition, the way he presents each sculpture without textures is gorgeous and true to the medium he is using.
 
-The presentation of the project was really well done, especially by choosing guitar strings as a subject. The speed of their sweep lines were matched with the pitch of the strings. In addition, they mapped textures to the projection that kind of paralleled the use of rolling-shutter speed as an artistic effect. Unfortunately, I think only one pitch can be the focus at any moment. However, I really like this simple approach of capturing something outside of human perception. I've seen this used with the visualization of sound vibrations, but I wonder if it can be applied to other super speed motions such as the fluttering of insect winds.
+The reason why I was drawn to this project is because Kwai Bun repurposed the aesthetic of photogrammetry in a way that allowed the actors or models to directly control their output. In this way, his project truly captures a person in time. He also conducted this project in order to feed into a unique feature of his [Quantum Human](http://www.quantum-human.com/) Maya Plugin, which includes Automatic Human Modelling and Rigging from an Arbitrary Mesh. Overall, the software and hardware produced by Kwai Bun are very promising and fascinating to watch.
+
 
 [Project Page](https://www.behance.net/gallery/16983235/Art-Science-of-Photogrammetry-3D-Scan)
+--
+![Rig](http://manymany.asia/wp-content/uploads/2015/01/ArtScienceOfPhotogrammetry.mp4_snapshot_02.05_2014.05.23_18.26.19.jpg)
 
+![Samples](http://manymany.asia/wp-content/uploads/2015/01/ArtScienceOfPhotogrammetry.mp4_snapshot_01.26_2014.05.23_18.24.28.jpg)
+
+![Sculptures 1](https://m2.behance.net/rendition/pm/16983235/hd/014154b2f1398274603c33c26f5decd9.jpg)
+
+![Sculptures 2](https://m2.behance.net/rendition/pm/16983235/hd/e4f865300258991fd58db5876379b5a1.jpg)
 

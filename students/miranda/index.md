@@ -28,7 +28,7 @@ Remember: Birds are the best. Pigeons especially.
 1. [Bird Motion Capture](looking-outwards-02.md) 
 1. [STARFLAG - Understanding Starling Flocks](looking-outwards-03.md)
 1. [NOSY Facetype](looking-outwards-04.md)
-1. [egg](looking-outwards-05.md)
+1. [Animals in Moiré](looking-outwards-05.md)
 1. [fridge](looking-outwards-06.md)
 1. [giraffe](looking-outwards-07.md)
 1. [hat](looking-outwards-08.md)

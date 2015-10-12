@@ -19,4 +19,4 @@ Hey, I'm Smokey. That's a nickname. I'm in the Emerging Media program on a track
 1. [BUMP Music Video](LookingForward/1-BumpMusicVideo.md)
 2. [Giant Wooden Forrest Megaphones](LookingForward/2-GiantMegaphones.md)
 3. [Jamky - Rock Sequencer](LookingForward/3-rocks.md)
-4. [LightCo 16 aperture Camera](LookingForward/4-lightCo.md)
+4. [LightCo 16 aperture Camera](LookingForward/4-LightCo.md)

@@ -6,8 +6,8 @@ When I was in fifth grade a got a Rubik's Cube. After many many hours and years 
 
 I find this project interesting because once the application is uploaded to the internet, anyone in the world will be able to use a toy that I personally had as a child. The way that they use it will be vastly different from the way that I did. On the surface all the my physical use is shown, where as there will be no distress caused by users of the digital cube.
 
-![Cube Photo2](assets/pic2.jpg)
+![Cube Photo2](assets/pic2.JPG)
 
 --
 
-[## Play with it online](http://akiva.itch.io/old-cube)
+[Play with it online](http://akiva.itch.io/old-cube)

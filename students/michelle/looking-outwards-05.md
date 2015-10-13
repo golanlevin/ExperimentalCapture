@@ -11,7 +11,7 @@ This project tries to use augmented reality as a way of bring back life into tra
 
 Their pipeline is broken into several stages.
 
-The first is the **Content creation pipeline**, where the artist is most heavily involved. He/she produces a uv-mapped 3D object, an island map (the uv map flattened) and a projected drawing. From there, a lookup map must be created, which basically maps the texture according to the 2D drawing. I find it particularly interesting that they likened the process to the energy of a spring system.
+The first is the Content creation pipeline, where the artist is most heavily involved. He/she produces a uv-mapped 3D object, an island map (the uv map flattened) and a projected drawing. From there, a lookup map must be created, which basically maps the texture according to the 2D drawing. I find it particularly interesting that they likened the process to the energy of a spring system.
 
 After this step is the live pipeline, which has the modular problems of image processing, template detection, deformable surface detection (for warped pages), and texture creation and mesh rendering. The final interactive coloring book is a Unity build for android and iOS. It accesses the camera data and then sends it to a C++ library to perform the deformabe surface tracking algorithm and generate the 3D shape. The app then projects the data in place and renders the animated 3D character. The texture is filled by retrieving data from the lookup map.
 

@@ -8,3 +8,4 @@ I like how brave Marina is in doing this sitting for eight hours a day for three
 visiting the museum and there is some kind of connection she makes with each and every person.
 A connection that her work cannot make with the audience but her presence can. I think this piece also comes in a from of completion when she meets her long, lost love. I felt a satisfying moment 
 “this is why we do art”. This piece is just my favorite!
+ 

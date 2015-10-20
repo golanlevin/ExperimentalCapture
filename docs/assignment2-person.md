@@ -9,6 +9,8 @@
 
 To rephrase somewhat, this assignment asks you to "capture" (with various acquisition technologies) a real person in time, and then design a presentation of this recording in some technologized medium.
 
+### What? 
+
 **There is a spectrum of things** you might focus on, ranging from
 * a person, considered as a still thing
 * a person in time, "doing something" or in the act of "being"
@@ -27,12 +29,21 @@ For this assignment, it is strongly recommended that you develop your project by
 * Heartbeat (pulse) plus full-body motion capture
 * Audio plus body skeleton data (from a Kinect) 
 * LIDAR plus audio.....
+* You may also use time-lapse and slow-motion approaches.....
 
-You may also use time-lapse and slow-motion approaches.....
+-- 
+
+### Inspiration: 
+
+Consider integrating one or many of these creative constraints into your portrait:
+
+* The viewer of the portrait may interactively influence the perspective.
+* The portrait is synthesized from entirely found images that you did not take yourself.
+* The portrait’s final form is not an image, but rather a sculpture.
+* Place a real person in an imaginary space.
+* The person portrayed was never actually present in the environment depicted. 
 
 --
-
-
 
 ### Requirements and Constraints
 
@@ -42,8 +53,18 @@ You may also use time-lapse and slow-motion approaches.....
 	* a computer-generated model or rendering 
 * Regardless of any subsequent digital transformations you might apply, you must "capture" a real person, "moving", as the initial basis for your virtual manifestation. 
 
+--
 
-#### Details 
+### Considerations 
+
+* Be mindful of form and content connection. How does your chosen medium or technique help illustrate something unique about  your subject, beyond what a normal photograph could? The environment, effects or geometry should be illustrative of their nature. 
+* Consider other ways to incorporate your subject into the process or the result; interviews, collaboration etc. 
+* Please collaborate with and earn the trust of your subject. Make a good faith effort to show them their portrait when it is complete. 
+* Keep in mind that allowing you to represent a person is often an act of generosity.
+
+-- 
+
+### Details 
 
 * **Create** a Markdown document called <code>project2.md</code> in your student folder. You will document your project in this file. 
 * In this document, **write** a couple of paragraphs (150-250 words) about the experience of creating the piece. Critique your work: where do you feel you succeeded? Where do you feel you fell short of what you'd hoped to achieve? What did you learn? 

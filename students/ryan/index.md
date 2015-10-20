@@ -22,3 +22,4 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 
 1. [*Phantom (kingdom of all the animals and all the beasts is my name)* (2015) by Daniel Steegmann Mangrané](looking-outwards-01.md)
 2. [*Rain Room* (2012) by Random International](looking-outwards-02.md)
+3. [*Mendelssohn Effektorium* (2014) by Bertron Schwarz Frey Studio and WHITEvoid](looking-outwards-03.md)

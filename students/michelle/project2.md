@@ -16,7 +16,8 @@ For the content of the animation, we had two actors who knew stage combat and tw
 The reason I called this project *Synergy* is because, halfway through my process, I was able to partner up with Irene and Charlotte for some Optitrack/Kinect action. The partnership was essential since we split up all the testing and capturing amongst the three of us. It was trully technical, but we are a capable team. In addition, working with actors and dancers was stupendous because of their positive attitude and the awareness they had of their own bodies.
 
 <br>
-<img src="uh" width="400">
+<img src="https://github.com/michell3/Photos/blob/master/mocap/screen.jpg" width="415" height="295"> <img src="https://github.com/michell3/Photos/blob/master/mocap/sword_2.jpg" width="415" height="295">
+<img src="https://github.com/michell3/Photos/blob/master/mocap/kinect.jpg" width="415" height="295"> <img src="https://github.com/michell3/Photos/blob/master/mocap/set.jpg" width="415" height="295">
 
 -
 
@@ -63,4 +64,4 @@ Our process had several steps involving Optitrack, Kinects, Maya, and etc. Here 
 - **Colin-James Whitney** and **Zachary Fifer** (left) for performing the fight scenes for us
 - **Javier Spivey** and **...** (right) for dancing for us
 
-<img src="https://github.com/michell3/Photos/blob/master/mocap/fighters.jpg" height ="500"> <img src="https://github.com/michell3/Photos/blob/master/mocap/dancers.jpg" height="500">
+<img src="https://github.com/michell3/Photos/blob/master/mocap/fighters.jpg" height ="550"> <img src="https://github.com/michell3/Photos/blob/master/mocap/dancers.jpg" height="550">

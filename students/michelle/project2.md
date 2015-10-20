@@ -48,19 +48,19 @@ Our process had several steps involving Optitrack, Kinects, Maya, and etc. Here 
   * Repeat
 - Curves
   * Select a joint/locator
-  * Use the animToCurve script
-  * Use the AutoPipe script with 'animation' and 'rebuild curve' selected
+  * Use the [AnimToCurve](../michelle/Scripts/AnimToCurve) script
+  * Use the [AutoPipe](../michelle/Scripts/AutoPipe) script with 'animation' and 'rebuild curve' selected
   * Use 'taper' feature
   * Rotoscope animation to timing
 
 -
 #### Links
-- [Michelle's Unity Project](https://github.com/michell3/peppers-pig/tree/master/Pepper%20Unity)
-- [More Project Images](https://github.com/michell3/peppers-pig/tree/master/Project%20Images)
-- [Vidya's MEL Scripts](https://github.com/vvinnak1/MEL-Scripts)
+- [More Project Images](https://github.com/michell3/Photos/tree/master/mocap)
+- [Maya Scripts](../michelle/Scripts)
 
 -
 #### Special thanks to
-- **Colin-James Whitney** and **Zachary Fifer** for performing the fight scenes for us
-- for dancing for us
+- **Colin-James Whitney** and **Zachary Fifer** (left) for performing the fight scenes for us
+- **Javier Spivey** and **...** (right) for dancing for us
 
+<img src="https://github.com/michell3/Photos/blob/master/mocap/fighters.jpg" height ="500"> <img src="https://github.com/michell3/Photos/blob/master/mocap/dancers.jpg" height="500">

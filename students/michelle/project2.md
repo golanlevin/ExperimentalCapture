@@ -40,7 +40,7 @@ Our process had several steps involving Optitrack, Kinects, Maya, and etc. Here 
 - Export the data and combine them in Processing
 
 *Generate Forms with Maya*
-- Import FBX data with z-axis pointing up
+- Import FBX data
 - Triangulation
   * Create a triangular plane
   * Set each vertex to a joint
@@ -52,7 +52,7 @@ Our process had several steps involving Optitrack, Kinects, Maya, and etc. Here 
   * Use the [AnimToCurve](../michelle/Scripts/AnimToCurve) script
   * Use the [AutoPipe](../michelle/Scripts/AutoPipe) script with 'animation' and 'rebuild curve' selected
   * Use 'taper' feature
-  * Rotoscope animation to timing
+  * Rotoscope animation to match timing
 - Use 3-point lighting
 - Set up camera angles
 - Render

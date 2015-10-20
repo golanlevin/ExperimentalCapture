@@ -53,6 +53,13 @@ Our process had several steps involving Optitrack, Kinects, Maya, and etc. Here 
   * Use the [AutoPipe](../michelle/Scripts/AutoPipe) script with 'animation' and 'rebuild curve' selected
   * Use 'taper' feature
   * Rotoscope animation to timing
+- Use 3-point lighting
+- Set up camera angles
+- Render
+
+*Post Processing in Premiere Pro*
+- Sync video, animation, and audio
+- Apply phase and pitch shifters to audio
 
 -
 #### Links

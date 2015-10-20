@@ -9,11 +9,11 @@
 
 #### Concept
 
-My inspiration for this project came directly from [*Citius, Altius, Fortius*](https://vimeo.com/100576137) by Felix Deimann and [*Forms*](http://www.quayola.com/forms/) by Memo Atken and Quayola, who used Olympics footage to create some elegant, abstract animations. I wanted to make similar abstractions by using motion capture data and automating some of the animation using scripts in Maya. In addition, I wanted to work with two actors in order to create a collision of forces within the abstraction.
+My inspiration for this project came directly from [*Citius, Altius, Fortius*](https://vimeo.com/100576137) by Felix Deimann and [*Forms*](http://www.quayola.com/forms/) by Memo Atken and Quayola, who used Olympics footage to create elegant and stunning abstract animations. I wanted to make similar, structural abstractions by using motion capture data and automating some of the animation by using scripts in Maya. In addition, I wanted to work with two actors in order to create a collision of forces within the abstraction.
 
-For the content of the animation, we had two actors who knew stage combat and two improv dancers. The first scene is a Judo scene, and I wanted to emphasize the mirrored movements of the actor by drawing shapes in between them. I went with a triangulated, paper look so that each frame would capture a sort of structure made by both of their bodies. The second scene is a sword fighting scene. The curves are the motion paths of the swords, and the spheres hint at the extremeties of each actor's limbs. The last scene is a dance scene that uses the same curve algorithm from the sword scene, but it is used to emphasize the parallels of the actors' movements.
+For the content of the animation, we had two actors who knew stage combat and two improv dancers. The first take is a Judo scene; I wanted to emphasize the mirrored movements of the actors by drawing shapes in between them. I went with a triangulated, paper look so that each frame would capture a sort of structure made by both of their bodies. In the end I also incorporated translucency so you can still look for the outline of each actor. The second scene is a sword fight. The curves are the motion paths of the swords, and the spheres hint at the extremeties of each actor's limbs. The two actors are more obvious in this one because I had to use contrasting colors to differentiate the sword paths. The last take is a dance scene that uses the same curve algorithm from the sword scene, but it is used to emphasize the parallels of the movements instead of the clashes.
 
-The reason I called this project *Synergy* is because, halfway through my process, I was able to partner up with Irene and Charlotte for some Optitrack/Kinect action. The partnership was essential since we split up all the testing and capturing amongst the three of us. It was trully technical, but we are a capable team. In addition, working with actors and dancers was stupendous because of their positive attitude and the awareness they had of their own bodies.
+The reason I called this project *Synergy* is because, halfway through my process, I was able to partner up with Irene and Charlotte for some Optitrack/Kinect action. The partnership was essential since we split up all the testing and capturing amongst the three of us. We had a good balance between production, technical, and crafting experience. In addition, working with actors and dancers was stupendous because of their positive attitude and the awareness they had of their own bodies. Without any of these partnerships, I doubt the end product would have come together so harmoniously.
 
 <br>
 <img src="https://github.com/michell3/Photos/blob/master/mocap/screen.jpg" width="415" height="295"> <img src="https://github.com/michell3/Photos/blob/master/mocap/sword_2.jpg" width="415" height="295">
@@ -23,7 +23,7 @@ The reason I called this project *Synergy* is because, halfway through my proces
 
 #### Process
 
-Our process had several steps involving Optitrack, Kinects, Maya, and etc. Here is a simplified breakdown.
+Our process had several steps involving Optitrack, Kinects, Maya, and etc. Here is a simplified breakdown without the glitches.
 
 *Optitrack*
 - Activate the Optitrack system

@@ -27,7 +27,7 @@ The reason I called this project *Synergy* is because, halfway through my proces
 
 We are still working with the Kinect data that we captured from the dancers, so stay tuned to see what we will do with that! As a sneak peak here are a series of GIFs that illustrate our kinect data from three perspectives. We've managed to export that data as CSVs and bring them into Maya as particles. To learn more, check out the [CacheCloud](../michelle/Scripts/CacheCloud) script.
 
-<img src="https://github.com/michell3/Photos/blob/master/mocap/left10_square.gif" width="297"> <img src="https://github.com/michell3/Photos/blob/master/mocap/back10_square.gif" width="297"> <img src="https://github.com/michell3/Photos/blob/master/mocap/right10_square.gif" width="297">
+<img src="https://github.com/michell3/Photos/blob/master/mocap/left10_square.gif" width="290"> <img src="https://github.com/michell3/Photos/blob/master/mocap/back10_square.gif" width="290"> <img src="https://github.com/michell3/Photos/blob/master/mocap/right10_square.gif" width="290">
 
 -
 

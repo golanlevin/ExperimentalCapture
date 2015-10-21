@@ -15,7 +15,7 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 ### Projects
 
 * [Object](project1.md): *Pepper's Pig*
-* [Person in Time](project2.md): --
+* [Person in Time](project2.md): *Synergy*
 * [Place](project3.md): --
 
 --

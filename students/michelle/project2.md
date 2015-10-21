@@ -5,7 +5,7 @@
 
 [![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/mocap/swords_v2_0907.png)](https://vimeo.com/143089691 "Synergy")
 
-<img src="https://github.com/michell3/Photos/blob/master/mocap/judo_render_2_0259.png" width="419"> <img src="https://github.com/michell3/Photos/blob/master/mocap/swords_v2_0352.png" width="419">
+<img src="https://github.com/michell3/Photos/blob/master/mocap/judo_render_2_0259.png" width="420"> <img src="https://github.com/michell3/Photos/blob/master/mocap/swords_v2_0352.png" width="420">
 
 -
 

@@ -27,6 +27,10 @@ Instructions for formatting csv files:
 3. Make sure animation csv's are zero-indexed and padded
 4. Clean up data by removing duplicates in Excel
 
+Instructions for using the point cloud data:
+
+Once the data is in Maya, remember to use the Mental Ray plugin to render particles
+
 ---
 
 Original Header text:

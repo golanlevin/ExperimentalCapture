@@ -2,6 +2,7 @@
 ## Skeletal Audio by Kevin M. Karol
 
 [Project Video](https://youtu.be/adVzy3vWFUM)
+[Project Code Repository](https://github.com/kevinmkarol/Experimental_Capture_Skeletal_Audio)
 
 
 ![](images/setup_lowPerspective.jpg)

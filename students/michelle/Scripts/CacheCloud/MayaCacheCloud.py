@@ -385,7 +385,8 @@ if importChoice == 'Animation':
                 mc.particle(name=particlesName)
                 mc.file(save=1)
                 # Get shape name of particle object. This name will be used for naming the PDC files.
-                pdcBasename = [n for n in mc.ls(shapes=1) if n.startswith(''.join(i for i in particlesName if not i.isdigit()))][0] # Get particle shape name. The following command is much faster: mc.particle(q=1,n=1)
+                pdcBasename = mc.particle(q=1,n=1) # Get particle shape name. The following command is much faster: mc.particle(q=1,n=1)
+                #[n for n in mc.ls(shapes=1) if n.startswith(''.join(i for i in particlesName if not i.isdigit()))][0]
                 print('*** Particle "{0}" was created. '.format(particlesName))
                 break
         elif particlenamePrompt == 'Cancel':

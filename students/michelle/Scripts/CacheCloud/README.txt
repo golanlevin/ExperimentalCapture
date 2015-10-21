@@ -5,6 +5,10 @@ NOTE: This MayaCacheCloud.0.9.0.py script has been modified
 
 Instructions for installing script on Mac:
 
+0. Note that the 'particles' folder is no longer a default folder created by Maya.
+   It is instead called 'cache/particles', so I recommend going into the project settings
+   and changing 'cache/particles' to 'particles'
+
 1. Copy 'MayaCacheCloud.py' script into
    ~/Library/Preferences/Autodesk/maya/2016/scripts/
    Use cmd+shift+G to navigate there

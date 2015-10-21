@@ -1,0 +1,79 @@
+//  ld_animToCurve.mel  0.7
+// 
+//  Authors:     Lee Dunham
+//  Licence:     Creative Commons, Attribution, Share Alike
+//  About:       Create a curve from selected animated objects or vertices.
+//  
+//  Requires:
+//      getfacecenters.py - (Exempt from ld_animToCurve.mel licence)
+//      ld_getFaceCenter.mel
+//      ld_floatToStringArray.mel
+//      ld_animToCurveCmd.mel
+//  Usage:
+//      ld_animToCurve ;
+//      Select animated objects or vertices and execute the command.
+//      A curve will be created for each object and/or vert using the timeline.
+//  Updates:
+//      Separated out any condensed components
+//      Added poly faces
+
+// safe proc (to catch errors)
+global proc ld_animToCurve()
+{
+    string $mySel[]=`ls -sl -flatten` ;
+    if(size($mySel)>0)
+    {
+        float $cTime=`currentTime -q` ;
+        int $procCaught=catch(`ld_animToCurveCmd $mySel`) ;
+        currentTime $cTime ;
+        select $mySel ;
+        if($procCaught)
+            warning "ld_animToCurve failed -> Check selection contains only transform nodes or vertices" ;
+    }
+}
+// python proc to return center position of selected face (uses modified getfacecenters.py by owen burgess 2009)
+global proc float[] ld_getFaceCenter()
+{
+    python("import getfacecenters") ;
+    float $results[]=`python("getfacecenters.faceCenter()")` ;
+    return $results ;
+}
+// float array to string array converter proc
+global proc string[] ld_floatToStringArray(float $array[])
+{
+    string $stringArray[] ;
+    for($i=0;$i<size($array);$i++)
+        $stringArray[$i]=string($array[$i]) ;
+    return $stringArray ;
+}
+// main proc
+global proc ld_animToCurveCmd(string $objs[])
+{
+    string $pData[],$kData[],$pos[] ;
+    float $start=`playbackOptions -q -min` ;
+    float $end=`playbackOptions -q -max` ;
+    
+    for($i=$start;$i<=$end;$i++)
+    {
+        currentTime $i ;
+        for($s=0;$s<size($objs);$s++)
+        {
+            string $flag="-rp" ;
+            string $objectType[]=`ls -showType $objs[$s]` ;
+            if($objectType[1]!="transform")
+                $flag="-t" ;
+            if(size(`filterExpand -sm 34 $objs[$s]`)>0)
+            {
+                select $objs[$s] ;
+                $pos=ld_floatToStringArray(`ld_getFaceCenter`) ;
+                select $objs ;
+            }
+            else
+                $pos=ld_floatToStringArray(`xform -q -a -ws $flag $objs[$s]`) ;
+            $pData[$s]=$pData[$s]+" -p "+stringArrayToString($pos," ") ;
+            $kData[$s]=$kData[$s]+" -k "+string($i) ;
+        }
+    }
+    for($s=0;$s<size($objs);$s++)
+        eval("curve -d 1 "+$pData[$s]+" "+$kData[$s]+" -n "+($objs[$s]+"_animCurve")) ; 
+}

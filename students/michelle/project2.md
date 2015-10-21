@@ -65,6 +65,7 @@ Our process had several steps involving Optitrack, Kinects, Maya, and etc. Here 
 
 -
 #### Links
+- [Behind the Scenes](https://vimeo.com/143092931)
 - [More Project Images](https://github.com/michell3/Photos/tree/master/mocap)
 - [Maya Scripts](../michelle/Scripts)
 

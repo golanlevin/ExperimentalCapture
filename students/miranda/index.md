@@ -18,7 +18,7 @@ Remember: Birds are the best. Pigeons especially.
 ### Projects
 
 * [Object](project1.md): *Frame Differencing - Bird Movement*
-* [Person in Time](project2.md): *My Sister*
+* [Person in Time](project2.md): *To Reach Your Inner Magical Girl - A project by Miranda Jacoby and Nivetha Kannan*
 * [Place](project3.md): *Interesting Stairwell*
 
 --

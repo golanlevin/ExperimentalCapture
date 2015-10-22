@@ -24,3 +24,4 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 2. [*Rain Room* (2012) by Random International](looking-outwards-02.md)
 3. [*Mendelssohn Effektorium* (2014) by Bertron Schwarz Frey Studio and WHITEvoid](looking-outwards-03.md)
 4. [*Rara Avis* (1996) by Eduardo Kac](looking-outwards-04.md)
+5. [*Heartbeat* (2010) by Geoffrey Hicks](looking-outwards-05.md)

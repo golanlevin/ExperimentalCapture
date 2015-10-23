@@ -18,7 +18,7 @@ Remember: Birds are the best. Pigeons especially.
 ### Projects
 
 * [Object](project1.md): *Frame Differencing - Bird Movement*
-* [Person in Time](project2.md): *My Sister*
+* [Person in Time](project2.md): *To Reach Your Inner Magical Girl - A project by Miranda Jacoby and Nivetha Kannan*
 * [Place](project3.md): *Interesting Stairwell*
 
 --
@@ -26,9 +26,9 @@ Remember: Birds are the best. Pigeons especially.
 
 1. [Olars, Kinetic Toy & Evolution Simulation](looking-outwards-01.md)
 1. [Bird Motion Capture](looking-outwards-02.md) 
-1. [cat](looking-outwards-03.md)
-1. [dog](looking-outwards-04.md)
-1. [egg](looking-outwards-05.md)
+1. [STARFLAG - Understanding Starling Flocks](looking-outwards-03.md)
+1. [NOSY Facetype](looking-outwards-04.md)
+1. [Animals in Moiré](looking-outwards-05.md)
 1. [fridge](looking-outwards-06.md)
 1. [giraffe](looking-outwards-07.md)
 1. [hat](looking-outwards-08.md)

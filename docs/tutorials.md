@@ -40,5 +40,5 @@
 #### Miscellaneous
 
 * [Free Space - 3Dio Binaural Microphone](../students/kevin/3DioTutorial.md) *[Kevin]*
-* Agisoft PhotoScan Professional Edition
+* [Agisoft PhotoScan Professional Edition](../students/michelle/tutorial2.md) **[Michelle]**
 * Flicker Free plugin for Premiere and AfterEffects

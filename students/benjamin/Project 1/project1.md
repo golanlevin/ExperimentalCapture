@@ -19,10 +19,10 @@ I began my project by capturing just this book. The process of capturing was inc
 
 Here are some sketches and process shots:
 
-![photo1](assets/pic1.jpg)
-![photo1](assets/pic2.jpg)
-![photo1](assets/pic3.jpg)
-![photo1](assets/pic4.jpg)
+![photo1](assets/pic1.jpeg)
+![photo1](assets/pic2.jpeg)
+![photo1](assets/pic3.jpeg)
+![photo1](assets/pic4.jpeg)
 ![photo1](assets/screen1.png)
 ![photo1](assets/screen2.png)
 ![photo1](assets/screen3.png)
@@ -32,5 +32,9 @@ After many iterations and trial and error, I ended up using openFrameworks to br
 Here's a screenshot of the final model:
 
 ![photo1](assets/micrographia_capture.jpg)
+
+[Here is video documentation.](https://vimeo.com/140613673) Password: hooke
+
+[Here is the 3D model online](https://sketchfab.com/models/0c2ec0a278fc4ce6b5ad63a3aa0280ad)
 
 

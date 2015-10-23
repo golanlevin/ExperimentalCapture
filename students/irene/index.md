@@ -13,7 +13,7 @@ I'm a first year masters student in the Emerging Media program, Interactions in 
 -- 
 ### Projects
 
-* [Please](project1.md): **
+* Project 1: [High-speed photogrammetry](project-1/project1.md)
 * [stay](project2.md): **
 * [tuned...](project3.md): **
 
@@ -21,3 +21,4 @@ I'm a first year masters student in the Emerging Media program, Interactions in 
 ### Looking Outwards reports: 
 
 1. [Bjork - Stonemilker VR](looking-forward-reports/1.bjork-stonemilker.md)
+2. [Jonty Hurwitz - Nanosculptures](looking-forward-reports/2.nanosculptures.md)

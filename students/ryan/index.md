@@ -14,7 +14,7 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 ### Projects
 
 * [Object: Maiden](project1.md)
-* [Person in Time](#): *Coming soon*
+* [Conduction](project2.md)
 * [Place](#): *Coming soon*
 
 --

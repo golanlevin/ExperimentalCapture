@@ -1,4 +1,4 @@
-flower game
+__flower game__
 
 this little project is half game and half drawing machine, made out of the guts of traditional arcade games (like asteroids and other space shooters). by taking a slice of a videogame space and duplicating it geometrically around a center point, one creates a kaledeoscopic structure out of player characters, enemies and barriers. the player controls many objects arranged around this center point- they all move in sync, with the same inputs.
 
@@ -8,4 +8,5 @@ these drawings are considered 'complete' when the player navigates the controlla
 
 i also developed a version that runs on mobile devices. this iteration uses gps locational data as wells as x, y, and z rotational data to control the objects on screen. these drawings are best made over distance; if left on and placed in a pocket while out for a walk, a complicated and intricate shape would emerge. 
 
-made with p5.js and javascript. 
+made with [p5.js](http://p5js.org/) and javascript. 
+

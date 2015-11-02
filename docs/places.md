@@ -50,8 +50,6 @@ For today's lecture we will presently interpose this presentation on alternative
 
 * *or breaking laws* with an extreme [Selfie Stick](http://imgur.com/LrpYIem)<br />![Eyestilts](images/roof-selfie.png)
 
-
-
 ---
 
 ### Capturing Places through Mirrors 
@@ -74,42 +72,19 @@ This has privacy considerations. [Identifiable Images of Bystanders Extracted fr
 
 ### Temporal Play to Understand Space
 
-Skyscraper Construction - Shinjuku Skyscrapers Time-lapse
-https://www.youtube.com/watch?v=laPU0bS8JOc&t=0m5s
-35 years of Shinjuku for 10 seconds
-(From July 1969 To July 2004)
-
-Photogrammetry from High-Speed Footage
-Adam Magyar, Stainless
-High-speed recordings of people on subway platforms.
-Stainless - Shinjuku
-Stainless, 42 Street
-Claire - photogrammetry from Stainless
-https://vimeo.com/83664407
-
-
-Geoffrey Reggio and Philip Glass, Koyaanisqatsi (1982)
+* [35 years of Shinjuku Skyscraper Construction in 10 seconds]
+(https://www.youtube.com/watch?v=laPU0bS8JOc&t=0m5s)
+* Geoffrey Reggio and Philip Glass, Koyaanisqatsi (1982)
 Koyaanisqatsi (Pt. 3, The Grid)
 https://www.youtube.com/watch?v=fwPDFeXEMs4
 47:48 - 55:29
-
---
-from Keith Loutit
-For 'The Lion City', the idea behind the extension of the tilt shift technique is for focus and distance to be something the viewer can experience. It also doubles to communicate the constant heat and humidity that hits you whenever you leave the comfort of air conditioning in Singapore.
-https://vimeo.com/keithloutit/thelioncity
-
-Tokyo Time lapse (4k!)
-https://www.youtube.com/watch?v=MFpaAKBQR_4&t=0m25s
-
-
-
-
+* Keith Loutit, [The Lion City](https://vimeo.com/keithloutit/thelioncity). "The idea behind the extension of the tilt shift technique is for focus and distance to be something the viewer can experience. It also doubles to communicate the constant heat and humidity that hits you whenever you leave the comfort of air conditioning in Singapore."
+* [Tokyo Time lapse (4k!)](https://www.youtube.com/watch?v=MFpaAKBQR_4&t=0m25s)
 * Alvaro Cassinelli, [Khronos Projector](https://www.youtube.com/watch?v=hrr1Sgk-1Vc)
+* Jeff Desom, [Spatialized timelapse of Hitchcock's Rear Window](http://www.criticalcommons.org/Members/ccManager/clips/spatialized-timelapse-of-hitchcocks-rear-window/view)
+* David Rokeby, ["*Machine for Taking Time*"](http://www.davidrokeby.com/mftt_fdl.html). Two high-definition cameras were mounted on pan-tilt mounts on the east and west sides of the Foundation building in Montreal. 1024 images per camera per day were recorded from precise points of view for a year. The resulting database of about 750,000 images is explored by two computers, and they stitch together leisurely continuous pans through the city, staying true to the spatial trajectory but shifting unpredictably through time. 
 
-Rear rwindow redux
-
-
-http://www.davidrokeby.com/mftt_fdl.html
+* Claire Hentschker: Photogrammetry from High-Speed Footage (Adam Magyar, Stainless) https://vimeo.com/83664407
 
 ---
 ### Long Exposure (Light Painting)
@@ -162,7 +137,7 @@ Pep Ventosa is working in a similar way:
 
 --
 
-### Spaces defined by Moving Cameras
+### Spaces defined by *Moving* Cameras
 
 ![Dirk Roy, *Time Tunnel*](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/time-tunnel.jpg)<br />
 [*Time Tunnel (Camera on a Car Wheel)*](https://vimeo.com/84162988), by Dirk Roy for Boris Blank/Yello
@@ -170,24 +145,23 @@ Pep Ventosa is working in a similar way:
 * [Roel Wouters, Camera Workshop at ECAL](http://gizmodo.com/these-designers-make-boring-old-video-cameras-do-imposs-1444863383)
 * Jump rope camera: [*Full Circle* by Callum Cooper](https://vimeo.com/37077712)
 * Hula hoop camera: [at Burning Man](https://www.youtube.com/watch?v=J9bZ_8lZZfE) (NSFW)
-* Time Lapse with Motion compensation: [Time Lapse Sky Shows Earth Rotating Instead of Stars](https://www.youtube.com/watch?v=nkn2ZXWDl6k)
+* Time Lapse with Motion compensation: [Earth Rotating Instead of Stars](https://www.youtube.com/watch?v=nkn2ZXWDl6k)
 * Sometimes the camera is moving relative to the reference frame of gravity, but not to the apparent scene: [Studio Moniker, *Sally*](http://roelwouters.com/sally)
 * [Camera shutter speed synchronized with helicopter blade frequency](https://www.youtube.com/watch?v=cxddi8m_mzk)
 
-
+---
 
 ### LIDAR
 
 * LIDAR-scanned woodland, [Marshmallow Laser Feast](http://thecreatorsproject.vice.com/en_au/blog/virtual-reality-lets-you-become-a-mystical-forest-creature?utm_source=tcptwitteranz)
+* ScanLAB Projects + Daniel Steegmann use Oculus + LIDAR in [*PHANTOM*](http://scanlabprojects.co.uk/projects/newmuseumnewyork)
+* Dotswarm's [Photogrammetry Point-Cloud Player](http://dotswarm.nz/ourWork.html#Sifted)
+* Patricio Gonzalez Vivo has released an openFrameworks addon for ripping Google Streetview LIDAR spheres, which he uses in his exploration [*Skylines III: Point Cloud City*](https://vimeo.com/89982874)
 
-* PHANTOM by ScanLAB Projects + Daniel Steegmann. Oculus + LIDAR. 
-http://scanlabprojects.co.uk/projects/newmuseumnewyork
+We have a 1D LIDAR, the Hokuyo [URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/download/products/urg-04lx-ug01/) for which Dan Moore has created [ofxUrg](https://github.com/danthemellowman/ofxUrg):<br />![URG-04LX-UG03](images/URG-04LX-UG03.jpg)
 
-Accessing Google Spheres Patricio
-
-Photogrammetry Point-Cloud Player:
-http://dotswarm.nz/ourWork.html#Sifted
+--- 
 
 ### Augmented Reality
 
-* [Room Alive](http://www.theverge.com/2014/10/5/6912979/microsoft-roomalive-research-projector-system	)
+* Microsoft's [Room Alive](http://www.theverge.com/2014/10/5/6912979/microsoft-roomalive-research-projector-system)

@@ -1,5 +1,8 @@
 # Capturing Places
 
+---
+#### Some housekeeping: 
+
 *Not on today's menu:*
 
 * *Stereoscopy*
@@ -7,19 +10,47 @@
 
 --- 
 
-### Extreme Cameras
+### Where we are today: 360° Video 
 
-* [Trevor Paglen, in *Photographing Secret Sites and Satellites*](https://www.youtube.com/watch?v=9Igfu0VwdkQ) is "a guy who points his camera through astronomy telescopes at secret military sites to photography things that are off limits to the public." (*Show 0:00-3:30*)<br />![Paglen](http://petapixel.com/assets/uploads/2015/03/example1.jpg)
+Let's get this out of the way: You should all be aware that "360° video" is a thing, it's here, and is now a part of everyday life, (for example) built into YouTube. If you haven't had a chance to record some, perhaps you should give it a try. 
 
-* British artist Mishka Henner [has been gathering satellite images](http://hyperallergic.com/230003/the-surreal-beauty-of-feedlots-by-satellite/) of feedlots, or Concentrated Animal Feeding Operations. Ordinarily, photographing CAFOs is illegal due to "Ag-Gag" laws.<br />![Henner](http://hyperallergic.com/wp-content/uploads/2015/08/Coronado-Feeders-Dalhart-Texas-2013.jpg)
+* Here you get to, *ahem*, see the "First-Ever War Zone in Virtual Reality": [Aleppo Syria in 360-degree video](http://www.ryot.org/syria-virtual-reality-war-zone-welcome-to-aleppo-ryot/940261)<br />![Aleppo](images/aleppo.jpg)
 
-* [Telestereoscope (Eyestilts) by Cassidy Curtis](http://eyestilts.com/images/scopebm_sunday.jpg)<br />![Eyestilts](http://eyestilts.com/images/scopebm_sunday.jpg)
+* Here's an interesting use of floating labels in 360: [Sharks in 3D](https://www.youtube.com/watch?v=aQd41nbQM-U&t=1m5s)<br />![Sharks](images/sharks.png)
 
-* *...Or imposing restrictions.* [Camera Restricta](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/conceptual-cameras.md#camera-restricta), a 'disobedient' camera designed to take unique photographs. By using data from geotagged photos the camera will refuse to operate in popular places.
+* Different players allow zooming and panning in different ways. It makes for some strange views. This video by Noa (["Grafitti on my Heart"](http://eyes.kolor.com/video/bd9a95b579eb5859c8d07fe0180daea0)) uses the Kolor player:<br />![360 Music Video](images/360-music-video.jpg).
 
-* *or breaking laws* [Extreme Selfie Stickl](http://imgur.com/LrpYIem)
+#### We have several devices that can record 360 degree video: 
+
+* [Ricoh Theta M15 360 Degree Spherical Panorama Camera](http://www.amazon.com/Ricoh-Theta-Degree-Spherical-Panorama/dp/B00OZCM70K/)<br />![Ricoh Theta](images/ricoh_m15.jpg)
+
+* [V.360 HD Camera Kit](http://www.amazon.com/gp/product/B00PSSGKRQ/)
+<br />![V.360](images/v.360_image.jpg)
+
+* [Sony HD Bloggie 360](http://www.sony.co.uk/hub/mobile-hd-snap-camera/bloggie-features/article/360-video-shooting)<br />![Bloggie](images/bloggie_mhspm5_665px.jpg)<br />![Bloggie in OF](images/bloggie_unwarp_665px.jpg)
+
+
+---
+
+### Questioning Renaissance Perspective
+
+For today's lecture we will presently interpose this presentation on alternatives to classical Western perspective. 
 
 * [**Perspective Capture and Imaging**](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/perspective.md)
+
+---
+
+### Extreme Views
+
+* [Trevor Paglen uses photography to reveal secret sites and satellites](https://www.youtube.com/watch?v=9Igfu0VwdkQ) as a mode of artistic practice. Trevor is "a guy who points his camera through astronomy telescopes at secret military sites to photograph things that are off limits to the public." To produce his work, he designs photographic processes using astronomy telescopes. (*Show 0:00-3:30*)<br />![Paglen](images/paglen.jpg)
+
+* British artist Mishka Henner [has been gathering satellite images](http://hyperallergic.com/230003/the-surreal-beauty-of-feedlots-by-satellite/) of feedlots, or Concentrated Animal Feeding Operations (CAFOs). Ordinarily, photographing CAFOs is illegal due to "[Ag-Gag](https://en.wikipedia.org/wiki/Ag-gag)" laws.<br />![Henner](images/henner-feedlots.jpg)
+
+* An extreme view can be had using very simple means, providing an unusual physiological perception of extreme stereo. Here is a [Telestereoscope (Eyestilts) by Cassidy Curtis](http://eyestilts.com/images/scopebm_sunday.jpg)<br />![Eyestilts](images/eyestilts.jpg)
+
+* *or breaking laws* with an extreme [Selfie Stick](http://imgur.com/LrpYIem)<br />![Eyestilts](images/roof-selfie.png)
+
+
 
 ---
 
@@ -92,7 +123,7 @@ Some spaces are uniquely defined by the objects moving within them, whose paths 
 * David Rokeby, [*Plot Against Time*](http://www.davidrokeby.com/PlotAgainstTime.html)
 
 ---
-### Spaces from Found/Multi/Crowd-Sourced Imagery
+### Representing Places from Found/Multi/Crowd-Sourced Imagery
 
 * [Aram Bartholl's *Dust*](http://datenform.de/rhizome2011-dust.html) is a 1:1 scale replica of one of the most played computer game maps in the world: the 3D model of ‘[de_dust](http://counterstrike.wikia.com/wiki/Dust)’ of the first person shooter game ‘Counter Strike’ as a permanent ‘building’ from concrete, making this map accessible as a large scale public sculpture.
 
@@ -112,6 +143,10 @@ Pep Ventosa is working in a similar way:
 ![Golden Gate Bridge](http://www.pepventosa.com/users/PV1062/images/PV10622164015.jpg)
 
 ![Street Light](http://www.pepventosa.com/users/PV1062/images/PV10622164061.jpg)
+
+* We've mentioned this project before, but databases can also work in an inverse way, to *imposing restrictions.* [Camera Restricta](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/conceptual-cameras.md#camera-restricta), a 'disobedient' camera designed to take unique photographs. By using data from geotagged photos the camera will refuse to operate in popular places. 
+
+* Speaking of restrictions, your camera might even be disobedient by design. [This Apple patent would remotely disable protesters' phone cameras](http://www.zdnet.com/article/apple-patent-could-remotely-disable-protesters-phone-cameras/). This could prevent cinema bootlegging, but also see areas of political protest activity 'ring-fenced', disabling phone and tablet cameras.
 
 * In *The Nine Eyes of Google Street View*, Canadian artist Jon Rafman collects the bizarre and beautiful sights captured by the Google streetview. There's no need to take new photos; one can just find them. [*The 9 Eyes of Google Streetview*](http://9-eyes.com/)<br />![9 Eyes](http://41.media.tumblr.com/b0d508584bb821d8c474e540368502ed/tumblr_n5qb992hN01qzun8oo1_1280.jpg)
 
@@ -139,9 +174,7 @@ Pep Ventosa is working in a similar way:
 * Sometimes the camera is moving relative to the reference frame of gravity, but not to the apparent scene: [Studio Moniker, *Sally*](http://roelwouters.com/sally)
 * [Camera shutter speed synchronized with helicopter blade frequency](https://www.youtube.com/watch?v=cxddi8m_mzk)
 
-### 360 Video 
 
-* [Aleppo Syria in 360-degree video](http://www.ryot.org/syria-virtual-reality-war-zone-welcome-to-aleppo-ryot/940261)
 
 ### LIDAR
 

@@ -79,6 +79,8 @@ A [*telecentric lens*](https://en.wikipedia.org/wiki/Telecentric_lens) is an unu
 ### Hypercentric and Pericentric Lenses
 
 A hypercentric lens provides a converging view of an object, letting you see the top and all around the sides, simultaneously.
+
+![Hypercentric lens](https://cloud.githubusercontent.com/assets/290053/10875019/a45dbe04-80fb-11e5-913b-9d0123b759c4.jpg)
  
 ![Hypercentric lens](http://www.opto-engineering.kr/media/timthumb.php?src=pc/sample_01.jpg&w=800)
 

@@ -78,7 +78,7 @@ A [*telecentric lens*](https://en.wikipedia.org/wiki/Telecentric_lens) is an unu
 
 ### Perspective Correction
 
-![ofxCorrectPerspective](images/ofxCorrectPerspective.jpg)<br />
+![ofxCorrectPerspective](images/ofxcorrectperspective.jpg)<br />
 
 #### ofxCorrectPerspective 
 

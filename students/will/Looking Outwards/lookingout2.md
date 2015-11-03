@@ -1,4 +1,4 @@
-![Free falling](http://i.imgur.com/N7NfYGk.png?1)
+![Box](http://i.imgur.com/N7NfYGk.png?1)
 
 In a world where everything feels like it's been touched, manipulated by some human somewhere, it's refreshing to see something emerge purely from the natural order of the physical world. Especially if it looks like something that thing looks like something done by a human.
 

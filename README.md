@@ -81,8 +81,8 @@ Other documents:
 * [Stereography & Binocular Imaging](docs/binocular-stereography.md)
 * [Experimental Audio Capture](docs/audio.md)
 * [Perspective Capture and Representation](docs/perspective.md)
-* *[Portraiture](docs/portraits.md)*
-* *Landscape*
+* *[Portraiture: Capturing People and Movements](docs/portraits.md)*
+* *[Landscape: Capturing Places](docs/places.md)*
 
 --
 ### Helpful Information 

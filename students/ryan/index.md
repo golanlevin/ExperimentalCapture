@@ -14,7 +14,7 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 ### Projects
 
 * [Object: Maiden](project1.md)
-* [Person in Time](#): *Coming soon*
+* [Conduction](project2.md)
 * [Place](#): *Coming soon*
 
 --
@@ -25,3 +25,4 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 3. [*Mendelssohn Effektorium* (2014) by Bertron Schwarz Frey Studio and WHITEvoid](looking-outwards-03.md)
 4. [*Rara Avis* (1996) by Eduardo Kac](looking-outwards-04.md)
 5. [*Heartbeat* (2010) by Geoffrey Hicks](looking-outwards-05.md)
+6. [*Frozen Relic: Arctic Works* (2013) by ScanLAB](looking-outwards-06.md)

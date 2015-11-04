@@ -15,7 +15,7 @@ Twitter: @[golan](https://twitter.com/golan) & @[golancourses](https://twitter.c
 --
 ### Learning Objectives
 
-This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. In this course, we seek:
+This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. In particular, we are concerned with how we can understand and build representations of the world using devices that sense beyond the limits of human perception. In this course, we seek:
 
 * *To explore the affordances of exotic, forgotten, and nascent image capture technologies in revealing unseen or alternative realities.*
 * *To explore the use of computation in expanding our expressive vocabulary for representations of people, objects, environments, and events.*
@@ -81,8 +81,8 @@ Other documents:
 * [Stereography & Binocular Imaging](docs/binocular-stereography.md)
 * [Experimental Audio Capture](docs/audio.md)
 * [Perspective Capture and Representation](docs/perspective.md)
-* *[Portraiture](docs/portraits.md)*
-* *Landscape*
+* *[Portraiture: Capturing People and Movements](docs/portraits.md)*
+* *[Landscape: Capturing Places](docs/places.md)*
 
 --
 ### Helpful Information 

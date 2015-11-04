@@ -29,7 +29,7 @@ Remember: Birds are the best. Pigeons especially.
 1. [STARFLAG - Understanding Starling Flocks](looking-outwards-03.md)
 1. [NOSY Facetype](looking-outwards-04.md)
 1. [Animals in Moiré](looking-outwards-05.md)
-1. [fridge](looking-outwards-06.md)
+1. [AR Coloring Book Textures 3D Models](looking-outwards-06.md)
 1. [giraffe](looking-outwards-07.md)
 1. [hat](looking-outwards-08.md)
 1. [ice cream](looking-outwards-09.md)

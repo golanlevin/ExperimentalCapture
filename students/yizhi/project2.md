@@ -27,6 +27,8 @@ This file was then used to generate the wrap motion using DepthKit visualization
 
 ###Final result
 The final result is shown in the video below. Click for viewing:
+[![IMAGE ALT TEXT HERE](https://cloud.githubusercontent.com/assets/11666005/10592898/4510c8ce-768d-11e5-9647-7b3d7dd86a58.png)](https://youtu.be/4G-CQoTlcdE)
+
 [![IMAGE ALT TEXT HERE](https://cloud.githubusercontent.com/assets/11666005/10568319/5895413a-75e4-11e5-9c8f-558b2ffd2258.png)](https://www.youtube.com/watch?v=letdB7cHY-g)
 
 ###Reference

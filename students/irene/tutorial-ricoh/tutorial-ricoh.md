@@ -101,7 +101,7 @@ Viewing 360 images and movies
 #### Images
 You can use Ricoh's own software: <https://theta360.com/en/support/download/>. It provides pretty minimal functionality and will only let you export to their own theta360.com social sharing site. Not great. The raw, unassuming image of a pothole looks something like this (first pic) next to its processed version (second pic). Within the app, you can move around in the processed one. 
 
-<img src="images/pothole.jpg" width="400px" /> <img src="images/pothole_post.png" width="400px" />
+<img src="images/pothole.JPG" width="400px"/> <img src="images/pothole_post.png" width="400px" />
 
 <br />  
 You can import the images into Lightroom or other photo processing applications, which convert them into long rectangular images like so:

@@ -7,7 +7,7 @@ It's really hard to get your fingers out of the way when shooting spherical pict
 
 Finally, biggest tip I can give you that will go a a long way: make sure you clean the lenses before shooting! They get smudges very easily - smudges you won't even notice until you process your pictures!
 
-![example](images/example.gif)
+![example](images/example.gif=700x)
 
 
 How it works

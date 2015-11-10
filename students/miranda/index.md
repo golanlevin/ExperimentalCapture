@@ -30,7 +30,7 @@ Remember: Birds are the best. Pigeons especially.
 1. [NOSY Facetype](looking-outwards-04.md)
 1. [Animals in Moiré](looking-outwards-05.md)
 1. [AR Coloring Book Textures 3D Models](looking-outwards-06.md)
-1. [giraffe](looking-outwards-07.md)
+1. [The Power of Poison - An Interactive Book](looking-outwards-07.md)
 1. [hat](looking-outwards-08.md)
 1. [ice cream](looking-outwards-09.md)
 1. [jam](looking-outwards-10.md)

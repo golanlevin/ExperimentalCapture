@@ -10,4 +10,4 @@ http://thecreatorsproject.vice.com/blog/help-fight-isis-by-rebuilding-palmyra-in
 
 ![Photo 1](https://thecreatorsproject-images.vice.com/content-images/contentimage/no-slug/617601d6139807293d08cd29e1bc62b1.jpg)
 
-!(https://thecreatorsproject-images.vice.com/content-images/contentimage/no-slug/13bd80131c60844df77d07f3e22f88e0.jpg)
+![Photo 2](https://thecreatorsproject-images.vice.com/content-images/contentimage/no-slug/13bd80131c60844df77d07f3e22f88e0.jpg)

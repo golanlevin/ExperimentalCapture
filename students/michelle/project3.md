@@ -1,4 +1,4 @@
-## Project 3: Disproportions
+## Project 3: Explorations in Point Cloud Slitscanning
 #### [Michelle Ma](../michelle/index.md)
 -
 #### Project Video

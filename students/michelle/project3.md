@@ -3,7 +3,7 @@
 -
 #### Project Video
 
-<!--[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/mocap/swords_v2_0907.png)](https://vimeo.com/143089691 "Disproportions")-->
+[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/slitscan/cover.png)](https://vimeo.com/143089691 "Explorations")
 
 ![Composite Preview](https://github.com/michell3/Photos/blob/master/slitscan/composite.png)
 

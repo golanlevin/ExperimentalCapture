@@ -16,7 +16,7 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 
 * [Object](project1.md): *Pepper's Pig*
 * [Person in Time](project2.md): *Synergy*
-* [Place](project3.md): --
+* [Place](project3.md): *Explorations in Point Cloud Slitscanning*
 
 --
 ### Looking Outwards reports: 

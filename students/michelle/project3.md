@@ -3,10 +3,9 @@
 -
 #### Project Video
 
-[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/mocap/swords_v2_0907.png)](https://vimeo.com/143089691 "Disproportions")
+<!--[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/mocap/swords_v2_0907.png)](https://vimeo.com/143089691 "Disproportions")-->
 
-<img src="https://github.com/michell3/Photos/blob/master/mocap/judo_render_2_0259.png" width="426">
-<img src="https://github.com/michell3/Photos/blob/master/slitscan/mesh_previews.png.png">
+![Composite Preview](https://github.com/michell3/Photos/blob/master/slitscan/composite.png)
 
 -
 
@@ -18,9 +17,7 @@ I invited several of my friends to the Kinoptic Dome in order to capture their m
 
 The mesh data actually is not very strong from these kinects, so the results have more of a glitch aesthetic. I am more drawn to the point cloud screen shots from the OpenFrameworks viewer.
 
-<br>
-<img src="https://github.com/michell3/Photos/blob/master/mocap/screen.jpg" width="415" height="295"> <img src="https://github.com/michell3/Photos/blob/master/mocap/sword_2.jpg" width="415" height="295">
-<img src="https://github.com/michell3/Photos/blob/master/mocap/kinect.jpg" width="415" height="295"> <img src="https://github.com/michell3/Photos/blob/master/mocap/set.jpg" width="415" height="295">
+![Mesh Objects](https://github.com/michell3/Photos/blob/master/slitscan/mesh_previews.png)
 
 -
 
@@ -28,7 +25,7 @@ The mesh data actually is not very strong from these kinects, so the results hav
 
 I still have my hopes up for slit scanning photogrammetry! I have the processing script written and ready to go. You can see the script [here](../michelle/SlitscanPhotogrammetry) with a few test files. Displayed below are slit scans from a stereo camera. The next step for me is to find some data from multiple angles or set up an intense rig in order to be able to actually perform photogrammetry. I may also be able to just work with stereo slitscans and transfer them to a 3D viewer such as Google Cardboard.
 
-<img src="../michelle/SlitscanPhotogrammetry/tina1_fr22_00.png" width="415" height="295"> <img src="../michelle/SlitscanPhotogrammetry/tina2_fr22_00.png" width="415" height="295">
+<img src="../michelle/SlitscanPhotogrammetry/tina1_fr22_00.png" width="415"> <img src="../michelle/SlitscanPhotogrammetry/tina2_fr22_01.png" width="415">
 
 -
 
@@ -73,4 +70,4 @@ Most of the technical aspects came from learning how to manipulate point cloud d
 - **Jenna Choo**, **Jordan Cox**, **Andy Liu**, **Patrick Yurky**, and **Monisha Gopal** for being my subjects
 - **Caroline Record** for getting me set up with OpenFrameworks
 
-<img src="https://github.com/michell3/Photos/blob/master/slitscan/kinect_views.png" height ="550">
+![Kinect Previews](https://github.com/michell3/Photos/blob/master/slitscan/kinect_views.png)

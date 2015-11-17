@@ -85,12 +85,23 @@ vector<ofMesh> slitScanFromDirectory(string sceneName, float minX, float maxX,
 void ofApp::setup(){
 
     // General settings
-    ofSetFrameRate(24);
+    ofSetFrameRate(15);
     ofSetVerticalSync(true);
     ofEnableDepthTest();
     glEnable(GL_POINT_SMOOTH);
     glPointSize(1);
+    
+    isRecording = false;
+    imgCount = 0;
     numScenes = 6;
+    
+    // Choose xyz bounds
+    minX = -2.45;
+    maxX = 2.15;
+    minY = -1.125;
+    maxY = 0.8;
+    minZ = 0;
+    maxZ = 4.9;
     
     // Load the meshes if they are already saved
     ofDirectory dir("saved/");
@@ -117,13 +128,6 @@ void ofApp::setup(){
             meshes.push_back(tempMeshZ);
         }
     } else {
-        // Choose xyz bounds
-        float minX = -2.45;
-        float maxX = 2.15;
-        float minY = -1.125;
-        float maxY = 0.8;
-        float minZ = 0;
-        float maxZ = 4.9;
         
         // Process slit scans for each directory
         for (int i = 0; i < numScenes; i++) {
@@ -136,10 +140,10 @@ void ofApp::setup(){
         }
     }
     
-    // For displaying the meshes
-    sceneIndex = 0;
+    // Mesh display initialization
+    sceneIndex = 1;
     currentAxis = "X";
-    drawMesh = meshes[sceneIndex];
+    drawMesh = meshes[sceneIndex * 3];
 }
 
 //--------------------------------------------------------------
@@ -152,8 +156,14 @@ void ofApp::draw(){
     ofBackgroundGradient(ofColor::gray, ofColor::black, OF_GRADIENT_CIRCULAR);
     
     cam.begin();
-    ofScale(90, 90, 90);
+    
+    // Center the mesh
+    ofPushMatrix();
+    ofScale(120, 120, 120);
+    ofTranslate(-(minX+maxX)/2, -(minY+maxY)/2, -(minZ+maxZ)/2);
     drawMesh.draw();
+    ofPopMatrix();
+    
     cam.end();
     
     string textLabel = "Scene: " + ofToString(sceneIndex) + " Scan: " + currentAxis;
@@ -161,6 +171,12 @@ void ofApp::draw(){
         textLabel = "<Test Scene> Scan: " + currentAxis;
     }
     ofDrawBitmapString(textLabel, 20, ofGetHeight() - 20);
+    
+    if (isRecording) {
+        ofLog() << "Recording frame " + ofToString(imgCount) + "...";
+        ofSaveScreen("screencaptures/frame_" + ofToString(imgCount) + ".png");
+        imgCount++;
+    }
 }
 
 //--------------------------------------------------------------
@@ -183,6 +199,12 @@ void ofApp::keyPressed(int key){
             case 'z':
                 drawMesh = meshes[sceneIndex * 3 + 2];
                 currentAxis = "Z";
+                break;
+            case 'p':
+                isRecording = !isRecording;
+                break;
+            case 'r':
+                imgCount = 0;
                 break;
             case OF_KEY_BACKSPACE:
                 cam.reset();

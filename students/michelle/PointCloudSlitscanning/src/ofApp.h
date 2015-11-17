@@ -22,9 +22,13 @@ class ofApp : public ofBaseApp{
         void gotMessage(ofMessage msg);
 
         vector<ofMesh> meshes;
+        float minX, maxX, minY, maxY, minZ, maxZ;
         int numScenes;
         int sceneIndex;
         string currentAxis;
         ofEasyCam cam;
         ofMesh drawMesh;
+    
+        bool isRecording;
+        int imgCount;
 };

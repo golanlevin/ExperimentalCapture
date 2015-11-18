@@ -1,0 +1,9 @@
+**Project 3**
+
+I tied a Narrative Wearable Camera to a kite and tossed it over the side of the bridge overlooking Schenley park. As the wind catches the kite with the camera taking snapshots every thirty seconds, the erratic movement creates warped images of the surrounding environment, numerous unintentional selfies, and a slitscanning effect. 
+
+With the resulting images, I did postprocessing in Photoshop to knit images together to mimic the movement of the kite using transformation and painting techniques.
+
+
+![Photo 1](/Users/mting780/ExperimentalCapture/students/melody/mting780/students/melody/NarrativeI.jpg )
+

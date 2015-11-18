@@ -13,7 +13,7 @@ I am a sophomore BHA student studying Cognitive Science and Art. Other interests
 
 ### About Me
 
-I am a sophomore BHA student studying Cognitive Science and Art, with a minor in Animation/Special Effects. Interests include good food and even better movies.
+I am a sophomore BHA student studying Cognitive Science and Art, with a minor in Animation/Special Effects. Interests include good food and even better conversation.
 
 --
 ### Contact
@@ -35,7 +35,11 @@ Facebook: Melody Ting
 ### Looking Outwards reports: 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. Oil workers (from the Shell company of Nigeria) returning home from work, caught in torrential rain, 2013
 =======
 1. 
 >>>>>>> d314b270626430c26e2048caa72eaad957e4b662
+=======
+1. Looking Outwards 1: Oil workers (from the Shell company of Nigeria) returning home from work, caught in torrential rain, 2013
+>>>>>>> 7ca6c892290e9d9738647f8adbdb4068693d6af7

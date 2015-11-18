@@ -66,7 +66,7 @@ In fact, there are a wide variety of alternative graphical projection methods, i
 
 ### Telecentric Lenses
 
-A [*telecentric lens*](https://en.wikipedia.org/wiki/Telecentric_lens) is an unusual type of lens whose focal point is at infinity. It naturally produces an orthographic view of its subject. 
+A [*telecentric lens*](https://en.wikipedia.org/wiki/Telecentric_lens) is an unusual type of lens whose focal point is at infinity. It naturally produces an orthographic view of its subject. It can only work for small objects, i.e. smaller than the lens aperture. 
 
 ![Telecentric imaging, from Edmund Optics](images/telecentric.gif)<br />
 *Telecentric imaging, from Edmund Optics.*
@@ -74,11 +74,23 @@ A [*telecentric lens*](https://en.wikipedia.org/wiki/Telecentric_lens) is an unu
 ![Telecentric imaging, from Edmund Optics](images/telecentric-photo.jpg)<br />
 *Illusion picture made with a digital camera and a telecentric lens system, [from here](http://www.lhup.edu/~dsimanek/3d/telecent.htm).*
 
+You can see a telecentric lens used to document insects in the Berlin Natural History Museum in [this video at 1:43](https://www.youtube.com/watch?v=vkUJ9CBGg-w).
+
+-- 
+
+### Hypercentric and Pericentric Lenses
+
+A hypercentric lens provides a converging view of an object, letting you see the top and all around the sides, simultaneously.
+
+![Hypercentric lens](images/hypercentric-lens.jpg)
+ 
+![Hypercentric lens](images/hypercentric-lens1.jpg)
+
 -- 
 
 ### Perspective Correction
 
-![ofxCorrectPerspective](images/ofxCorrectPerspective.jpg)<br />
+![ofxCorrectPerspective](images/ofxcorrectperspective.jpg)<br />
 
 #### ofxCorrectPerspective 
 

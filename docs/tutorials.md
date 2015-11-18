@@ -11,8 +11,8 @@
 #### Gesture/Movement Capture Equipment
 
 * Hokuyo URG-04LX-UG01 Scanning Laser Rangefinder **[Dan_Moore]**
-* Leap Motion Controller
-* Wacom Inkling Digital Sketch Pen (MDP123) **[Miranda]**
+* Leap Motion Controller **[Ryan]**
+* [Wacom Inkling Digital Sketch Pen (MDP123)](../students/miranda/Inkling_Tutorial/inkling_tutorial.md) **[Miranda]**
 * 9 Degrees of Freedom - Razor IMU
 * Adafruit Ultimate GPS Logger Shield
 * Adafruit Assembled Data Logging shield for Arduino
@@ -24,7 +24,7 @@
 * Microsoft Xbox 360 KINECT Sensor 
 * Microsoft Kinect for Windows V2
 * Matter and Form 3D Scanner
-* 3D Systems iSense 3D Scanner for iPad Mini Retina
+* 3D Systems iSense 3D Scanner for iPad Mini Retina **[Nivetha]**
 
 #### Optical Imagers & Cameras
 
@@ -40,5 +40,5 @@
 #### Miscellaneous
 
 * [Free Space - 3Dio Binaural Microphone](../students/kevin/3DioTutorial.md) *[Kevin]*
-* Agisoft PhotoScan Professional Edition
+* [Agisoft PhotoScan Professional Edition](../students/michelle/tutorial2.md) **[Michelle]**
 * Flicker Free plugin for Premiere and AfterEffects

@@ -19,8 +19,23 @@
 * Visual hulls for thermal carving
 * sensing normal polarization lens sense normals
 * marios sarrides - face scanner 
-* breathing life into 3d models, michael black
+* [breathing life into 3d models](https://www.youtube.com/watch?v=4CRMgPcgKp4), michael black
 * eulerian video magnification 
+* [Digital portraits by Chris Coleman](https://www.flickr.com/photos/digitalcoleman/albums/72157656141589104)
+* Pseudo-analog 3D scanner Sculptural Device, [Balint Bolygo - *Trace (Self Portrait)*](https://www.youtube.com/watch?v=J3XWQzz_JWs)
+*  Scanning Electron Microscope, DIY, $2000
+
+
+GL put these back, 9/12/2015 (they're for mocap & bodies):
+
+* [*Going to the Store* by David Lewandowski](https://www.youtube.com/watch?v=iRZ2Sh5-XuM)
+* [*Late for Meeting* by David Lewandowski](https://www.youtube.com/watch?v=wBqM2ytqHY4)
+* [Bodies from mocap](http://thecreatorsproject.vice.com/blog/open-motion-capture-data-becomes-a-surreal-3d-short-film)
+* [All Things Fall by Mat Collishaw] (https://vimeo.com/125791075), a 3D-printed zoetrope
+* [Make a realistic human with makehuman](makeHuman.org)
+
+
+
 
 <del>
 * Artec Space Spider - Yaser's 3D scanner 
@@ -328,7 +343,7 @@ https://www.stickmanventures.com/labs/demo/webgl-threejs-morph-target/#
 
 https://vimeo.com/56143282
 
-http://www.makehuman.org/ 
+<del> http://www.makehuman.org/ </del>
 
 https://github.com/obviousjim/OFGraphicsITP
 
@@ -541,8 +556,6 @@ http://herakles.zcu.cz/~skala/PUBL/PUBL_2013/2013_NormalMapAcquisition.pdf
 http://www.zarria.net/nrmphoto/nrmphoto.html
 ftp://carbonforumasia.com/Public/Melissa/SA2013/A0%20Posters/2%20October/posters_0039.pdf
 
-Timelapse
-Telecentric lens
 
 
 
@@ -605,3 +618,6 @@ SLAM building reconstruction
 
 retroreflection
 https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/coaxialb.jpg
+
+
+

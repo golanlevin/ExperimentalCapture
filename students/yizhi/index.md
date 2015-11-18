@@ -1,27 +1,28 @@
-# Your Name
+# Liz Zhang
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+Graduate student from Heinz MISM-BIDA program. Specialization data science. Loves photography and film making. I would like to capture interesting moments as I travel.
 
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Web Site: [https://www.linkedin.com/pub/elizabeth-zhang/a2/222/968](https://www.linkedin.com/pub/elizabeth-zhang/a2/222/968)
+* Facebook: [https://www.facebook.com/eliza.zhi](https://www.facebook.com/eliza.zhi)
 
 -- 
 ### Projects
 
-* [Object](project1.md): *Shoe*
+* [Object](project1.md): *Paper Bunny*
 * [Person in Time](project2.md): *My Sister*
 * [Place](project3.md): *Interesting Stairwell*
 
 --
 ### Looking Outwards reports: 
 
-1. [apple](looking-outwards-01.md)
-1. [bear](looking-outwards-02.md) 
+1. [Relighting Human Locomotion with Flowed Reflectance Fields
+](https://github.com/elizazhi/Experimental-Capture/blob/master/looking-outwards-1.md)
+1. [SteadXP Video Stablizer](https://github.com/elizazhi/Experimental-Capture/blob/master/looking-outwards-2.md) 
 1. [cat](looking-outwards-03.md)
 1. [dog](looking-outwards-04.md)
 1. [egg](looking-outwards-05.md)

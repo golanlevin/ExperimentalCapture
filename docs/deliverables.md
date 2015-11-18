@@ -21,10 +21,10 @@ All assignment submissions will take the form of pull requests on Github. For mo
 
 ### For Wednesday, September 9: 
 
-* Review all of the course documents: [Deliverables](docs/deliverables.md), [Course Policies](docs/policies.md), [Course Calendar](docs/calendar.md), [Course Lab Fee](docs/course-fee.md), [Submitting Work](docs/submitting-work.md).
+* Review all of the course documents: [Deliverables](deliverables.md), [Course Policies](policies.md), [Course Calendar](calendar.md), [Course Lab Fee](course-fee.md), [Submitting Work](submitting-work.md).
 * Complete the [Enrollment Questionnaire & FERPA Waiver](ferpa.md). 
 * Create a [Github account](https://github.com/) (if you do not already have one), and start learning [how to use git](git.md).
-* Fork this repo, and issue a pull request to update your [student page](students/index.md);
+* Fork this repo, and issue a pull request to update your [student page](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/index.md);
 * Write your first [Looking Outwards](looking-outwards.md) report, on some art or other research project from the realms of computational photography, expanded cinema, experimental capture etc. Issue a pull request to have this included. 
 * Read Chapter 2 (*The Technical Image*) in Vilem Flusser's *[Towards a Philosophy of Photography](http://cmuems.com/excap/readings/flusser-towards-a-philosophy-of-photography.pdf)*.
 * Read Chapter 1 (Introduction) in Richard Szeliski's [*Computer Vision: Algorithms and Applications*](http://szeliski.org/Book/). Browse the book and find something that interests you. 

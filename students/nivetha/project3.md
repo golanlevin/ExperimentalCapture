@@ -1,4 +1,4 @@
-#Pulse Scale
+#Pulse Scape
 ##A project by Swetha Kannan and Nivetha Kannan
 
 --

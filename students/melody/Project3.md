@@ -2,4 +2,4 @@
 
 
 
-![Photo 1](/Users/mting780/Desktop/excap3.png) 
+![Photo 1](file:///Users/mting780/Desktop/excap3.png) 

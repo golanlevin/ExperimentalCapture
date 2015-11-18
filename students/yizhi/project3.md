@@ -21,8 +21,8 @@ Wean Hall corridors
 Cathedral of Learning
 
 The footage can be unwrapped and shown as below:
-![](https://cloud.githubusercontent.com/assets/11666005/11229929/6e40cb9e-8d68-11e5-9777-f3eefab1e2e4.png)
-![](https://cloud.githubusercontent.com/assets/11666005/11229928/6e409994-8d68-11e5-8f94-f67d02d6bbc8.png)
+[![](https://cloud.githubusercontent.com/assets/11666005/11229929/6e40cb9e-8d68-11e5-9777-f3eefab1e2e4.png)](https://youtu.be/OBVjwPrX0Gg)
+[![](https://cloud.githubusercontent.com/assets/11666005/11229928/6e409994-8d68-11e5-8f94-f67d02d6bbc8.png)](https://youtu.be/qYvO-yNTtYY)
 
 For post processing, we wrote our program to get rid of the hole in the 360 video and synthesized it with music.
 ![158](https://cloud.githubusercontent.com/assets/11666005/11230086/a6150f20-8d69-11e5-9f06-e19ac157d94f.jpg)

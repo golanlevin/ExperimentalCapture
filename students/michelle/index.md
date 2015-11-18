@@ -16,7 +16,7 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 
 * [Object](project1.md): *Pepper's Pig*
 * [Person in Time](project2.md): *Synergy*
-* [Place](project3.md): --
+* [Person in Time II](project3.md): *Explorations in Point Cloud Slitscanning*
 
 --
 ### Looking Outwards reports: 
@@ -28,7 +28,7 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 5. [Live Texturing of Augmented Reality Characters from Colored Drawings](looking-outwards-05.md)
 6. [Acoustruments: Passive, Acoustically-Driven Interactive Controls for Hand Held Devices](looking-outwards-06.md)
 7. [Stylized Hair Capture](looking-outwards-07.md)
-8. [--](looking-outwards-08.md)
+8. [Computer-Generated Watercolor](looking-outwards-08.md)
 9. [--](looking-outwards-09.md)
 10. [--](looking-outwards-10.md)
 

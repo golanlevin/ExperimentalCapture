@@ -14,7 +14,7 @@ Things that look cool/different under UV light: [power lines](https://www.youtub
 
 UV video was taken of floral subjects. This was used to create 3D models in Agisoft Photoscan, with mixed success. 
 
-![Baby's first photoscan](images/crysanth1.png)
+![Baby's first photoscan](images/crysanth1.PNG)
 *Baby's first photoscan*
 
 Most cameras have baked-in filters to eliminate UV light, so an analogue security camera (which was also monochromatic) was fitted with a UV lens was used instead. Throughout the process of this project, three different setups we used to convert the analog signal to a digital one. The first one involved a laptop, an intensity shuttle, and an electrical outlet; the second and third used a camcorder with mini DV tape and a rechargeable battery for the security camera (the first security camera got fried and had to be swapped out).
@@ -36,13 +36,13 @@ Video was taken at Phipps conservatory, and later a few areas around the CMU cam
 
 *Monochromatic UV image*
 
-![](/images/crysanth2.png)
+![](/images/crysanth2.PNG)
 
 *More Photoscan Attempts*
 
-![](/images/exploding_crysanth.png)
+![](/images/exploding_crysanth.PNG)
 
-![](/images/crysanth2-3.png)
+![](/images/crysanth2-3.PNG)
 
 ![](/images/smallflower-1.jpg)
 

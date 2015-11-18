@@ -21,6 +21,9 @@ The audio was captured with Binaural microphones. The strange rubber ears on the
 
 In post processing, we brought down jarring high pitch squeals (some), and amplified the bass frequencies that get transmitted to the transducer.
 
+![Delicious!](images/tart.png)
+
+
 # 3D Scanning
 2 different 3D scene capture methods, one with the iSense depth sensor, and the other with a complicated and extensive photogrammetry rig, were combined to create the space. The stitches and texture glitches between these spaces ended up being a happy accident, much of the errors appear like stains or molds, and the imperfection of the model seems to represent an imperfection of the space - exactly what we were trying to capture.
 

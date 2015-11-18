@@ -15,7 +15,7 @@ The goal in this project was to create something that was more poetry than demo.
 If VR is going to be a future platform for storytelling, we are going to start needing to translate cinematic and storytelling conventions into this new space. In this regard, we wanted to do scene, atmosphere, and mood establishment - not plot. 
 
 # Binaural Audio Capture of a train
-![Parametric Equalization](parametric.png)
+![Parametric Equalization](images/parametric.png)
 
 The audio was captured with Binaural microphones. The strange rubber ears on these microphones transform the audio signal in the same way that the human skull does, creating a very convincing illusion of being in a place.
 

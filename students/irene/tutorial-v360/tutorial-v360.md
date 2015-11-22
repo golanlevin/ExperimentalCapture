@@ -81,11 +81,16 @@ Step 4: Open up the Black Syphone application on your computer. Select HD 1080p 
 
 Step 5 (Recording with Black Magic software): Use the Blackmagic Media Express software that comes with the Video Desktop installer. This will allow you to record and playback videos. They are captured as non-spherical panoramas. 
 
+OR 
+
 Step 5 (Recording with openFrameworks): Download this add on for the Black magic: <https://github.com/kylemcdonald/ofxBlackmagic>
+
+OR 
 
 Step 5 (Recording with something else): You can apparently use Adobe Premiere or After Effects to record a feed, but we didn't try it out. This manual has more info: <http://documents.blackmagicdesign.com/DesktopVideo/Desktop_Video_Manual_2015-03-31.pdf>
   
 ***
+
 
 Viewing 360 images and movies
 ---

@@ -33,15 +33,15 @@ Step 2: Push the battery into the camera. This will turn the camera on, there ar
 
 Step 3: Turn bluetooth on on your phone and open the V.360 app. Pair the camera with your phone. If it asks you for a code, type 0000. 
 
-<img src="images/0.png" width="200px" />
+<img src="images/0.PNG" width="200px"/>
 
 Step 4: To adjust shooting settings, you'll also have to pair the app and camera over wifi. Go to "settings" on the mobile app, and activate the camera hotspot. This will create a wifi network called "V360 Camera".
 
-<img src="images/1.png" width="200px" />
+<img src="images/1.PNG" width="200px" />
 
 Step 5: Navigate to your phone's wifi settings and connect to "V360 camera network".
 
-<img src="images/2.png" width="200px" />
+<img src="images/2.PNG" width="200px" />
 
 Step 6: Go back to the V.360 app and you should be able to see a live view of the camera feed.
 
@@ -73,7 +73,7 @@ Step 2: Connect the camera to an "Ultra Studio Mini Recorder" via an HDMI to min
 
 <img src="images/setup.JPG" width="200px" />
 
-<img src="images/4.png" width="200px" />
+<img src="images/4.PNG" width="200px" />
 
 Step 3: Download the VDMX Black Syphon application. <http://vdmx.vidvox.net/blog/black-syphon>
 
@@ -89,7 +89,7 @@ Step 5 (Recording with something else): You can apparently use Adobe Premiere or
 
 Viewing 360 images and movies
 ---
-Refer to the Ricoh tutorial: <../tutorial-ricoh/tutorial-ricoh.md>
+Refer to the Ricoh tutorial: <https://github.com/golanlevin/ExperimentalCapture/blob/master/students/irene/tutorial-ricoh/tutorial-ricoh.md>
 
 With most common video editing software, the V.360 video captures will show up as two stacked horizontal videos. 
 

@@ -16,6 +16,7 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 * [Object: Maiden](project1.md)
 * [Conduction](project2.md)
 * [Any Given Tuesday Night](../smokey/projects/project3.md)
+* [Final Project Proposal](finalprojectproposal.md)
 
 --
 ### Looking Outwards reports: 

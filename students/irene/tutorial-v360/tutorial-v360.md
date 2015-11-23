@@ -20,7 +20,6 @@ Cons:
 
 <img src="images/v360.jpg" width="300px" />
 
-***
 
 Pairing the camera with your phone
 ----
@@ -51,7 +50,6 @@ Step 7: Adjust any settings like shutter speed, aspect ratio, and color format.
 
 You can also skip steps 3-7 altogether and capture video/images using the camera's remote control. The control connects to the camera via Bluetooth, but it is completely unclear when the camera is actually recording or capturing anything. 
 
-***
 
 Capturing a live feed from your computer
 ----
@@ -75,21 +73,29 @@ Step 2: Connect the camera to an "Ultra Studio Mini Recorder" via an HDMI to min
 
 <img src="images/4.PNG" width="200px" />
 
-Step 3: Download the VDMX Black Syphon application. <http://vdmx.vidvox.net/blog/black-syphon>
+Step 3: Navigate to your system preferences (on a mac) and look for the Black Magic Video Software preferences. Make sure you check the option for "Use 1080p not 1080 PsF". Settings should look like the following:
 
-Step 4: Open up the Black Syphone application on your computer. Select HD 1080p as the input format. You should be able to see a small live feed from your camera. This indicates that the connection is working.
+<img src="images/blacksettings.png" width="500px" />
 
-Step 5 (Recording with Black Magic software): Use the Blackmagic Media Express software that comes with the Video Desktop installer. This will allow you to record and playback videos. They are captured as non-spherical panoramas. 
+
+Step 4: Download the VDMX Black Syphon application. <http://vdmx.vidvox.net/blog/black-syphon>
+
+Step 5: Open up the Black Syphone application on your computer. Select HD 1080p as the input format. You should be able to see a small live feed from your camera. This indicates that the connection is working.
+
+<img src="images/blacksyphon.png" width="500px" />
+
+Step 6 (Recording with Black Magic software): Use the Blackmagic Media Express software that comes with the Video Desktop installer. This will allow you to record and playback videos. They are captured as non-spherical panoramas. Make sure you go to preferences within the Media Express and click on "Stop playback if dropped frames are downloaded". 
+
+<img src="images/mediaexpress.png" width="600px" />
 
 OR 
 
-Step 5 (Recording with openFrameworks): Download this add on for the Black magic: <https://github.com/kylemcdonald/ofxBlackmagic>
+Step 6 (Recording with openFrameworks): Download this add on for the Black magic: <https://github.com/kylemcdonald/ofxBlackmagic>
 
 OR 
 
-Step 5 (Recording with something else): You can apparently use Adobe Premiere or After Effects to record a feed, but we didn't try it out. This manual has more info: <http://documents.blackmagicdesign.com/DesktopVideo/Desktop_Video_Manual_2015-03-31.pdf>
+Step 6 (Recording with something else): You can apparently use Adobe Premiere or After Effects to record a feed, but we didn't try it out. This manual has more info: <http://documents.blackmagicdesign.com/DesktopVideo/Desktop_Video_Manual_2015-03-31.pdf>
   
-***
 
 
 Viewing 360 images and movies
@@ -98,7 +104,6 @@ Refer to the Ricoh tutorial: <https://github.com/golanlevin/ExperimentalCapture/
 
 With most common video editing software, the V.360 video captures will show up as two stacked horizontal videos. 
 
-***
 
 Resources
 ---

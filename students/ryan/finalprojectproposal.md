@@ -18,7 +18,7 @@ Unfortunately, this will require each person have the app downloaded, which is l
 *Challenges:*
 
 - Will be my first native iOS app. Plan to write in Swift.  
-- Will be my first time to use BLE beacons. Will leverage CoreLocation. Latency of detection (usually every 1s) with network time may be a significant issue – thinking about ways to infer future location of user to keep it fast. Initially, will simply query for 'closest beacon'. (Because of metal and glass on the bridge, I'm not sure how accurately I will be able to do this.)
+- Will be my first time to use BLE beacons. Will leverage CoreLocation. Latency of detection (usually every 1s) with network latency may be a significant issue – thinking about ways to infer future location of user to keep it fast. Initially, will simply query for 'closest beacon'. (Because of metal and glass on the bridge, I'm not sure how accurately I will be able to do this.)
 - Will be my first time to interact with the bridge lighting server programmatically. There are ample past projects that I should be able to learn from, and it's possible I may use Shimizu's [Lumiverse framework](http://lumiverse.cs.cmu.edu/).
 
 ![Bridge mockup](media/project4/bridge.png)

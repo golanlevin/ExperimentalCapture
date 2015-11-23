@@ -5,7 +5,14 @@ In this project, Ryan and Smokey created a the experience in sitting in Smokey�
 
 The final product is an executable where, in VR space, one can experience the atmosphere and the mood of the dingy kitchen, creatively exaggerated in it’s digital form.
 
+Click [here](http://www.ryanhuber.com/projects/AnyGivenTuesdayNight-build.zip) to download the Mac executable. View our various source files [here](http://www.ryanhuber.com/projects/AnyGivenTuesdayNight-source.zip). A [video](https://vimeo.com/146690174) that includes audio can be viewed here.
+
+<iframe src="https://player.vimeo.com/video/146690174?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+![Project 3 Animated](images/project3animated.gif)
+
 ## Haptic Feedback
+![Bass Shaker](images/buttkicker.jpg)
 More than just VR, the project also included the use of a 50watt ‘bass shaker’, a transducer that - attached to the chair the user is sitting in - vibrates and shakes along with the train’s out-of-sight rumbles and screeches. The effect, when subtle, solidifies the user in the environment. When the bass shake is pushed to more extreme levels, the effect is that of a wary uneasiness. Many test users reported fear as to what were to happen next.
 
 ## Storytelling Futures
@@ -28,4 +35,3 @@ Smokey: Although, I would like to note, that my kitchen is not *that* bad.
 From the beginning we knew we wanted to use photogrammetry’s strange bumpy artifacts to represent the scene. The distortions allow a clearly recognizable scene to possess both a clearly digital/nonhuman author, and a authored/intentional representation, which is unnerving.
 
 ![Delicious!](images/tart.png)
-

@@ -81,12 +81,24 @@ In the process of capture, I came to realize that students walk so fast, they on
 
 ![hall1](assets/hallway_1.jpg)
 
+![hall1](assets/hallway_2.jpg)
+
+I also began experimenting with orthographic projections as an alternate way of viewing these spaces. These renderings lack the sense of space that perspective provides, but present the idea of a "slice of time" in a much clearer fashion. In this way, the orthographic view is more analytical and perhaps more accurate, presenting the data as a pure visualization.
+
 ![hall1](assets/hallway_3.jpg)
 
 One of the most fascinating discoveries I made is that everyone in this "temporalized space" faces the same direction. This occurs because, no matter which direction you come from, the first part of the body to be scanned is the front of the face, then the middle, and finally the back of the head. To put it more poetically: 
 
 *We all walk forward in time.*
 
-![hall1](assets/hallway_2.jpg)
+This can easily be seen in the ortho and perspective panoramas ...
+
+![ortho pan](assets/ortho_panorama.png)
+
+![perspective pan](assets/perspective_panorama.png)
+
+... though I much prefer seeing them in person on a panoramic display.
+
+![display](assets/long_display.jpg)
 
 Many thanks to Golan Levin for a multitude of ideas and inspiration.

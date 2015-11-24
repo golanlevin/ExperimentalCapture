@@ -9,7 +9,7 @@ On Monday, Smokey and I talked about the possibility of working together. He had
 
 ###Misc. list of my ideas
 
-- Besides singing, are their other actions humans do that when sped up resemble small animals? What other kinds of distinctive bird songs would come through clearly?
+- Besides singing, are there other actions humans do that when sped up resemble small animals? What other kinds of distinctive bird songs would come through clearly?
 - What would a slit-scanned time lapse look like?
 - What if you had a cup whose interior is a small video view of another world?
 

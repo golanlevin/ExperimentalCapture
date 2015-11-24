@@ -9,9 +9,9 @@ On Monday, Smokey and I talked about the possibility of working together. He had
 
 ###Misc. list of my ideas
 
-- Besides singing, are there other actions humans do that when sped up resemble small animals? What other kinds of distinctive bird songs would come through clearly?
-- What would a slit-scanned time lapse look like?
-- What if you had a cup whose interior is a small video view of another world?
+- Besides singing, are there other actions humans do that when sped up resemble small animals? What other kinds of distinctive bird songs would come through clearly? (Audio Recording Devices and a Camera)
+- What would a slit-scanned time lapse look like? (Cameras 'n Programmin')
+- What if you had a cup whose interior is a small video view of another world? (Flock of Birds, 360 Video)
 
 ![](images/Interdimensional_Coffee_Mug.png)
 *An interdimensional coffee mug*

@@ -14,7 +14,7 @@ Hello!  I am a Senior in the school of art interested in making animations and g
 
 * [Object](project1.md): *Thumb Prints*
 * [Person in Time](project2.md): *To Reach Your Inner Magical Girl*
-* [Place](project3.md): *Interesting Stairwell*
+* [Pulse Scape](project3.md): *Landscape interpreted by heartbeat*
 
 --
 ### Looking Outwards reports: 
@@ -24,8 +24,8 @@ Hello!  I am a Senior in the school of art interested in making animations and g
 3. [3D Printing in Paranorman](looking-outwards-03.md)
 4. [Kids Creation Station](looking-outwards-04.md)
 5. [Mia Matsumiya AKA perv_magnet](looking-outwards-05.md)
-1. [fridge](looking-outwards-06.md)
-1. [giraffe](looking-outwards-07.md)
-1. [hat](looking-outwards-08.md)
-1. [ice cream](looking-outwards-09.md)
+1. [3D Printed GoPro Mount for your Skateboard](looking-outwards-06.md)
+1. [BitDrones](looking-outwards-07.md)
+1. [EORA 3D Scanner](looking-outwards-08.md)
+1. [PowerUp FPV](looking-outwards-09.md)
 1. [jam](looking-outwards-10.md)

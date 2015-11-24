@@ -14,3 +14,4 @@ On Monday, Smokey and I talked about the possibility of working together. He had
 - What if you had a cup whose interior is a small video view of another world?
 
 ![](images/Interdimensional_Coffee_Mug.png)
+*An interdimensional coffee mug*

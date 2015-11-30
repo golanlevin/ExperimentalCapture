@@ -20,7 +20,7 @@
 
 Feedback is provided below for the students who completed the request: 
 
-* Akiva
+* [Akiva](#akiva)
 * Benjamin
 * Katie Rose
 * Kevin

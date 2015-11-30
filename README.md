@@ -87,6 +87,7 @@ And:
 * *[Portraiture: Capturing People and Movements](docs/portraits.md)*
 * *[Landscape: Capturing Places](docs/places.md)*
 * *[Remarks on Project 3 (Place)](docs/assignment3-remarks.md)*
+* *[Remarks on Final Project Proposals](docs/final-project-proposal-remarks.md)*
 
 --
 ### Helpful Information 

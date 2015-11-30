@@ -23,7 +23,6 @@ Ricoh does some pattern matching processing to detect where the two images shoul
 
 ![Process2](images/process2.jpg)
 
-***
 
 Setup
 ----
@@ -44,7 +43,6 @@ Step 4: Select the SSID of the camera from the network list. In this case: "THET
 
 Step 5: If you now open the dedicated app on your phone, the wireless lamp on the camera should turn blue.	     
 
-***
 
 How to shoot still images
 ----
@@ -66,7 +64,6 @@ From here you can either take a picture using the shutter button on the camera o
 * Images saved in jpg format
 
   
-***
 
 How to shoot video
 ---
@@ -81,7 +78,6 @@ The steps are practically identical to the still image setup, except that when p
 * Fixed focus range of 3.9" to infinity renders most subjects in focus
 * Videos saved in mov format
 
-***
 
 Transferring files
 ---
@@ -95,7 +91,6 @@ There are several ways of transferring files, mainly either directly from the ca
 
 ![Transfer](images/File_008.png)
 
-***
 Viewing 360 images and movies
 ---
 #### Images

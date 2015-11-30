@@ -47,7 +47,7 @@ Here's an image from our e30bx, produced at the maximum resolution of 320x240. I
 
 ![FLIR e30bx thermal image example](images/thermal-e30bx-example.jpg)
 
-The FLIR One may be easier to work with. A quick test would be to record video with it, then apply a kind of "light painting" (luminance accumulation) filter to the video in e.g. AfterEffects.
+The FLIR One may be easier to work with. A quick test would be to record video with it, then apply a kind of "light painting" (luminance accumulation) filter to the video in e.g. AfterEffects. (I can also give you some OF and Processing code which does such such video filtering, if you're interested.)
 
 There's another thermal camera I'm aware of at CMU; professor [Yang Cai](http://www.andrew.cmu.edu/user/ycai/) has a high-quality analog unit which he might be willing to loan you. It has a slightly wider field of view, but it's still an analog NTSC, SD video signal. 
 
@@ -72,14 +72,15 @@ I still think you should give yourself permission to walk *really slowly....*
 
 Drone-based topographic mapping is a great starting point. I've got a few thoughts. 
 
-* You mention slums in Caracas. Is it your objective to do the topographic mapping as inexpensively as possible? In such a case, I'd recommend ditching the drones (which are expensive, fragile, require power charging infrastructure, deplete their power quickly), and instead consider using **balloons and kites**. Please check out [http://grassrootsmapping.org/](http://grassrootsmapping.org/) and [https://publiclab.org/](https://publiclab.org/), important work by Jeffrey Warren and colleagues in in grassroots disaster mapping and contestational cartography.
+* You mention slums in Caracas. Is it your objective to do the topographic mapping as inexpensively as possible? In such a case -- what do you think about ditching the drones (which are expensive, fragile, require power charging infrastructure, deplete their power quickly), and instead consider using **balloons and kites**? Please check out [http://grassrootsmapping.org/](http://grassrootsmapping.org/) and [https://publiclab.org/](https://publiclab.org/), important work by Jeffrey Warren and colleagues in in grassroots disaster mapping and contestational cartography. (Incidentally: my friend [Celeste Neuhaus](http://celesteneuhaus.com/) who teaches in the School of Art is always looking for an excuse to go flying kites.)
 
 * We have an older GoPro, but for something even smaller, consider convincing me to buy one of the new the new $99 [Polaroid/Kodak cube cameras](http://petapixel.com/2014/08/13/polaroids-cube-action-cam-special/). 
 
-* Other technical possibilities include [DIY LIDAR](https://blog.adafruit.com/2013/05/30/diy-virturange-lidar-3d-scanner-3dthursday/). In particular, check out the [Sparkfun LIDAR-Lite](https://www.sparkfun.com/products/13680) good up to 40 meters; [see how others](https://forums.adafruit.com/viewtopic.php?f=24&p=392228) are attempting to make topo scanners with it. This seems like an ideal use for the new $5 Raspberry PiZero.
+* Other technical possibilities include [DIY LIDAR](https://blog.adafruit.com/2013/05/30/diy-virturange-lidar-3d-scanner-3dthursday/). In particular, check out the [Sparkfun LIDAR-Lite](https://www.sparkfun.com/products/13680) good up to 40 meters; [see how others](https://forums.adafruit.com/viewtopic.php?f=24&p=392228) are attempting to make topo scanners with it. This seems like an ideal use for the new $5 Raspberry PiZero. So: *LIDAR Lite + Pi Zero + Kite....*
 
-* The LIDAR-Lite could complement the photogrammetry by providing absolute scale. In other words, there's a scale factor missing from the photogrammetry (the camera doesn't know whether it's looking at something small or large), but the LIDAR could resolve that.
+* If you're still really keen on photogrammetry, the LIDAR-Lite could complement the photographic process by providing absolute scale. In other words, there's a scale factor missing from the photogrammetry -- the camera doesn't know whether it's looking at something small or large -- but the LIDAR could resolve that.
 
+* This is more of a suggestion for Claire, but: you could also consider doing photogrammetry from *found drone footage*, such as [this video made by Mujahideen](https://www.youtube.com/watch?v=LLdXKEzvEaM) (...)
 
 ---
 

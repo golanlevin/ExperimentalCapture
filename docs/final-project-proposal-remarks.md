@@ -2,7 +2,7 @@
 
 ### *AHEM...*
 
-*The following students did not submit final project proposals as requested. I asked for 100 words and a doodle; please.*
+*The following students did not submit final project proposals as requested. Boo. I asked for 100 words and a doodle; please.*
 
 * Charlotte
 * Claire
@@ -18,17 +18,17 @@
 
 # Feedback
 
-Feedback is provided below for the students who completed the request: 
+Feedback is provided below for the students who submitted proposals: 
 
 * [Akiva](#akiva)
-* Benjamin
-* Katie Rose
-* Kevin
-* Miles
-* Miranda
-* Nivetha
-* Ryan
-* Swetha
+* [Benjamin](#Benjamin)
+* [Katie_Rose](#Katie_Rose)
+* [Kevin](#Kevin)
+* [Miles](#Miles)
+* [Miranda](#Miranda)
+* [Nivetha](#Nivetha)
+* [Ryan](#Ryan)
+* [Swetha](#Swetha)
 * [Will](#will)
 
 ---
@@ -37,11 +37,15 @@ Feedback is provided below for the students who completed the request:
 
 > I'm going to create long exposure style heat map images, Using videos from the FLIR heat camera.
 
-This sounds good. Keep in mind that both of our thermal cameras are very low resolution; it's the nature of the imaging technology. Also, both thermal cams have a fairly narrow field of view; we don't have a wide-angle thermal imager. 
+This sounds good. Keep in mind that both of our thermal cameras are pretty damn low resolution; it's the nature of the imaging technology. Also, both thermal cams have a fairly narrow field of view; we don't have a wide-angle thermal imager. 
 
 We have: 
-* A FLIR E30bx. [Here are instructions](http://flong.com/deliver/fix-flir/index.html) for disabling the logo overlay.
+* A FLIR E30bx. NOTE: [here are instructions](http://flong.com/deliver/fix-flir/index.html) for disabling the logo overlay. You'll want that!
 * A [FLIR One](http://www.flir.com/flirone/content/?id=62912) for iOS. Claire Hentschker in our class has been using this. 
+
+Here's an image from our e30bx, produced at the maximum resolution of 320x240. In point of fact, the sensor is actually 160x120:
+
+![FLIR e30bx thermal image example](images/thermal-e30bx-example.jpg)
 
 The FLIR One may be easier to work with. A quick test would be to record video with it, then apply a kind of "light painting" (luminance accumulation) filter to the video in e.g. AfterEffects.
 
@@ -56,7 +60,7 @@ Some other possibilities that might be interesting:
 
 ### [Benjamin](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/benjamin/finalprojectproposal)
 
-Glad to see you continue with your work from Project 3. I've prevously sent you some thoughts and suggestions by email. Go ahead and get started. You have my permission to interpret this work for 60-212 as well (perhaps something browser-based using three.js or OF in the browser?).
+Thrilled to see you continue with your work from Project 3. I've prevously sent you some thoughts and suggestions by email. Go ahead and get started. You have my permission to interpret this work (i.e. "double-dip") for 60-212 as well. Perhaps you could make something browser-based using three.js or openFrameworks in the browser?
 
 Note, your final project proposal was not saved as a markdown (.md) file, so it doesn't display correctly in the github site. 
 
@@ -79,11 +83,15 @@ Drone-based topographic mapping is a great starting point. I've got a few though
 
 ---
 
-### [Katie Rose](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/katierose/finalprojectproposal.md)
+### [Katie_Rose](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/katierose/finalprojectproposal.md)
 
-Cool. I'm thoroughly satisfied with this proposal; thanks. I do have a few brief suggestions.
+Cool. I'm thoroughly satisfied with this proposal; -- thank you. I do have a few brief suggestions.
 
-* I do realize it's just your sketch/diagram, but I was inspired by the ASCII rendering style you used. As an alternative to presenting a televised video signal to the viewer/user/audience, may I propose instead the idea, of presenting an ASCII image shown on a text terminal. This would *not* be a grayscale ASCII image (of the [familiar variety](https://en.wikipedia.org/wiki/ASCII_art#Image_to_text_conversion), in which dark pixels are represented with M's, etcetera), but rather an ASCII scene computed from an *edge-detected* version of your camera's view, exclusively rendered with the linear characters, / \ | - _ . I'd be happy to discuss this further. (Interestingly, you could transmit this text stream very compactly and view it in a browser.)
+* I do realize it's just your sketch/diagram, but I was inspired by the ASCII rendering style you used. As an alternative to presenting a televised video signal to the viewer/user/audience, may I suggest instead the idea, of presenting an ASCII image shown on a text terminal. **BUT**, this would *not* be a grayscale ASCII image (of the [familiar variety](https://en.wikipedia.org/wiki/ASCII_art#Image_to_text_conversion), in which dark pixels are represented with M's, etcetera), but rather an ASCII scene computed from an *edge-detected* version of your camera's view, and *exclusively rendered with the linear characters*: / \ | - _ . 
+
+![terminal](images/katierose-adm3a.jpg)
+
+I'd be happy to discuss this further. (Interestingly, you could alslo transmit this text stream very compactly and view it in a browser.)
 
 * I'm not sure which camera you're using on the mini-rover, but FWIW I have a number of very small analog cameras, as well as a wide variety of 12mm lenses (wide, fisheye, etc.) which might be useful. 
 
@@ -93,7 +101,7 @@ Cool. I'm thoroughly satisfied with this proposal; thanks. I do have a few brief
 
 Excellent. I realize this is connected to your large theater project in process. Go go go. 
 
-Are the phones transmitting their location back to a server? It would be great if you could create a javascript application that visualized the locations of all the clients. That's an interesting and unique "capture" tool in itself. 
+Are the phones transmitting their location back to a server? It would be great if you could create a javascript application that visualized the locations of all the clients. That's an interesting and unique "capture" tool in itself. That's my "ask" :)
 
 ---
 
@@ -234,31 +242,6 @@ You would basically do some sort of background subtraction (or keying), in order
 
 An altogether different possibility is to use the Edgertronic high-speed camera for slit-scanning, body-stacking, etc.. You'd have so many more intermediate frames!
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*EOF.* 

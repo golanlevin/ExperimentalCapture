@@ -23,4 +23,5 @@ Hey, I'm Smokey. That's a nickname. I'm in the Emerging Media program on a track
 3. [Jamky - Rock Sequencer](LookingForward/3-rocks.md)
 4. [LightCo 16 aperture Camera](LookingForward/4-LightCo.md)
 5. [Regression Algorithm For Video Stylisiation](LookingForward/5-regression.md)
+6. [PolyEyes 2.0](LookingForward/6-polyeyes.md)
 

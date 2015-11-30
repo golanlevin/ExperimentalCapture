@@ -29,7 +29,7 @@ Feedback is provided below for the students who completed the request:
 * Nivetha
 * Ryan
 * Swetha
-* Will
+* [Will](#will)
 
 ---
 

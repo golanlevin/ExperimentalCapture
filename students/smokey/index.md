@@ -25,4 +25,4 @@ Hey, I'm Smokey. That's a nickname. I'm in the Emerging Media program on a track
 5. [Regression Algorithm For Video Stylisiation](LookingForward/5-regression.md)
 6. [PolyEyes 2.0](LookingForward/6-polyeyes.md)
 7. [Kamra - Deja Vu Interactive Music Video](LookingForward/7-DejaVu.md)
-
+8. [This Book Is A Camera](LookingForward/8-CameraBook.md)

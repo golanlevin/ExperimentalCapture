@@ -4,4 +4,4 @@ A recent kickstarter campaign by the Unseen Art Project is an attempt by artists
 
 The project, while intriguing, brings to light certain obstacles, including the issue of transforming traditionally visually-expressed qualities such as color and lighting in a tangible form. The 3D printed pieces, despite being close replicase of the original paintings, could constitute as unique pieces themselves due to the number of differing features. While the current protoypes seem promising in their faithfulness to the original subjects, they are only able to mimic the composition and forms of such paintings, and specifically in artistic styles with definitive forms and outlines.
 ![lo81](lo8i.jpg)
-![lo82][lo8ii.jpg
+![lo82](lo8ii.jpg)

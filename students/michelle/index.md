@@ -29,8 +29,6 @@ I am currently a third year undergrad at Carnegie Mellon University studying com
 6. [Acoustruments: Passive, Acoustically-Driven Interactive Controls for Hand Held Devices](looking-outwards-06.md)
 7. [Stylized Hair Capture](looking-outwards-07.md)
 8. [Computer-Generated Watercolor](looking-outwards-08.md)
-9. [--](looking-outwards-09.md)
-10. [--](looking-outwards-10.md)
 
 --
 ### Tutorials

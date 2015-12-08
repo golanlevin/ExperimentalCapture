@@ -16,7 +16,7 @@ I invited several of my friends to the Kinoptic Dome in order to capture their m
 
 The mesh data actually is not very strong from these kinects, so the results have more of a glitch aesthetic. I am more drawn to the point cloud screen shots from the OpenFrameworks viewer.
 
-![Mesh Objects](https://github.com/michell3/Photos/blob/master/slitscan/mesh_previews.png)
+![--](https://github.com/michell3/Photos/blob/master/projection.png)
 
 -
 
@@ -54,12 +54,12 @@ The technical challenges mostly originated from not having photos taken at the e
 *OpenFrameworks*
 - Use the ofxAssimpModelLoader addon for OpenFrameworks
 - Import the OBJ/DAE
-- Use the easycam feature to view the model
+- Use the easyCam feature to view the model
 
 -
 #### Links
 - [More Project Images](https://github.com/michell3/Photos/tree/master/projection)
-- [OpenFrameworks Source Code](../michelle/ProjectionDrawing)
+- [OpenFrameworks Source Code](../michelle/ModelViewer)
 
 -
 #### Special thanks to

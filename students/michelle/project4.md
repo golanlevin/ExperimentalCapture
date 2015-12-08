@@ -3,8 +3,8 @@
 -
 #### Project Video
 
-[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/projection/cover.png)](https://vimeo.com/michell3 "Projection Drawing")
-![Composite Preview](https://github.com/michell3/Photos/blob/master/projection/composite.png)
+[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/final/cover.png)](https://vimeo.com/michell3 "Projection Drawing")
+![Composite Preview](https://github.com/michell3/Photos/blob/master/final/composite.png)
 
 -
 
@@ -16,7 +16,7 @@ I invited several of my friends to the Kinoptic Dome in order to capture their m
 
 The mesh data actually is not very strong from these kinects, so the results have more of a glitch aesthetic. I am more drawn to the point cloud screen shots from the OpenFrameworks viewer.
 
-![--](https://github.com/michell3/Photos/blob/master/projection.png)
+![Composite Preview](https://github.com/michell3/Photos/blob/master/final/screenshot.png)
 
 -
 
@@ -58,9 +58,11 @@ The technical challenges mostly originated from not having photos taken at the e
 
 -
 #### Links
-- [More Project Images](https://github.com/michell3/Photos/tree/master/projection)
+- [More Project Images](https://github.com/michell3/Photos/tree/master/final)
 - [OpenFrameworks Source Code](../michelle/ModelViewer)
 
 -
 #### Special thanks to
 - **Monisha Gopal** and **Sally McNichols** for being my subjects
+
+![Composite Preview](https://github.com/michell3/Photos/blob/master/final/composite_actual.png)

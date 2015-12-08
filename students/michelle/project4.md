@@ -1,10 +1,11 @@
 ## Project 4: Projection Drawing
 #### [Michelle Ma](../michelle/index.md)
 -
-#### Project Video
 
-[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/final/cover.png)](https://vimeo.com/michell3 "Projection Drawing")
-![Composite Preview](https://github.com/michell3/Photos/blob/master/final/composite.png)
+![Turntable](https://github.com/michell3/Photos/blob/master/final/timeline.gif)
+<br>
+<br>
+<img src="https://github.com/michell3/Photos/blob/master/final/composite.png" width="800">
 
 -
 
@@ -18,8 +19,9 @@ My process was to capture a person using my DSLR camera. I went through 3 trials
 
 The end result ended up being really interesting. I liked seeing my lines preserved on a 3D model. I was mostly disappointed in how musch detail was lost in the face because my interest in portraiture really comes from capturing the fine features of someone's face. If I could do the project again, I would have multiple cameras to capture a person at every angle. However, those resources aren't currently available to me, so this remains an experiment in projecting drawings onto a 3D model.
 
-
-![Composite Preview](https://github.com/michell3/Photos/blob/master/final/screenshot.png)
+<br>
+<br>
+<img src="https://github.com/michell3/Photos/blob/master/final/screenshot.png" width="800">
 
 -
 
@@ -68,4 +70,6 @@ The technical challenges mostly originated from not having photos taken at the e
 #### Special thanks to
 - **Monisha Gopal** and **Sally McNichols** for being my subjects
 
-![Composite Preview](https://github.com/michell3/Photos/blob/master/final/composite_actual.png)
+<br>
+<br>
+<img src="https://github.com/michell3/Photos/blob/master/final/composite_actual.png" width="800">

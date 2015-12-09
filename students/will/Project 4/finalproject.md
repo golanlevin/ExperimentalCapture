@@ -4,15 +4,16 @@
 
 
 ## Concept
+![Recreating Movement](http://recreating-movement.com/wp-content/uploads/rm_delcolors_1.jpg)
 Inspired by Martin Hilpoltsteiner's _Recreating Movement_, I wanted to reimagine the way we consume video, or motion over time, in a single, simultaneous visualization -- turning video into glanceable summaries irrespective of time. I chose to stack frames in space such that scenes with significant motion would be expanded, while scenes with little action would be compressed. I estimate motion between frames using optical flow, via the OpenCV library in Processing. 
 
-I initially thought this type of visual summary would be interesting if applied on surveillance footage, to emphasize the sparseness of motion and thus, the mundaneness of constant monitoring. In looking for public surveillance footage from the US government, I instead found C-SPAN live-streaming a hearing on "Financial Stability Oversight Council Operations", which I saw as the public reversing the roles and surveilling the US government. Similarly mundane. 
+I initially thought this type of visual summary would be interesting if applied on surveillance footage, to highlight the "action" (or lack thereof), and thus emphasize the mundaneness of constant monitoring. In looking for public surveillance footage from the US government, I instead found C-SPAN live-streaming a hearing on "Financial Stability Oversight Council Operations", which was interesting as far as reversing the roles, the public surveilling the US government. Just as mundane. 
 
 ![screencap](http://i.imgur.com/Sl7P1ao.jpg)
 
 ## Process
 
-The technical challenges was mostly in 1) finding the right optical flow value (threshold) to determine frame expansion/compression and 2) displaying the frames.
+The technical challenges was mostly in 1) finding the right optical flow value (threshold) to determine frame expansion/compression and 2) displaying the frames legibly.
 
 
 _Processing:_
@@ -93,6 +94,3 @@ void draw() {
 
 ## Special thanks to:
 C-SPAN
-Hearing on Financial Stability Oversight Council Operations
-Members of the Financial Stability Oversight Council, including Securities and Exchange Commission Chair Mary Jo White and CFPB Director Richard Cordray, testify at a House Financial Services Committee hearing on the council’s agenda and operations.
-

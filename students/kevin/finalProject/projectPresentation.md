@@ -5,7 +5,7 @@ Baseline Technology:
 
 I developed applications for iPhones/Android Phones to stream audio which syncronize audio with iPads playing back video on stage, a master background audio system, and click tracks for the performers on stage.  The key element to this system is how it allows the audience control over mixing the pre-recorded audio and live performance on their own terms.
 
-![](poster.jpg)
+![](Poster.jpg)
 
 For this project I used this technology as a jumping off point, with the intention of adding local position awarness in order to account for the physical delay of sound as it travels through space.  Audience members at the back of the theater have the sound of the live performers reach their ear 0.1 seconds later than the front of the theater, which can be enough to noticably pre-empt the beat.  This location awarness would allow for true syncronization of live performers, and pre-recorded media regardless of where you sat in the theater.
 

@@ -11,7 +11,7 @@ Lidar is a range-sensing technology that uses the time of flight of modulated pu
 
 ### Tech Specs
 
-I'm using a [Hokuyo URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx_ug01.html) lidar, which has a 240˚ planar field of view, 0.35˚ resolution, 18' radius, and 10Hz refresh rate, and [Dan Moore's ofxURG library for OpenFrameworks](https://github.com/danthemellowman/ofxUrg). You can find my code for URG Recording and visualization here (<-- will add link shortly).
+I'm using a [Hokuyo URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx_ug01.html) lidar, which has a 240˚ planar field of view, 0.35˚ resolution, 18' radius, and 10Hz refresh rate, and [Dan Moore's ofxURG library for OpenFrameworks](https://github.com/danthemellowman/ofxUrg). You can find my [code for URG Recording and visualization here](https://github.com/bensnell/urg-recording-and-display).
 
 ### Experiments: Active Scanning
 

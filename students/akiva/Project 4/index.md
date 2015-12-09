@@ -14,11 +14,11 @@ At the heart of this project was the FLIR E30bx Thermal Imaging Digital Camera. 
 
 A core requirement for the image effects used in this project is the ability to control the position of the camera. To accomplish this I first needed to create an adapter plate to convert form a 3/16" nut to a 1/4" nut. I created this using a 1/4" nut and four thin sheets of laser cut acrylic. The CAD files for this adapter cam be found in this repo.
 
-![long exposure photo](assets/Capture_Rig.png)
+![long exposure photo](assets/Capture_Rig.jpg)
 
 Once the camera could work with 1/4" gear I was quickly able to combine a tripod, turntable, and magic arm. This rig allowed me to keep the camera stable and to rotate it by regular amounts.
 
-![long exposure photo](assets/Capture_Rig_2.png)
+![long exposure photo](assets/Capture_Rig_2.jpg)
 
 --
 ### Software
@@ -35,5 +35,7 @@ I also used PTGui, Photoshop, and After Effects to stitch, edit, and animate the
 ### References
 
 [Panoramas for HDS Colours](http://www.hugha.co.uk/Panoramas/Panoramas4HDS.htm)
+
 [Gigantic Thermal Infrared Panoramas](http://www.flirnews.com/2015/03/05/gigantic-thermal-infrared-panoramas/)
+
 Thanks to Ben Snell for lending me his turntable.

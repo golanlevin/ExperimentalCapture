@@ -1,7 +1,7 @@
 # Panoramic Thermal Cinemagraph
 ### Project 4
 --
-![long exposure photo](assets/final_moving_gif.gif)
+![long exposure photo](assets/final_large_gif.gif)
 --
 ### Overview
 

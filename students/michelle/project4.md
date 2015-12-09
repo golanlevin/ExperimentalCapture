@@ -2,7 +2,7 @@
 #### [Michelle Ma](../michelle/index.md)
 -
 
-![Turntable](https://github.com/michell3/Photos/blob/master/final/timeline.gif)
+[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/final/timeline.gif)](https://vimeo.com/148398718 "Projection Drawing")
 <br>
 <br>
 <img src="https://github.com/michell3/Photos/blob/master/final/composite.png" width="800">

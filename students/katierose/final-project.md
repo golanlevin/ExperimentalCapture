@@ -26,7 +26,7 @@ and work on paper:
 
 *the rover-*
 
-(go in and take photos of new rover)
+<img src="https://pbs.twimg.com/media/CVzcGEcW4AEpQBr.png" height=200><img src="https://pbs.twimg.com/media/CVzcINJWIAAhZ47.png" height=200>
 
 the body of the rover is built onto two tiny hacked rc cars, which now move in tandem and provide a solid base for the rest of the equipment. the camera used is a tiny button-hole security camera, which is transmitting signal through a re-enginereed RF transmitter taken from a backup cam (the kind installed in trucks and cars). the whole apparatus is currently running off a 11.1 volt lipo battery, although a traditional 9 volt also works for short periods (about 20 minutes). 
 
@@ -53,6 +53,7 @@ footage from the installation as it stands:
 *images from above-*
 
 <img src="https://pbs.twimg.com/media/CVx8q5CVEAEqyWz.png" height=300>
+<img src="https://pbs.twimg.com/media/CVzcH_KWsAAOH_v.png" height=300>
 <img src="https://pbs.twimg.com/media/CVx8U1BUkAAILNB.jpg" height=300>
 
 ----

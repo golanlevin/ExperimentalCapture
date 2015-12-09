@@ -2,7 +2,7 @@
 
 Small movements can be translated to large actions. In earlier work, I have explored a longtime fascination with the ability for a conductor to command an entire symphony with hand gestures. The concertmaster traditionally wields considerable command. In this piece, the viewer can 'conduct' the lights on the [Pausch Bridge](http://www.cmu.edu/randyslecture/bridge.html) by gesturing in mid-air.
 
-<iframe src="https://player.vimeo.com/video/148365603" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <br /><a href="https://vimeo.com/148365603">on Vimeo</a>
+[![Screenshot from Vimeo](./media/project4/vimeo.png)](https://vimeo.com/143579528)
 
 ### Implementation
 

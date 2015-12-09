@@ -1,7 +1,7 @@
 # Vidya Vinnakota
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+Hi Im Vidya and Im a sophomore majoring in Fine Art with a concentration in Animation in Special Effects. In this class I hope to learn more about Latest technology and capture amazing things with it.
 
 --
 ### Contact
@@ -12,9 +12,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed l
 -- 
 ### Projects
 
-* [Object](project1.md): *Shoe*
-* [Person in Time](project2.md): *My Sister*
-* [Place](project3.md): *Interesting Stairwell*
+* [Object](project-1.md): *Pepper's Pig*
+* [Person in Time](project-2.md): *Smile*
+* [Place](project-3.md): *Drone Experimentation*
 
 --
 ### Looking Outwards reports: 

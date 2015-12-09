@@ -6,7 +6,7 @@
 
 <img src="https://pbs.twimg.com/media/CUl2pMOUwAEFI_z.png">
 
-a hidden landscape inside of an opaque box- the only way to see inside is through a television monitor. one is able to explore the landscape through the image broadcast via a controlled rover.
+a hidden landscape inside of an opaque box- the only way to see in is through a television monitor. one is able to explore the landscape through the image broadcast via a controlled rover.
 
 this is a project about navigating hidden spaces through a mediator, and the shifts in personhood and scale that come with that mediation. there is an attempt at maximizing tiny distances by removing a direct line of sight and replacing that sight with an invisible transmission.
 
@@ -55,6 +55,7 @@ footage from the installation as it stands:
 <img src="https://pbs.twimg.com/media/CVx8q5CVEAEqyWz.png" height=300>
 <img src="https://pbs.twimg.com/media/CVzcH_KWsAAOH_v.png" height=300>
 <img src="https://pbs.twimg.com/media/CVx8U1BUkAAILNB.jpg" height=300>
+<img src="https://pbs.twimg.com/media/CVzcG_mW4AAiIyN.png" height=300>
 
 ----
 

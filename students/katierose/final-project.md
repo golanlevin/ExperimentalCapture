@@ -14,15 +14,13 @@ this is a project about navigating hidden spaces through a mediator, and the shi
 
 *the start-*
 
-started with a rough version of the rover and work on paper.
+started with a rough version of the rover:
 
 <img src="https://pbs.twimg.com/media/CUHV0RIW4AAsXNu.jpg" width=200>
 
-rover v 1.0
+and work on paper:
 
 <img src="https://pbs.twimg.com/media/CVx8V1fUsAE9Krv.png" width=400>
-
-sketches
 
 ---
 
@@ -44,11 +42,11 @@ constructed out of geometric plaster forms, the landscape is intended to be both
 
 ----
 
-*the video-*
+*video-*
 
-(link)
+footage from the installation as it stands:
 
-footage from the installation as it stands
+<a href=""><img src="https://pbs.twimg.com/media/CVzPSQ5WUAEGo-c.png" height=300></a>
 
 ----
 
@@ -61,10 +59,12 @@ footage from the installation as it stands
 
 ----
 
-*for friday (the to-do list)-*
+*for friday (to-do list!)-*
 
 -distance effects (fog or dry ice?)
 
 -joint compound on all of the edges
 
 -highly specific lighting (point lights, or maybe a projector)
+
+-more rooms (currently 2/4 are completed)

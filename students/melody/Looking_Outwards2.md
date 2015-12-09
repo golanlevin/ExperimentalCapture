@@ -5,3 +5,5 @@ This installation piece by Marshmallow Laser Feast employs the powers of binaura
 What I found particularly fascinating about this piece was that it was intended to create as real a "natural" experience of being another animal as possible, a task that the artists managed to accomplish through advanced technology. Each helmet is an artificial piece, conveying re-generated and pre-recorded information to its user. There is nothing natural or real about the projected images, sounds, or even vibrations used by the M1 that convey the sense of movement by forest animals, yet the end result is as close to their optical perception as possible. What is most interesting to me is that technology bridges the gap between our natural perception, and those of the animals whose experience we try to mimic.
 
 (http://www.creativeapplications.net/maxmsp/in-the-eyes-of-the-animal-mlf-virtualise-a-forest-through-the-eyes-of-its-creatures/)
+
+![photo1](lo2.jpg)

@@ -9,3 +9,5 @@ Because this piece is most effective when witnessed in person, its documentation
 
 
 [Description from the website] (http://davidclaerbout.com/Oil-workers-from-the-Shell-company-of-Nigeria-returning-home-from)
+
+![photo1](lo1.png)

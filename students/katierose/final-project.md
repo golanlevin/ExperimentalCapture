@@ -46,7 +46,7 @@ constructed out of geometric plaster forms, the landscape is intended to be both
 
 footage from the installation as it stands:
 
-<a href="https://youtu.be/2QS3fsRgDzw"><img src="https://pbs.twimg.com/media/CVzPSQ5WUAEGo-c.png" height=300></a>
+<a href="https://www.youtube.com/watch?v=tsQ1P28sbbE"><img src="https://pbs.twimg.com/media/CVzPSQ5WUAEGo-c.png" height=300></a>
 
 ----
 

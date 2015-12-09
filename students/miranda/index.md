@@ -20,6 +20,7 @@ Remember: Birds are the best. Pigeons especially.
 * [Object](project1.md): *Frame Differencing - Bird Movement*
 * [Person in Time](project2.md): *To Reach Your Inner Magical Girl - A project by Miranda Jacoby and Nivetha Kannan*
 * [Place](project3.md): *Ultraviolet - Capturing the World with a UV Monochromatic Camera*
+* [Final Project](finalproject.md): *Dark 'N' Stormy - High Speed Video & High Frequency Audio Capture - A project by Smokey Dyar and Miranda Jacoby*
 
 --
 ### Looking Outwards reports: 

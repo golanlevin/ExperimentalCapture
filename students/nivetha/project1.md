@@ -8,6 +8,11 @@
 ###About
 Ever done something embarrassing? Been somewhere you regretted? Well, let me assure you, your fingerprints were all over the scene of the crime.
 
+
+<br><br>
+<a href="https://vimeo.com/140113281" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11667743/82b1c45c-9dc1-11e5-8dce-02a430c7b7a1.png" 
+alt="Video Documentation" width="600" height="400" border="10" /></a>
+<br><br>
 --
 
 ###Summary
@@ -37,8 +42,4 @@ which- was more exciting for us- due to our limited time. We originally wanted t
 quickly realized it would require much more work on algorithms and processing of the original thumb print. Had we succeeded 
 in implementing our original idea, the gameplay of the program would be much more compelling.
 
-<iframe src="https://player.vimeo.com/video/140113281" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/140113281">Thumb Prints Prints and More Prints</a> from <a href="https://vimeo.com/user16230218">Nivetha Kannan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<br/>
-<a href="https://vimeo.com/140113281" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/10032925/4a1a7070-6154-11e5-884b-14a67c537575.png" 
-alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" /></a>
 

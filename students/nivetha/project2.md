@@ -17,6 +17,17 @@ of female empowerment which it is NOT. However, the main idea is that it was rev
 to the mainstream in the US).
 [Sailor Moon empowers girls of the 90s] (http://www.autostraddle.com/how-sailor-moon-made-me-a-feminist-an-ode-to-magical-girl-shows-177393/)
  
+ 
+ 
+ <br>
+##Videos
+
+### Using the Program
+<a href="https://vimeo.com/143095826" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11667787/c92ae83c-9dc1-11e5-8e04-b9583e80bbd4.png" width="720" height="450" border="10" /></a>
+
+### Documentation of the project
+<a href="https://vimeo.com/143095692" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11667789/ca004248-9dc1-11e5-997a-b313e2e19134.png" width="720" height="450" border="10" /></a>
+<br>
 --
 
 ###Summary
@@ -46,13 +57,4 @@ have reference these cartoons using the magical girl genre rather than referenci
 girls. In the future, we hop to grow the list of transformations included in this project because, right now, the small number
 of transformations suggest a reason for choosing this small amount when there is not much reason at all for it.
 
-
--- 
-##Videos
-
-### Using the Program
-<a href="https://vimeo.com/143095826" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/10627566/27f6b148-7789-11e5-97d3-e69dcb9c1b95.png" width="720" height="450" border="10" /></a>
-
-### Documentation of the project
-<a href="https://vimeo.com/143095692" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/10627587/5f2958b4-7789-11e5-8842-6587ee8b2a4d.png" width="720" height="450" border="10" /></a>
 

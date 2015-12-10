@@ -71,3 +71,9 @@ The above scans are taken at an equal resolution horizontally and vertically. Th
 ![bam](assets/bam6.jpg)
 [![vimeo](assets/vimeo.jpg)](https://vimeo.com/147923525)
 
+--
+*Environmental 360 Timelapses*
+
+*In Progress...*
+
+![cafe](assets/cafe.jpg)

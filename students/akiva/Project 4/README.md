@@ -1,11 +1,19 @@
 # Panoramic Thermal Cinemagraph
 ### Project 4
 --
-![long exposure photo](assets/final_large_gif.gif)
+
+![long exposure photo](assets/shop.gif)
+
+[High quality video version](https://youtu.be/yByc4Bk9o6I)
+
 --
 ### Overview
 
-This project was comprised by a set of experiments sounding Thermal photography. These experiments culminated in a Panoramic Thermal Cinemagraph and a work flow for creating these images. I started by creating light paintings with a Thermal digital camera. This was a successful process, but I was unhappy with the lack of recognisable figures and detail. My next step was to create a set of still panoramas. These ranged from 45 to 360 degrees. Stitching images in to panoramas proved to be challenging due to the low resolution and contrast created by the thermal camera. By using a custom camera rig I was able to ensure that there was enough cross coverage between photos. By carefully adjusting for focus and heat range, and by placing high and low heat items throughout the scene I was able to create a set of images that could be stitched. The final stage of this project was to add a temporal element to the panorama. This was an important part of this project because thermal image are most powerful when they are showing the way that heat can be transferred. To accomplish the Cinemagraph effect where only a small portion of the scene is in a repeating motion I used video editing software to combine a still panorama with video footage from the same angle.
+This project was comprised by a set of experiments sounding Thermal photography. These experiments culminated in a Panoramic Thermal Cinemagraph and a work flow for creating these images. I started by creating light paintings with a Thermal digital camera. This was a successful process, but I was unhappy with the lack of recognisable figures and detail. My next step was to create a set of still panoramas. These ranged from 45 to 360 degrees. Stitching images in to panoramas proved to be challenging due to the low resolution and contrast created by the thermal camera. By using a custom camera rig I was able to ensure that there was enough cross coverage between photos. By carefully adjusting for focus and heat range, and by placing high and low heat items throughout the scene I was able to create a set of images that could be stitched. The final stage of this project was to add a temporal element to the panorama. This was an important part of this project because thermal image are most powerful when they are showing the way that heat can be transferred. To accomplish the Cinemagraph effect where only a small portion of the scene is in a repeating motion I used video editing software to combine a still panorama with video footage from the same angle. When choosing subjects for capture I looked for opportunities to highlight "thermal surprise". In other words, anything that shows up in a thermal image that people don't expect based on their experience with the visible light spectrum. For example thermal hand prints, heat reflections and shadows, and hidden objects such as warm coffee in a sealed container.
+
+I created two Panoramic Thermal Cinemagraphs. The first was of four students working and sleeping late at night in a warm classroom. The second capture was created in an in use wood shop.
+
+![long exposure photo](assets/final_large_gif.gif)
 
 --
 ### Hardware

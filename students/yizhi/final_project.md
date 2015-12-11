@@ -38,7 +38,10 @@ Using similar method, we can refocus on certain object and changing the perspect
 Below are two scenes I took from the Art Museum. They are found in the sculpture hall, miniatures of the first Thanksgiving in America.
 
 The processing pipeline is shown as below:
-![diagram 001](https://cloud.githubusercontent.com/assets/11666005/11696963/32756a9c-9e85-11e5-9741-e7e0b22f871a.jpeg)
+![untitled 001](https://cloud.githubusercontent.com/assets/11666005/11737406/025edab4-9fa7-11e5-9c24-5dc8fe83ee76.jpeg)
+Below shows two more results from above scene in the diagram, the first focusing and facing the tomato in front, the second focuses and faces the pear in the back:
+![img_0192-1-h](https://cloud.githubusercontent.com/assets/11666005/11737185/cb85f998-9fa4-11e5-9511-5d58b5607aa6.jpg)
+![img_0192-3-h](https://cloud.githubusercontent.com/assets/11666005/11737198/f8b95b1c-9fa4-11e5-9cf6-7f124386162e.jpg)
 
 #####A normal photo taken from the front is shown below:
 
@@ -57,7 +60,7 @@ The Lytro refocused photos and their corresponding perspective transformed photo
 1) Focusing on the child:
 ![img_child_h](https://cloud.githubusercontent.com/assets/11666005/11650367/860fc3d0-9d56-11e5-8d34-8c58e1adcf47.jpg)
 2) Focusing on the cow:
-![img_cow_h](https://cloud.githubusercontent.com/assets/11666005/11650368/8611ae5c-9d56-11e5-8042-23e15c96b8d0.jpg)
+![img_cow_h](https://cloud.githubusercontent.com/assets/11666005/11737242/61c708b6-9fa5-11e5-8a0b-c826e0853bdf.jpg)
 
 
 #### 2. 3D reconstruction using light field data

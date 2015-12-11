@@ -7,7 +7,7 @@ I am a media design student in the School of Drama at Carnegie Mellon University
 --
 ### Contact
 
-* Web Site: [http://akivadesign.com](http://akivadesign.com)
+* [Web Site : AKIVA DESIGN] (http://akivadesign.com)
 
 -- 
 ### Projects
@@ -15,7 +15,7 @@ I am a media design student in the School of Drama at Carnegie Mellon University
 * [Object](Project1/Project1.md)
 * [Person](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/smokey/projects/project2.md)
 * [Place](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/kevin/project3/project3.md)
-* [Final](Project4/README.md)
+* [Final](Project4)
 
 --
 ### Looking Outwards reports:

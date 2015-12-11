@@ -1,4 +1,4 @@
-#Seeing Me
+#Things around me
 ##A project by Nivetha Kannan
 
 --
@@ -6,7 +6,7 @@
 ![Title Picture](https://cloud.githubusercontent.com/assets/11213236/11676648/76a21338-9e02-11e5-9a1c-928ab431ed8b.png "Title Picture")<br /> 
 
 ### About
-“Seeing me” is a self portrait conveying my experiences in my independent home life. 
+“Things around me” is a project personifying objects around me and attempting to see the world from tehir eyes.
 
 --
 
@@ -16,7 +16,7 @@
 --
 
 ### Summary
-This uses multiple 360 videos shot from the viewpoint of objects around my house. Each object is one that I use often and, thus, are objects that 'know' me very well. This project puts viewers into the headspace of several objects in my apartment watching me in the setting and in the way they are used to - watching me progress in the mundane routines I am used to - brushing my teeth, organizing my space, changing clothes, etc. This project uses 360 videos to allow viewers to watch my mundane home experiences through the eyes and headspace of several different objects. The data presented in this project is second to the actual experience of the piece. As the subject of the piece I feel the largest point of interest for me is actually experiencing myself from the head of my objects ( I have to say, my objects must think I’m a grumpy, sad, lonely person) as well as an analysis of how I seem when I am in my home and performing mundane activities. Users Experience the peice through an ipad which they must move around to see the 360 video. this physicallity of the interaction and the unqueness of the experience allows viewers to really put themselves into the experience and relate to these objects in another level. Moreover, after watching the entire library of videos, users gain a new but still distant understanding of me personally.
+Starting "Things around me," I was interested in the experience of the world objects around me have. I was intereseted in their perception of the world from their stationary standpoint. I project used multiple 360 videos shot from the viewpoint of objects around my house to create this experience. Each object is one that I use often and, thus, objects that I should know well. Users Experience the peice through an ipad which they must move around to see the 360 video. They will first be presented with a library of videos from different viewpoints. After choosing a video, users will be allowed to view it on an ipad- moving around to interact with it. This physicallity of the interaction and the unqueness of the experience allows viewers to really put themselves into the experience and relate to these objects in another level. 
 
 --
 
@@ -28,6 +28,8 @@ This uses multiple 360 videos shot from the viewpoint of objects around my house
 <a href="https://www.youtube.com/watch?v=e9VJVj-yXRs"><img src="https://cloud.githubusercontent.com/assets/11213236/11676594/cfa21bfa-9e01-11e5-9be1-eaeceadca98b.png" width="400" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=REKvCg7V3UQ" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11676595/d0f6845a-9e01-11e5-912a-c92eb354dc0c.png" width="400" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=0hQrNkZTl0s" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11676596/d2761a7a-9e01-11e5-8305-2d21b40d8516.png" width="400" border="10" /></a>
+<a href="https://youtu.be/PB8Uu9YUPt8" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11746794/ace5ec52-9fed-11e5-950b-486a47096acd.png" width="400" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=0q9G0Ma1Cwc" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11746796/ae298c36-9fed-11e5-99c6-78e1348a0e59.png" width="400" border="10" /></a>
 
 --
 

@@ -1,23 +1,5 @@
 ## Remarks on Final Project Proposals
 
-### *AHEM...*
-
-*The following students did not submit final project proposals as requested. Boo. I asked for 100 words and a doodle; please.*
-
-* Charlotte
-* Claire
-* Dan 
-* Melody
-* Michelle
-* Smokey
-* Vidya
-* Yizhi (Liz)
-* Zach
-
----
-
-# Feedback
-
 Feedback is provided below for the students who submitted proposals: 
 
 * [Akiva](#akiva)

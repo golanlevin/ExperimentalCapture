@@ -4,9 +4,8 @@
 Prof. [Golan Levin](http://flong.com), Carnegie Mellon University, Fall 2015. <br />
 Course numbers: 16-461 (Robotics Institute), 60-461/761 (Art) <br />
 M/W 1:30-2:50pm, in the STUDIO (CFA-111) and HL-A10A.<br />
-Tel: Nine one seven, five two zero, seven four five six.<br />
 Email: golan at andrew dot cmu dot edu <br />
-Twitter: @[golan](https://twitter.com/golan) & @[golancourses](https://twitter.com/golancourses)<br />
+Twitter: @[golan](https://twitter.com/golan)<br />
 
 > <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and hyperspectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays. Please note that there are usage/materials fees associated with this course.</small>
 
@@ -88,6 +87,7 @@ And:
 * *[Landscape: Capturing Places](docs/places.md)*
 * *[Remarks on Project 3 (Place)](docs/assignment3-remarks.md)*
 * *[Remarks on Final Project Proposals](docs/final-project-proposal-remarks.md)*
+* *[Remarks from Project 4 Interim Critique](docs/assignment4-remarks.md)*
 
 --
 ### Helpful Information 
@@ -98,4 +98,4 @@ And:
 
 --- 
 
-*More: a [huge landfill](docs/unsorted.md) of as-yet unsorted links and resources.*
+*Remaining: a [large landfill](docs/unsorted.md) of as-yet unsorted links and resources.*

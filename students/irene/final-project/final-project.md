@@ -136,3 +136,10 @@ There's a lot more to learn and consider. This is probably the absolute minimum 
 # Code
 
 The code in this repository should compile fine in ofx 0.8.4 with the supplied examples. To render in ofx 0.9.0, you need to change the mesh code within the openframeworks library. There seems to be an error with the way the load() function in the new version loads color. Instructions for that to be uploaded soon. 
+
+---
+
+# Special Thanks
+
+Jen Liu
+Daniel Campos

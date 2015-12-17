@@ -145,8 +145,6 @@ All my code for recording and displaying URG lidar data can be found [here](http
 
 [Here's an SVG file](assets/Rotating Lidar Mount.svg) for making your own freely rotating lidar mount. Note: the lidar only needs to rotate 180˚ to take a full 360˚ capture, since it's pointed upwards and rotating about a vertical axis.
 
-![svgfile](assets/Rotating Lidar Mount.svg)
-
 You'll also need an Arduino to make the motor run. [Here's the code I used for an A4988 stepper motor driver.](assets/Stepper_Motor_and_LIDAR.ino)
 
 

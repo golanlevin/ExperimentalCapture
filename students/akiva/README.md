@@ -10,6 +10,11 @@ I am a media design student in the School of Drama at Carnegie Mellon University
 * [Web Site : AKIVA DESIGN] (http://akivadesign.com)
 
 -- 
+### Tutorial
+
+* [Documentation for the ofxUrg lidar add-on](https://github.com/danthemellowman/ofxUrg)
+
+-- 
 ### Projects
 
 * [Object](Project1)

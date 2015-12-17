@@ -10,6 +10,9 @@
 
 * Wacom Inkling Digital Sketch Pen (MDP123)
 	* Miranda's [Tutorial](../students/miranda/Inkling_Tutorial/inkling_tutorial.md) 
+* Leap Motion Controller
+	* Ryan's [Tutorial](../students/ryan/tutorial-leap.md)
+
 * Optitrack Motion Capture System
 	* Irene's [Tutorial](../students/irene/tutorial-optitrack/tutorial-optitrack.md)
 

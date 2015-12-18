@@ -13,3 +13,12 @@ I sought to bring out the essence of classical still lives through a digital re-
 
 ## How?
 The Computer has a simple program that regcognizes a marker placed on the seat. When the marker is covered, it means that a person is sitting with their legs closed on the seat. Otherwise the person has their legs slightly open. Using the information of whther or not the marker was showing, the program decided when to make the flower bloom and when to close it. Overall, the program worked pretty consistently to detect when legs were spread. In a sense, the unforgiving quality of the program also policed how the audience should be sitting. In the real world women are shamed for sitting too 'provocatively' or too 'masculine' if they sit with their legs spread. This program however rewarded the user for spreading their legs by letting Georgia O'keeffe's paintings bloom. The project celebrated sexuality and women in all their many forms. 
+
+##Edits:
+
+After showing this project to others. It was suggested that the documentation would look best as a movie-like gif. Here is the end result:
+
+![Please Click Here to See the Gif](https://drive.google.com/file/d/0B2fW9c31qW30Y1NXVjEtdVNyaVU/view?usp=sharing)
+Link to Drive: https://drive.google.com/file/d/0B2fW9c31qW30Y1NXVjEtdVNyaVU/view?usp=sharing
+
+Unfortunately, the Gif size is still too big. I will try lowering the size and putting up edits once more. 

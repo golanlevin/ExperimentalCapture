@@ -27,4 +27,4 @@ Figure 3: The visual interface for the application.  The application also featur
 
 ###Future Work
 
-Many of the pieces are already in place to allow an individual's recorded audio to be shared with other users through a centeral server.  Future explorations into this additional collaborative component will result in a tapestry of recordings and contextual understandings which will hopefully create many surprises for the user as they explore the world around them.
+Many of the pieces are already in place to allow an individual's recorded audio to be shared with other users through a central server. Future explorations into this additional collaborative component will result in a tapestry of recordings and contextual understandings which will hopefully create many surprises for the user as they explore the world around them.

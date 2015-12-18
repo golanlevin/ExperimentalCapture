@@ -11,10 +11,10 @@ Hey, I'm Smokey. That's a nickname. I'm in the Emerging Media program on a track
 --
 
 ## Projects
-- [Project 1 - Ephemral Object. High Speed Photogrammetry](../irene/Project%201/project1.md)
+- [Project 1 - Ephemral Object. High Speed Photogrammetry](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/irene/project-1/project1.md)
 - [Project 2 - Motion Capture Canon](projects/project2.md)
 - [Project 3 - Any Given Tuesday Night VR](projects/project3.md)
-- [Final Project](../miranda/finalproject.md)
+- [Final Project - Dark 'N Stormy](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/miranda/finalproject.md)
 
 --
 

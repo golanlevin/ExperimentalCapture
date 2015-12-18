@@ -1,14 +1,14 @@
-## Project #4: Concertmaster
+## Project #4: Concertmaster: Gestural Architectural Lighting Control Experiments
 
 Small movements can be translated to large actions. In earlier work, I have explored a longtime fascination with the ability for a conductor to command an entire symphony with hand gestures. The concertmaster traditionally wields considerable command. In this piece, the viewer can 'conduct' the lights on the [Pausch Bridge](http://www.cmu.edu/randyslecture/bridge.html) by gesturing in mid-air.
 
-[![Screenshot from Vimeo](./media/project4/vimeo.png)](https://vimeo.com/143579528)
+[![Screenshot from Vimeo](./media/project4/vimeo.png)](https://vimeo.com/149373821)
 
 ### Implementation
 
 The Randy Pausch Bridge has nearly 400 individually controllable 1' long RGB led strips arranged across the top and bottom of the side.
 
-Connected to the lighting server for the bridge is a machine ('bridge server') that executes a custom Python script. The script starts a UDP server and lights up the specified lights at the specified colors. The [Lumiverse lighting control framework](http://lumiverse.cs.cmu.edu/) is used to simplify communication with the lighting server.
+Connected to the lighting server for the bridge is a machine ('bridge server') that executes a custom Python script. The script (included below) starts a UDP server and lights up the specified lights at the specified colors. The [Lumiverse lighting control framework](http://lumiverse.cs.cmu.edu/) is used to simplify communication with the lighting server.
 
 ````
 import socket
@@ -91,7 +91,11 @@ UDP was chosen because packet loss and packet ordering were not terribly importa
 
 I hoped to create a piece that yielded a unique sense of power when used, and I accomplished that. The effect modes I chose are interesting, but I had hoped to create additional ones. For example, I look forward to creating one that used fluid simulation (perhaps where the user's hands can mix and disrupt flows emanating from either end of the bridge.)
 
+Streaming data over the network incurs a detectable amount of latency. Though surprisingly not terrible, it did occasionally prevent the bridge from feeling 'directly' connected to the user's inputs. Directly connecting to the ethernet LAN may have been helpful.
 
+### Source code + Executables
+
+[Available here!](https://github.com/rchuber/concertmaster)
 
 ### Acknowledgements
 Special thanks to Evan Shimizu for his advice, and for creating the [Lumiverse lighting control framework](http://lumiverse.cs.cmu.edu/), which was sponsored by the The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University

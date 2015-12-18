@@ -13,10 +13,10 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 -- 
 ### Projects
 
-* [Object: Maiden](project1.md)
-* [Conduction](project2.md)
-* [Any Given Tuesday Night](../smokey/projects/project3.md)
-* [Concertmaster](project4.md)
+* Object: [Maiden](project1.md)
+* Portrait: [Conduction](project2.md)
+* Landscape: [Any Given Tuesday Night](../smokey/projects/project3.md)
+* Final Project: [Concertmaster](project4.md)
 
 --
 ### Looking Outwards reports: 
@@ -27,3 +27,7 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 4. [*Rara Avis* (1996) by Eduardo Kac](looking-outwards-04.md)
 5. [*Heartbeat* (2010) by Geoffrey Hicks](looking-outwards-05.md)
 6. [*Frozen Relic: Arctic Works* (2013) by ScanLAB](looking-outwards-06.md)
+7. [*Strange Attractors* (2009) by KMA](looking-outwards-07.md)
+8. [*Epilog* (2013) by Schnellebuntebilder](looking-outwards-08.md)
+9. [*In the Eyes of the Animal* (2015) by Marshmallow Laser Feast](looking-outwards-09.md)
+10. [*Momentum* (2014) by Schnellebuntebilder](looking-outwards-10.md)

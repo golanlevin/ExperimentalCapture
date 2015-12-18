@@ -13,12 +13,15 @@ Why all the effort for one bird? The Ivory Billed woodpecker is believed to near
 What's especially interesting about the Ivory Bill is that, because it became scarce before color photography, the only pictures we have of it are black-and-white or hand-colored. 
 
 [![](images/ivorybill_bw.jpg)](https://en.wikipedia.org/wiki/Ivory-billed_woodpecker#/media/File:Ivory-bill_pair.jpg)
+
 [Black and White Photo Of Ivory Woodpeckers](https://en.wikipedia.org/wiki/Ivory-billed_woodpecker#/media/File:Ivory-bill_pair.jpg)
 
 [![](images/Ivory-billed_Woodpecker_by_Jerry_A._Payne.jpg)](https://en.wikipedia.org/wiki/File:Ivory-billed_Woodpecker_by_Jerry_A._Payne.jpg)
+
 [Hand-Colored Photo of Ivory Woodpecker](https://en.wikipedia.org/wiki/File:Ivory-billed_Woodpecker_by_Jerry_A._Payne.jpg)
 
 [![](images/ivorybill_taxidermy.jpg)](http://www.miamisci.org/blog/wp-content/uploads/2014/01/ivory-billed-woodpecker1.jpg)
+
 [Taxidermied Ivory Billed Woodpecker](http://www.miamisci.org/blog/wp-content/uploads/2014/01/ivory-billed-woodpecker1.jpg)
 
 The process for creating the digital Ivory Bill was very complex, involving a [CT scan of a taxidermied specimen](http://www.cgw.com/images/media/PublicationsArticle/0110/Birds003.jpg), extensive modeling in Maya, and a mix of motion capture, rotoscoping,  and key frame animation.

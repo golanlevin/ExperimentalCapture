@@ -24,7 +24,7 @@ As described by Karl Sims, "This video shows results from a research project inv
 
 ### Cubivore - Survival of the Fittest - Nintendo Gamecube, 2002
 
-[![](images/cubivore_boxart.PNG)](https://www.youtube.com/watch?v=MChGyF8LZ_4&t=1m0s)
+[![](images/cubivore_boxart.png)](https://www.youtube.com/watch?v=MChGyF8LZ_4&t=1m0s)
 
 [Video Link: Cubivore Opening Screen](https://www.youtube.com/watch?v=MChGyF8LZ_4&t=1m0s)
 

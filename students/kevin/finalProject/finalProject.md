@@ -3,7 +3,7 @@
 
 [Project Code Repository](https://github.com/kevinmkarol/geographic_story)
 
-For my final project I created an Android application which breaks the world into a grid using Lattitude and Longitude, and then allows the user to record spatially related audio clips as they navigate their environment.  Initially, the user is prompted to provide audio to fill each empty square they enter, however, once seed audio is in place, cells will randomly prompt the user for updated recordings (given the context of the seed audio they've been walking through), allowing the overal recording tapestry to evolve dynamically.
+For my final project I created an Android application which breaks the world into a grid using Latitude and Longitude, and then allows the user to record spatially related audio clips as they navigate their environment.  Initially, the user is prompted to provide audio to fill each empty square they enter, however, once seed audio is in place, cells will randomly prompt the user for updated recordings (given the context of the seed audio they've been walking through), allowing the overal recording tapestry to evolve dynamically.
 
 ![](images/contrived_map.png)
 

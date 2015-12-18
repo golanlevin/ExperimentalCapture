@@ -25,7 +25,7 @@ The boat platform uses pneumatic pressure to rock the boat itself, resulting in 
 
 ###BUCKiT, 2015
 
-[![](images/buckit.PNG)](https://www.youtube.com/watch?v=in4r6etm9Eg)
+[![](images/buckit.png)](https://www.youtube.com/watch?v=in4r6etm9Eg)
 [Video Link: BUCKiT](https://www.youtube.com/watch?v=in4r6etm9Eg)
 
 BUCKiT is a combo VR and tactile experience where the player flies around and collects valuable animals and minerals on an alien planet. For the physical setup, the player climbs into a control pod suspended by a complex PVC pipe structure with the help of a team member who explains the controls and and helps adjust the player's VR headset. Using the physical controls to navigate, the player pilots their ship and uses a tractor beam to collect objects and deposit them into a bucket held by a friendly robot companion.

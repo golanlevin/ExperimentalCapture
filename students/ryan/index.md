@@ -13,10 +13,10 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 -- 
 ### Projects
 
-* [Object: Maiden](project1.md)
-* [Conduction](project2.md)
-* [Any Given Tuesday Night](../smokey/projects/project3.md)
-* [Concertmaster](project4.md)
+* Object: [Maiden](project1.md)
+* Portrait: [Conduction](project2.md)
+* Landscape: [Any Given Tuesday Night](../smokey/projects/project3.md)
+* Final Project: [Concertmaster](project4.md)
 
 --
 ### Looking Outwards reports: 

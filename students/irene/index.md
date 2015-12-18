@@ -26,6 +26,7 @@ I'm a first year masters student in the Emerging Media program, Interactions in 
 2. [Jonty Hurwitz - Nanosculptures](looking-forward-reports/2.nanosculptures.md)
 3. [Gesture Recognition](looking-forward-reports/3.gesture-recognition.md)
 4. [Jonathan Harris - Network Effect](looking-forward-reports/4.network-effect.md)
+5. [Clement Valla - Google Earth](looking-forward-reports/5.clement-valla-on-earth.md)
 
 ### Tutorials
 

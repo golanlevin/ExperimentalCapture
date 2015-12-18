@@ -7,7 +7,6 @@ I'm a first year masters student in the Emerging Media program, Interactions in 
 --
 ### Contact
  
-* Web Site: [coming soon](coming soon)
 * Twitter: [@ire_alva](https://twitter.com/ire_alva)
 
 -- 
@@ -17,8 +16,8 @@ I'm a first year masters student in the Emerging Media program, Interactions in 
 * Project 2: 
 	* [Motion Capture with Optitack and Kinects](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/michelle/project2.md)
 	* [Mocap 2](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/charlotte/project2.md)
-* Project 3: [Iris Detection and Slit Scanning with 360 camera](project3.md)
-* Final project: 
+* Project 3: [Iris Detection and Slit Scanning with 360 camera](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/will/Project%203/project3.md)
+* Final project: [Drone photogrammetry](final-project/final-project.md)
 
 --
 ### Looking Outwards reports: 
@@ -33,4 +32,4 @@ I'm a first year masters student in the Emerging Media program, Interactions in 
 * [Ricoh 360 Camera Tutorial](tutorial-ricoh/tutorial-ricoh.md)
 * [V.360 Camera and live feed to ofx](tutorial-v360/tutorial-v360.md)
 * [Optitrack System](tutorial-optitrack/tutorial-optitrack.md)
-* Basic steps to fly a drone. Partly in my final report writeup. 
+* Basic steps to fly a drone. Partly in my final report writeup: [Final report](final-project/final-project.md)

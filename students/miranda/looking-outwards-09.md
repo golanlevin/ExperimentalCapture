@@ -2,9 +2,11 @@
 
 ###In Pieces, a CSS project by Bryan James, 2015
 
+[![](images/Species-in-Pieces-2.jpg)](https://vimeo.com/123602667)
+
 Project Links
 
-[Species in Pieces](http://species-in-pieces.com/#)  /  [Bryan James Design](http://www.bryanjamesdesign.co.uk/)
+[Species in Pieces](http://species-in-pieces.com/#)  /  [Video Link](https://vimeo.com/123602667)  /  [Bryan James Design](http://www.bryanjamesdesign.co.uk/)
 
 "In Pieces" is an interactive web-based project created by designer Bryan James that features 30 of the world's most engendered species, all made out of triangles that morph and re-configure into each different species. To quote James, "The collection is a celebration of genic diversity and an attempting reminder of the beauty we are on the verge of losing as every moment passes."  
 

@@ -2,6 +2,8 @@
 
 ###Audio Landscape by Dan Neame, 2015
 
+[![](images/audiolandscape.jpg)](http://dan.nea.me/audiolandscape/)
+
 Project Links
 
 [Audio Landscape](http://dan.nea.me/audiolandscape/)

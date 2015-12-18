@@ -1,8 +1,8 @@
 #Looking Outwards 04: NOSY Facetype
 
 ###NOSY, 2014
-
-[Website Link: Facetype by Rory Harnden](http://rrry.me/nosy/) (< Look at this first before reading on!)
+[![](images/nosy0.jpg)](http://rrry.me/nosy/)
+[Website Link: Facetype by Rory Harnden](http://rrry.me/nosy/)
 
 NOSY is a "facetype" (a play on "typeface") created by designer Rory Harnden. 
 

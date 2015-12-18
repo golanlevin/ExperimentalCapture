@@ -2,6 +2,8 @@
 
 ###Interactive Projection at The American Museum of Natural History, 2013-2014
 
+[![](images/poisonbook_small.gif)](https://www.youtube.com/watch?v=Iu7u2nN2ypY)
+
 Project Links
 
 [Online Interactive Version](http://www.amnh.org/the-power-of-poison)

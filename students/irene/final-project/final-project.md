@@ -120,7 +120,7 @@ On site:
 3. If the drone comes with a camera, flip the camera switch to "on", all the way to the right. 
 4. Go to your phone's wifi settings and connect to the drone's camera wifi. 
 5. Throughout all of this, your drone was setting up and locking satellite signals (you'll notice lights changing). Make sure you wait until the lights flash green before continuing. 
-6. Now we have to callibrate the drone. Follow these instructions to callibrate it correctly or lookup a vidoe on YouTube: <https://blog.amain.com/how-to-calibrate-dji-phantom/> This is a summary callibration table straight from the DJI Phantom manual: 
+6. Now we have to callibrate the drone. Follow these instructions to callibrate it correctly or lookup a video on YouTube: <https://blog.amain.com/how-to-calibrate-dji-phantom/> This is a summary callibration table straight from the DJI Phantom manual: 
 <img src="images/callibration.png" width="500px" />
 7. Turn on the DJI Phantom app and verify that GPS is on. 
 8. Go to the camera view on the app and you should be able to see a live stream from the camera.
@@ -144,4 +144,5 @@ You'll have to unzip the ply files because they were too large to upload to gith
 # Special Thanks
 
 Jen Liu
+
 Daniel Campos

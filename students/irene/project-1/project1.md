@@ -12,7 +12,7 @@ Smokey is particularly interested in using this tool as a compositing aide to cr
 ![Slime capture #1, slightly edited in Photoshop](images/pinkSplash.jpg)
 ![Slime capture #2](images/blueSplash.jpg)
 
-[Project Video](https://vimeo.com/140151342)
+[![Project Video](images/video.png)](https://vimeo.com/140151342 "High Speed Photogrammetry")
 
 ---
 
@@ -67,6 +67,8 @@ We enjoyed the process of setting up and using such a large capture rig - Smokey
 ---
 
 # The Final Product
+![Hand obj](images/handobj.gif)
+
 ![3D model of a Shoe floating in air](images/shoe.gif)
 
 ---

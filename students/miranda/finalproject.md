@@ -3,6 +3,9 @@
 
  Our aim is to use high-speed video capture to tell a story by breaking the narrative down into brief key moments (drawing from montage editing techniques), as well as exploring how sound can be stretched, distorted, combined, and remapped to match high-speed footage.
 
+
+[![](images/dns_video_thumbnail.PNG)](https://vimeo.com/148309310)
+
 <iframe src="https://player.vimeo.com/video/148309310" width="500" height="403" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148309310">Dark &#039;N Stormy</a> from <a href="https://vimeo.com/user46638023">Smokey</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Utilizing an Edgertronic high-speed camera and a Zoom H6 audio recorder, we used a series of quick captures to document the mixing of a Dark 'N Stormy at 600 frames per second. We chose drink-mixing as a subject because the sloshing liquid creates an abundance of interesting visual and audio moments. The video also alludes to ultra-high quality television advertisements for drinks, which allows the turn (a spit take) to have more of a visually comedic punch.

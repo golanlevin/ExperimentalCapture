@@ -1,7 +1,8 @@
 # Looking Outwards 01: Olars, Kinetic Toy & Evolution Simulation
-### Looking Outwards #01
 
 ### Lars Marcus Vedeler & Ola Vagsholm - Olars, Kinetic Toy, 2010
+
+[![](images/kinetic_toy.jpg)](https://www.youtube.com/watch?v=2MA0RdjwRQ0)
 
 [Video Link: Lars Marcus Vedeler & Ola Vagsholm - Olars, Kinetic Toy](https://www.youtube.com/watch?v=2MA0RdjwRQ0)
 
@@ -13,6 +14,8 @@ I like the idea of a mix-and-match critter whose movements are defined by its pa
 
 ### Karl Sims - Evolved Virtual Creatures, Evolution Simulation, 1994
 
+[![](images/Karl-_Sims-Evolved_Virtual_Creatures.jpg)](https://www.youtube.com/watch?v=JBgG_VSP7f8)
+
 [Video Link: Karl Sims - Evolved Virtual Creatures, Evolution Simulation](https://www.youtube.com/watch?v=JBgG_VSP7f8)
 
 [Siggraph Paper: Evolving Virtual Creatures by Karl Sims](http://www.karlsims.com/papers/siggraph94.pdf)
@@ -20,6 +23,8 @@ I like the idea of a mix-and-match critter whose movements are defined by its pa
 As described by Karl Sims, "This video shows results from a research project involving simulated Darwinian evolutions of virtual block creatures. A population of several hundred creatures is created within a supercomputer, and each creature is tested for their ability to perform a given task, such the ability to swim in a simulated water environment. Those that are most successful survive, and their virtual genes containing coded instructions for their growth, are copied, combined, and mutated to make offspring for a new population. The new creatures are again tested, and some may be improvements on their parents. As this cycle of variation and selection continues, creatures with more and more successful behaviors can emerge." [(Source)](http://www.karlsims.com/evolved-virtual-creatures.html)
 
 ### Cubivore - Survival of the Fittest - Nintendo Gamecube, 2002
+
+[![](images/cubivore_boxart.png)](https://www.youtube.com/watch?v=MChGyF8LZ_4&t=1m0s)
 
 [Video Link: Cubivore Opening Screen](https://www.youtube.com/watch?v=MChGyF8LZ_4&t=1m0s)
 

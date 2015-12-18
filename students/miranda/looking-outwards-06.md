@@ -2,6 +2,8 @@
 
 ###Live Texturing of Augmented Reality Characters from Colored Drawings, Disney Research Zurich, 2015
 
+[![](images/Live-Texturing-of-Augmented-Reality-Characters-from-Colored-Drawings.png)](https://www.youtube.com/watch?v=SWzurBQ81CM)
+
 Project Links
 
 [Video Link](https://www.youtube.com/watch?v=SWzurBQ81CM)

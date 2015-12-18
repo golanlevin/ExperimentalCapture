@@ -1,6 +1,8 @@
 #Looking Outwards 05: Animals in Moiré
 
-###Animals in Moiré | 3 - Two Lies, by Andrea Minini, 2015
+###Animals in Moiré | 3 - Two Lines, by Andrea Minini, 2015
+
+[![](images/moire_crows.gif)](https://www.behance.net/gallery/28268739/Animals-in-Moir-3-two-lines)
 
 Project Links
 

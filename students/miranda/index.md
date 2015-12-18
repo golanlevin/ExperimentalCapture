@@ -34,4 +34,4 @@ Remember: Birds are the best. Pigeons especially.
 1. [The Power of Poison - An Interactive Book](looking-outwards-07.md)
 1. [Audio Landscape](looking-outwards-08.md)
 1. [In Pieces - 30 Endangered Species](looking-outwards-09.md)
-1. [jam](looking-outwards-10.md)
+1. [Building Virtual Worlds festival at the Entertainment Technology Center](looking-outwards-10.md)

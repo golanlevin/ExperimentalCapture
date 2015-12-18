@@ -2,6 +2,8 @@
 
 ###STARFLAG, 2005-2008
 
+[![](images/starlings_starflag.jpg)](http://www.sapienza.isc.cnr.it/Biological%20Systems/Flocking/STARFLAG:%20a%20project%20on%20collective%20animal%20behaviour.htm)
+
 [Website Link: STARFLAG - a project on collective animal behaviour](http://www.sapienza.isc.cnr.it/Biological%20Systems/Flocking/STARFLAG:%20a%20project%20on%20collective%20animal%20behaviour.html)
 
 The starling is a small iridescent bird of European origin that is known for flocking in large groups, called "murmurations." The structure of this gathering of birds was a long-time mystery of animal behavior, one that STARFLAG aimed to solve by bringing together scientists from a wide variety of disciplines. 

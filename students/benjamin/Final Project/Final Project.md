@@ -4,19 +4,20 @@
 
 *Experimental Capture Final Project, continuation of [Project 3](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/benjamin/Project%203/Project%203.md)*
 
---
+[![top_image](assets/top_image.jpg)](#spherical_farm)
+
 ###Index
 - [Overview](#overview)
-- [Horizontal Static Scanning: Building Entrance](#doherty_entrance)
-- [Dynamic Orientation Tracking, cont'd](#dynamic_orientation_2)
 - [Static Spherical Capture: Nature, Bamboo Forest](#spherical_farm)
 - [Experiments in Synthesis: Bamboo Forest](#spherical_synthesis)
 - [Static Spherical Capture: Bridge](#spherical_bridge)
+- [Horizontal Static Scanning: Building Entrance](#doherty_entrance)
+- [Dynamic Orientation Tracking, cont'd](#dynamic_orientation_2)
 - [Tech Specs](#tech)
 - [Code](#code)
 - [Lidar Mounts: Laser Cutter Files](#mount)
 
-*You can find the images below in high resolution [here](https://www.flickr.com/gp/138824118@N08/G09R5Z).*
+*See these images in high resolution [here](https://www.flickr.com/gp/138824118@N08/G09R5Z).*
 
 --
 
@@ -26,6 +27,60 @@ LIDAR is a light-based rangefinding technology, similar to sonar or radar. The m
 Here, I've continued to have a conversation with this piece of technology, taking it out of the context in which it typically belongs to reveal the unseen and the unexpected.
 
 Since the device only captures the world in two dimensions, capturing a space requires the scans to be extruded through time—a technique known as slitscanning. The way in which captures are extruded, often tied to how a subject is scanned, unearths temporal artifacts that reveal peculiar and surprising interpetations of the world in which we live.
+
+--
+
+###<a name="spherical_farm">Static Spherical Capture: Nature, Bamboo Forest</a>
+
+With a lidar so powerful yet so nimble, the question must be asked: Can you capture a full 360˚ field of view?
+
+I first set out to design a rig that could rotate the lidar with the laser in line with a vertical axis around which the lidar "fan", when pointed upward, could rotate about. The gear reductions allow the horizontal resolution to be the same or higher than the vertical resolution, producing a homogenously dense point cloud along the latitude and slightly denser points toward the poles. The rotation is controlled with a NEMA 17 stepper motor and an Arduino with Pololu A4988 motor driver.
+
+![lidar_rig](assets/lidar_rig.gif)
+
+To put the rig to use, I captured a series of still outdoor scenes in bamboo forests, creek beds, and fields of grass on a small farm in northern Virginia.
+
+![panorama](assets/panorama.jpg)
+![panorama](assets/forest.jpg)
+![panorama](assets/creek.jpg)
+![bench](assets/bench.jpg)
+
+The results are quite spectacular. An interesting artifact of the outside captures are the "domes" of points, which represent the lidar's interpretation of sunlight. This is analogous to lens glare, but in three dimensions.
+
+![room](assets/room.jpg)
+![cap](assets/deck.jpg)
+![cap](assets/tree.jpg)
+![cap](assets/bench-1.jpg)
+![cap](assets/tree_2.jpg)
+![cap](assets/creek_cap.jpg)
+
+The above scans are taken at an equal resolution horizontally and vertically. This takes 51.2 seconds and produces a point cloud of about 350k points. The highest resolution I scanned at is at 8 times this, resulting in a point cloud of over 3 million points. The below image reflects this, taken in a dense bamboo forest. Everything within 18 feet in view of the lidar is pictured here.
+
+[![vimeo](assets/vimeo.jpg)](https://vimeo.com/147923525)
+
+![bam](assets/bam4.jpg)
+![bam](assets/bam1.jpg)
+![bam](assets/bam6.jpg)
+
+
+[See high resolution images here.](https://www.flickr.com/gp/138824118@N08/G09R5Z)
+
+--
+###<a name="spherical_synthesis">Experiments in Synthesis: Bamboo Forest</a>
+
+Using the high resolution point cloud of the bamboo forest, I sought to animate the three million particles to imbue the scene with a sense of liveliness.
+
+[![shaders](assets/shaders_1.jpg)](https://vimeo.com/148699844)
+
+--
+
+###<a name="spherical_bridge">Static Spherical Capture: Bridge</a>
+
+A 360 capture underneath the Schenley Park bridge. Terrifying.
+
+![bridge](assets/bridge.jpg)
+
+![bridge](assets/bridgeGIF.gif)
 
 --
 
@@ -59,67 +114,6 @@ Most importantly, the process of capture revealed the difficulty of succssfully 
 
 --
 
-###<a name="spherical_farm">Static Spherical Capture: Nature, Bamboo Forest</a>
-
-With a lidar so powerful yet so nimble, the question must be asked: Can you capture a full 360˚ field of view?
-
-I first set out to design a rig that could rotate the lidar with the laser in line with a vertical axis around which the lidar "fan", when pointed upward, could rotate about. The gear reductions allow the horizontal resolution to be the same or higher than the vertical resolution, producing a homogenously dense point cloud along the latitude and slightly denser points toward the poles. The rotation is controlled with a NEMA 17 stepper motor and an Arduino with Pololu A4988 motor driver.
-
-![lidar_rig](assets/lidar_rig.gif)
-
-To put the rig to use, I captured a series of still outdoor scenes in bamboo forests, creek beds, and fields of grass on a small farm in northern Virginia.
-
-![panorama](assets/panorama.jpg)
-
-![panorama](assets/forest.jpg)
-
-![panorama](assets/creek.jpg)
-
-![bench](assets/bench.jpg)
-
-The results are quite spectacular. An interesting artifact of the outside captures are the "domes" of points, which represent the lidar's interpretation of sunlight. This is analogous to lens glare, but in three dimensions.
-
-![room](assets/room.jpg)
-
-![cap](assets/deck.jpg)
-
-![cap](assets/tree.jpg)
-
-![cap](assets/bench-1.jpg)
-
-![cap](assets/tree_2.jpg)
-
-![cap](assets/creek_cap.jpg)
-
-The above scans are taken at an equal resolution horizontally and vertically. This takes 51.2 seconds and produces a point cloud of about 350k points. The highest resolution I scanned at is at 8 times this, resulting in a point cloud of over 3 million points. The below image reflects this, taken in a dense bamboo forest. Everything within 18 feet in view of the lidar is pictured here.
-
-![bam](assets/bam1.jpg)
-![bam](assets/bam3.jpg)
-![bam](assets/bam4.jpg)
-![bam](assets/bam6.jpg)
-[![vimeo](assets/vimeo.jpg)](https://vimeo.com/147923525)
-
-[See high resolution images here.](https://www.flickr.com/gp/138824118@N08/G09R5Z)
-
---
-###<a name="spherical_synthesis">Experiments in Synthesis: Bamboo Forest</a>
-
-Using the high resolution point cloud of the bamboo forest, I sought to animate the three million particles to imbue the scene with a sense of liveliness.
-
-[![shaders](assets/shaders_1.jpg)](https://vimeo.com/148699844)
-
---
-
-###<a name="spherical_bridge">Static Spherical Capture: Bridge</a>
-
-A 360 capture underneath the Schenley Park bridge. Terrifying.
-
-![bridge](assets/bridge.jpg)
-
-![bridge](assets/bridgeGIF.gif)
-
---
-
 ### <a name="tech">Tech Specs</a>
 
 **LIDAR: [Hokuyo URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx_ug01.html)**
@@ -144,8 +138,6 @@ All my code for recording and displaying URG lidar data can be found [here](http
 ###<a name="mount">Lidar Mounts: Laser Cutter Files</a>
 
 [Here's an SVG file](assets/Rotating Lidar Mount.svg) for making your own freely rotating lidar mount. Note: the lidar only needs to rotate 180˚ to take a full 360˚ capture, since it's pointed upwards and rotating about a vertical axis.
-
-![svgfile](assets/Rotating Lidar Mount.svg)
 
 You'll also need an Arduino to make the motor run. [Here's the code I used for an A4988 stepper motor driver.](assets/Stepper_Motor_and_LIDAR.ino)
 

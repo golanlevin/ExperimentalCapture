@@ -49,6 +49,8 @@ GL put these back, 9/12/2015 (they're for mocap & bodies):
 
 </del>
 
+[Camera on fishing trawler moving through blood](https://vimeo.com/45252172), by the Harvard Sensory Ethnography Lab
+
 
 Portrait from motion capture: Merce Cunningham & Open-Ended Group
 

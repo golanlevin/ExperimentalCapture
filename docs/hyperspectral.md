@@ -91,6 +91,7 @@ It is also possible to design or arrange objects for the express purpose of havi
 
 * A cult classic, this 1995 hybrid art/porn movie was shot completely with a thermal camera. [Jacob Pander and Marne Lucas, *THE OPERATION*](https://vimeo.com/24149525) (NSFW)
 * [Route 94: *My Love*](https://vimeo.com/84702235) is a much more recent music video with much the same idea. 
+* [*Community* (2007) by Terike Haapoja](http://www.av-arkki.fi/en/works/community_en/) presents thermal videos of animals which have just died. We see the heat leaving their bodies. 
 * [This Photographer Shoots Portraits With a Thermal Camera](http://www.smithsonianmag.com/science-nature/this-photographer-shoots-portraits-with-a-thermal-camera-1437109/)
   * [Linda Alterwitz 1](http://www.lindaalterwitz.com/thermal_portrait.html)
   * [Linda Alterwitz 2](http://www.lindaalterwitz.com/thermal_core.html)

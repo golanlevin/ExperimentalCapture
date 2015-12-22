@@ -1,6 +1,6 @@
 #Looking Outwards 5
 
-## Hole Filling Strategy for Kinect Depth Maps
+## 3D Object Detection with Multiple Kinects
 
 [Link to article](https://www.mpi-inf.mpg.de/fileadmin/inf/d2/Research_projects_files/wandi12eccv.pdf)
 

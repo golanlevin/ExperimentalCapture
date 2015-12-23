@@ -35,7 +35,7 @@ At the conclusion of this course, students will be able to
    1. [A Person in Time](docs/assignment2-person.md), due 10/21
    1. A Place, due 11/18
    1. Final Project, due 12/9
-* [**Student Area**](students/index.md)
+* [**Student Area**](students/README.md)
 * [**Tutorials**](docs/tutorials.md)
 * [**Calendar**](docs/calendar.md)
 * [**Readings**](docs/readings.md)

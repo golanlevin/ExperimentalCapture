@@ -40,7 +40,9 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 
 * [An excellent paper on multispectral face recognition](http://www.intechopen.com/books/reviews-refinements-and-new-ideas-in-face-recognition/thermal-infrared-face-recognition-a-biometric-identification-technique-for-robust-security-system)
 * [Differences between UV, Vis, NIR (Wikipedia)](https://en.wikipedia.org/wiki/Full-spectrum_photography#/media/File:UV_Vis_IR_Portrait.jpg)
-* [More](https://www.flickr.com/photos/rshephorse/4279928945)
+* More [faces viewed in multiple spectra](https://www.flickr.com/photos/rshephorse/4279928945)
+
+![Hyperspectral face by RShephorse](images/hyperspectral-face-rshephorse.jpg)
 
 --- 
 

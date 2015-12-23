@@ -20,7 +20,7 @@ This is an interdisciplinary course in experimental media practices that arise f
 * *To explore the use of computation in expanding our expressive vocabulary for representations of people, objects, environments, and events.*
 * *[To question the practical and epistemological assumptions](docs/assumptions.md) that underpin the project of capturing representations of reality with devices.*
 
-At the conclusion of this course, students will be able to 
+**At the conclusion of this course, students will be able to:** 
 
 * Recognize and identify the use of expanded capture techniques (such as photogrammetry, motion capture, hyperspectral imaging, binaural audio, stroboscopy, etc.) in popular and experimental media. 
 * Demonstrate understanding of the scientific principles and/or engineering foundations underlying such techniques, in revealing phenomena beyond the limits of ordinary human perception.
@@ -39,18 +39,8 @@ At the conclusion of this course, students will be able to
 * [**Tutorials**](docs/tutorials.md)
 * [**Calendar**](docs/calendar.md)
 * [**Readings**](docs/readings.md)
-* [**Piazza Forum**](http://piazza.com/cmu/fall2015/1646160461761/home)
+* [**Course Policies**](docs/policies.md)
 * ***[Daily Lecture notes](docs/lecture-notes.md)***
-
-Other documents: 
-
-* [Course Policies](docs/policies.md)
-* [Course Lab Fee](docs/course-fee.md)
-* [Submitting Work](docs/submitting-work.md)
-* [Course Code base](code/index.md)
-* [Room Reservation](docs/equipment.md)
-* [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md)
-
 
 --
 ### Lectures
@@ -95,6 +85,14 @@ And:
 * [Some software tools used in this course](docs/tools.md)
 * [Some equipment used in this course](docs/equipment.md)
 * [How to use Git and Github](docs/git.md)
+
+### Other Documents and Resources
+
+* [Submitting Work](docs/submitting-work.md)
+* [Course Code base](code/index.md)
+* [IDeATe Course Lab Fee](docs/course-fee.md)
+* [IDeATe Room Reservation](docs/equipment.md)
+* [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md)
 
 --- 
 

@@ -87,22 +87,30 @@ It is also possible to design or arrange objects for the express purpose of havi
 
 ### Thermal Imaging 
 
+![Thermal image](images/thermal-img.jpg)
+
 *Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. Interestingly, most of what we see when we observe radiation in this range is *emissive* rather than *reflective*. In short, we see where something is hot. 
 
-* A cult classic, this 1995 hybrid art/porn movie was shot completely with a thermal camera. [Jacob Pander and Marne Lucas, *THE OPERATION*](https://vimeo.com/24149525) (NSFW)
+* A cult classic, [*THE OPERATION*](https://vimeo.com/24149525) by Jacob Pander and Marne Lucas (1995) is a hybrid art/porn movie, shot completely with a thermal camera. (NSFW)
 * [Route 94: *My Love*](https://vimeo.com/84702235) is a much more recent music video with much the same idea. 
-* [*Community* (2007) by Terike Haapoja](http://www.av-arkki.fi/en/works/community_en/) presents thermal videos of animals which have just died. We see the heat leaving their bodies. 
+
+![City Thermogram by Peggy Ahwesh](images/terike-haapoja-thermal.jpg)
+
+* Terike Haapoja's [*Community* (2007)](http://www.av-arkki.fi/en/works/community_en/) presents thermal videos of animals which have just died. We see the heat leaving their bodies. 
 * [This Photographer Shoots Portraits With a Thermal Camera](http://www.smithsonianmag.com/science-nature/this-photographer-shoots-portraits-with-a-thermal-camera-1437109/)
   * [Linda Alterwitz 1](http://www.lindaalterwitz.com/thermal_portrait.html)
   * [Linda Alterwitz 2](http://www.lindaalterwitz.com/thermal_core.html)
 
 Note that there is no "correct" way to view thermal imagery. Cameras offer a variety of different spectra for mapping their temperature ranges, including grayscale, black-body, chromatic (blue = cold), etc. 
 
+![City Thermogram by Peggy Ahwesh](images/ahwesh-city-thermogram.jpg)
+
 Sometimes simply presenting such alternative views can be a provocative, entertaining or educational experience for audiences. 
 
 * Many science museums, such as the Exploratorium, have a "[Heat Camera](http://exs.exploratorium.edu/exhibits/heat-camera/)" display in which the public can see themselves in a thermal camera. 
 * *[City Thermogram](http://thecreatorsproject.vice.com/blog/times-square-is-a-heat-sensitive-camera-thanks-to-peggy-ahwesh)*, by Peggy Ahwesh (2015), was commissioned to create a live-video installation in New York's Time Square, in which she connected up a thermal camera (trained on passersby) to a large electronic billboard.
 * Google has recently made [satellite thermal imaging of roofs](http://mashable.com/2015/08/20/google-house-solar/?utm_cid=mash-com-fb-main-link) available to the public, to prompt people's awareness about the  heat inefficiency of their homes. 
+
 
 ---
 

@@ -1,10 +1,16 @@
-*additional aquarium rover documentation*
+**additional aquarium rover documentation**
 
-video:
+--
+
+*video:*
+
+
 <a href="https://youtu.be/QvTAp0UEjik"><img src="https://pbs.twimg.com/media/CVzPSQ5WUAEGo-c.png" height=300></a>
 
 
-stills:
+--
+
+*stills:*
 
 <img src="https://pbs.twimg.com/media/CW9OKs6UwAEkchD.jpg">
 <img src="https://pbs.twimg.com/media/CW9PHi0UAAIWFug.png">

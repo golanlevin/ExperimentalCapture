@@ -1,8 +1,10 @@
 #Project I: A nostalgic item
 
 
-My project is inspired by my friend's memories of seeing the unwanted Almond Joys at the bottom of the candy jar after Halloween.
+My project is inspired by my friend's memories of seeing the unwanted *Almond Joy* candy bars at the bottom of the candy jar after Halloween.
+
 I chose this particularly moment to capture because I associate the candy bars as treats that children don't seem to particularly like, but are quite popular among adults.
+
 For me, this seems to represent a quintessential part of childhood: picking through the candy after a night of dressing up for Trick-or-Treating. The final model was rendered in Maya, but 
 the original candy bar itself was a compiled photoscan model of an actual candy bar, rendered through the Agisoft PhotoScan program with 160 photos shot on a Nikon D90.
 The pumpkin model is not mine, but a free open-source model found on TurboSquid.
@@ -13,8 +15,11 @@ I failed to capture enough photos of the bottom, where it touched the surface, a
 to the intentionally battered condition of the candy bar, it detracts from the realism of the piece, especially given the polished look of the pumpkin. Additionally,
 further work on lighting and composition may have benefitted the presentation of the piece.
 
-UPDATE: project has since been updated to a new version:
-https://www.youtube.com/watch?v=egy0CWFQRHk
+*UPDATE: project has since been updated to a new version:* [https://youtu.be/egy0CWFQRHk](https://youtu.be/egy0CWFQRHk)
+
+--
 
 #Images
-(https://www.flickr.com/photos/113676647@N06/albums/72157658985829085)
+
+![temp](projecti.jpg)
+![temp](proj1ii.jpg)

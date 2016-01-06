@@ -1,4 +1,4 @@
-Postgram
+#Postgram
 
 “Postgram” is an interactive project created by Sebastian Vargas, who claims it is a “bot for human story-telling” and a narrative of public data usage, privacy, and image use. The software uses instagram by geolocating the location of every photo that is tagged to @post.gram, finding an individual residing near the location associated with the photo through a public directory, and then contacting said individual by sending him/her a “postcard” of the photo uploaded and a request to meet with Sebastian to discuss the project. 
 

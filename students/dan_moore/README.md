@@ -9,12 +9,6 @@ Dan Moore is a Brooklyn-based media artist.  His experience building interactive
 * Web Site: [MakeItDoAThing](http://makeitdoathing.com/)
 * Twitter: [@theDANtheMAN](https://twitter.com/thedantheman)
 
--- 
-### Projects
-
-* Project: TBD
-
-
 --
 ### Looking Outwards reports: 
 

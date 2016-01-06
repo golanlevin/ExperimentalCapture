@@ -2,12 +2,13 @@
 
 ### About Me
 
-I'm a first year masters student in the Emerging Media program, Interactions in Media track. My background is in CS, history, and Latin American political nepotism. I've recently worked on a few amateur documentary projects and am excited to draw some connections between that genre and experimental capture.  
+I'm a first-year masters student in the Emerging Media program, Interactions in Media track. My background is in CS, history, and Latin American political nepotism. I've recently worked on a few amateur documentary projects and am excited to draw some connections between that genre and experimental capture.
 
 --
 ### Contact
- 
+
 * Twitter: [@ire_alva](https://twitter.com/ire_alva)
+* Github: [https://github.com/irealva](irealva)
 
 -- 
 ### Projects
@@ -20,6 +21,7 @@ I'm a first year masters student in the Emerging Media program, Interactions in 
 * Final project: [Drone photogrammetry](final-project/final-project.md)
 
 --
+
 ### Looking Outwards reports: 
 
 1. [Bjork - Stonemilker VR](looking-forward-reports/1.bjork-stonemilker.md)
@@ -27,6 +29,8 @@ I'm a first year masters student in the Emerging Media program, Interactions in 
 3. [Gesture Recognition](looking-forward-reports/3.gesture-recognition.md)
 4. [Jonathan Harris - Network Effect](looking-forward-reports/4.network-effect.md)
 5. [Clement Valla - Google Earth](looking-forward-reports/5.clement-valla-on-earth.md)
+
+--
 
 ### Tutorials
 

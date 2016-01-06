@@ -2,7 +2,7 @@
 
 ### About Me
 
-Currently studying fine arts and computer science. Based in ny, long island/ work in NYC when im not at CMU. 
+Currently studying fine arts and computer science. Based in ny, long island/ work in NYC when i'm not at CMU. 
 
 --
 ### Contact

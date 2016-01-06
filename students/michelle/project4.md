@@ -2,10 +2,9 @@
 #### [Michelle Ma](../michelle/index.md)
 -
 
-[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/final/timeline.gif)](https://vimeo.com/148398718 "Projection Drawing")
-<br>
-<br>
-<img src="https://github.com/michell3/Photos/blob/master/final/composite.png" width="800">
+[![Final Project](final/timeline.gif)](https://vimeo.com/148398718 "Projection Drawing")
+
+![Composite](final/composite.png)
 
 -
 
@@ -19,8 +18,7 @@ My process was to capture a person using my DSLR camera, feed it into photogramm
 
 The end result ended up being really interesting. I liked seeing my lines preserved on a 3D model. I was mostly disappointed in how musch detail was lost in the face because my interest in portraiture really comes from capturing a person's essence. I plan on keeping the investigation open to apply animated stylizations or other rendering effects. I also want to look into getting more cameras to remedy the issue with mismatched camera angles.
 
-<br>
-<img src="https://github.com/michell3/Photos/blob/master/final/screenshot.png" width="800">
+![Screenshot](final/screenshot.png)
 
 -
 
@@ -69,5 +67,4 @@ The technical challenges mostly originated from not having photos taken at the e
 #### Special thanks to
 - **Monisha Gopal** and **Sally McNichols** for being my subjects
 
-<br>
-<img src="https://github.com/michell3/Photos/blob/master/final/composite_actual.png" width="800">
+![Composite actual](final/composite_actual.png)

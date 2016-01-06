@@ -3,7 +3,7 @@
 -
 #### Project Video
 
-[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/slitscan/cover.png)](https://vimeo.com/145868082 "Explorations")
+[![IMAGE ALT TEXT](Photos/slitscan/cover.png)](https://vimeo.com/145868082 "Explorations")
 ![Composite Preview](https://github.com/michell3/Photos/blob/master/slitscan/composite.png)
 
 -
@@ -16,7 +16,7 @@ I invited several of my friends to the Kinoptic Dome in order to capture their m
 
 The mesh data actually is not very strong from these kinects, so the results have more of a glitch aesthetic. I am more drawn to the point cloud screen shots from the OpenFrameworks viewer.
 
-![Mesh Objects](https://github.com/michell3/Photos/blob/master/slitscan/mesh_previews.png)
+![Mesh Objects](Photos/slitscan/mesh_previews.png)
 
 -
 

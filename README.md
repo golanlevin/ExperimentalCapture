@@ -29,10 +29,10 @@ This is an interdisciplinary course in experimental media practices that arise f
 ### Course Logistics
 
 * [**Deliverables**](docs/deliverables.md)
-   1. [An Object](docs/assignment1-object.md), due 9/23
-   1. [A Person in Time](docs/assignment2-person.md), due 10/21
-   1. A Place, due 11/18
-   1. Final Project, due 12/9
+   1. [An Object](docs/assignment1-object.md), due 9/23/2015
+   1. [A Person in Time](docs/assignment2-person.md), due 10/21/2015
+   1. A Place, due 11/18/2015
+   1. Final Project, due 12/9/2015
 * [**Student Area**](students/README.md)
 * [**Tutorials**](docs/tutorials.md)
 * [**Calendar**](docs/calendar.md)
@@ -49,8 +49,6 @@ This is an interdisciplinary course in experimental media practices that arise f
 * [Capturing and Representing Objects: Still Life & More](docs/object-references.md)
 * [Multispectral & Hyperspectral Imaging](docs/hyperspectral.md)
 * [Gesture recording and playback; 2D & 3D motion capture](docs/gesture.md)
-* Silhouette (Blob) Tracking
-* Depth Sensors and RGBD
 * [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)
 * [Overcranking (Slow-Motion)](docs/overcranking.md)
 * [Undercranking and Time Lapse](docs/undercranking.md)
@@ -61,10 +59,9 @@ This is an interdisciplinary course in experimental media practices that arise f
 * [Backwards (Retrograde) Time](docs/backwards.md)
 * [Looping (Canon) Time](docs/looping.md)
 * [Gonioreflectometry](docs/gonioreflectometry.md)
-* Multitrack Time
-* Slit Scanning
+* [Slit Scanning](http://www.flong.com/texts/lists/slit_scan/)
 * [Moving Cameras (shutter stroboscopy)](docs/moving-cameras.md)
-* [Panoramic imaging, 360-degree, and environmental capture](docs/environmental-capture.md)
+* [Panoramic, 360-degree, and environmental capture](docs/environmental-capture.md)
 * [Stereography & Binocular Imaging](docs/binocular-stereography.md)
 * [Experimental Audio Capture](docs/audio.md)
 * [Perspective Capture and Representation](docs/perspective.md)
@@ -94,4 +91,4 @@ And:
 
 --- 
 
-*Remaining: a [large landfill](docs/unsorted.md) of as-yet unsorted links and resources.*
+*Remaining: a [large landfill](docs/unsorted.md) of as-yet unsorted links and resources, especially about RGBD capture.*

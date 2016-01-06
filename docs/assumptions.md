@@ -26,6 +26,7 @@ In this course on "Experimental Capture", we aim to *question the basic assumpti
 * **a photo is a static media object.** (It could be playable, like a game)
 * **a photo is is rectangular**
 
+--
 
-
-[Eyeo 2015 – James George] (https://vimeo.com/134973504)
+Recommended introductory viewing: <br>
+[James George, Eyeo 2015 artist lecture] (https://vimeo.com/134973504)

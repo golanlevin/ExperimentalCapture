@@ -2,7 +2,7 @@
 ###Temporalized Spaces and Visualizations
 
 
-*Experimental Capture Final Project, continuation of [Project 3](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/benjamin/Project%203/Project%203.md)*
+*Experimental Capture Final Project, continuation of [Project 3](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/benjamin/project3/README.md)*
 
 [![top_image](assets/top_image.jpg)](#spherical_farm)
 

@@ -56,6 +56,8 @@ Video was taken at Phipps conservatory, and later a few areas around the CMU cam
 
 *(gasp) A successful scan?*
 
+--
+
 ###What was learned?
 - How to use Agisoft Photoscan
 - How to use basic functions in Blender

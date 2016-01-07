@@ -98,4 +98,4 @@ Streaming data over the network incurs a detectable amount of latency. Though su
 [Available here!](https://github.com/rchuber/concertmaster)
 
 ### Acknowledgements
-Special thanks to Evan Shimizu for his advice, and for creating the [Lumiverse lighting control framework](http://lumiverse.cs.cmu.edu/), which was sponsored by the The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University
+Special thanks to Evan Shimizu for his advice, and for creating the [Lumiverse lighting control framework](http://lumiverse.cs.cmu.edu/), which was sponsored by the The Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University.

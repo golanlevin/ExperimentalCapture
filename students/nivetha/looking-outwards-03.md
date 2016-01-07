@@ -3,7 +3,7 @@
 
 --
 
-![TitlePicture](https://cloud.githubusercontent.com/assets/11213236/10615987/d99d5b12-7730-11e5-977f-b620ee06cf02.jpg "Title Picture")<br /> 
+![TitlePicture](images/looking-outwards/d99d5b12-7730-11e5-977f-b620ee06cf02.jpg "Title Picture")<br /> 
 
 ###Overview
 Color 3D printing is changing the scope of traditional stop motion animations by allowing animators a wider number of faces
@@ -29,7 +29,7 @@ sure it is accurate and consistent throughout all their pieces.
 --
 
 #### Video Depicting the making of 3D Printed puppets
-<a href="https://www.youtube.com/embed/vu62AzWPTDs" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/10615911/7805a85a-7730-11e5-89f3-14a5acd19b61.jpg" width="650" height="450" border="10" /></a>
+<a href="https://www.youtube.com/embed/vu62AzWPTDs" target="_blank"><img src="images/looking-outwards/7805a85a-7730-11e5-89f3-14a5acd19b61.jpg" border="10" /></a>
 
 
 --
@@ -52,4 +52,4 @@ printing becomes more affordable or accessible in universities and private compa
 and  (probably) more interesting uses of color 3D printing to make traditional animations.
 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/10616004/eb09da4c-7730-11e5-9a68-69bdcc4d641f.jpg "End Picture")<br /> 
+![supplementPicture](images/looking-outwards/eb09da4c-7730-11e5-9a68-69bdcc4d641f.jpg "End Picture")<br /> 

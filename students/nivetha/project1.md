@@ -3,14 +3,14 @@
 
 --
 
-![Title Picture](https://cloud.githubusercontent.com/assets/11213236/10031598/3a4ccd44-614c-11e5-8b3d-d45d65cae25b.JPG "Title Picture")<br /> 
+![Title Picture](images/project1/3a4ccd44-614c-11e5-8b3d-d45d65cae25b.JPG "Title Picture")<br /> 
 
 ###About
 Ever done something embarrassing? Been somewhere you regretted? Well, let me assure you, your fingerprints were all over the scene of the crime.
 
 
 <br><br>
-<a href="https://vimeo.com/140113281" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11667743/82b1c45c-9dc1-11e5-8dce-02a430c7b7a1.png" 
+<a href="https://vimeo.com/140113281" target="_blank"><img src="images/project1/82b1c45c-9dc1-11e5-8dce-02a430c7b7a1.png" 
 alt="Video Documentation" width="600" height="400" border="10" /></a>
 <br><br>
 --
@@ -24,15 +24,11 @@ trace their prints as closely as possible within a certain time period. As it is
 
 --
 
-![Code](https://cloud.githubusercontent.com/assets/11213236/10031650/7a694d58-614c-11e5-92dc-afafc8e2d04b.png "Code" )<br/>
-![The Game](https://cloud.githubusercontent.com/assets/11213236/10031675/97b7cd12-614c-11e5-8dac-87c4f2da9a84.png "The Game")<br/>
-![Final Print](https://cloud.githubusercontent.com/assets/11213236/10031565/0d014202-614c-11e5-9b59-a17cae7b927a.png "Final Print" )<br/>
-
-
-
+![Code](images/project1/7a694d58-614c-11e5-92dc-afafc8e2d04b.png "Code" )<br/>
+![The Game](images/project1/97b7cd12-614c-11e5-8dac-87c4f2da9a84.png "The Game")<br/>
+![Final Print](images/project1/0d014202-614c-11e5-9b59-a17cae7b927a.png "Final Print" )<br/>
 
 --
-
 
 ###Reflection
 Through this project we hoped to collage different types of capture and play with the errors in each forms of capture. 

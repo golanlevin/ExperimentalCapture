@@ -2,7 +2,7 @@
 
 --
 
-![TitlePicture](https://cloud.githubusercontent.com/assets/11213236/10617191/10559eca-7737-11e5-869c-21ddb7a1a0aa.jpg "Title Picture")<br /> 
+![TitlePicture](images/looking-outwards/10559eca-7737-11e5-869c-21ddb7a1a0aa.jpg "Title Picture")<br /> 
 
 ###Overview
 
@@ -27,7 +27,7 @@ Other than that, the story is actually pretty successful considering many other 
 
 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/10617202/1e927ada-7737-11e5-855e-300ce7ba0d5a.JPG "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/1e927ada-7737-11e5-855e-300ce7ba0d5a.JPG "Sup Picture")<br /> 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/10617211/2b75f7d6-7737-11e5-96ab-00f1cd027f43.png "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/2b75f7d6-7737-11e5-96ab-00f1cd027f43.png "Sup Picture")<br /> 
 

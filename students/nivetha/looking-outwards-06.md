@@ -4,7 +4,7 @@
 
 
 ### Project Promo(Video)
-<a href="https://www.youtube.com/watch?v=0QlSDdjQJm4"><img src="https://cloud.githubusercontent.com/assets/11213236/11320500/f9e31448-9067-11e5-8b2e-b25eadc22840.png" width="720" height="450" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=0QlSDdjQJm4"><img src="images/looking-outwards/f9e31448-9067-11e5-8b2e-b25eadc22840.png" width="720" height="450" border="10" /></a>
 
 
 ###Overview
@@ -13,7 +13,7 @@ Formlabs employees Josh Foisey and Will Walker have made it easy to capture vide
 [Site for the Go Pro Mount] (http://formlabs.com/stories/gopro-tough-mount/)
 [Short Article about the Project] (http://3dprintingindustry.com/2015/11/19/watch-yourself-shred-a-3d-printed-gopro-mount-for-your-skateboard-deck/)
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11320517/938b51fa-9068-11e5-885d-5fc4248ca2bf.png "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/938b51fa-9068-11e5-885d-5fc4248ca2bf.png "Sup Picture")<br /> 
 
 --
 
@@ -33,6 +33,6 @@ It is falls short in that after they get the actual video, there is nothing real
 and something done for fun so I think these faults are forgivable and doen't make this any less of an fun and compelling project.
 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11320510/46cb7dd6-9068-11e5-9e66-bdaf70b56917.gif "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/46cb7dd6-9068-11e5-9e66-bdaf70b56917.gif "Sup Picture")<br /> 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11320513/7733875c-9068-11e5-9bee-55b15fd6de87.png "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/7733875c-9068-11e5-9bee-55b15fd6de87.png "Sup Picture")<br /> 

@@ -4,7 +4,7 @@
 --
 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11321652/317a6220-9096-11e5-8adc-2bc25db6c266.gif "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/317a6220-9096-11e5-8adc-2bc25db6c266.gif "Sup Picture")<br /> 
 
 
 --
@@ -19,7 +19,7 @@ attachment. An app is then able to interpret the data to create a fairly high qu
 [Kickstarter Page for the project] (https://www.kickstarter.com/projects/eora/eora-3d-high-precision-3d-scanning-on-your-smartph)
 [Short Article about the Project] (http://3dprintingindustry.com/2015/10/19/scan-it-straight-to-your-smartphone-with-the-eora-3d-scanner/)
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11321648/22faa0f2-9096-11e5-9b0a-47123474042b.png "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/22faa0f2-9096-11e5-9b0a-47123474042b.png "Sup Picture")<br /> 
 
 --
 

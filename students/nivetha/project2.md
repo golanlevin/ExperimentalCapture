@@ -3,7 +3,7 @@
 
 --
 
-![Title Picture](https://cloud.githubusercontent.com/assets/11213236/10621606/d66bd60c-774f-11e5-98fb-0ce067c93e3d.png "Title Picture")<br /> 
+![Title Picture](images/project2/d66bd60c-774f-11e5-98fb-0ce067c93e3d.png "Title Picture")<br /> 
 
 ###About
 Any kids growing up in the 90s remembers Saturday morning cartoons. And any woman remembers that, of these cartoons, the 
@@ -23,10 +23,10 @@ to the mainstream in the US).
 ##Videos
 
 ### Using the Program
-<a href="https://vimeo.com/143095826" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11667787/c92ae83c-9dc1-11e5-8e04-b9583e80bbd4.png" width="720" height="450" border="10" /></a>
+<a href="https://vimeo.com/143095826" target="_blank"><img src="images/project2/c92ae83c-9dc1-11e5-8e04-b9583e80bbd4.png" width="720" height="450" border="10" /></a>
 
 ### Documentation of the project
-<a href="https://vimeo.com/143095692" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11667789/ca004248-9dc1-11e5-997a-b313e2e19134.png" width="720" height="450" border="10" /></a>
+<a href="https://vimeo.com/143095692" target="_blank"><img src="images/project2/ca004248-9dc1-11e5-997a-b313e2e19134.png" width="720" height="450" border="10" /></a>
 <br>
 --
 
@@ -39,9 +39,9 @@ magical girl genre represented for girls growing in the 90s.
 
 --
 
-![Code](https://cloud.githubusercontent.com/assets/11213236/10621639/07758b80-7750-11e5-8c7b-40ee35742fe3.png "Code" )<br/>
-![The transformation](https://cloud.githubusercontent.com/assets/11213236/10621644/12899dfe-7750-11e5-83bb-84eeca126f16.png "The Game")<br/>
-![Final Print](https://cloud.githubusercontent.com/assets/11213236/10627523/ade39baa-7788-11e5-9d3d-85dab24c0aab.png "Final Print" )<br/>
+![Code](images/project2/07758b80-7750-11e5-8c7b-40ee35742fe3.png "Code" )<br/>
+![The transformation](images/project2/10621644/12899dfe-7750-11e5-83bb-84eeca126f16.png "The Game")<br/>
+![Final Print](images/project2/ade39baa-7788-11e5-9d3d-85dab24c0aab.png "Final Print" )<br/>
 
 
 --

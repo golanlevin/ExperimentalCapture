@@ -1,9 +1,10 @@
 #Pulse Scape
-##A project by Swetha Kannan and Nivetha Kannan
+
+#### A project by Swetha Kannan and Nivetha Kannan
 
 --
 
-![Title Picture](https://cloud.githubusercontent.com/assets/11639631/11227879/cc65a7c4-8d56-11e5-9e32-e71faafc8efd.png "Title Picture")<br /> 
+![Title Picture](images/project3/cc65a7c4-8d56-11e5-9e32-e71faafc8efd.png "Title Picture")<br /> 
 
 ### About
 In order to document a landscape we wanted to document what we perceived to be an intimate experience when navigating the landscape. More specifically we set out to understand a landscape by documenting the pulse of the women that navigate it at night.
@@ -11,7 +12,7 @@ In order to document a landscape we wanted to document what we perceived to be a
 --
 
 ### Project Promo(Video)
-<a href="https://vimeo.com/146080233" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11247731/548cf49c-8deb-11e5-84b9-74c55d693136.png" width="720" height="450" border="10" /></a>
+<a href="https://vimeo.com/146080233" target="_blank"><img src="images/project3/548cf49c-8deb-11e5-84b9-74c55d693136.png" width="720" height="450" border="10" /></a>
 
 
 ### Summary
@@ -25,7 +26,7 @@ In order to fully capture the experience, we experimented with other cameras as 
 --
 
 ### Our Data (Video):
-<a https://www.youtube.com/watch?v=j0kVLu4NlUA&feature=youtu.be" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11247812/b9da67da-8deb-11e5-8f77-acd5ebd17bcd.png" width="720" height="450" border="10" /></a>
+<a https://www.youtube.com/watch?v=j0kVLu4NlUA&feature=youtu.be" target="_blank"><img src="images/project3/b9da67da-8deb-11e5-8f77-acd5ebd17bcd.png" width="720" height="450" border="10" /></a>
 
 --
 
@@ -36,10 +37,8 @@ Although we began with a specific goal to document the experience of a woman at 
 
 The project transformed to one that documents an experience of a place through the performance one adopts to navigate the space. The project as it currently stands is very personal since it documents a single woman’s pulse. If given the opportunity, we would like to explore the subject of a public persona and an anxiety over public performances by researching different subjects to get an idea of what a collective experience would look like, this in and of itself will make this project acessable sable to a wider audience.
 
-
 --
 
-![Code](https://cloud.githubusercontent.com/assets/11639631/11231627/9b200b74-8d78-11e5-823a-405d8e503fb1.png "Image1" )<br/>
-![The transformation](https://cloud.githubusercontent.com/assets/11639631/11226873/bdecbe54-8d50-11e5-888c-fa11b63e5932.png "Image2")<br/>
+![Code](images/project3/9b200b74-8d78-11e5-823a-405d8e503fb1.png "Image1" )<br/>
+![The transformation](images/project3/bdecbe54-8d50-11e5-888c-fa11b63e5932.png "Image2")<br/>
 
-—

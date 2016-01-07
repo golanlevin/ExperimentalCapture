@@ -3,7 +3,7 @@
 --
 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11321771/a0957c46-9099-11e5-9cd2-e24baddf6523.png "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/a0957c46-9099-11e5-9cd2-e24baddf6523.png "Sup Picture")<br /> 
 
 
 ###Overview
@@ -44,6 +44,6 @@ your body into thinking it is flying.
 --
 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11321763/72a7ef30-9099-11e5-9b36-d47a91393bc1.png "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/72a7ef30-9099-11e5-9b36-d47a91393bc1.png "Sup Picture")<br /> 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11321764/74681e8a-9099-11e5-918e-37040b2f9d5b.png "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/74681e8a-9099-11e5-918e-37040b2f9d5b.png "Sup Picture")<br /> 

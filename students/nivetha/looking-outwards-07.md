@@ -2,7 +2,7 @@
 
 --
 
-![titlePicture](https://cloud.githubusercontent.com/assets/11213236/11320536/257a369e-9069-11e5-9d35-18061e384ad2.gif "title Picture")<br /> 
+![titlePicture](images/looking-outwards/257a369e-9069-11e5-9d35-18061e384ad2.gif "title Picture")<br /> 
 
 --
 
@@ -16,7 +16,7 @@ the 3D model, the drones will export the model into a file that can be opened us
 
 
 ### Project Promo(Video)
-<a href="https://www.youtube.com/watch?v=hHBYMWc3ux8"><img src="https://cloud.githubusercontent.com/assets/11213236/11320591/39375660-906b-11e5-8b01-07b972d8c209.png" width="720" height="450" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=hHBYMWc3ux8"><img src="images/looking-outwards/39375660-906b-11e5-8b01-07b972d8c209.png" width="720" height="450" border="10" /></a>
 
 
 --
@@ -33,7 +33,7 @@ the project. Though it is strictly 3D and virtual, it allows users to engage wit
 which, I feel, is more intuitive that relying an just the virtual. 
 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11320523/e082b1d8-9068-11e5-99f7-f15eec625274.png "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/e082b1d8-9068-11e5-99f7-f15eec625274.png "Sup Picture")<br /> 
 
 ###Why it’s not so Exciting...
 Obviously, right now, though the technology is impressive, the actual application of the work leaves much to be desired. 
@@ -46,4 +46,4 @@ modeling use.
 
 --
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11320524/e1df363c-9068-11e5-95d9-896551950263.png "Sup Picture")<br /> 
+![supplementPicture](images/looking-outwards/e1df363c-9068-11e5-95d9-896551950263.png "Sup Picture")<br /> 

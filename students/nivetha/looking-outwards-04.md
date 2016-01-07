@@ -2,7 +2,7 @@
 
 --
 
-![TitlePicture](https://cloud.githubusercontent.com/assets/11213236/10616266/3d2ae798-7732-11e5-8318-b2f7733bf10d.jpg "Title Picture")<br /> 
+![TitlePicture](images/looking-outwards/3d2ae798-7732-11e5-8318-b2f7733bf10d.jpg "Title Picture")<br /> 
 
 ###Overview
 Kid’s creation is a new startup that lets parents upload their child’s drawing onto an online application where they
@@ -11,7 +11,7 @@ color 3D print for $100. It’s simple and cute.
 
 [Kids Creation Station Site] (https://kidscreationstation.com/home)
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/10616176/cd694ec2-7731-11e5-836e-9635275ce882.png "End Picture")<br />
+![supplementPicture](images/looking-outwards/cd694ec2-7731-11e5-836e-9635275ce882.png "End Picture")<br />
 
 [Helpful Article explaining process] (http://3dprintingindustry.com/2014/11/27/kids-creation-station-3d-printing/)
 

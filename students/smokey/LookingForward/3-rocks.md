@@ -1,5 +1,5 @@
 # The Jamsky - Step Sequencer
-![Rocks!](http://38.media.tumblr.com/202e26a1da733709c30f4996cb1af50f/tumblr_nvrhbrCbCW1qav3uso1_540.gif)
+![Rocks!](images/tumblr_nvrhbrCbCW1qav3uso1_540.gif)
 
 This one isn't quite as on the bend of experimental capture, but I'm too fascinated by the innovative interface not to post it.
 

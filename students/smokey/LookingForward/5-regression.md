@@ -1,6 +1,6 @@
 Video Regression
 
-![Regression Analysis](https://d262ilb51hltx0.cloudfront.net/max/600/1*6CciZsbzlGp-ZSLdo2GIJA.gif)
+![Regression Analysis](images/regression.gif)
 
 Regression Analysis is a technique applied to machine learning. A digital artist has applied it as a way to styalise video.
 

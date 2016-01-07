@@ -10,4 +10,4 @@ More information [here](http://www.kellianderson.com/books/thecamera.html) and [
 
 The book comes with a few sheets of film and instructions for developing.
 
-![This book is a Camera](http://49.media.tumblr.com/06def5d28648b8710d7f899d7aaef2b9/tumblr_nye01lKyis1qav3uso1_540.gif)
+![This book is a Camera](images/tumblr_nye01lKyis1qav3uso1_540.gif)

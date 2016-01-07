@@ -1,5 +1,5 @@
 ## Project 1: Pepper's Pig
-#### Project Members: [Michelle Ma](../README.md), [Vidya Vinnakota](../vidya/README.md)
+#### Project Members: [Michelle Ma](README.md), [Vidya Vinnakota](../vidya/README.md)
 -
 #### Project Video
 

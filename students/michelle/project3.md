@@ -1,5 +1,5 @@
 ## Project 3: Explorations in Point Cloud Slitscanning
-#### [Michelle Ma](../README.md)
+#### [Michelle Ma](README.md)
 -
 #### Project Video
 
@@ -22,9 +22,9 @@ The mesh data actually is not very strong from these kinects, so the results hav
 
 #### WIP
 
-I still have my hopes up for slit scanning photogrammetry! I have the processing script written and ready to go. You can see the script [here](../SlitscanPhotogrammetry) with a few test files. Displayed below are slit scans from a stereo camera. The next step for me is to find some data from multiple angles or set up an intense rig in order to be able to actually perform photogrammetry. I may also be able to just work with stereo slitscans and transfer them to a 3D viewer such as Google Cardboard.
+I still have my hopes up for slit scanning photogrammetry! I have the processing script written and ready to go. You can see the script [here](SlitscanPhotogrammetry) with a few test files. Displayed below are slit scans from a stereo camera. The next step for me is to find some data from multiple angles or set up an intense rig in order to be able to actually perform photogrammetry. I may also be able to just work with stereo slitscans and transfer them to a 3D viewer such as Google Cardboard.
 
-<img src="../michelle/SlitscanPhotogrammetry/tina1_fr22_00.png" width="425"> <img src="../michelle/SlitscanPhotogrammetry/tina2_fr22_01.png" width="425">
+<img src="SlitscanPhotogrammetry/tina1_fr22_00.png" width="425"> <img src="SlitscanPhotogrammetry/tina2_fr22_01.png" width="425">
 
 -
 
@@ -60,8 +60,8 @@ Most of the technical aspects came from learning how to manipulate point cloud d
 -
 #### Links
 - [More Project Images](https://github.com/michell3/Photos/tree/master/slitscan)
-- [OpenFrameworks Source Code](../PointCloudSlitscanning)
-- [Processing Code](../SlitscanPhotogrammetry)
+- [OpenFrameworks Source Code](PointCloudSlitscanning)
+- [Processing Code](SlitscanPhotogrammetry)
 
 -
 #### Special thanks to

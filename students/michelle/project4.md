@@ -1,5 +1,5 @@
 ## Project 4: Projection Drawing
-#### [Michelle Ma](../README.md)
+#### [Michelle Ma](README.md)
 
 --
 
@@ -63,7 +63,7 @@ The technical challenges mostly originated from not having photos taken at the e
 
 #### Links
 - [More Project Images](https://github.com/michell3/Photos/tree/master/final)
-- [OpenFrameworks Source Code](../ModelViewer)
+- [OpenFrameworks Source Code](ModelViewer)
 
 --
 

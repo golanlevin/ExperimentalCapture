@@ -10,9 +10,9 @@ The first project, Haptomime, allows the user to interact with a touch screen in
 
 [Project Abstract](http://dl.acm.org/citation.cfm?id=2647407&dl=ACM&coll=DL&CFID=710705347&CFTOKEN=21065656)
 
-![Haptomime Diagram](http://images.gizmag.com/inline/haptomime-0@2x.jpg)
+![Haptomime Diagram](Photos/haptomime-0@2x.jpg)
 
-[![Haptomime Project Video](http://img.youtube.com/vi/uARGRlpCWg8/0.jpg)](https://www.youtube.com/watch?v=uARGRlpCWg8)
+[![Haptomime Project Video](Photos/uARGRlpCWg8.jpg)](https://www.youtube.com/watch?v=uARGRlpCWg8)
 
 ### The Visuo-tactile projector
 
@@ -20,7 +20,7 @@ In this project, the animations and tactile stimuli are projected directly on th
 
 [Project Paper](http://www.hapis.k.u-tokyo.ac.jp/public/hiroyuki_shinoda/research/pdf/12SICE/Yoshino_ThA05-02.pdf)
 
-[![Haptomime Project Video](http://img.youtube.com/vi/Bb0hNMxxewg/0.jpg)](https://www.youtube.com/watch?v=Bb0hNMxxewg)
+[![Haptomime Project Video](Photos/Bb0hNMxxewg.jpg)](https://www.youtube.com/watch?v=Bb0hNMxxewg)
 
 I had the pleasure of experiencing these projects at the 2015 conference. It is very hard to gauge the projects without experiencing the tactile stimulation firsthand. They were truly able to capture the sensation of touch, couple it with projected imagery, and create a synergy. For example, when I tried out the Visuo-tactile projector, it actually felt like there were mini fireworks in my hand; and when the animation changed to a crawling inch worm, I actually pulled away in disgust. It is a very calculated experience and far more refined than the air-blowing, water-spouting attractions you find in theme parks. The projects have a long way to go before they can translate into polished products, but they opened my eyes to virtual sensations which stretch beyond virtual objects or environments.
 
@@ -28,4 +28,4 @@ I had the pleasure of experiencing these projects at the 2015 conference. It is 
 
 Haptomime also reminded me of a simple technique of creating holograms using an LCD that I would like to investigate.
 
-[![Creating holograms](http://img.youtube.com/vi/7YWTtCsvgvg/0.jpg)](https://www.youtube.com/watch?v=7YWTtCsvgvg)
+[![Creating holograms](Photos/7YWTtCsvgvg.jpg)](https://www.youtube.com/watch?v=7YWTtCsvgvg)

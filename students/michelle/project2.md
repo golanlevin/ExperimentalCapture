@@ -1,13 +1,16 @@
 ## Project 2: Synergy
-#### Project Members: [Michelle Ma](../michelle/index.md), [Irene Alvarado](../irene/index.md), [Charlotte Stiles](../charlotte/index.md)
--
+#### Project Members: [Michelle Ma](../README.md), [Irene Alvarado](../irene/README.md), [Charlotte Stiles](../charlotte/README.md)
+
+--
+
 #### Project Video
 
-[![IMAGE ALT TEXT](https://github.com/michell3/Photos/blob/master/mocap/swords_v2_0907.png)](https://vimeo.com/143089691 "Synergy")
+[![IMAGE ALT TEXT](Photos/mocap/swords_v2_0907.png)](https://vimeo.com/143089691 "Synergy")
 
-<img src="https://github.com/michell3/Photos/blob/master/mocap/judo_render_2_0259.png" width="426"> <img src="https://github.com/michell3/Photos/blob/master/mocap/swords_v2_0352.png" width="426">
+<img src="Photos/mocap/judo_render_2_0259.png" width="800"> 
+<img src="Photos/mocap/swords_v2_0352.png" width="800">
 
--
+--
 
 #### Concept
 
@@ -18,18 +21,22 @@ For the content of the animation, we had two actors who knew stage combat and tw
 The reason I called this project *Synergy* is because, halfway through my process, I was able to partner up with Irene and Charlotte for some Optitrack/Kinect action. The partnership was essential since we split up all the testing and capturing amongst the three of us. We had a good balance between production, technical, and crafting experience. In addition, working with actors and dancers was stupendous because of their positive attitude and the awareness they had of their own bodies. Without any of these partnerships, I doubt the end product would have come together so harmoniously.
 
 <br>
-<img src="https://github.com/michell3/Photos/blob/master/mocap/screen.jpg" width="415" height="295"> <img src="https://github.com/michell3/Photos/blob/master/mocap/sword_2.jpg" width="415" height="295">
-<img src="https://github.com/michell3/Photos/blob/master/mocap/kinect.jpg" width="415" height="295"> <img src="https://github.com/michell3/Photos/blob/master/mocap/set.jpg" width="415" height="295">
+<img src="Photos/mocap/screen.jpg">  
+<img src="Photos/mocap/sword_2.jpg">
+<img src="Photos/mocap/kinect.jpg"> 
+<img src="Photos/mocap/set.jpg">
 
--
+--
 
 #### WIP
 
-We are still working with the Kinect data that we captured from the dancers, so stay tuned to see what we will do with that! As a sneak peak here are a series of GIFs that illustrate our kinect data from three perspectives. We've managed to export that data as CSVs and bring them into Maya as particles. To learn more, check out the [CacheCloud](../michelle/Scripts/CacheCloud) script.
+We are still working with the Kinect data that we captured from the dancers, so stay tuned to see what we will do with that! As a sneak peak here are a series of GIFs that illustrate our kinect data from three perspectives. We've managed to export that data as CSVs and bring them into Maya as particles. To learn more, check out the [CacheCloud](../Scripts/CacheCloud) script.
 
-<img src="https://github.com/michell3/Photos/blob/master/mocap/left10_square.gif" width="280"> <img src="https://github.com/michell3/Photos/blob/master/mocap/back10_square.gif" width="280"> <img src="https://github.com/michell3/Photos/blob/master/mocap/right10_square.gif" width="280">
+<img src="Photos/mocap/left10_square.gif"> 
+<img src="Photos/mocap/back10_square.gif"> 
+<img src="Photos/mocap/right10_square.gif">
 
--
+--
 
 #### Process
 
@@ -59,8 +66,8 @@ Our process had several steps involving Optitrack, Kinects, Maya, and etc. Here 
   * Repeat
 - Curves
   * Select a joint/locator
-  * Use the [AnimToCurve](../michelle/Scripts/AnimToCurve) script
-  * Use the [AutoPipe](../michelle/Scripts/AutoPipe) script with 'animation' and 'rebuild curve' selected
+  * Use the [AnimToCurve](../Scripts/AnimToCurve) script
+  * Use the [AutoPipe](../Scripts/AutoPipe) script with 'animation' and 'rebuild curve' selected
   * Use 'taper' feature
   * Rotoscope animation to match timing
 - Use 3-point lighting
@@ -71,15 +78,18 @@ Our process had several steps involving Optitrack, Kinects, Maya, and etc. Here 
 - Sync video, animation, and audio
 - Apply phase and pitch shifters to audio
 
--
+-- 
+
 #### Links
 - [Behind the Scenes](https://vimeo.com/143092931)
 - [More Project Images](https://github.com/michell3/Photos/tree/master/mocap)
-- [Maya Scripts](../michelle/Scripts)
+- [Maya Scripts](../Scripts)
 
--
+-- 
+
 #### Special thanks to
 - **Colin-James Whitney** and **Zachary Fifer** (left) for performing the fight scenes for us
 - **Javier Spivey** and **Sabrina Clarke** (right) for dancing for us
 
-<img src="https://github.com/michell3/Photos/blob/master/mocap/fighters.jpg" height ="550"> <img src="https://github.com/michell3/Photos/blob/master/mocap/dancers.jpg" height="550">
+<img src="Photos/mocap/fighters.jpg"> 
+<img src="Photos/mocap/dancers.jpg">

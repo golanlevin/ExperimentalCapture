@@ -6,10 +6,12 @@ In addition, I will go over importing CSVs into Maya, importing motion capture d
 
 --
 ### Scripts
+
 * Import a CSV
 
 --
 ### References
+
 * [PyMEL 1.0.6 Documentation](http://help.autodesk.com/cloudhelp/2015/ENU/Maya-Tech-Docs/PyMel/index.html#!)
 * [Autodesk Scripting Reference (2015)](http://help.autodesk.com/view/MAYAUL/2015/ENU/?guid=scripting-head)
 

@@ -1,12 +1,13 @@
 ## Project 4: Projection Drawing
-#### [Michelle Ma](../michelle/index.md)
--
+#### [Michelle Ma](../README.md)
+
+--
 
 [![Final Project](final/timeline.gif)](https://vimeo.com/148398718 "Projection Drawing")
 
 ![Composite](final/composite.png)
 
--
+--
 
 #### Concept
 
@@ -20,7 +21,7 @@ The end result ended up being really interesting. I liked seeing my lines preser
 
 ![Screenshot](final/screenshot.png)
 
--
+--
 
 #### Process
 
@@ -58,12 +59,14 @@ The technical challenges mostly originated from not having photos taken at the e
 - Import the OBJ/DAE
 - Use the easyCam feature to view the model
 
--
+-- 
+
 #### Links
 - [More Project Images](https://github.com/michell3/Photos/tree/master/final)
-- [OpenFrameworks Source Code](../michelle/ModelViewer)
+- [OpenFrameworks Source Code](../ModelViewer)
 
--
+--
+
 #### Special thanks to
 - **Monisha Gopal** and **Sally McNichols** for being my subjects
 

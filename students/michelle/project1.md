@@ -1,9 +1,9 @@
 ## Project 1: Pepper's Pig
-#### Project Members: [Michelle Ma](../michelle/index.md), [Vidya Vinnakota](../vidya/index.md)
+#### Project Members: [Michelle Ma](../README.md), [Vidya Vinnakota](../vidya/README.md)
 -
 #### Project Video
 
-[![IMAGE ALT TEXT](https://github.com/michell3/peppers-pig/blob/master/Project%20Images/cluster_01.jpg)](https://vimeo.com/140160707 "Pepper's Pig")
+[![IMAGE ALT TEXT](Photos/pig/cluster_01.jpg)](https://vimeo.com/140160707 "Pepper's Pig")
 
 -
 
@@ -16,8 +16,11 @@ So we decided to give my Piggy Bank a new life using this illusion. The Piggy Ba
 In conclusion, our project was pretty fun to implement despite the hiccups that come with using so many different platforms and software. If we were to revisit the project in the future, we would focus more on harnessing the interactions with animation controllers and generating the forms directly in Unity. We would also scan a variety of other objects to experiment with different mesh forms.
 
 <br>
-<img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/pink_02.jpg" width="400"> <img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/ipad_01.jpg" width="400">
-<img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/green_01.jpg" height="257"> <img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/screens.png" height="257"> 
+<img src="Photos/pig/pink_02.jpg" width="400"> 
+<img src="Photos/pig/ipad_01.jpg" width="400">
+
+<img src="Photos/pig/green_01.jpg" height="257"> 
+<img src="Photos/pig/screens.png" height="257"> 
 
 -
 
@@ -59,9 +62,9 @@ Our process has several parts, involving many programs and machines. Here is the
 -
 #### Special thanks to
 - **Roberto Andaya** for laser cutting and assembling the pyramid
-- [**The Studio for Creative Inquiry**](http://studioforcreativeinquiry.org/) for accepting our Microgrant application to purchase an iPad and other supplies
+- [**The Frank-Ratchye STUDIO for Creative Inquiry**](http://studioforcreativeinquiry.org/) for accepting our Microgrant application to purchase an iPad and other supplies
 - Michelle's Piggy Bank
 
 <br>
-<img src="https://github.com/michell3/peppers-pig/blob/master/Project%20Images/piggy_bank_01.jpg" width="350">
+<img src="Photos/pig/piggy_bank_01.jpg">
 

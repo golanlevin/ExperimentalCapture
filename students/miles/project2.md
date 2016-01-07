@@ -1,5 +1,5 @@
-[![Stomach Cut](http://i.imgur.com/oGJXsK7.png)](https://vimeo.com/142858398 "Stomach Cut")
-video [here](https://vimeo.com/142858398)
+[![Stomach Cut](images/stomach_cut.png)](https://vimeo.com/142858398 "Stomach Cut")
+*Video [here](https://vimeo.com/142858398)*
 
 
 A robotic surgery system encounters a person whose field of vision is covered with floaters. The video explores how entoptic phenomena – visual effects whose source is the eye itself – create private worlds. 

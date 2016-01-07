@@ -1,7 +1,13 @@
-[![The Language of Ants](http://i.imgur.com/99GAKu4.png)](https://vimeo.com/145761184 "The Language of Ants")
-video excerpt [here](https://vimeo.com/145761184)
+### The Language of Ants
 
-![Screenshot from Periscope Feed](http://i.imgur.com/CJqttqd.png)
+Miles Hiroo Peyton, 2015
+
+--
+
+[![The Language of Ants](images/99GAKu4.png)](https://vimeo.com/145761184 "The Language of Ants")
+*Video excerpt [here](https://vimeo.com/145761184)*
+
+![Screenshot from Periscope Feed](images/CJqttqd.png)
 
 I broadcast a live Periscope feed of a character reading an essay about ants by Lafcadio Hearn from his 1904 book Kwaidan: Stories and Studies of Strange Things , while jumping on a trampoline. I was interested in presenting the activities and thoughts of a fictional character, on a platform that is mostly inhabited by real people in the real world, due to Periscope’s restriction that you have to broadcast from your phone’s camera. I’m interested in making broadcasts that are only “live” in the sense of a computer executing instructions in realtime. 
 

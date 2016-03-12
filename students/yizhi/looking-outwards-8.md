@@ -1,7 +1,8 @@
 #Looking Outwards Report 8
 ## Magic Leap
 ####Liz Zhang
-http://www.forbes.com/sites/theopriestley/2015/10/24/why-magic-leap-needs-a-dose-of-reality-to-succeed/
+
+[http://www.forbes.com/sites/theopriestley/2015/10/24/why-magic-leap-needs-a-dose-of-reality-to-succeed/](http://www.forbes.com/sites/theopriestley/2015/10/24/why-magic-leap-needs-a-dose-of-reality-to-succeed/)
 
 Magic Leap is a start-up developing products in augmented and virtual reality.
 It has secured the investment from Google and now has released some demos showing its products. It is predicted that the company will value over $4.5 billion.

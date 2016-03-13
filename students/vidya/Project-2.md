@@ -1,5 +1,6 @@
-Documented Project 2
-Project Name: Smile
-Partner :Swetha Kannan
+## Project 2: 'Smile'
 
-https://github.com/golanlevin/ExperimentalCapture/blob/master/students/swetha/project2.md
+* Project Title: *Smile*
+* Partner: Swetha Kannan
+
+[Documentation Here](../swetha/project2.md)

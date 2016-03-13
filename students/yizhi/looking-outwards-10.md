@@ -1,6 +1,6 @@
 ##Looking Outwards Report 10
 #A Neural Algorithm of Artistic Style
-![](http://thehigherlearning.com/wp-content/uploads/2015/08/neural-network-van-gogh.jpg)
+![](assets/neural-network-van-gogh.jpg)
 Funny how in my last report I talked about Loving Vincent, a feature length full animation painting movie and how the process could be automated. I did a little research on that and it turned out that the algorithm that captures the essense of an artist's painting style has already been developed. The methods are described in this paper.
 
 [http://arxiv.org/pdf/1508.06576v1.pdf](http://arxiv.org/pdf/1508.06576v1.pdf)

@@ -1,6 +1,5 @@
-Link to Documented Project
+[Link to Documented Project](../yizhi/project3.md)
 
-https://github.com/golanlevin/ExperimentalCapture/blob/master/students/yizhi/project3.md
-
-Experimentation with 360 on a Drone
-Project Collaborators: Liz 
+* Title: *Experimentation with 360-degree imaging on a Drone*
+* Project Collaborator: Liz
+ 

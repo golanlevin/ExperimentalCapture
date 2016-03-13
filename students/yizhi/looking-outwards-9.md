@@ -2,7 +2,7 @@
 #Loving Vincent
 
 http://www.lovingvincent.com/
-[![](http://www.lovingvincent.com/images/top-background0.jpg)](https://youtu.be/r3LSfvcmrf0)
+[![](assets/top-background0.jpg)](https://youtu.be/r3LSfvcmrf0)
 
 2015 is the 125th year since Van Gogh's passing. Loving Vincent is a painted animation, actually, the world's "first feature length painted animation" according to the production company BreakThru Productions.
 

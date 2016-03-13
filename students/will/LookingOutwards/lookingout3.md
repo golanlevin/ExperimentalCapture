@@ -1,9 +1,10 @@
-![Box](http://i.imgur.com/E8BfBVe.png)
+![Box](assets/E8BfBVe.png)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lX6JcybgDFo
-" target="_blank"><img src="http://img.youtube.com/vi/lX6JcybgDFo/0.jpg" 
+" target="_blank"><img src="assets/3.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-Video Link: https://www.youtube.com/watch?v=lX6JcybgDFo
+
+Video Link: [https://www.youtube.com/watch?v=lX6JcybgDFo](https://www.youtube.com/watch?v=lX6JcybgDFo)
 
 
 "Box" is a performance piece that explores the intersection of physical and digital space through projection mapping on moving objects. The robotics studio Bot & Dolly repurposed robotic arms normally used for automobile assembly to move two projection screens around in a dance-like way, while projecting ever-changing patterns and shapes onto them. At times, the screens will intersect and seemingly real, larger patterns appear. What I find incredibly inspiring in this piece is the fluidity in which the projections change from seemingly real, floating objects to obviously digital patterns. The line between physical and digital is blurred, and I'm left feeling like anything real or digital could appear in that moment.

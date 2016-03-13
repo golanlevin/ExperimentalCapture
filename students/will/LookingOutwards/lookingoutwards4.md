@@ -1,4 +1,4 @@
-![The Last Clock](http://www.creativeapplications.net/wp-content/uploads/2011/09/stockholm-640x480.jpg)
+![The Last Clock](assets/stockholm-640x480.jpg)
 
  Jussi Ängeslevä and Ross Cooper's "The Last Clock" is a clock that reimagines how we visualize time, taking it from an inherently abstract and man-made concept, into an intuitive and natural perspective of existence (or persistence, for that matter). The clock is comprised of three concentric rings of slit-scanned imagery, taken from the iPad's camera and representing hours, minutes, and seconds, with the images refreshed at different rates (12 hours, 1 hour, 1 minute, respectively). What the clock delivers then is a view of time at three different resolutions: the historical,the now, and something in between. A tension is created by looking a clock that simultaneously gives a sense of history and a sense of now-ness can be quite powerful: engaging the viewer to consider the lasting effects of their actions, while encouraging being in the moment as if time was no thing. 
 

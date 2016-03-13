@@ -1,4 +1,4 @@
-![Recreating Movement](http://recreating-movement.com/wp-content/uploads/rm_delcolors_2.jpg)
+![Recreating Movement](assets/rm_delcolors_2.jpg)
 
 Martin Hilpoltsteiner's Recreating Movement is a computer program that displays static frames from a video sequentially in 3-dimensional space, creating a volume of closely related images. What I find interesting about this technique is how it plays with time, giving audiences the ability to see different points in time simultaneously. The viewing of motion is especially enhanced using this technique, which gives an immediate, comprehensive understanding of a movement. The emphasis of this technique is placed on the *differences* between frames. 
 

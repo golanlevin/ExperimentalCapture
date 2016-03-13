@@ -6,7 +6,7 @@ This footage shows a GoPro camera that accidentally fell out of a skydiving airp
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=QrxPuk0JefA
 " target="_blank"><img src="assets/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180"  border="10" /></a>
+width="240" height="180"  border="10" /></a>
 
 What starts as a home recording of extreme sport turns into something much, much more extreme than falling towards Earth. As the camera tumbles through the air and the recorded image of earth is distorted, reality begins to bend. In the very beginning of the fall, the image spins out of control, yielding a chaotic, irrecognizable image of Earth being pulled and stretched every which way. The video -- our view through the eyes of the camera -- is screwed. Everything is hopeless. 
 

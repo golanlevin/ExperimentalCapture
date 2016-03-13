@@ -1,3 +1,5 @@
-Project Documented at this link : https://github.com/golanlevin/ExperimentalCapture/blob/master/students/michelle/project1.md
+## Project 1: *Pepper's Pig* 
 
-Procet Name:Peppers Pig Project Collaborator:Michelle Ma
+[Project Documented at this link](../michelle/project1.md)
+
+Project Collaborator: Michelle Ma

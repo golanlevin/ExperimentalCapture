@@ -35,3 +35,8 @@ Remember: Birds are the best. Pigeons especially.
 1. [Audio Landscape](looking-outwards-08.md)
 1. [In Pieces - 30 Endangered Species](looking-outwards-09.md)
 1. [Building Virtual Worlds festival at the Entertainment Technology Center](looking-outwards-10.md)
+
+--
+### Tutorial
+
+* [Wacom Inkling](InklingTutorial/README.md)

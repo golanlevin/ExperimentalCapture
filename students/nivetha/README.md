@@ -18,7 +18,7 @@ Hello!  I am a Senior in the school of art interested in making animations and g
 * [Final Project](project4.md): *Things around me*
 
 --
-### Looking Outwards reports: 
+### *Looking Outwards* reports: 
 
 1. [Live2D](looking-outwards-01.md)
 2. [Smoothie-3D](looking-outwards-02.md) 
@@ -30,3 +30,8 @@ Hello!  I am a Senior in the school of art interested in making animations and g
 1. [EORA 3D Scanner](looking-outwards-08.md)
 1. [PowerUp FPV](looking-outwards-09.md)
 1. [jam](looking-outwards-10.md)
+
+--
+### Tutorial
+
+* [Skanect](tutorialSkanect.md)

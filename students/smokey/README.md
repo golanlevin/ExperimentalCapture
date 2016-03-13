@@ -14,10 +14,10 @@ Hey, I'm Smokey. That's a nickname. I'm in the Emerging Media program on a track
 --
 
 ### Projects
-- [Project 1 - Ephemeral Object. High Speed Photogrammetry](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/irene/project-1/project1.md)
-- [Project 2 - Motion Capture Canon](projects/project2.md)
-- [Project 3 - Any Given Tuesday Night VR](projects/project3.md)
-- [Final Project - Dark 'N Stormy](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/miranda/finalproject.md)
+- [Project 1 - *Ephemeral Object. High-Speed Photogrammetry*](../irene/project-1/project1.md)
+- [Project 2 - *Motion Capture Canon*](projects/project2.md)
+- [Project 3 - *Any Given Tuesday Night VR*](projects/project3.md)
+- [Final Project - *Dark 'N Stormy*](../miranda/finalproject.md)
 
 --
 
@@ -30,3 +30,9 @@ Hey, I'm Smokey. That's a nickname. I'm in the Emerging Media program on a track
 6. [PolyEyes 2.0](LookingForward/6-polyeyes.md)
 7. [Kamra - Deja Vu Interactive Music Video](LookingForward/7-DejaVu.md)
 8. [This Book Is A Camera](LookingForward/8-CameraBook.md)
+
+-- 
+
+### Tutorial
+
+* [Lytro Illum Camera](LytroGuide/README.md)

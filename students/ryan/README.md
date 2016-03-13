@@ -31,3 +31,8 @@ Ryan Huber is a designer and developer from Nashville, TN. He values creative, t
 8. [*Epilog* (2013) by Schnellebuntebilder](looking-outwards-08.md)
 9. [*In the Eyes of the Animal* (2015) by Marshmallow Laser Feast](looking-outwards-09.md)
 10. [*Momentum* (2014) by Schnellebuntebilder](looking-outwards-10.md)
+
+--
+### Tutorial
+
+* [Leap Controller](tutorial-leap.md)

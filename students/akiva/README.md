@@ -12,10 +12,10 @@
 -- 
 ### Projects
 
-* [Object: *Rubik's Cube*](Project1)
+* [Object: *Rubik's Cube*](Project1/README.md)
 * [Person: *MoCap Canon*](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/smokey/projects/project2.md)
-* [Place: *Attention World*](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/kevin/project3/project3.md)
-* [Final: *Panoramic Thermal Cinemagraph*](Project4)
+* [Place: *Attention World*](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/kevin/project3/README.md)
+* [Final: *Panoramic Thermal Cinemagraph*](Project4/README.md)
 
 --
 ### Looking Outwards reports:

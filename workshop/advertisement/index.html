@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+       <title>An Experimental Capture Summer Workshop: July 18-22, 2016</title>
+       <link rel="stylesheet" href="css/style.css"/>
+	   <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+       <link href='http://fonts.googleapis.com/css?family=Wellfleet' rel='stylesheet' type='text/css'>
+	   <link href='http://fonts.googleapis.com/css?family=Wellfleet' rel='stylesheet' type='text/css'>
+	   <link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic' rel='stylesheet' type='text/css'>	
+	   <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300' rel='stylesheet' type='text/css'>
+	   <link href='http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911' rel='stylesheet' type='text/css'>
+	<script>
+   
+<!----- JQUERY FOR SLIDING NAVIGATION --->   
+$(document).ready(function() {
+  $('a[href*=#]').each(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+    && location.hostname == this.hostname
+    && this.hash.replace(/#/,'') ) {
+      var $targetId = $(this.hash), $targetAnchor = $('[name=' + this.hash.slice(1) +']');
+      var $target = $targetId.length ? $targetId : $targetAnchor.length ? $targetAnchor : false;
+       if ($target) {
+         var targetOffset = $target.offset().top;
+
+<!----- JQUERY CLICK FUNCTION REMOVE AND ADD CLASS "ACTIVE" + SCROLL TO THE #DIV--->   
+         $(this).click(function() {
+            $("#nav li a").removeClass("active");
+            $(this).addClass('active');
+           $('html, body').animate({scrollTop: targetOffset}, 1000);
+           return false;
+         });
+      }
+    }
+  });
+
+});
+
+
+</script>
+
+
+ </head> 
+	
+<body>
+
+  
+<header id="header">
+<div class="content">
+<div id="logo"><a href=""> Experimental Capture Workshop • July 18-22, 2016</a></div>
+</div>
+</header>	
+  
+
+	
+	<div id="slide1">
+		<div class="content">
+		
+			<h2>Expanded &amp; Computational Photo/Video</h2><hr />
+			<h3>
+			Explore the potential of <b>exotic image-capture technologies</b> to reveal unseen and alternative realities.<br />
+			<a href="https://www.andersonranch.org/workshop/experimental-capture-p0717-2016" target="_blank"><b>An experimental capture workshop</b></a> at Anderson Ranch Arts Center, Colorado • Jul 18-22, 2016<br />
+			Taught by <a href="http://flong.com" target="_blank"><b>Golan Levin</b></a> (@golan), Professor of Art, Carnegie Mellon University </h3>
+			<h5>Got questions? Hit me up at golan@flong.com or @golan on Twitter :) </h5>
+			<hr />
+			<h3>
+			Topics include: 
+			<li><b>3D scanning</b> and <b>3D/RGBD video</b> (with LIDAR, iSense, Kinect and DepthKit)</li>
+			<li><b>Photogrammetry</b> (3D scanning with ordinary photography)</li>
+			<li><b>Panoramic</b>, <b>spherical</b>, <b>360°</b>, and <b>light-field</b> (Lytro) imaging and video</li>
+			<li><b>Time-lapse</b>, <b>long exposure</b>, <b>slit-scan</b>, and <b>ultra-slow-motion</b> (18,000 fps!) video
+			<li><b>Hyperspectral</b> imaging/video (with thermal/FLIR, infrared, and ultraviolet cameras)</li>
+			<li>Introductory <b>computer vision</b> with open-source programming tools (Processing and/or p5.js)</li>
+			<li><b>Motion capture</b> and <b>face</b>/<b>hand</b>/<b>body tracking</b> (with the Kinect, LEAP, Eyetribe, and other sensors)</li>
+			</h3>
+			<hr />
+
+			<h4>
+			<p>Challenge human perception and expand your skills with innovative and experimental techniques for capturing video, images, gestures and sound. In this exploratory workshop, you'll gain hands-on experience with a wide range of atypical technologies including panoramic and hyperspectral imagers, ultra high-speed cameras, depth sensors, 3D scanners, motion capture systems such as face-trackers and hand-trackers, binaural microphones, and more.
+			</p>
+
+			<p>Have you been itching to tinker with an ultra-high-speed camera, record people and environments in 3D, see heat with a thermal camera, or examine flowers with the ultraviolet vision of birds and bees? Would you like to learn about inexpensive tools for doing so? Then this workshop—originally taught as a <a href="https://github.com/golanlevin/ExperimentalCapture" target="_blank"><b>semester course at CMU</b></a>, and now a one-week summer workshop at beautiful <a href="https://www.andersonranch.org" target="_blank"><b>Anderson Ranch</b></a> in Snowmass Village, Colorado—is for you.</p>
+
+			<p>Some experience in video editing software, 3D animation tools, and/or programming in arts-engineering toolkits such as Processing, JavaScript and/or openFrameworks is recommended. Students should bring a laptop with a recent operating system.</p></h4>
+
+		  
+			</h4>
+		</div> 
+    </div> 
+
+	<div id="slide2">
+		<div class="content" >
+            <iframe src="https://player.vimeo.com/video/147923525?loop=1&title=0&byline=0&portrait=0" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            <h5>LIDAR 3D environment photography by <em>Experimental Capture</em> student, Ben Snell</h5>
+            <h4>In this workshop, we'll explore a range of techniques for capturing 3D images and video of people and environments. Recently, inexpensive <a href="https://www.google.com/search?q=lidar+scan&tbm=isch" target="_blank"><b>LIDAR</b></a> sensors have finally become available. We'll capture landscapes and/or portraits using the Hokuyo URG-04LX-UG01 LIDAR, as well as the Kinect I, Kinect II, iSense, and other depth sensors.</h4>
+        </div> 
+    </div> 
+	
+	
+   <div id="slide3">
+		<div class="content">
+			<!-- background: url(../img/thermal2.gif) 50% 0 no-repeat fixed; -->
+			<img src="img/thermal2.gif" width="960" height="480"/> <br />
+			<h5>Panoramic thermal cinematograph by <em>Experimental Capture</em> student, Akiva Krauthamer</h5>
+			<h4>Special "hyperspectral" cameras can reveal portions of the electromagnetic spectrum beyond human perception. In this workshop, we'll explore the use of <a href="https://www.google.com/search?q=thermal+imaging&tbm=isch" target="_blank"><b>FLIR thermal cameras</b></a> to see heat patterns in buildings and bodies, IR security cameras to see in the dark, and ultraviolet (UV) cameras to observe the secret lives of flowers.</h4>
+		</div> 
+    </div> 
+	
+	
+	<div id="slide4">
+		<div class="content">
+		  <img src="img/photogrammetry.gif" width="960" height="512"/> <br />
+		  <h5>Hand-drawn photogrammetry experiment by <em>Experimental Capture</em> student, Michelle Ma</h5>
+		  <h4><a href="https://vimeo.com/123701711" target="_blank"><b>Photogrammetry</b></a> is a technique by which a 3D model of a subject can be computed directly from a small set of ordinary photographs, taken with standard camera equipment—even your smartphone. This workshop introduces the use of Agisoft Photoscan, an inexpensive software tool for "computational portraiture".</h4>
+		</div> 
+    </div> 
+	
+	
+	<div id="slide5">
+		<div class="content">
+			<h5>High-speed photograph by <em>Experimental Capture</em> students, Irene Alvarado and Smokey Dyar</h5>
+			<h4>
+			<p>
+				<em>Capture a balloon popping in slow motion!</em><br />
+				In this workshop, we'll also explore high-speed phenomena <br />
+				with the <a href="http://edgertronic.com/" 
+				target="_blank"><b>Edgertronic</b></a>,
+				a new, low-cost camera that can <br />shoot video at up to 18,000 frames per second. 
+			</p>
+			<hr align="left" width="50%"/>
+			<p>
+			In addition to the techniques decribed above, <br />
+			we'll also have discussions and presentations about: 
+				<ul>
+				<li>What is a Camera? Conceptual Cameras</li>
+				<li>Multispectral and Hyperspectral Imaging</li>
+				<li>Gesture recording and playback; 2D and 3D motion capture</li>
+				<li>Photogrammetry and 3D scanning</li>
+				<li>Overcranking (Slow-Motion)</li>
+				<li>Undercranking and Time-Lapse</li>
+				<li>Long Exposure and Light Painting</li>
+				<li>Bullet Time (Array Videography)</li>
+				<li>Pixillation and Stop-Frame</li>
+				<li>Synthesis from Image Databases</li>
+				<li>Slit Scanning and Shutter Stroboscopy)</li>
+				<li>Panoramic, 360-degree, and environmental capture</li>
+				<li>Stereography and Binocular Imaging</li>
+				<li>Experimental Audio Capture</li>
+				<li>Perspective Capture and Representation</li>
+				</ul>
+			</p>
+			</h4>
+			
+			<h2><a href="https://www.andersonranch.org/workshop/experimental-capture-p0717-2016">Sounds awesome! Sign me up</a></h2>
+		</div> 
+    </div> 
+	
+
+</body>
+</html>

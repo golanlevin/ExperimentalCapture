@@ -11,6 +11,7 @@
 * [Berg/Dentsu, *Making Future Magic* (iPad Light Painting, 2010)](https://vimeo.com/14958082)
 * [Croix Gagnon and Frank Schott, *12:31*. (iPad Light Painting, 2011)](http://www.project1231.com/)
 * [Olivier Gondry (dir.) for Tiga, *You Gonna Want Me*](https://vimeo.com/73638593): long exposure bullet time. 
+* [Dennis Hlynsky, *Starlings in Flight*](https://aeon.co/videos/starlings-in-flight-sketch-entrancing-abstract-patterns-across-an-autumn-sky)
 
 ![Shinichi Maruyama, *Nudes*](images/maruyama-long-exposure.jpg)<br />
 

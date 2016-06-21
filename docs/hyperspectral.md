@@ -135,8 +135,6 @@ It is also possible to design or arrange objects for the express purpose of havi
 
 ### Thermal Imaging 
 
-![Thermal image](images/thermal-img.jpg)
-
 *Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. Interestingly, most of what we see when we observe radiation in this range is *emissive* rather than *reflective*. In short, we see where something is hot. 
 
 * A cult classic, [*THE OPERATION*](https://vimeo.com/24149525) by Jacob Pander and Marne Lucas (1995) is a hybrid art/porn movie, shot completely with a thermal camera. (NSFW)
@@ -145,22 +143,27 @@ It is also possible to design or arrange objects for the express purpose of havi
 
 * [Route 94: *My Love*](https://vimeo.com/84702235) is a much more recent music video with much the same idea. 
 
-![City Thermogram by Peggy Ahwesh](images/terike-haapoja-thermal.jpg)
+![Thermal image](images/thermal-img.jpg)
 
 * Terike Haapoja's [*Community* (2007)](http://www.av-arkki.fi/en/works/community_en/) presents thermal videos of animals which have just died. We see the heat leaving their bodies. 
 * [This Photographer Shoots Portraits With a Thermal Camera](http://www.smithsonianmag.com/science-nature/this-photographer-shoots-portraits-with-a-thermal-camera-1437109/)
   * [Linda Alterwitz 1](http://www.lindaalterwitz.com/thermal_portrait.html)
   * [Linda Alterwitz 2](http://www.lindaalterwitz.com/thermal_core.html)
 
-Note that there is no "correct" way to view thermal imagery. Cameras offer a variety of different spectra for mapping their temperature ranges, including grayscale, black-body, chromatic (blue = cold), etc. 
+![Portrait by Linda Alterwitz](https://c2.staticflickr.com/8/7352/27809023865_f4dcc562aa_o.jpg)
 
-![City Thermogram by Peggy Ahwesh](images/ahwesh-city-thermogram.jpg)
+Note that there is no "correct" way to view thermal imagery. Cameras offer a variety of different spectra for mapping their temperature ranges, including grayscale, black-body, chromatic (blue = cold), etc. 
 
 Sometimes simply presenting such alternative views can be a provocative, entertaining or educational experience for audiences. 
 
 * Many science museums, such as the Exploratorium, have a "[Heat Camera](http://exs.exploratorium.edu/exhibits/heat-camera/)" display in which the public can see themselves in a thermal camera. 
-* *[City Thermogram](http://thecreatorsproject.vice.com/blog/times-square-is-a-heat-sensitive-camera-thanks-to-peggy-ahwesh)*, by Peggy Ahwesh (2015), was commissioned to create a live-video installation in New York's Time Square, in which she connected up a thermal camera (trained on passersby) to a large electronic billboard.
-* Google has recently made [satellite thermal imaging of roofs](http://mashable.com/2015/08/20/google-house-solar/?utm_cid=mash-com-fb-main-link) available to the public, to prompt people's awareness about the  heat inefficiency of their homes. 
+* [*City Thermogram*](http://thecreatorsproject.vice.com/blog/times-square-is-a-heat-sensitive-camera-thanks-to-peggy-ahwesh), by Peggy Ahwesh (2015), was commissioned to create a live-video installation in New York's Time Square, in which she connected up a thermal camera (trained on passersby) to a large electronic billboard.
+
+![City Thermogram by Peggy Ahwesh](images/terike-haapoja-thermal.jpg)
+
+* Google has recently made [satellite thermal imaging of roofs](http://mashable.com/2015/08/20/google-house-solar/?utm_cid=mash-com-fb-main-link) available to the public, to prompt people's awareness about the  heat inefficiency of their homes.
+
+![Google roof tool](https://c2.staticflickr.com/8/7291/27197574323_469ee6a71a_o.jpg)
 
 
 ---
@@ -170,9 +173,20 @@ Sometimes simply presenting such alternative views can be a provocative, enterta
 Some substances temporarily change color in response to heat. In different contexts, thermochromic pigments can work as a capture technology or a display technology. 
 
 * Jay Watson's *[Thermochromic Table](http://www.fubiz.net/en/2014/02/21/thermochromic-table/)* (2011) reveals where and how people have sat at the furniture. 
+
+![Jay Watson's Thermochromic Table](https://c2.staticflickr.com/8/7693/27733523841_f3208d6089_o.jpg)
+
 * The *[Temperature Sensitive Object](http://www.mascontext.com/wp-content/uploads/2011/12/12_game_ornaments_09.jpg)* chair (2001) by Orléans-based design group, Archilab, is similar. 
+
+![Temperature Sensitive Object by Archilab](https://c2.staticflickr.com/8/7393/27197574343_b162da0d15_o.jpg)
+
 * The revelatory potential of this technology is directly connected to considerations of mammalian territory-marking behavior in this *[thermochromic toilet seat](http://theluxuryofprotest.com/Thermochromic_Toilet_Seat.html)* and this remarkable *[thermochromic urinal](http://www.technocrazed.com/wp-content/uploads/2014/08/New-Thermochromic-Furniture-And-Pots-11.jpg)*
+
+![Thermochromic Urinal](https://c2.staticflickr.com/8/7102/27733523921_a4b1298776_o.jpg)
+
 * Dutch artist [Carina Hesper](http://carinahesper.nl) has created a book, *[Like a Pearl in My Hand](http://www.carinahesper.nl/#!visually-impaired)*, in which portrait photographs have been overprinted with thermochromic coating. The reader of the book must interactively reveal the underlying photographs 
+
+![Carina Hesper's book, 'Like a Pearl in My Hand'](https://c2.staticflickr.com/8/7396/27197575403_24761d60f3_o.png)
 
 ---
 

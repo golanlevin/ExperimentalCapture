@@ -36,7 +36,7 @@ There's plenty more symbolism where that came from. See, for example, [here](htt
 
 Here's an extremely early digital still life -- the *[Golden Calf](http://www.leonardo.info/gallery/gallery332/shaw.html)* responsive installation by Australian media art pioneer, Jeffrey Shaw. 
  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=paaacEIF6wU" target="_blank"><img src="http://scaraba.net/creanum/images/stories/M1_2009/revue/21256_996.jpg" width="640" height="480" border="0" /></a><br />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=paaacEIF6wU" target="_blank"><img src="https://c2.staticflickr.com/8/7632/27531444730_2c377df507_o.png" border="0" /></a><br />
 
 > This work is constituted by a white pedestal on which there stands an LCD colour monitor. The viewer of this work picks up and holds this monitor in his hands. The screen shows a representation of the pedestal with a computer-generated image of a golden calf on top. By moving the monitor around the actual pedestal the viewer can examine this golden calf from above and below and all sides. Thus the monitor functions like a window that reveals a virtual body apparently located physically in the real space.
 

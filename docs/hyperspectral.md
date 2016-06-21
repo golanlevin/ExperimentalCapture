@@ -50,7 +50,7 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 
 * Satellites employ multispectral imaging to understand the Earth. [Charlie Loyd, Putting Landsat8's multispectral imaging to work.](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/). For example, here's a false-color Landsat8 image by in which SWIR (thermal) is used in the red channnel; NIR as green; and deep blue as blue:
 
-![False-color image using thermal data in the red channel](https://farm3.staticflickr.com/2806/9027218111_70b9afb012_o.jpg)
+![False-color image using thermal data in the red channel](https://c2.staticflickr.com/8/7461/27530295250_eaa8c47395_o.jpg)
 
 * Astronomers use multispectral imaging to [understand the Sun](http://www.nasa.gov/images/content/719688main_Sun-Wavelength-Chart_full.jpg). 
 
@@ -117,11 +117,19 @@ Near-infrared is widely used in security cameras.
 
 * [Xograms, by Hugh Turvey](http://www.smithsonianmag.com/arts-culture/x-ray-art-deeper-look-everyday-objects-180949540/?no-ist)
 
+![Xograms, by Hugh Turvey](https://c2.staticflickr.com/8/7596/27808644505_42ac18a3dc_b.jpg)
+
 * [*X-Ray Photographic Art* (Survey)](http://www.theapricity.com/forum/showthread.php?147702-X-Ray-Photographic-Art-Seeing-Humans-Nature-Objects-Beneath-The-Surface)
 
-It is also possible to design or arrange objects for the express purpose of having them discovered in X-Ray images. 
-* Arguably some of these people have done so. (X-ray insertions)
-* Evan Roth, TSA interventions
+It is also possible to design or arrange objects for the express purpose of having them discovered in X-Ray images.
+
+* Evan Roth, *TSA Interventions*
+
+![Evan Roth's TSA Interventions](https://c2.staticflickr.com/8/7786/27530295090_d82a7258a8_o.jpg)
+
+* Arguably some of these people have done so. ([X-ray insertions](https://www.google.com/search?q=X-ray+insertions&tbm=isch))
+
+![X-ray insertions](https://c2.staticflickr.com/8/7309/27197444883_5092813dcb_o.jpg)
 
 ---
 
@@ -132,6 +140,9 @@ It is also possible to design or arrange objects for the express purpose of havi
 *Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. Interestingly, most of what we see when we observe radiation in this range is *emissive* rather than *reflective*. In short, we see where something is hot. 
 
 * A cult classic, [*THE OPERATION*](https://vimeo.com/24149525) by Jacob Pander and Marne Lucas (1995) is a hybrid art/porn movie, shot completely with a thermal camera. (NSFW)
+
+![The Operation by Jacob Pander and Marne Lucas](https://c2.staticflickr.com/8/7375/27808644605_83d956e0ae_o.png)
+
 * [Route 94: *My Love*](https://vimeo.com/84702235) is a much more recent music video with much the same idea. 
 
 ![City Thermogram by Peggy Ahwesh](images/terike-haapoja-thermal.jpg)

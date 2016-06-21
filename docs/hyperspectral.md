@@ -146,6 +146,9 @@ It is also possible to design or arrange objects for the express purpose of havi
 ![Thermal image](images/thermal-img.jpg)
 
 * Terike Haapoja's [*Community* (2007)](http://www.av-arkki.fi/en/works/community_en/) presents thermal videos of animals which have just died. We see the heat leaving their bodies. 
+
+![Terike Haapoja animals](images/terike-haapoja-thermal.jpg)
+
 * [This Photographer Shoots Portraits With a Thermal Camera](http://www.smithsonianmag.com/science-nature/this-photographer-shoots-portraits-with-a-thermal-camera-1437109/)
   * [Linda Alterwitz 1](http://www.lindaalterwitz.com/thermal_portrait.html)
   * [Linda Alterwitz 2](http://www.lindaalterwitz.com/thermal_core.html)
@@ -156,10 +159,11 @@ Note that there is no "correct" way to view thermal imagery. Cameras offer a var
 
 Sometimes simply presenting such alternative views can be a provocative, entertaining or educational experience for audiences. 
 
-* Many science museums, such as the Exploratorium, have a "[Heat Camera](http://exs.exploratorium.edu/exhibits/heat-camera/)" display in which the public can see themselves in a thermal camera. 
+* Many science museums, such as the Exploratorium, have a "[Heat Camera](http://exs.exploratorium.edu/exhibits/heat-camera/)" display in which the public can see themselves in a thermal camera.
+
 * [*City Thermogram*](http://thecreatorsproject.vice.com/blog/times-square-is-a-heat-sensitive-camera-thanks-to-peggy-ahwesh), by Peggy Ahwesh (2015), was commissioned to create a live-video installation in New York's Time Square, in which she connected up a thermal camera (trained on passersby) to a large electronic billboard.
 
-![City Thermogram by Peggy Ahwesh](images/terike-haapoja-thermal.jpg)
+![City Thermogram by Peggy Ahwesh](https://c2.staticflickr.com/8/7084/27530871390_af9646986a_b.jpg)
 
 * Google has recently made [satellite thermal imaging of roofs](http://mashable.com/2015/08/20/google-house-solar/?utm_cid=mash-com-fb-main-link) available to the public, to prompt people's awareness about the  heat inefficiency of their homes.
 
@@ -238,6 +242,8 @@ This is the stuff that *really* sees through clothing.
 
 * [Millimeter wave scanners](https://en.wikipedia.org/wiki/Full_body_scanner#Controversies), also called backscatter imaging, are used by the TSA 
 * [Terahertz imagers](http://www.stamparein3d.it/wp-content/uploads/2015/04/Lenti-a-Onde-THZ-05.jpg), which operate around 300 micrometers.
+
+![Terahertz imaging](https://c2.staticflickr.com/8/7088/27733681771_c91b017d30_b.jpg)
 
 Indeed, it can see through [more than just clothing](http://www.propublica.org/article/drive-by-scanning-officials-expand-use-and-dose-of-radiation-for-security-s). 
 

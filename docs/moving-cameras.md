@@ -11,6 +11,7 @@ More:
 * [Roel Wouters, Camera Workshop at ECAL](http://gizmodo.com/these-designers-make-boring-old-video-cameras-do-imposs-1444863383)
 * [On hula hoops at Burning Man](https://www.youtube.com/watch?v=J9bZ_8lZZfE) (NSFW)
 * [Another camera on a drill](https://www.youtube.com/watch?v=FIJfshJ757s)
+* [Trombone Camera](https://www.youtube.com/watch?v=soDn2puEuL8)
 
 > I had the idea of a new astro time-lapse technique in which the camera is pointed right at the north star and mounted to a motorized pivot point directly lined up with the sensor so the camera is able to spin with the stars through the night. Sit back, relax and Ride the Sky.
 

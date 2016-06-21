@@ -198,17 +198,31 @@ Some substances temporarily change color in response to heat. In different conte
 
 #### Ultraviolet animal vision. 
 
-* Many animals [can see in the ultraviolet](http://www.theatlantic.com/technology/archive/2011/08/6-animals-that-can-see-or-glow-in-ultraviolet-light/243634/). 
+* Many animals [appear different, and can see in the ultraviolet](http://www.theatlantic.com/technology/archive/2011/08/6-animals-that-can-see-or-glow-in-ultraviolet-light/243634/). 
+
+![Scorpions glow in UV](https://c2.staticflickr.com/8/7064/27708074312_a12d8e3ec3_o.jpg)
+
 * [Spectra of different species' vision](https://fieldguidetohummingbirds.files.wordpress.com/2008/11/spectrum.jpg).
+
+![Spectra of different species' vision](https://c2.staticflickr.com/8/7344/27197151834_c80b6f85aa_o.jpg)
+
 * [Birds & bees' UV vision](http://www.nature.com/scitable/blog/the-artful-brain/alternate_realities)
+
+![Bird vision makes use of UV](https://c2.staticflickr.com/8/7226/27197152074_0a42cf3410_o.png)
 
 UV is also [widely used in forensics](http://ultravioletcameras.com/applications/longwave-ultraviolet-forensics-imaging-applications/). 
 
+![Cleaning marks visualized with UV](https://c2.staticflickr.com/8/7427/27733775101_4f0c3e8d6c_o.jpg)
+
 #### Artworks using UV
 
-* [UV video overview](https://www.youtube.com/watch?v=o9BqrSAHbTc)
-* [Thomas Leveritt, *Nivea Australia spot*](http://www.leveritt.com/page-uv/)
+* [UV video overview by Thomas Leveritt](https://www.youtube.com/watch?v=o9BqrSAHbTc)
+
+![Thomas Leveritt video](https://c2.staticflickr.com/8/7383/27197271604_90566a6700_o.png)
+
 * [UV portraits by Cara Phillips](http://www.theguardian.com/artanddesign/gallery/2012/aug/03/ultraviolet-beauties-cara-phillips-photographs)
+
+![Portrait by Cara Phillips](https://c2.staticflickr.com/8/7669/27809409615_9afd17005a_o.jpg)
 
 #### UV imaging in practice
 
@@ -242,8 +256,6 @@ This is the stuff that *really* sees through clothing.
 
 * [Millimeter wave scanners](https://en.wikipedia.org/wiki/Full_body_scanner#Controversies), also called backscatter imaging, are used by the TSA 
 * [Terahertz imagers](http://www.stamparein3d.it/wp-content/uploads/2015/04/Lenti-a-Onde-THZ-05.jpg), which operate around 300 micrometers.
-
-![Terahertz imaging](https://c2.staticflickr.com/8/7088/27733681771_c91b017d30_b.jpg)
 
 Indeed, it can see through [more than just clothing](http://www.propublica.org/article/drive-by-scanning-officials-expand-use-and-dose-of-radiation-for-security-s). 
 

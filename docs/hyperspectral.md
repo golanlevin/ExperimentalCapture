@@ -71,37 +71,52 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 Near-infrared is widely used in security cameras. 
 
 * Owing to the different infrared reflectivity of blood, you can [see veins easily](https://www.flickr.com/photos/nebarnix/2034727799) in NIR.
+
 ![Veins, in NIR by Jasper Nance](images/nir-veins.jpg)
 
 * This has been used in some medical AR applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) device. 
+
 ![The VeinViewer visualizes an IR image with an augmented projection](https://c2.staticflickr.com/8/7706/27529572870_bb07b07e7b_b.jpg)
 
 * In some circumstances, depending on materials, NIR cameras can [kind of see through clothes](http://www.komonews.com/news/problemsolvers/94802064.html). 
 
 * NIR imaging can be used to [detect traced (i.e. forged) signatures](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/tracingb.jpg)
+
 ![Forged signatures in IR](https://c2.staticflickr.com/8/7286/27706929542_0d7949d045_o.jpg)
 
 * Osman Khan created a strictly [IR-viewable image](http://www.osmankhan.com/works.asp?name=Unviewed).
 * The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com/oliverlutz_prjct_lfrnk.htm) and [*"Stella at the Playground"*](http://www.oliverlutz.com/oliverlutz_prjct_plygrnd_inst.htm) by Oliver Lutz (2010) use a (visibly) black acrylic overpainting covering a secret image that can only be observed by a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera). 
+
 ![Paintings by Oliver Lutz](https://c2.staticflickr.com/8/7423/27196695613_494e63d02b_o.jpg)
 
 * Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a documentary film about the ongoing civil war in Congo, shot on infrared color film. 
+
 ![Richard Mosse's 'The Enclave'](https://c2.staticflickr.com/8/7229/27808128055_55bf700b48_o.png)
 
 * Hey, here's an [infrared time-lapse](https://vimeo.com/58232705) video by Andrew Shurtleff.
+
+![Still from NIR time-lapse by Andrew Shurtleff](https://c2.staticflickr.com/8/7674/27196814663_85e0036718_o.png)
 
 ---
 
 ### X-Ray imaging
 
-#### A Lecture on X-Ray Imaging
-
 #### X-Ray Imaging in the Arts
 
 * [X-ray portraits by Ayako Kanda and Mayuka Hayashi](http://www.boredpanda.com/x-ray-couple-portraits-ayako-kanda-mayuka-hayashi/)
+
+![X-ray portraits by Ayako Kanda and Mayuka Hayashi](https://c2.staticflickr.com/8/7198/27196288194_c64b8f810a_b.jpg)
+
 * [*Lick* by Wim Delvoye](http://curiator.com/art/wim-delvoye/lick-1)
+
+![Lick by Wim Delvoye](https://c2.staticflickr.com/8/7392/27707261232_b627010ce9_b.jpg)
+
 * [*Pinup Calendar* by German ad firm, BUTTER](http://www.themarysue.com/x-ray-pin-up-calendar/)
+
+![Pinup Calendar by BUTTER](https://c2.staticflickr.com/8/7298/27196288294_99546c5c9c_o.jpg)
+
 * [Xograms, by Hugh Turvey](http://www.smithsonianmag.com/arts-culture/x-ray-art-deeper-look-everyday-objects-180949540/?no-ist)
+
 * [*X-Ray Photographic Art* (Survey)](http://www.theapricity.com/forum/showthread.php?147702-X-Ray-Photographic-Art-Seeing-Humans-Nature-Objects-Beneath-The-Surface)
 
 It is also possible to design or arrange objects for the express purpose of having them discovered in X-Ray images. 

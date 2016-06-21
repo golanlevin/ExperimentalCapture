@@ -169,6 +169,9 @@ Sometimes simply presenting such alternative views can be a provocative, enterta
 
 ![Google roof tool](https://c2.staticflickr.com/8/7291/27197574323_469ee6a71a_o.jpg)
 
+* Thermal video was also useful in [visualizing the Porter Ranch methane leak](https://www.youtube.com/watch?v=Jt_DffiFoTY). 
+
+![Thermal video of methane leak](https://c2.staticflickr.com/8/7095/27198201853_2cea60d4ed_o.png)
 
 ---
 
@@ -310,6 +313,8 @@ Some nice videos of polarization and stress visualization:
 Schlieren photography creates images which reveal, and depend on, minute differences in the index of refraction of air. In short, it depends not on a property of light, but on a property of light's medium. 
 
 [Schlieren photography](https://www.youtube.com/watch?v=mLp_rSBzteI)
+
+![Schlieren imaging](https://c2.staticflickr.com/8/7428/27198201623_bf6b85c265_o.png)
 
 --- 
 ### Sonar and Ultrasound

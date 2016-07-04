@@ -1,9 +1,8 @@
 # Experimental Capture
 
 ### Computational & Expanded ███ography
-Prof. [Golan Levin](http://flong.com), Carnegie Mellon University, Fall 2015. <br />
-Course numbers: 16-461 (Robotics Institute), 60-461/761 (Art) <br />
-M/W 1:30-2:50pm, in the STUDIO (CFA-111) and HL-A10A.<br />
+[Golan Levin](http://flong.com), Carnegie Mellon University<br />
+Initially developed Fall 2015 for CMU Course 16-461/60-461/60-761.<br />
 
 > <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and hyperspectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays. Please note that there are usage/materials fees associated with this course.</small>
 
@@ -29,10 +28,10 @@ This is an interdisciplinary course in experimental media practices that arise f
 ### Course Logistics
 
 * [**Deliverables**](docs/deliverables.md)
-   1. [An Object](docs/assignment1-object.md), due 9/23/2015
-   1. [A Person in Time](docs/assignment2-person.md), due 10/21/2015
-   1. A Place, due 11/18/2015
-   1. Final Project, due 12/9/2015
+   1. [An Object](docs/assignment1-object.md)
+   1. [A Person in Time](docs/assignment2-person.md)
+   1. A Place
+   1. Final Project
 * [**Student Area**](students/README.md)
 * [**Tutorials**](docs/tutorials.md)
 * [**Calendar**](docs/calendar.md)
@@ -65,14 +64,8 @@ This is an interdisciplinary course in experimental media practices that arise f
 * [Stereography & Binocular Imaging](docs/binocular-stereography.md)
 * [Experimental Audio Capture](docs/audio.md)
 * [Perspective Capture and Representation](docs/perspective.md)
-
-And:
-
 * *[Portraiture: Capturing People and Movements](docs/portraits.md)*
 * *[Landscape: Capturing Places](docs/places.md)*
-* *[Remarks on Project 3 (Place)](docs/assignment3-remarks.md)*
-* *[Remarks on Final Project Proposals](docs/final-project-proposal-remarks.md)*
-* *[Remarks from Project 4 Interim Critique](docs/assignment4-remarks.md)*
 
 --
 ### Helpful Information 
@@ -83,10 +76,8 @@ And:
 
 ### Other Documents and Resources
 
-* [Submitting Work](docs/submitting-work.md)
 * [Course Code base](code/index.md)
 * [IDeATe Course Lab Fee](docs/course-fee.md)
-* [IDeATe Room Reservation](docs/equipment.md)
 * [Enrollment Questionnaire & FERPA Waiver](docs/ferpa.md)
 
 --- 

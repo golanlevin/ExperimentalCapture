@@ -23,3 +23,8 @@ More:
 Sometimes the camera is moving relative to the reference frame of gravity, but not to the apparent scene:
 
 [Studio Moniker, *Sally*](http://roelwouters.com/sally)
+
+See also 
+
+* Paul Pfeiffer basketball
+* White Glove project

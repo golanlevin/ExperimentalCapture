@@ -9,6 +9,7 @@
 More: 
 
 * [Roel Wouters, Camera Workshop at ECAL](http://gizmodo.com/these-designers-make-boring-old-video-cameras-do-imposs-1444863383)
+* [*Full Circle* from Callum Cooper (Jump Rope Camera)](https://vimeo.com/37077712)
 * [On hula hoops at Burning Man](https://www.youtube.com/watch?v=J9bZ_8lZZfE) (NSFW)
 * [Another camera on a drill](https://www.youtube.com/watch?v=FIJfshJ757s)
 * [Trombone Camera](https://www.youtube.com/watch?v=soDn2puEuL8)

@@ -86,7 +86,7 @@ Step 5: Open up the Black Syphone application on your computer. Select HD 1080p 
 
 Step 6 (Recording with Black Magic software): Use the Blackmagic Media Express software that comes with the Video Desktop installer. This will allow you to record and playback videos. They are captured as non-spherical panoramas. Make sure you go to preferences within the Media Express and click on "Stop playback if dropped frames are downloaded". 
 
-<img src="images/mediaexpress.png" width="600px" />
+<img src="images/mediaexpress.png" width="600px" /> 
 
 OR 
 

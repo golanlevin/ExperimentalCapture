@@ -7,6 +7,21 @@ http://www.amazon.com/Movo-MTP-10-Motorized-Panaromic-Rechargeable/dp/B00RNALPRC
 * [Aleppo Syria in 360-degree video](http://www.ryot.org/syria-virtual-reality-war-zone-welcome-to-aleppo-ryot/940261)
 * LIDAR-scanned woodland, [Marshmallow Laser Feast](http://thecreatorsproject.vice.com/en_au/blog/virtual-reality-lets-you-become-a-mystical-forest-creature?utm_source=tcptwitteranz)
 
+
+## 360-Degree Cameras	
+
+[Fantastic discussion](https://thefulldomeblog.com/2015/11/17/collection-of-360-video-rigs/) of various 360 rigs:
+[![360-video-rig-collection.jpg](images/360-video-rig-collection.jpg)](https://thefulldomeblog.com/2015/11/17/collection-of-360-video-rigs/)
+
+* Ricoh Theta M15 360 ([Tutorial](../students/irene/tutorial-ricoh/tutorial-ricoh.md))
+* V.360 ([Tutorial](../students/irene/tutorial-v360/tutorial-v360.md))
+* [Samsung Gear 360](http://www.samsung.com/global/galaxy/gear-360/)
+* [LG 360 CAM](http://www.lg.com/us/lg-friends/lg-LGR105.AVRZTS-360-cam)
+* [360 Heros](http://www.360heros.com/2014/01/worlds-first-fully-spherical-3d-360-video-and-photo-gear/)
+* [360 fly](http://www.360fly.com/	)
+* [Point Grey](http://ww2.ptgrey.com/spherical-vision)
+
+
 ##Virtual Reality
 (from James George)
 ### VR: People 			
@@ -20,10 +35,6 @@ http://www.amazon.com/Movo-MTP-10-Motorized-Panaromic-Rechargeable/dp/B00RNALPRC
 * [Cardboard]		(https://www.google.com/get/cardboard/)
 * [Gear VR]		(http://www.samsung.com/global/microsite/gearvr/)		
 				
-#### VR: 360-Degree Cameras	
-* [360 Heros]		(http://www.360heros.com/2014/01/worlds-first-fully-spherical-3d-360-video-and-photo-gear/	)
-* [360 fly]		(http://www.360fly.com/	)
-* [Point Grey]		(http://ww2.ptgrey.com/spherical-vision)
 				
 #### VR: Players
 * [VR Player]		(https://vrplayer.codeplex.com/)

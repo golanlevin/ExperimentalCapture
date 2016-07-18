@@ -36,6 +36,7 @@ This workshop introduces some experimental media practices that arise from using
 1. Viewings (10:45-11:30)
 	* [James George at Eyeo2015](https://vimeo.com/134973504) and on [Medium](https://medium.com/@obviousjim/spatialstorytelling-fa4b6ace3e16)
 	* [A brief history of photogrammetry](../docs/Photogrammetry-and-3D-scanning.md)
+	* [3D Capture Flowchart](pdf/3D_capture_flowchart.pdf) by Claire Hentschker
 	* Alex Porter's Photoscan Tutorial #1: [Capturing with Photoscan](https://vimeo.com/123701711)
 	* *Optional viewing*: Alex Porter's Tutorial for [Cleaning Photoscans](https://vimeo.com/123702711)
 

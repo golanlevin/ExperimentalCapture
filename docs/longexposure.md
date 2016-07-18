@@ -2,7 +2,13 @@
 
 ![Long exposure by Matthew Fang](images/long-exposure-matthew-fang.jpg)
 
-Long exposure is an ideal technique for visualizing trajectories, gestures and other movements. Many terrific examples of long-exposure photography can be found in Nicholas Felton's new book, [*PhotoViz*](http://usshop.gestalten.com/photoviz.html), and are discussed in [this terrific lecture at Webstock '15](https://vimeo.com/122852255). 
+Long exposure is an ideal technique for visualizing trajectories, gestures and other movements. *Technically*, we can accomplish long exposures through techniques such as: 
+
+* An actual long exposure, i.e. controlling shutter timing on a DSLR
+* Custom software and other scripts which blend adjacent frames
+* iPhone apps, etc.
+
+Many terrific examples of long-exposure photography can be found in Nicholas Felton's new book, [*PhotoViz*](http://usshop.gestalten.com/photoviz.html), and are discussed in [this terrific lecture at Webstock '15](https://vimeo.com/122852255). 
 
 [![Nick Felton at Webstock](images/felton-webstock.jpg)](https://vimeo.com/122852255)
 

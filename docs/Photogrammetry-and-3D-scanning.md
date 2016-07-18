@@ -1,5 +1,27 @@
 #Photogrammetry and 3D scanning
 
+### History
+
+![durer_perspective.jpg](images/durer_perspective.jpg)
+
+![durer2.jpg](images/durer2.jpg)
+
+![triangulation.jpg](images/triangulation.jpg)
+
+![balloon_patent.png](images/balloon_patent.png)
+
+![stereoplotting-diagram.png](images/stereoplotting-diagram.png)
+
+![Kelsh Stereoplotter](images/kelsh_stereoplotter.jpg)
+
+[Video on the History of Women in Photogrammetry](https://www.youtube.com/watch?v=kzgrwmaurKU)
+
+![woman at stereoplotter](images/woman_at_stereoplotter.jpg)
+
+![stereoplotting-2.jpg](images/stereoplotting-2.jpg)
+
+
+
 ### Tutorials from Specular:
 
 * [Part 1] (https://vimeo.com/specularprojects/photoscan1)

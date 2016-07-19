@@ -6,8 +6,9 @@
 Ordinary video is customarily 25 (Europe) or approximately 30 (USA) frames per second (fps). Slow-motion cinema, also known as *overcranking*, is achieved by using a special camera which can record events at higher frame rates, such as 1000fps. When this video is then played back at the usual frame rate, it appears slowed down. 
 
 Some practical options available to our class are: 
-* The Casio Exilim Pro EX-F1 ($750-1000), which can record low-resolution video at 300, 600, and 1200 frames per-second. The CMU School of Art has one of these; speak with Bob Kollar. 
+* The Casio Exilim Pro EX-F1 ($750-1000), which can record low-resolution video at 300, 600, and 1200 frames per-second. 
 * Another option is the inexpensive Sony PS3-Eye USB webcam ($50) which can record 320x240 video at 120fps, yielding up to a 4x slowdown. 
+* Modern iPhones can achieve 120-240 frames per second.
 * We have an [Edgertronics](http://edgertronic.com/) high-speed camera, capable of up to 18,000 fps. This camera does 720p video at 700 fps. 
 
 Because the exposure time of each frame is so short, high-frame-rate cameras generally require a lot of light. A lighting kit or bright sunshine is essential for good results with slow-motion cameras. 
@@ -38,6 +39,8 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
   * [The Dreamers](https://www.youtube.com/watch?v=mJpv4Z1X3CY)
 1. Sam Taylor-Wood, [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM)
 	* In Sam Taylor-Wood's [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM) (1997), a woman displays extreme emotions in slow-motion. "There are no sounds, so the viewer cannot be certain whether she is moved by joy, despair or both." [Citation](http://www.absolutearts.com/artsnews/2002/01/25/29597.html)
+1. Guillaume Panariello
+  * [*unconditional rebel - siska*](https://vimeo.com/118738368) (music video)
 1. Adam Magyar, *Stainless*
   * High-speed recordings of people on subway platforms. 
   * [Stainless - Shinjuku](https://vimeo.com/77489382)
@@ -55,6 +58,7 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 
 * [Phantom cameras](http://www.visionresearch.com/Products/High-Speed-Cameras/) can achieve about 1.4 million fps. 
 * [Spinning mirror systems](http://www.stanfordcomputeroptics.com/applications/physics/rotating-mirror-camera.html) can achieve 3 million fps. 
+* This camera can capture neurons firing, at [100 billion frames per second](http://www.livescience.com/55296-high-speed-camera-captures-neurons-firing.html).
 * This [trillion-fps camera from MIT](http://video.mit.edu/watch/visualizing-video-at-the-speed-of-light-one-trillion-frames-per-second-9742/) can capture the movement of light *as it travels*. 
 
 ### Audio 

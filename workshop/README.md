@@ -30,7 +30,6 @@ This workshop introduces some experimental media practices that arise from using
 	* [What is a Camera? Conceptual Cameras](../docs/conceptual-cameras.md)
 	* [Perspective Capture and Representation](../docs/perspective.md)
 	* [Moving Cameras (shutter stroboscopy)](../docs/moving-cameras.md)
-	* [Gonioreflectometry](../docs/gonioreflectometry.md)
 
 #### Photogrammetry 
 1. Viewings (10:45-11:30)
@@ -56,20 +55,37 @@ This workshop introduces some experimental media practices that arise from using
 
 ---
 
-### Tuesday and Beyond 
+### Tuesday  
+
+Today's topic is seeing beyond human perception, with: **Multi-spectral imaging** (NIR, UV, Thermal) and **High-speed videography**. We will also look at other forms of **time play**.  
+
+1. Interludes and Appetizers
+	* [Gonioreflectometry](../docs/gonioreflectometry.md)
+	* [Synthesis from Image Databases](../docs/collection-synthesis.md)
+1. Main topics: 
+	* [Multispectral & Hyperspectral Imaging](../docs/hyperspectral.md)
+	* [Overcranking (Slow-Motion/Hi-Speed)](../docs/overcranking.md)
+1. Time Play (Part 1)
+	* [Bullet Time (Array Videography)](../docs/bullettime.md)
+	* [Undercranking and Time Lapse](../docs/undercranking.md)
+	* [Long Exposure and Light Painting](../docs/longexposure.md)
+
+#### Activities and Exercises
+
+1. We will work with the Edgertronic high speed camera. Here's the Edgertronic [Beginner's Guide to High-Speed Video](http://wiki.edgertronic.com/index.php/Beginner's_Guide_to_High_Speed_Video), which may be helpful if you want to know more. 
+
+---
+
+### Wednesday and Beyond  
+
 
 *To be organized on-the-fly, responding to circumstances. A list of activities and lectures we'll draw from throughout the week:*
 
-* [Multispectral & Hyperspectral Imaging](../docs/hyperspectral.md)
+
 * [Capturing and Representing Objects: Still Life & More](../docs/object-references.md)
 * [Gesture recording and playback; 2D & 3D motion capture](../docs/gesture.md)
 * [Photogrammetry and 3D scanning](../docs/Photogrammetry-and-3D-scanning.md)
-* [Overcranking (Slow-Motion)](../docs/overcranking.md)
-* [Undercranking and Time Lapse](../docs/undercranking.md)
-* [Long Exposure and Light Painting](../docs/longexposure.md)
-* [Bullet Time (Array Videography)](../docs/bullettime.md)
 * [Pixillation and Stop-Frame](../docs/pixillation.md)
-* [Synthesis from Image Databases](../docs/collection-synthesis.md)
 * [Backwards (Retrograde) Time](../docs/backwards.md)
 * [Looping (Canon) Time](../docs/looping.md)
 * [Slit Scanning](http://www.flong.com/texts/lists/slit_scan/)

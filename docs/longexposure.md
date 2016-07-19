@@ -8,7 +8,7 @@ Long exposure is an ideal technique for visualizing trajectories, gestures and o
 * Custom software and other scripts which blend adjacent frames
 * iPhone apps, etc.
 
-Many terrific examples of long-exposure photography can be found in Nicholas Felton's new book, [*PhotoViz*](http://usshop.gestalten.com/photoviz.html), and are discussed in [this terrific lecture at Webstock '15](https://vimeo.com/122852255). 
+Many terrific examples of long-exposure photography can be found in Nicholas Felton's new book, [*PhotoViz*](http://usshop.gestalten.com/photoviz.html), and are discussed in [this terrific lecture at Webstock '15](https://vimeo.com/122852255). Felton speaks about how "the intersection of photography and data visualization is a place where optical techniques reveal complex phenomena and data viz starts to resemble a photographic process."
 
 [![Nick Felton at Webstock](images/felton-webstock.jpg)](https://vimeo.com/122852255)
 

@@ -71,6 +71,19 @@ Neil Kandalgaonkar, *[50 People See](http://neilk.net/blog/2005/03/15/50-people-
 ![Corinne Vionnet's Photo Opportunities](images/image-averaging/corinne-vionnet-photoopportunities.jpg)<br />
 More recently, in her series "*Photo Opportunities*", artist [Corinne Vionnet](http://www.corinnevionnet.com/-photo-opportunities.html) works to create landscapes generated from *thousands* of tourist photos. An important difference is that she takes efforts to align them first. ([Additional article](http://petapixel.com/2013/10/23/photo-opportunities-interview-artist-corinne-vionnet/))
 
+## Temporal Composites 
+
+Cassandra C. Jones has pioneered a type of temporalized composite using found (Internet) imagery, which she calls [*Snap-Motion Re-Animations*](http://www.cassandracjones.com/snap-motion-re-animations).
+
+An examples is her 2004 project, *Eventide*, comprised from more than 1300 carefully aligned and sequenced sunsets, which recreates the timing of an actual sunset.
+
+![Cassandra C. Jones: Eventide (2004)](images/eventide.png)
+
+![Cassandra C. Jones: Eventide (2004)](images/eventide.jpg)
+
+
+
+
 ## 3D Spatio-Temporal Composites
 
 * Microsoft Photosynth [develops 3D models from thousands of tagged tourist photos](http://phototour.cs.washington.edu/).

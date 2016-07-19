@@ -72,7 +72,9 @@ Today's topic is seeing beyond human perception, with: **Multi-spectral imaging*
 
 #### Activities and Exercises
 
-1. We will work with the Edgertronic high speed camera. Here's the Edgertronic [Beginner's Guide to High-Speed Video](http://wiki.edgertronic.com/index.php/Beginner's_Guide_to_High_Speed_Video), which may be helpful if you want to know more. 
+1. We will have demonstrations of IR, Thermal, and UV videography. 
+1. We will have demonstrations of the Edgertronic high speed camera. Here's the Edgertronic [Beginner's Guide to High-Speed Video](http://wiki.edgertronic.com/index.php/Beginner's_Guide_to_High_Speed_Video), which may be helpful if you want to know more. 
+1. Participants are free to work with any of the above. 
 
 ---
 

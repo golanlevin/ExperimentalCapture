@@ -96,9 +96,9 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 	* UV, NIR, Thermal imaging (FLIR)
 	* High-speed imaging (Edgertronic) 
 1. We will also do some extended imaging with
-	* Catadioptric omnidirectional/panoramic lens devices
-	* Double-fisheye lens devices 
-	* Stereo devices
+	* Catadioptric omnidirectional/panoramic lens devices, using the [Sony Bloggie](http://www.flong.com/blog/2010/open-source-panoramic-video-bloggie-openframeworks-processing/), and [CatadioptricUnwarp360](https://github.com/danzeeeman/CatadioptricUnwarp360)
+	* Double-fisheye lens devices; Hugin & Autopano (Crecord) 
+	* Stereo devices, depth from stereo 
 
 ---
 

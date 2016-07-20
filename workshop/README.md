@@ -82,6 +82,8 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 	* [360 into youtube, by Claire](pdf/360_video_for_youtube.pdf)
 	* [Stereography & Binocular Imaging](../docs/binocular-stereography.md)
 
+[Google's YouTube MetaData Injector (to display equirectangular video in YouTube as a navigable space)](download/360.Video.Metadata.Tool.mac.zip)
+
 1. Time Play
 	* [Bullet Time (Array Videography)](../docs/bullettime.md)
 	* [Undercranking and Time Lapse](../docs/undercranking.md)

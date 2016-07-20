@@ -45,6 +45,7 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
   * High-speed recordings of people on subway platforms. 
   * [Stainless - Shinjuku](https://vimeo.com/77489382)
   * [Stainless, 42 Street](https://vimeo.com/83664407)
+  * [Interview with Magyar](https://medium.com/matter/einsteins-camera-88aa8a185898)
 1. Luke DuBois, [Vertical Music](https://vimeo.com/41507465) (2012). A chamber piece written for 12 players, lasting 4 1/2 minutes. Each musician was filmed individually in several takes using a high-speed (300fps) camera and an extremely high definition (1 MHz) analog-to-digital audio recording setup. When played back at 30fps, total time is ~45 minutes.
 
 1. Julien Maire, [*Double-Face* and *Ordonner*](http://julienmaire.ideenshop.net/project3.shtml)

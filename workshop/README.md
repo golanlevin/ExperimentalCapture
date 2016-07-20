@@ -57,18 +57,13 @@ This workshop introduces some experimental media practices that arise from using
 
 ### Tuesday  
 
-Today's topic is seeing beyond human perception, with: **Multi-spectral imaging** (NIR, UV, Thermal) and **High-speed videography**. We will also look at other forms of **time play**.  
+Today's topic is seeing beyond human perception, with: **Multi-spectral imaging** (NIR, UV, Thermal) and **High-speed videography**. 
 
 1. Interludes and Appetizers
-	* [Gonioreflectometry](../docs/gonioreflectometry.md)
 	* [Synthesis from Image Databases](../docs/collection-synthesis.md)
 1. Main topics: 
 	* [Multispectral & Hyperspectral Imaging](../docs/hyperspectral.md)
 	* [Overcranking (Slow-Motion/Hi-Speed)](../docs/overcranking.md)
-1. Time Play (Part 1)
-	* [Bullet Time (Array Videography)](../docs/bullettime.md)
-	* [Undercranking and Time Lapse](../docs/undercranking.md)
-	* [Long Exposure and Light Painting](../docs/longexposure.md)
 
 #### Activities and Exercises
 
@@ -78,11 +73,38 @@ Today's topic is seeing beyond human perception, with: **Multi-spectral imaging*
 
 ---
 
-### Wednesday and Beyond  
+### Wednesday
 
+Today's topic is **panoramic imaging**. We will also look at other forms of **time play**.  
+
+1. Main Topics
+	* [Panoramic, 360-degree, and environmental capture](../docs/environmental-capture.md)
+	* [Stereography & Binocular Imaging](../docs/binocular-stereography.md)
+
+1. Time Play
+	* [Bullet Time (Array Videography)](../docs/bullettime.md)
+	* [Undercranking and Time Lapse](../docs/undercranking.md)
+	* [Long Exposure and Light Painting](../docs/longexposure.md)
+	* [Slit Scanning](http://www.flong.com/texts/lists/slit_scan/)
+1. Additional Interludes and Appetizers
+	* [Gonioreflectometry](../docs/gonioreflectometry.md) 
+	
+#### Activities and Exercises
+
+1. Today, those who wish may continue explorations with:
+	* Photogrammetry (Photoscan, iSense)
+	* UV, NIR, Thermal imaging (FLIR)
+	* High-speed imaging (Edgertronic) 
+1. We will also do some extended imaging with
+	* Catadioptric omnidirectional/panoramic lens devices
+	* Double-fisheye lens devices 
+	* Stereo devices
+
+---
+
+### Thursday and Beyond
 
 *To be organized on-the-fly, responding to circumstances. A list of activities and lectures we'll draw from throughout the week:*
-
 
 * [Capturing and Representing Objects: Still Life & More](../docs/object-references.md)
 * [Gesture recording and playback; 2D & 3D motion capture](../docs/gesture.md)
@@ -90,9 +112,6 @@ Today's topic is seeing beyond human perception, with: **Multi-spectral imaging*
 * [Pixillation and Stop-Frame](../docs/pixillation.md)
 * [Backwards (Retrograde) Time](../docs/backwards.md)
 * [Looping (Canon) Time](../docs/looping.md)
-* [Slit Scanning](http://www.flong.com/texts/lists/slit_scan/)
-* [Panoramic, 360-degree, and environmental capture](../docs/environmental-capture.md)
-* [Stereography & Binocular Imaging](../docs/binocular-stereography.md)
 * [Experimental Audio Capture](../docs/audio.md)
 * *[Portraiture: Capturing People and Movements](../docs/portraits.md)*
 * *[Landscape: Capturing Places](../docs/places.md)*

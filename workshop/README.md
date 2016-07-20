@@ -79,6 +79,7 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 
 1. Main Topics
 	* [Panoramic, 360-degree, and environmental capture](../docs/environmental-capture.md)
+	* [360 into youtube, by Claire](pdf/360_video_for_youtube.pdf)
 	* [Stereography & Binocular Imaging](../docs/binocular-stereography.md)
 
 1. Time Play

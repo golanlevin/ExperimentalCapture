@@ -13,6 +13,13 @@ http://www.amazon.com/Movo-MTP-10-Motorized-Panaromic-Rechargeable/dp/B00RNALPRC
 [Fantastic discussion](https://thefulldomeblog.com/2015/11/17/collection-of-360-video-rigs/) of various 360 rigs:
 [![360-video-rig-collection.jpg](images/360-video-rig-collection.jpg)](https://thefulldomeblog.com/2015/11/17/collection-of-360-video-rigs/)
 
+There are two main types of 360-degree panoramic cameras: 
+* Single-lens omnidirectional cameras (generally using [Folded catadioptric panoramic lenses](http://www1.cs.columbia.edu/CAVE/projects/cat_cam_360/))
+* Cameras that stitch images from several lenses (often fisheyes) together. 
+
+Examples include: 
+
+* [Sony Bloggie](http://www.flong.com/blog/2010/open-source-panoramic-video-bloggie-openframeworks-processing/)
 * Ricoh Theta M15 360 ([Tutorial](../students/irene/tutorial-ricoh/tutorial-ricoh.md))
 * V.360 ([Tutorial](../students/irene/tutorial-v360/tutorial-v360.md))
 * [Samsung Gear 360](http://www.samsung.com/global/galaxy/gear-360/)

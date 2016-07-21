@@ -119,7 +119,7 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 #### Activities and Exercises
 
 1. Demonstrations of: 
-	* [FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/releases) / [video](https://vimeo.com/26098366)
+	* [FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/releases) / [video](https://vimeo.com/26098366) / [Templates](https://github.com/CreativeInquiry/FaceOSC-Templates)
 	* [EyeOSC](https://github.com/kylemcdonald/AppropriatingNewTechnologies/downloads)
 	* [TouchOSC](http://hexler.net/docs/touchosc-setup-other)
 	* [OpenTSPS](http://www.tsps.cc/)

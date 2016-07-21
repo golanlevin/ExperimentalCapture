@@ -81,7 +81,7 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 	* [Panoramic, 360-degree, and environmental capture](../docs/environmental-capture.md)
 	* [360 into youtube, by Claire](pdf/360_video_for_youtube.pdf)
 	* [Stereography & Binocular Imaging](../docs/binocular-stereography.md)
-		* Computing a [depth map from stereo images](https://github.com/CreativeInquiry/stereobm_depth_map)
+		* Computing a [depth map from stereo images](https://github.com/CreativeInquiry/stereobm_depth_map), [download binary](download/stereobm_depth_map.zip)
 
 [Google's YouTube MetaData Injector (to display equirectangular video in YouTube as a navigable space)](download/360.Video.Metadata.Tool.mac.zip)
 

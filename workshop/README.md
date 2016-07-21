@@ -119,11 +119,12 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 #### Activities and Exercises
 
 1. Demonstrations of: 
-	* KinectV2OSC
-	* FaceOSC
-	* EyeOSC
-	* TouchOSC
-	* OpenTSPS
+	* [FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/releases) / [video](https://vimeo.com/26098366)
+	* [EyeOSC](https://github.com/kylemcdonald/AppropriatingNewTechnologies/downloads)
+	* [TouchOSC](http://hexler.net/docs/touchosc-setup-other)
+	* [OpenTSPS](http://www.tsps.cc/)
+	* [LEAP controller](https://github.com/nok/leap-motion-processing)
+	* [KinectV2OSC](https://github.com/microcosm/KinectV2-OSC)
 2. DepthKit (RGBD Toolkit)
 
 

@@ -72,7 +72,7 @@ Additionally:
 * [Computational Portraiture](http://prostheticknowledge.tumblr.com/post/101297249296/computational-portraiture-a-class-at-nyu-itp-run) (link from James George)
 * Luke DuBois, [Fashionably Late for the Relationship](https://vimeo.com/30496329), (2008). Using a visual averaging computational process, a three-day long public performance by Lián Amaris Sifuentes was algorithmically time-compressed into a 63 minute video work.
 * [Dove Evolution](https://www.youtube.com/watch?v=iYhCn0jf46U)
-Sam Taylor-Wood, [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM)
+* Sam Taylor-Wood, [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM)
 * In Sam Taylor-Wood's [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM) (1997), a woman displays extreme emotions in slow-motion. "There are no sounds, so the viewer cannot be certain whether she is moved by joy, despair or both." [Citation](http://www.absolutearts.com/artsnews/2002/01/25/29597.html)*
 * John Gerrard, ["Infinite Freedom Exercise" (2011)](https://www.youtube.com/watch?v=xUKC11NEK0A), [landscapes](https://www.youtube.com/watch?v=R9t2ApMEPX0)
 

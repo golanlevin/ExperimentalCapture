@@ -81,6 +81,7 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 	* [Panoramic, 360-degree, and environmental capture](../docs/environmental-capture.md)
 	* [360 into youtube, by Claire](pdf/360_video_for_youtube.pdf)
 	* [Stereography & Binocular Imaging](../docs/binocular-stereography.md)
+		* Computing a [depth map from stereo images](https://github.com/CreativeInquiry/stereobm_depth_map)
 
 [Google's YouTube MetaData Injector (to display equirectangular video in YouTube as a navigable space)](download/360.Video.Metadata.Tool.mac.zip)
 
@@ -88,9 +89,6 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 	* [Bullet Time (Array Videography)](../docs/bullettime.md)
 	* [Undercranking and Time Lapse](../docs/undercranking.md)
 	* [Long Exposure and Light Painting](../docs/longexposure.md)
-	* [Slit Scanning](http://www.flong.com/texts/lists/slit_scan/)
-1. Additional Interludes and Appetizers
-	* [Gonioreflectometry](../docs/gonioreflectometry.md) 
 	
 #### Activities and Exercises
 
@@ -105,7 +103,34 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 
 ---
 
-### Thursday and Beyond
+### Thursday 
+
+1. Mini Lectures
+	* [Gonioreflectometry](../docs/gonioreflectometry.md) 
+	* [Slit Scanning](http://www.flong.com/texts/lists/slit_scan/)
+	* [Expanded Audio Capture](../docs/audio.md)
+1. Also on deck to view: 
+	* [James George & Jonathan Minard, *CLOUDS*](http://cloudsdocumentary.com/)
+	* [Paul Debevec's *light stage rendering*](http://www.pauldebevec.com/Research/LS/)
+	* [Sophie Kahn](http://www.sophiekahn.net/#!Laura:RGB, 2011/zoom/c199t/image1afu)
+	* [Computational Portraiture](http://prostheticknowledge.tumblr.com/post/101297249296/computational-portraiture-a-class-at-nyu-itp-run) (link from James George)
+	* [Sophie Kahn](http://www.sophiekahn.net/)
+
+#### Activities and Exercises
+
+1. Demonstrations of: 
+	* KinectV2OSC
+	* FaceOSC
+	* EyeOSC
+	* TouchOSC
+	* OpenTSPS
+2. DepthKit (RGBD Toolkit)
+
+
+-- 
+
+### Beyond
+
 
 *To be organized on-the-fly, responding to circumstances. A list of activities and lectures we'll draw from throughout the week:*
 
@@ -115,7 +140,6 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 * [Pixillation and Stop-Frame](../docs/pixillation.md)
 * [Backwards (Retrograde) Time](../docs/backwards.md)
 * [Looping (Canon) Time](../docs/looping.md)
-* [Experimental Audio Capture](../docs/audio.md)
 * *[Portraiture: Capturing People and Movements](../docs/portraits.md)*
 * *[Landscape: Capturing Places](../docs/places.md)*
 

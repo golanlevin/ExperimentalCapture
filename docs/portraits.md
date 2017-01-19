@@ -1,8 +1,51 @@
-# Person in Time References
+# Portraits: References
 
 ---
+Andy Warhol, [*Screen Tests*](https://www.youtube.com/watch?v=hLW_sXv44Uc) (1960s)
+[![Andy Warhol](images/warhol-edie.jpg)](https://www.youtube.com/watch?v=hLW_sXv44Uc)
 
-Last week, we viewed:
+Andy Warhol, [*Time Capsules*](http://www.phaidon.com/agenda/art/articles/2014/january/03/opening-warhols-time-capsules/)
+![Andy Warhol](images/warhol-crates.jpg)
+
+---
+Stacy Greene, [*Lipsticks*](http://stacygreene.com/portfolio/lipsticks/) (1992)
+[![Stacey Greene](images/datavis_lipstick_greene2.jpg)](http://stacygreene.com/portfolio/lipsticks/)
+
+---
+Felix Gonzalez-Torres, [Hide/Seek: "Untitled" (Portrait of Ross in L.A.)](http://www.artbabble.org/video/npg/hideseek-untitled-portrait-ross-la-felix-gonzalez-torres) (1991)
+
+[![Felix Gonzalez-Torres](images/torres.jpg)](http://www.artbabble.org/video/npg/hideseek-untitled-portrait-ross-la-felix-gonzalez-torres)
+
+---
+Peter Menzel, [*Material World*](http://www.npr.org/sections/pictureshow/2010/08/10/129113632/picturingpossessions)
+[![Peter Menzel](images/family.jpg)]
+
+--- 
+Heather Dewey-Hagborg, [*Stranger Visions*](http://deweyhagborg.com/projects/stranger-visions) (2013)
+![Heather Dewey-Hagborg](images/DeweyHagborg.jpg)![Heather Dewey-Hagborg](images/heather-dewey-hagborg-ted-scrn.jpg)
+
+---
+Hasan Elahi, [*self-tracking*](https://www.ted.com/talks/hasan_elahi) (2002-)
+![, [*self-tracking*](https://www.ted.com/talks/hasan_elahi) ](images/elahi_beds_fullpage.jpg)
+
+---
+Jill Magid, [*Evidence Locker*](http://www.jillmagid.com/projects/evidence-locker-2) (2004)
+![Jill Magid](images/magid.jpg)
+
+--- 
+Jason Salavon, [*Portrait*](http://www.salavon.com/work/Portrait/) (2009)![](images/salavon-portrait.jpg)
+
+---
+Rollin Leonard, [*Crash Kiss*](http://rollinleonard.com/2016/Crash%20Kiss%20Kate%20Rollin%20animation/) (2013)
+![Rollin Leonard](images/crashkiss.jpg)
+
+---
+Shan Huang, [Quantified Selfie: Browser History Visualization*](http://golancourses.net/2014/shan/03/06/project-3-shan-browser-history-visualization/) (2014)
+![Shan Huang](images/shan_huang_fullpage.png)
+
+
+---
+###Links
 
 * [Akten & Quayola, *Forms*](http://www.memo.tv/forms/)
 * [Matt Pyke et al., *Furry's Posse*](https://vimeo.com/7467703)
@@ -17,7 +60,7 @@ Last week, we viewed:
   * [Six Heads (The Passions)](https://www.youtube.com/watch?v=RnVCJJeuFaE)
   * [Observance (2002)](https://www.youtube.com/watch?v=TCiQBOkt-rs)
   * [The Dreamers](https://www.youtube.com/watch?v=mJpv4Z1X3CY)
-* [Rollin Leonard	Lilia360](http://rollinleonard.com/projects/2013/lilia360/)
+* [Rollin Leonard, Crash Portraits](http://rollinleonard.com/projects/2013/lilia360/)
 * [Sophie Kahn](http://www.sophiekahn.net/#!Laura:RGB, 2011/zoom/c199t/image1afu)
 * [Marshmallow Laser Feast	Duologue - Memex](https://www.youtube.com/watch?v=dFrdG-ZPVLQ)
 * [Michael Arrigo, Visualizing Melinda](https://vimeo.com/117179641)
@@ -28,6 +71,7 @@ Last week, we viewed:
 * [Mike Pelletier, *Kinect Portraits*](http://mikepelletier.nl/Kinect-Portraits-1)
 * [Dmitry Zakharov, Inside Me](https://vimeo.com/106671329)
 * [Mark Payne	](http://metredux.tumblr.com/)
+* [Rachel Strickland, *Portable Portraits*](https://vimeo.com/9364721)
 
 We also viewed: 
 

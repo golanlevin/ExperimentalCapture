@@ -23,39 +23,53 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
   * [Paul Ekman on microexpressions](https://www.youtube.com/watch?v=EXm6YbXxSYk)
   * [David Matsumoto on A-Rod microexpressions](https://www.youtube.com/watch?v=bu3ayOWHX0w)
 
+---
+
 1. Miscellaneous Slow-Motion Experiments on the Internet
   * There is all manner of slow-motion tomfoolery on the internet. 
   * [Time Warp: Water balloon hits face](https://www.youtube.com/watch?v=90VyvOhPmA0)
+
+[![Water balloon](images/Water_Balloon_Face.gif)](https://www.youtube.com/watch?v=90VyvOhPmA0) 
+
   * [High speed video of man blowing raspberry](https://www.youtube.com/watch?v=cWGn6_EH2gM)
 
-![Raspberry](images/raspberry.gif) 
+[![Raspberry](images/raspberry.gif)](https://www.youtube.com/watch?v=cWGn6_EH2gM) 
  
   * [Face slap](https://www.youtube.com/watch?v=7AXB8nGq5jc)
   * [Baby laugh, with audio](https://www.youtube.com/watch?v=8igSA8HdR_Q)
-  * [Ultraslo stock clips](http://www.ultraslo.com/)
+  * ['Ultraslo' stock clips](http://www.ultraslo.com/)
   * [High speed video clip database, Colorado State](http://high_speed_video.colostate.edu/)
 
-  
-1. Bill Viola: [*The Passions*](http://www.getty.edu/art/exhibitions/viola/art.html)
+--
+
+1. Bill Viola: [*The Passions*, at the Getty](http://www.getty.edu/art/exhibitions/viola/art.html)
   * [The Quintet of the Astonished](https://www.youtube.com/watch?v=MR9av-I35ME)
 
-![Bill Viola](images/viola.jpg)
+[![Bill Viola](images/viola.jpg)](https://www.youtube.com/watch?v=MR9av-I35ME)
 
   * [Silent Mountain](https://www.youtube.com/watch?v=e2Eam0GMjZg)
   * [The making of Emergence](https://www.youtube.com/watch?v=hx5Cu7U-Fkg)
   * [Six Heads (The Passions)](https://www.youtube.com/watch?v=x1mGaf1lElo)
+
+![Bill Viola, Six Heads](images/Six_Heads_Bill_Viola_2000.gif)
+ 
   * [Observance (2002)](https://www.youtube.com/watch?v=aiz19J-wVnE)
   * [The Dreamers](https://www.youtube.com/watch?v=mJpv4Z1X3CY)
+
+[![Bill Viola, The Dreamers](images/The_Dreamers_Bill_Viola_1.gif)](https://www.youtube.com/watch?v=mJpv4Z1X3CY)
+
+[![Bill Viola, The Dreamers](images/The_Dreamers_Bill_Viola_2.gif)](https://www.youtube.com/watch?v=mJpv4Z1X3CY)
+
 
 1. Sam Taylor-Wood, [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM)
 	* In Sam Taylor-Wood's [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM) (1997), a woman displays extreme emotions in slow-motion. "There are no sounds, so the viewer cannot be certain whether she is moved by joy, despair or both." [Citation](http://www.absolutearts.com/artsnews/2002/01/25/29597.html)
 
-![Sam Taylor-Wood](images/taylor-wood.jpg)
+[![Sam Taylor-Wood](images/taylor-wood.jpg)](https://www.youtube.com/watch?v=33PZhpay8gM)
 	
 1. Guillaume Panariello
   * [*unconditional rebel - siska*](https://vimeo.com/118738368) (music video)
 
-![Panariello](images/panariello.jpg)
+[![Panariello](images/panariello.jpg)](https://vimeo.com/118738368) (music video)
 
 1. Adam Magyar, *Stainless*
   * High-speed recordings of people on subway platforms. 
@@ -63,22 +77,33 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
   * [Stainless, 42 Street](https://vimeo.com/83664407)
   * [Interview with Magyar](https://medium.com/matter/einsteins-camera-88aa8a185898)
   
-![Magyar](images/magyar.jpg)
+[![Magyar](images/magyar.jpg)](https://vimeo.com/83664407)
   
 1. Luke DuBois, [Vertical Music](https://vimeo.com/41507465) (2012). A chamber piece written for 12 players, lasting 4 1/2 minutes. Each musician was filmed individually in several takes using a high-speed (300fps) camera and an extremely high definition (1 MHz) analog-to-digital audio recording setup. When played back at 30fps, total time is ~45 minutes.
 
-![DuBois](images/dubois-slowmo.jpg)
+[![Luke DuBois, Vertical Music](images/dubois-slowmo.jpg)](https://vimeo.com/41507465) 
+
+---
 
 1. Julien Maire, [*Double-Face* and *Ordonner*](http://julienmaire.ideenshop.net/project3.shtml)
+
+![Julien Maire, Ordonner](images/julien_maire_1.jpg)
+
   * French new-media artist Julien Maire plays fun on the concept of slow-motion cinema in these elaborately conceived simulacra, which are not actually presented in slow-motion. In one live performance (*Ordonner*), he heaves "heavy-looking" cardboard boxes which are in reality filled with helium balloons; their slow, gentle tumble through the air is a near-perfect imitation of slowmo video. In Maire's *Double-Face* performance, a coin tossed in the air tumbles ever more slowly until it eventually comes to a rest in mid-air; in fact, the coin is controlled by a mechatronic suspension system with nearly invisible guy-wires.
   * [*Double-Face* ](images/julien_maire_df_perf.mov), http://julienmaire.ideenshop.net/mov/df_perf.mov
   * [*Ordonner*](images/julien_maire_or_perf.mov), http://julienmaire.ideenshop.net/mov/or_perf.mov
-1. The Dancing Pigeons, [*Ritalin*](https://vimeo.com/13639493) (Music video, 2010)
-![Ritalin by the Dancing Pigeons](images/ritalin.jpg)
-1. Steve Giralt, [Burger Assembly](http://nofilmschool.com/2016/08/how-capture-slow-mo-burger-drop-robots-phantom-flex4k-camera) (slow-mo plus robot arm) [Vimeo](https://vimeo.com/178939743)
-![Burger by Steve Giralt](images/burger.jpg)
 
-1. The Beatles, *Help* ("Relativity Condenser")
+---
+
+1. The Dancing Pigeons, [*Ritalin*](https://vimeo.com/13639493) (Music video, 2010)
+[![Ritalin by the Dancing Pigeons](images/ritalin.jpg)](https://vimeo.com/13639493) (Music video, 2010)
+
+---
+
+1. Steve Giralt, [Burger Assembly](http://nofilmschool.com/2016/08/how-capture-slow-mo-burger-drop-robots-phantom-flex4k-camera) (slow-mo plus robot arm) [Vimeo](https://vimeo.com/178939743)
+[![Burger by Steve Giralt](images/burger.jpg)](https://vimeo.com/178939743)
+
+---
 
 ### Some Really Really Fast Cameras
 

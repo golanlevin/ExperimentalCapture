@@ -18,7 +18,7 @@ Felix Gonzalez-Torres, [Hide/Seek: "Untitled" (Portrait of Ross in L.A.)](http:/
 
 ---
 Peter Menzel, [*Material World*](http://www.npr.org/sections/pictureshow/2010/08/10/129113632/picturingpossessions)
-[![Peter Menzel](images/family.jpg)]
+[![Peter Menzel](images/family.jpg)](http://www.npr.org/sections/pictureshow/2010/08/10/129113632/picturingpossessions)
 
 --- 
 Heather Dewey-Hagborg, [*Stranger Visions*](http://deweyhagborg.com/projects/stranger-visions) (2013)
@@ -52,7 +52,7 @@ Shan Huang, [Quantified Selfie: Browser History Visualization*](http://golancour
 * [Universal Everything, *Walking City*](https://vimeo.com/85596568)
 * [audio](http://audio.theguardian.tv/sys-audio/Arts/Culture/2007/01/24/yellowhammerfinal.mp3) and then [Marcus Coates, *Dawn Chorus*](https://www.youtube.com/watch?v=PCCpnDtgxXk) 
 * [*Visible Human Project*](https://www.youtube.com/watch?v=dPPjUtiAGYs) and [Croix Gagnon and Frank Schott, *12:31*](http://www.project1231.com/)
-* [JK Keller's daily photos, 16 years](https://www.youtube.com/watch?v=XjSfaRzbAHc)
+* [JK Keller's daily photos, 16 years](https://www.youtube.com/watch?v=CcLPn46Xsv8)
 * Bill Viola: [*The Passions*](http://www.getty.edu/art/exhibitions/viola/art.html)
   * [The Quintet of the Astonished](https://www.youtube.com/watch?v=As7OtWMYPRc)
   * [Silent Mountain](https://www.youtube.com/watch?v=e2Eam0GMjZg)

@@ -20,6 +20,10 @@ This lecture is intended to provoke reconsiderations about what a camera "is" or
 
 Ross Goodwin has also made a similar [Sentient Surveillance Camera](http://motherboard.vice.com/read/sentient-surveillance-camera).
 
+Kyle McDonald has made [a system that does this in real-time](https://vimeo.com/146492001), *Neural Talk and Walk*, using neural networks in OpenFrameworks.
+
+[![Neural Talk and Walk](images/neural-talk.png)](https://vimeo.com/146492001)<br />
+
 -- 
 
 ### Camera Restricta

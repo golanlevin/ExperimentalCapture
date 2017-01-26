@@ -8,8 +8,8 @@ Ordinary video is customarily 25 (Europe) or approximately 30 (USA) frames per s
 Some practical options available to our class are: 
 * Modern iPhones can achieve 120-240 frames per second.
 * We have an [Edgertronics](http://edgertronic.com/) high-speed camera, capable of up to 18,000 fps. This camera does 720p video at 700 fps. 
-* The School of Art has a Casio Exilim Pro EX-F1 ($750-1000), which can record low-resolution video at 300, 600, and 1200 frames per-second. 
-* Another option is the inexpensive Sony PS3-Eye USB webcam (less than $50). Using Chris Baker's addon for openFrameworks, the PS3 eye can achieve can record 320x240 video at frame rates of 60,120, 180, and (with some glitches) 205 fps, yielding up to a 8x slowdown.
+* We have a Casio Exilim Pro EX-F1 ($750-1000), which can record low-resolution video at 300, 600, and 1200 frames per-second. 
+* Another option is the inexpensive Sony PS3-Eye USB webcam (less than $50). Using Chris Baker's addon for openFrameworks, the PS3 eye can achieve can record 320x240 video at frame rates of 60,120, 187, and (with some glitches) 205 fps, yielding up to a 8x slowdown.
 
 Because the exposure time of each frame is so short, high-frame-rate cameras generally require a lot of light. A lighting kit or bright sunshine is essential for good results with slow-motion cameras. 
 

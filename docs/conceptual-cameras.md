@@ -24,6 +24,10 @@ Kyle McDonald has made [a system that does this in real-time](https://vimeo.com/
 
 [![Neural Talk and Walk](images/neural-talk.png)](https://vimeo.com/146492001)<br />
 
+The opposite of this is [WordsEye](http://www.wordseye.com/). Try it!
+
+[![Wordseye](images/wordseye.png)](http://www.wordseye.com/)<br />
+
 -- 
 
 ### Camera Restricta

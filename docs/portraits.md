@@ -43,8 +43,8 @@ Rollin Leonard, [*Crash Kiss*](http://rollinleonard.com/2016/Crash%20Kiss%20Kate
 Shan Huang, [Quantified Selfie: Browser History Visualization*](http://golancourses.net/2014/shan/03/06/project-3-shan-browser-history-visualization/) (2014)
 ![Shan Huang](images/shan_huang_fullpage.png)
 
-
 ---
+
 ###Links
 
 * [Akten & Quayola, *Forms*](http://www.memo.tv/forms/)

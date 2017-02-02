@@ -2,7 +2,7 @@
 
 ---
 
-*More rule-based approaches to portraiture, with or without computation.*
+*More rule-based approaches to portraiture (both with, and without, computation).*
 
 ---
 
@@ -18,15 +18,14 @@ Some more 3D portraits:
 
 [Bob Sabiston, *Project Incognito*](https://youtu.be/xX5m3LqjuUc) (1997)
 
-Very early work by the creator of *The Waking Life* and *A Scanner Darkly*. 
+Very early work by the creator of [*The Waking Life*](https://www.youtube.com/watch?v=6DLga_hRwcQ) and [*A Scanner Darkly*](https://www.youtube.com/watch?v=hkjDUERgCQw). 
 
 ![Bob Sabiston, *Project Incognito*](images/sabiston_incognito_1997.jpg)
 
-Sabiston used forces, computed from optical flow, to buffet vector-based drawings. 
+Sabiston's custom software applied forces, computed using optical flow, to buffet particles comprising vector-based drawings. Kyle McDonald's [ofxCv addon for openFrameworks](https://github.com/kylemcdonald/ofxCv) includes an example with two different optical flow algorithms. 
 
 ![optical flow](images/opticalflow.gif)
  
-
 ---
 
 [Rachel Strickland, *Portable Portraits*](https://vimeo.com/9364721) (1990s)

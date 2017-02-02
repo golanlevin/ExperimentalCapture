@@ -20,7 +20,7 @@ Some more 3D portraits:
 
 Very early work by the creator of *The Waking Life* and *A Scanner Darkly*. 
 
-![Bob Sabiston, *Project Incognito*](images/sabiston.jpg)
+![Bob Sabiston, *Project Incognito*](images/sabiston_incognito_1997.jpg)
 
 Sabiston used forces, computed from optical flow, to buffet vector-based drawings. 
 

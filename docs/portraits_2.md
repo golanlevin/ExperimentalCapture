@@ -22,7 +22,7 @@ Very early work by the creator of [*The Waking Life*](https://www.youtube.com/wa
 
 ![Bob Sabiston, *Project Incognito*](images/sabiston_incognito_1997.jpg)
 
-Sabiston's custom software applied forces, computed using optical flow, to buffet particles comprising vector-based drawings. Kyle McDonald's [ofxCv addon for openFrameworks](https://github.com/kylemcdonald/ofxCv) includes an example with two different optical flow algorithms. 
+Sabiston's custom software applied forces, computed using optical flow, to buffet particles comprising vector-based drawings. Kyle McDonald's [ofxCv addon for openFrameworks](https://github.com/kylemcdonald/ofxCv) includes an example with two different optical flow algorithms. There's also an [implementation for Processing](https://www.openprocessing.org/sketch/84287) (Java).
 
 ![optical flow](images/opticalflow.gif)
  

@@ -16,6 +16,19 @@ Some more 3D portraits:
 
 ---
 
+[Bob Sabiston, *Project Incognito*](https://youtu.be/xX5m3LqjuUc) (1997)
+
+Very early work by the creator of *The Waking Life* and *A Scanner Darkly*. 
+
+![Bob Sabiston, *Project Incognito*](images/sabiston.jpg)
+
+Sabiston used forces, computed from optical flow, to buffet vector-based drawings. 
+
+![optical flow](images/opticalflow.gif)
+ 
+
+---
+
 [Rachel Strickland, *Portable Portraits*](https://vimeo.com/9364721) (1990s)
 
 Interviews with people about the contents of their bags, and other portable effects. 

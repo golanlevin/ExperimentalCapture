@@ -326,7 +326,7 @@ Schlieren photography creates images which reveal, and depend on, minute differe
 It's well-known that bats and dolphins image the world through ultrasonic reflections. 
 
 But were you aware of *human echolocation*? Here are three different individuals, who despite being blind are able to map a detailed mental plan of their surroundings:
-* [Ben Underwood](https://www.youtube.com/watch?v=AiBeLoB6CKE)
+* [Ben Underwood](https://www.youtube.com/watch?v=Wby1CIhnYWI)
 * [Sam](https://www.youtube.com/watch?v=zXtExOMCDfE)
 * [Daniel](https://www.youtube.com/watch?v=2IKT2akh0Ng)
 

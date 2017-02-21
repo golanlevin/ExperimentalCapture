@@ -18,7 +18,7 @@ An excellent technical overview can be found at digitalair.com:
 * [*The Matrix*](https://www.youtube.com/watch?v=KNrSNcaYiZg), The film that popularized the method. 
 * [The Matrix: raw footage](https://www.youtube.com/watch?v=bKEcElcTUMk)
 * [*Inferno* by Mitch Martinez](https://vimeo.com/132024990) (2015) & [more](http://mitchmartinez.com/timeslice/)
-* [Olivier Gondry for Tiga, *You Gonna Want Me*, ](https://vimeo.com/73638593): long exposure bullet time (2005).
+* [Olivier Gondry for Tiga, *You Gonna Want Me*, ](https://vimeo.com/191494610): long exposure bullet time (2005).
 * [How does it work? Bullet Time (National Geographic)](https://www.youtube.com/watch?v=OruWu1hZe9M)
 * [Lumasol.nl *Trampolina*](https://vimeo.com/85672871) Bullet-Time photo booth with trampoline
 * [Lumasol.nl](http://360player.nl/) Bullet-time light painting

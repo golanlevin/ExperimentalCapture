@@ -4,7 +4,7 @@
 
 The term 'Bullet Time' was coined (and later trademarked by Warner Bros) on the set of the 1999 film *The Matrix* where the technique became used for the first time on a large-scale project. Essentially, the technique works by taking a large amount of still photographs along a designated camera move (dolly, etc). The stills are then are stitched together in post production to give the appearance of a moving image, though the speed of that moving image can be changed. Much more detail can be found in the **[Wikipedia article on Bullet Time](https://en.wikipedia.org/wiki/Bullet_time)**. 
 
-An excellent technical overview can be found at digitalair.com:
+An excellent technical overview can be found at digitalair.com (*view with Flash in Safari*):
 
 * [Frozen Moment](http://www.digitalair.com/techniques/frozen_moment.html)
 * [Time Ramp](http://www.digitalair.com/techniques/time_ramp.html)

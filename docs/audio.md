@@ -14,3 +14,4 @@ There are a variety of alternative techniques and/or experimental microphones fo
 * parabolic collectors
 * laser microphones
 * laryngophones
+* accelerometers

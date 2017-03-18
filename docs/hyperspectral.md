@@ -1,8 +1,8 @@
 # Multispectral & Hyperspectral Imaging
 
-![Electromagnet_spectrum](http://stopocsmartmeters.com/uploads/3/5/1/6/3516580/7934370_orig.jpg)
+![Electromagnet_spectrum](images/spectrum.jpg)
 
-![Nasa_spectrum](https://www.nasa.gov/sites/default/files/spectrum_wall_chart_aug2011.jpg)
+![Nasa_spectrum](images/spectrum_wall_chart_aug2011.jpg)
 
 [*Multispectral imaging*](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more. 
 
@@ -44,25 +44,27 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 
 ![Hyperspectral face by RShephorse](images/hyperspectral-face-rshephorse.jpg)
 
+![UV, Vis, NIR by Spigget / Nick Spiker](images/uv_vis_ir_by_spigget.jpg)
+
 --- 
 
 ### Some applications
 
 * Satellites employ multispectral imaging to understand the Earth. [Charlie Loyd, Putting Landsat8's multispectral imaging to work.](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/). For example, here's a false-color Landsat8 image by in which SWIR (thermal) is used in the red channnel; NIR as green; and deep blue as blue:
 
-![False-color image using thermal data in the red channel](https://c2.staticflickr.com/8/7461/27530295250_eaa8c47395_o.jpg)
+![False-color image using thermal data in the red channel](images/landsat-false-color.jpg)
 
 * Astronomers use multispectral imaging to [understand the Sun](http://www.nasa.gov/images/content/719688main_Sun-Wavelength-Chart_full.jpg). 
 
-![Multispectral image of the sun](http://www.nasa.gov/images/content/719688main_Sun-Wavelength-Chart_full.jpg)
+![Multispectral image of the sun](images/719688main_Sun-Wavelength-Chart_full.jpg)
 
 * Forensic specialists use infrared and ultraviolet imaging and/or fluorescence to [recover writing lost to water damage](https://people.rit.edu/andpph/photofile-b/ir-letter-comparison-1.jpg), [analyze medieval frescoes](https://artcosnervationcsmodotcom.wordpress.com/category/rti/), [detect fraudulent documents](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/inkglowb.jpg), [determine the provenance of artifacts](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/matchb.jpg), [sort fragments of shredded documents](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/shredb.jpg), [detect underpaintings in famous artworks](http://www.artic.edu/collections/conservation/revealing-picasso-conservation-project/examination-techniques/infrared), [detecting previous versions of artworks (includes web interactive)](http://www.webexhibits.org/pigments/intro/visible.html).
 
-![IR image of water-damaged document](https://c2.staticflickr.com/8/7756/27807952145_7089ed4630_o.jpg)
+![IR image of water-damaged document](images/water-damage.jpg)
 
-![Using IR to detect fraud](https://c2.staticflickr.com/8/7284/27529572880_f5ce290cbf_o.jpg)
+![Using IR to detect fraud](images/checkforge.jpg)
 
-![Using UV fluorescence to distinghuish different fragments of white paper](https://c2.staticflickr.com/8/7429/27807952055_e1024c7137_o.jpg)
+![Using UV fluorescence to distinghuish different fragments of white paper](images/uv-fluorescence.jpg)
 
 ---
 
@@ -74,28 +76,36 @@ Near-infrared is widely used in security cameras.
 
 ![Veins, in NIR by Jasper Nance](images/nir-veins.jpg)
 
-* This has been used in some medical AR applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) device. 
+It's important to distinguish between *monochromatic* IR images (a grayscale image whose content is exclusively from the infrared part of the spectrum), and various types of *CIR* (Color+IR) images, which store multiple channels of information from different parts of the spectrum. Since RGB images are a common display format for multichannel image data, one common CIR technique ([described in this PDF](images/using_cir_imagery.pdf)) stores IR information in the Red channel, Red information in the Green channel, and Green information in the Blue channel. Edward Thompson has compiled [an artful book](http://www.edwardthompson.co.uk/theunseen.html) of such images.
+
+![CIR images by Edward Thompson](images/cir-edward-thompson.png)
+
+Incidentally, the visibility of veins in IR has been used in some medical AR applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) device. 
 
 ![The VeinViewer visualizes an IR image with an augmented projection](https://c2.staticflickr.com/8/7706/27529572870_bb07b07e7b_b.jpg)
+
+It's common for CIR imaging to be used for aerial/satellite photography. Plants, in particular, become much more visible: 
+
+![CIR images by Edward Thompson](images/cir-edward-thompson-landscape.jpg)
+
+Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a documentary film about the ongoing civil war in Congo, shot on CIR film. 
+
+![Richard Mosse's 'The Enclave'](images/nir-congo.png)
 
 * In some circumstances, depending on materials, NIR cameras can [kind of see through clothes](http://www.komonews.com/news/problemsolvers/94802064.html). 
 
 * NIR imaging can be used to [detect traced (i.e. forged) signatures](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/tracingb.jpg)
 
-![Forged signatures in IR](https://c2.staticflickr.com/8/7286/27706929542_0d7949d045_o.jpg)
+![Forged signatures in IR](images/nir-signature.jpg)
 
 * Osman Khan created a strictly [IR-viewable image](http://www.osmankhan.com/works.asp?name=Unviewed).
 * The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com/oliverlutz_prjct_lfrnk.htm) and [*"Stella at the Playground"*](http://www.oliverlutz.com/oliverlutz_prjct_plygrnd_inst.htm) by Oliver Lutz (2010) use a (visibly) black acrylic overpainting covering a secret image that can only be observed by a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera). 
 
-![Paintings by Oliver Lutz](https://c2.staticflickr.com/8/7423/27196695613_494e63d02b_o.jpg)
+![Paintings by Oliver Lutz](images/lutz.jpg)
 
-* Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a documentary film about the ongoing civil war in Congo, shot on infrared color film. 
+Hey, here's an [infrared time-lapse](https://vimeo.com/58232705) video by Andrew Shurtleff.
 
-![Richard Mosse's 'The Enclave'](https://c2.staticflickr.com/8/7229/27808128055_55bf700b48_o.png)
-
-* Hey, here's an [infrared time-lapse](https://vimeo.com/58232705) video by Andrew Shurtleff.
-
-![Still from NIR time-lapse by Andrew Shurtleff](https://c2.staticflickr.com/8/7674/27196814663_85e0036718_o.png)
+![Still from NIR time-lapse by Andrew Shurtleff](images/nir-shurtleff.png)
 
 ---
 
@@ -318,7 +328,7 @@ Schlieren photography creates images which reveal, and depend on, minute differe
 
 [Schlieren photography](https://www.youtube.com/watch?v=mLp_rSBzteI)
 
-![Schlieren imaging](https://c2.staticflickr.com/8/7428/27198201623_bf6b85c265_o.png)
+![Schlieren imaging](images/schlieren.png)
 
 --- 
 ### Sonar and Ultrasound

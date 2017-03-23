@@ -44,6 +44,10 @@ A documentary film of a soccer game, focusing on a single player, shot with 19 c
 
 [Earthrise, Apollo 8, 1968](https://www.nasa.gov/centers/johnson/home/earthrise.html) - The photograph itself is the event. An event of getting to where the point of view was, that in order to see it you had to leave it, and in order to see it, you had to marshall all of physics.
 
+[Tom Sachs - SPACE PROGRAM, 2007](http://tomsachs.org/exhibition/space-program)
+* [(space program)](https://www.youtube.com/watch?v=FAfYCpeBHi4)
+* [(suiting up)](https://www.youtube.com/watch?v=e-jSSTGqU5c&t=2m20s)
+
 [Eadweard Muybridge, 1878](https://www.youtube.com/watch?v=IEqccPhsqgA)
 http://muybridgeshorse.com/wp-content/uploads/muybridge-horse.jpg
 
@@ -64,27 +68,21 @@ http://muybridgeshorse.com/wp-content/uploads/muybridge-horse.jpg
 [Francis Alÿs somethings making something leads to nothing](https://www.youtube.com/watch?v=ZedESyQEnMA)
 
 
+[Jeremy Deller's The Battle of Orgreave, 2001](http://www.jeremydeller.org/TheBattleOfOrgreave/TheBattleOfOrgreave_Video.php)
 
-Tom Sachs - SPACE PROGRAM, 2007 
-http://tomsachs.org/exhibition/space-program 
-https://www.youtube.com/watch?v=FAfYCpeBHi4  (space program)
-https://www.youtube.com/watch?v=e-jSSTGqU5c&t=2m20s (suiting up) 
+[Cornelia Parker](http://www.wmagazine.com/story/cornelia-parker-psycho-barn-met-museum)
 
-Jeremy Deller's The Battle of Orgreave, 2001
-http://www.jeremydeller.org/TheBattleOfOrgreave/TheBattleOfOrgreave_Video.php
+[James Clar, A Moment Defined by a Point and a Line](http://www.jamesclar.com/portfolio_page/a-moment-defined-by-a-point-and-a-line-2010/)
 
-Cornelia Parker
-http://www.wmagazine.com/story/cornelia-parker-psycho-barn-met-museum 
+--- 
 
-James Clar, A Moment Defined by a Point and a Line
-http://www.jamesclar.com/portfolio_page/a-moment-defined-by-a-point-and-a-line-2010/
+### Ink Gift
 
-Ink Gift
-https://www.youtube.com/watch?v=Fypi6dAJB8E INK 
+[INK](https://www.youtube.com/watch?v=Fypi6dAJB8E) 
+
+---
+
+[Famous sports photography](http://www.si.com/more-sports/photos/2012/12/17/100-greatest-sports-photos-all-time-final) — moments that help us understand what the eye can’t see in an action, slam dunks , not comprehendible, until made permanent in our mind without the camera, all of that happens 
 
 
-Famous sports photography — moments that help us understand what the eye can’t see in an action, slam dunks , not comprehendible, until made permanent in our mind without the camera, all of that happens 
-http://www.si.com/more-sports/photos/2012/12/17/100-greatest-sports-photos-all-time-final
-
-Courtroom 
-https://www.google.com/search?q=courtroom+drawings&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL1JWdje3SAhWJbSYKHXNoAJQQ_AUIBigB&biw=1676&bih=861&dpr=2
+[Courtroom Drawings](https://www.google.com/search?q=courtroom+drawings&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL1JWdje3SAhWJbSYKHXNoAJQQ_AUIBigB&biw=1676&bih=861&dpr=2)

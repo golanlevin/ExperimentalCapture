@@ -60,3 +60,6 @@ von Bismarck writes:
 > In principle, the Fulgurator can be used anywhere where there is another camera nearby that is being used with a flash. It operates via a kind of reactive flash projection that enables an image to be projected on an object exactly at the moment when someone else is photographing it. The intervention is unobtrusive because it takes only a few milliseconds. Every photo another photographer takes of an object at which the Fulgurator is also aimed is affected by the manipulation. Hence visual information can be smuggled unnoticed into the images of others.
 
 
+### Prosthetic Photographer
+
+![Prosthetic Photographer](images/prosthetic-photographer.png)

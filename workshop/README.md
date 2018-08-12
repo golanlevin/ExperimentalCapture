@@ -1,9 +1,10 @@
 # Experimental Capture Workshop
 
-### Computational & Expanded ███ography
+### Computational & Expanded ███ography, <br/>Anderson Ranch, August 2018
+
+
 [Golan Levin](http://flong.com) / [@golan](http://twitter.com/golan) <br />
 A one-week workshop taught at Anderson Ranch, July 2016<br />
-Initially developed Fall 2015 at Carnegie Mellon University<br />
 For complete info, see the [**Experimental Capture main page**](../README.md). 
 
 --
@@ -17,19 +18,41 @@ This workshop introduces some experimental media practices that arise from using
 
 ### Monday
 
-1. Introduction. Meet & Greet; Discussion & Objectives (9:00-9:45)
+1. Introduction. Meet & Greet; Discussion & Objectives 
+	* Tomography and [Holes in Swiss Cheese](https://www.nytimes.com/2015/05/29/world/europe/switzerland-scientists-find-the-secret-to-the-holes-in-swiss-cheese-hay-dust.html); "Mechanism and control of the eye formation in cheese" [paper](https://scinapse.io/papers/2024396341)
+	
 1. A quick list of some hands-on stuff we'll cover: 
-	* Photogrammetry and 3D scanning
+	* 3D scanning and Photogrammetry 
 	* Multi-spectral imaging (NIR, UV, Thermal)
-	* High-speed videography 
+	* High-speed videography and other temporal play
 	* 360-degree video 
-	* Time play
 	* Gesture capture & OSC
 	* *Much more (see below)!*
-1. Random Interludes and Appetizers (9:45-10:45)
+1. Appetizers
 	* [What is a Camera? Conceptual Cameras](../docs/conceptual-cameras.md)
 	* [Perspective Capture and Representation](../docs/perspective.md)
-	* [Moving Cameras (shutter stroboscopy)](../docs/moving-cameras.md)
+
+#### Main Topics: *Multi-spectral* and *High-speed* imaging.
+
+Today's topic is seeing beyond human perception, with: **Multi-spectral imaging** (NIR, UV, Thermal) and **High-speed videography**. Lectures include:  
+* [Multispectral & Hyperspectral Imaging](../docs/hyperspectral.md)
+* [Overcranking (Slow-Motion/Hi-Speed)](../docs/overcranking.md)
+
+#### Activities and Exercises
+
+1. Demonstrations of UV, IR, Thermal (FLIR & Axis) imaging. Also: Thermochromic, phosphorescent, retroreflective, and polarizing sheets and surfaces.
+1. Demonstrations of the Edgertronic high speed camera. Here's the Edgertronic [Beginner's Guide to High-Speed Video](http://wiki.edgertronic.com/index.php/Beginner's_Guide_to_High_Speed_Video), and their [Quick Start Guide](https://wiki.edgertronic.com/index.php/Quick_start_guide), which may be helpful if you want to know more. 
+
+#### Auxiliary/Secondary Topic: *Time Play*
+
+* [Moving Cameras (shutter stroboscopy)](../docs/moving-cameras.md)
+* [Undercranking and Time Lapse](../docs/undercranking.md)
+* [Long Exposure and Light Painting](../docs/longexposure.md)
+* [Bullet Time (Array Videography)](../docs/bullettime.md)
+
+
+
+<!---
 
 #### Photogrammetry 
 1. Viewings (10:45-11:30)
@@ -43,7 +66,6 @@ This workshop introduces some experimental media practices that arise from using
 
 1. Optional Exercises:
 	* Camera Obscura
-	* Sunprint/Cyanotypes (and [Anna Atkins](http://exhibitions.nypl.org/treasures/items/show/49))
 1. Exercises/Demonstrations with Photoscan: 
 	* Photogrammetry with Photoscan, from stills
 	* Photogrammetry with Photoscan, from video) <br />([**Instructions**](pdf/photogrammetry_from_video_with_photoscan.pdf) by Claire Hentschker)
@@ -53,23 +75,12 @@ This workshop introduces some experimental media practices that arise from using
 	* Photogrammetry with iSense/Skanect <br />([**Instructions**](pdf/3D_scanning_with_skanect.pdf) by Claire Hentschker)
 
 
----
+
+
 
 ### Tuesday  
 
-Today's topic is seeing beyond human perception, with: **Multi-spectral imaging** (NIR, UV, Thermal) and **High-speed videography**. 
 
-1. Interludes and Appetizers
-	* [Synthesis from Image Databases](../docs/collection-synthesis.md)
-1. Main topics: 
-	* [Multispectral & Hyperspectral Imaging](../docs/hyperspectral.md)
-	* [Overcranking (Slow-Motion/Hi-Speed)](../docs/overcranking.md)
-
-#### Activities and Exercises
-
-1. We will have demonstrations of IR, Thermal, and UV videography. 
-1. We will have demonstrations of the Edgertronic high speed camera. Here's the Edgertronic [Beginner's Guide to High-Speed Video](http://wiki.edgertronic.com/index.php/Beginner's_Guide_to_High_Speed_Video), which may be helpful if you want to know more. 
-1. Participants are free to work with any of the above. 
 
 ---
 
@@ -85,21 +96,13 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 
 [Google's YouTube MetaData Injector (to display equirectangular video in YouTube as a navigable space)](download/360.Video.Metadata.Tool.mac.zip)
 
-1. Time Play
-	* [Bullet Time (Array Videography)](../docs/bullettime.md)
-	* [Undercranking and Time Lapse](../docs/undercranking.md)
-	* [Long Exposure and Light Painting](../docs/longexposure.md)
 	
 #### Activities and Exercises
 
-1. Today, those who wish may continue explorations with:
-	* Photogrammetry (Photoscan, iSense)
-	* UV, NIR, Thermal imaging (FLIR)
-	* High-speed imaging (Edgertronic) 
-1. We will also do some extended imaging with
-	* Catadioptric omnidirectional/panoramic lens devices, using the [Sony Bloggie](http://www.flong.com/blog/2010/open-source-panoramic-video-bloggie-openframeworks-processing/), and [CatadioptricUnwarp360](https://github.com/danzeeeman/CatadioptricUnwarp360)
-	* Double-fisheye lens devices; Hugin & Autopano (Crecord) 
-	* Stereo devices, depth from stereo 
+
+* Catadioptric omnidirectional/panoramic lens devices, using the [Sony Bloggie](http://www.flong.com/blog/2010/open-source-panoramic-video-bloggie-openframeworks-processing/), and [CatadioptricUnwarp360](https://github.com/danzeeeman/CatadioptricUnwarp360)
+* Double-fisheye lens devices; Hugin & Autopano (Crecord) 
+* Depth from stereo 
 
 ---
 
@@ -144,3 +147,4 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 * *[Portraiture: Capturing People and Movements](../docs/portraits.md)*
 * *[Landscape: Capturing Places](../docs/places.md)*
 
+--->

@@ -103,9 +103,11 @@ Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a document
 
 ![Paintings by Oliver Lutz](images/lutz.jpg)
 
-Hey, here's an [infrared time-lapse](https://vimeo.com/58232705) video by Andrew Shurtleff.
-
+Hey, here's an [infrared time-lapse](https://vimeo.com/58232705) video by Andrew Shurtleff.<br />
 ![Still from NIR time-lapse by Andrew Shurtleff](images/nir-shurtleff.png)
+
+Here's a BBC [video of elephants, observed in a cave using NIR](https://youtu.be/kqadL9VeJDw). <br />
+[![elephants-nir.png](images/elephants-nir.png)](https://youtu.be/kqadL9VeJDw)
 
 ---
 
@@ -150,6 +152,11 @@ It is also possible to design or arrange objects for the express purpose of havi
 ### Thermal Imaging 
 
 *Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. Interestingly, most of what we see when we observe radiation in this range is *emissive* rather than *reflective*. In short, we see where something is hot. 
+
+* David Attenborough discusses the use of thermal imaging to understand lizard temperature self-regulation, in [this BBC video](https://youtu.be/e4bprBup6w4)
+
+[![Thermal Lizards](images/thermal-lizards.png)](https://youtu.be/e4bprBup6w4)
+
 
 * A cult classic, [*THE OPERATION*](https://vimeo.com/24149525) by Jacob Pander and Marne Lucas (1995) is a hybrid art/porn movie, shot completely with a thermal camera. (NSFW)
 
@@ -213,9 +220,27 @@ Some substances temporarily change color in response to heat. In different conte
 
 ### Ultraviolet (UV) Imaging 
 
-#### Ultraviolet animal vision. 
+* [The World In UV](https://www.youtube.com/watch?v=V9K6gjR07Po), an excellent overview video. Discusses atmospheric haze, sunscreen, quinine, flowers, polar bears.
 
-* Many animals [appear different, and can see in the ultraviolet](http://www.theatlantic.com/technology/archive/2011/08/6-animals-that-can-see-or-glow-in-ultraviolet-light/243634/). 
+[![The world in UV](images/the_world_in_uv.png)](https://www.youtube.com/watch?v=V9K6gjR07Po)
+
+#### Ultraviolet animal vision and markings. 
+
+Many animals [appear different, and can see in the ultraviolet](http://www.theatlantic.com/technology/archive/2011/08/6-animals-that-can-see-or-glow-in-ultraviolet-light/243634/). For example, 
+
+* Butterflies are thought to have the widest visual range of any animal. Butterflies can use ultraviolet markings to find healthier mates. Ultraviolet patterns also help certain species of butterflies appear similar to predators, while differentiating themselves to potential mates.
+* Reindeer rely on ultraviolet light to spot lichens that they eat. They can also easily spot the UV-absorbent urine of predators among the UV-reflective snow.
+* One bird species was found to feed its young based on how much UV the chicks reflected.
+* Some species of birds use UV markings to tell males and females apart.
+* The flower Black-eyed Susans have petals that appear yellow to humans, but UV markings give them a bull's eye-like design that attracts bees.
+* Sockeye salmon may use their ultraviolet perception to see food.
+Scorpions glow under ultraviolet light, but scientists do not know why.
+
+* [Kestrels can see in the UV](https://youtu.be/AUm-TabNFF0), which helps them find prey. 
+
+[![kestrel-vision.png](images/kestrel-vision.png)](https://youtu.be/AUm-TabNFF0)
+
+* Scorpions glow in Ultraviolet. 
 
 ![Scorpions glow in UV](https://c2.staticflickr.com/8/7064/27708074312_a12d8e3ec3_o.jpg)
 
@@ -312,6 +337,9 @@ You can see this technique applied to a human face in [this video](https://www.y
 
 Incidentally, there are some [other very clever ways of separating specular from diffuse appearances](http://www.mit.edu/~yzli/ECCV02-Sep.pdf) of objects.
 
+[More information about polarized light](https://www.youtube.com/watch?v=CSu0cV3fqi8) in this video from PBS:
+
+![PBS Polarizing video](images/pbs-polarizer.png)
 
 #### Transmissive Polarized Light: Visualizing Stress
 

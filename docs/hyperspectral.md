@@ -106,9 +106,6 @@ Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a document
 Hey, here's an [infrared time-lapse](https://vimeo.com/58232705) video by Andrew Shurtleff.<br />
 ![Still from NIR time-lapse by Andrew Shurtleff](images/nir-shurtleff.png)
 
-Here's a BBC [video of elephants, observed in a cave using NIR](https://youtu.be/kqadL9VeJDw). <br />
-[![elephants-nir.png](images/elephants-nir.png)](https://youtu.be/kqadL9VeJDw)
-
 ---
 
 ### X-Ray imaging

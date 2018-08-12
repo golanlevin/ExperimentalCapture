@@ -65,7 +65,13 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 	* In Sam Taylor-Wood's [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM) (1997), a woman displays extreme emotions in slow-motion. "There are no sounds, so the viewer cannot be certain whether she is moved by joy, despair or both." [Citation](http://www.absolutearts.com/artsnews/2002/01/25/29597.html)
 
 [![Sam Taylor-Wood](images/taylor-wood.jpg)](https://www.youtube.com/watch?v=33PZhpay8gM)
-	
+
+
+1. [Rachel Talibart](https://www.rachaeltalibart.com/) Uses high-speed photography and telephoto lenses to catch waves: 
+
+[![Rachael Talibart](images/highspeed-telephoto-waves.jpg)](https://www.wired.com/story/wave-photography/)
+
+
 1. Guillaume Panariello
   * [*unconditional rebel - siska*](https://vimeo.com/118738368) (music video)
 
@@ -111,9 +117,11 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 * [Spinning mirror systems](http://www.stanfordcomputeroptics.com/applications/physics/rotating-mirror-camera.html) can achieve 3 million fps. 
 * This camera can capture neurons firing, at [100 billion frames per second](http://www.livescience.com/55296-high-speed-camera-captures-neurons-firing.html).
 * This [trillion-fps camera from MIT](http://video.mit.edu/watch/visualizing-video-at-the-speed-of-light-one-trillion-frames-per-second-9742/) can capture the movement of light *as it travels*. 
+* [Ultra-slow-motion with Machine Learning interpolation](https://www.youtube.com/watch?v=MjViy6kyiqs)
 
 ### Audio 
 
 Special things happen to sound when it is slowed down *and* time-stretched. The best-known example of this is the "800% slower" Justin Bieber track, *[U Smile](http://knowyourmeme.com/memes/800-slower-time-stretch)*. Note that the time-stretching preserves the original frequences of the audio, rather than causing the pitch to drop into the infrasonic range. 
 
 
+Zach Poff has [Resources for Exploring Ultrasound](https://www.zachpoff.com/resources/exploring-ultrasound/). For example, Bioacoustics researchers and hobbyists use portable bat detectors to lower their pitch into the human hearing range in realtime. 

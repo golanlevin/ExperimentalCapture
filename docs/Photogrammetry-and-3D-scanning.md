@@ -38,6 +38,16 @@
   * [ScanLab created a fashion shoot with 3d laser scanners](http://www.dezeen.com/2014/06/26/scanlab-vivienne-westwood-first-laser-scanned-photoshoot-interview/)
   * [Terrestrial laser scanning by CyArk]	(http://www.cyark.org/education/terrestrial-lidar-3d-laser-scanning	)
   * [Phantom by Scanlab] (http://scanlabprojects.co.uk/projects/newmuseumnewyork) VR Brazilian rainforest
+
+### Art & Other Investigations  
+
+[Calculating the 3D shape of lightning](http://calculatedimages.blogspot.com/2013/05/3d-lightning.html?m=1), from two people in completely different places getting a photo of the same lightning bolt.
+
+![lightning1.png](images/lightning1.png)
+
+![lightning2.gif](images/lightning2.gif)
+
+
 				
 ### Other Techniques
 * LightField 

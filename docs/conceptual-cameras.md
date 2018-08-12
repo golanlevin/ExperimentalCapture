@@ -63,3 +63,12 @@ von Bismarck writes:
 ### Prosthetic Photographer
 
 ![Prosthetic Photographer](images/prosthetic-photographer.png)
+
+---
+
+### Film Noir
+
+Data scientist Ayodele Odubela is creating a [Black Camera](https://www.dazzlingdata.science/film-noir/). She writes: 
+"Imagine a camera optimized for black skin.
+That’s exactly the aim of my project, to improve the photo taking experience for black people. I want to train a Convolutional Neural Network to learn features based off a variety of black faces. Then I’ll use a Generative Adversarial Network (GAN) to create a new image, that should highlight black people’s features better."
+

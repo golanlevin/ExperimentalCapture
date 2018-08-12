@@ -120,4 +120,6 @@ Additionally:
 * In Sam Taylor-Wood's [*Hysteria*](https://www.youtube.com/watch?v=33PZhpay8gM) (1997), a woman displays extreme emotions in slow-motion. "There are no sounds, so the viewer cannot be certain whether she is moved by joy, despair or both." [Citation](http://www.absolutearts.com/artsnews/2002/01/25/29597.html)*
 * John Gerrard, ["Infinite Freedom Exercise" (2011)](https://www.youtube.com/watch?v=xUKC11NEK0A), [landscapes](https://www.youtube.com/watch?v=R9t2ApMEPX0)
 
-  
+
+[PRNet](https://github.com/YadiraF/PRNet) uses machine learning to allow estimation of a 3D face from a single 2D photo.  
+[![PRNet](images/prnet.gif)](https://github.com/YadiraF/PRNet)

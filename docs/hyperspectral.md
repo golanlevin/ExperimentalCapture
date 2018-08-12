@@ -264,6 +264,11 @@ UV is also [widely used in forensics](http://ultravioletcameras.com/applications
 --- 
 ### And Beyond...
 
+#### Seeing through Walls with Radio & ML
+
+[RF-Pose](https://www.youtube.com/watch?v=HgDdaMy8KNE) by researchers at MIT CSAIL
+
+![Terahertz imaging](images/radio.png)
 
 #### Millimeter Wave & Terahertz Imaging
 
@@ -285,6 +290,8 @@ X-ray computed tomography (X-ray CT) and magnetic resonance imaging (MRI) and ar
 
 ![Kyle McDonald CT scan](images/kyle-mcdonald-ct-scan.jpg)<br />
 *Kyle McDonald experimenting with some of his own CT scan data in openFrameworks.*
+
+![Bird CT scan](images/ctscan-bird.png)<br />[CT scan by Scott Echols](https://www.theguardian.com/science/2017/mar/05/wellcome-image-awards-2017-shortlist-science-visions-photography) capturing tiny blood vessels in the head of a pigeon, created by a special ‘contrast agent’ to highlight the microvasculatory system. 
 
 ---
 

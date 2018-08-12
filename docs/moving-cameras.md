@@ -1,5 +1,11 @@
 ### Moving Cameras and Point of View
 
+[Aydın Büyüktaş](http://www.aydinbuyuktas.com/), using drone photograpbhy, produces surreal 'folded' [landscapes](https://www.wired.com/2017/03/aydin-buyuktas-flatland-ii/) that seamlessly combine aerial and ground-level perspectives.
+
+![Aydin Butukas](images/buyuktas-flatland-01.jpg)
+
+---
+
 [![Steve McQueen, Drumroll](images/drumroll-steve-mcqueen.jpg)](https://www.youtube.com/watch?v=9oGO2mawifA)<br />
 
 [Steve McQueen, *Drumroll*](https://www.youtube.com/watch?v=9oGO2mawifA) (1998)
@@ -48,6 +54,12 @@ Here the camera is made to "move" in post-production, in order to produce an app
 
 [*White Glove Tracking*](http://whiteglovetracking.com/) project by Evan Roth and Ben Engebreth, et al., e.g.: [Zach Lieberman for White Glove Tracking](images/zl_pf_tribute.mov) or at their [Gallery](http://whiteglovetracking.com/gallery.html)
 
+[![Stabilized Gymnast ball](images/gymnast-ball.gif)](https://i.imgur.com/8LEIObL.gifv)
 
 
+---
 
+"Bullet lens" moving quickly through narrow spaces: the [Laowa 24mm f/14 Probe Lens](https://www.kickstarter.com/projects/laowa/revolutionize-macro-videography-laowa-24mm-f-14-pr)
+
+"[Zoom In](https://www.youtube.com/watch?v=yQM7-6hWvNA)", Hotwheels+GoPro mount:
+[![Hotwheels GoPro mount](images/gopro-hotwheels.jpg)](https://www.youtube.com/watch?v=yQM7-6hWvNA)

@@ -62,3 +62,9 @@ Examples include:
 * [Terrestrial laser scanning by CyArk]	(http://www.cyark.org/education/terrestrial-lidar-3d-laser-scanning	)
 * [Phantom by Scanlab] (http://scanlabprojects.co.uk/projects/newmuseumnewyork) VR Brazilian rainforest
 
+Time-displacement (slit scanning) [with 360° video](https://twitter.com/farty/status/1010489627394936832):
+
+![Slitscan 360](images/slitscan360.png)
+
+Note that Photoshop has tools for 360 collage in Spherical Panoramas. [Example](https://vizor.io/fthr/collagesketch1/) / [Article](https://photoshoptrainingchannel.com/edit-360-spherical-panoramas-photoshop/)
+![360 collage](images/360-collage.png)

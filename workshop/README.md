@@ -19,15 +19,17 @@ This workshop introduces some experimental media practices that arise from using
 ### Monday
 
 1. Introduction. Meet & Greet; Discussion & Objectives 
-	* Tomography and [Holes in Swiss Cheese](https://www.nytimes.com/2015/05/29/world/europe/switzerland-scientists-find-the-secret-to-the-holes-in-swiss-cheese-hay-dust.html); "Mechanism and control of the eye formation in cheese" [paper](https://scinapse.io/papers/2024396341)
+	* Tomography and [Holes in Swiss Cheese](https://www.nytimes.com/2015/05/29/world/europe/switzerland-scientists-find-the-secret-to-the-holes-in-swiss-cheese-hay-dust.html); "Mechanism and control of the eye formation in cheese" [paper](https://scinapse.io/papers/2024396341), [paper](https://link.springer.com/article/10.1007/s13594-012-0105-2), e.g. ["There is demand for non‐destructive monitoring of eye formation in cheese during ripening."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1471-0307.2009.00478.x), [[PDF](../docs/pdf/eye-formation-in-cheese.pdf)]
+![Eyes in cheese](../docs/images/cheese.gif)
 	
-1. A quick list of some hands-on stuff we'll cover: 
+1. A quick, incomplete list of some hands-on stuff we'll cover: 
 	* 3D scanning and Photogrammetry 
 	* Multi-spectral imaging (NIR, UV, Thermal)
 	* High-speed videography and other temporal play
 	* 360-degree video 
 	* Gesture capture & OSC
-	* *Much more (see below)!*
+	* Binaural & ultrasonic audio
+	
 1. Appetizers
 	* [What is a Camera? Conceptual Cameras](../docs/conceptual-cameras.md)
 	* [Perspective Capture and Representation](../docs/perspective.md)
@@ -50,6 +52,10 @@ Today's topic is seeing beyond human perception, with: **Multi-spectral imaging*
 * [Long Exposure and Light Painting](../docs/longexposure.md)
 * [Bullet Time (Array Videography)](../docs/bullettime.md)
 
+#### Auxiliary/Secondary Topic: *Audio*
+
+* [Binaural recording](../docs/audio.md)
+* [Ultrasonic recording]()
 
 
 <!---

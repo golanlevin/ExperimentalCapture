@@ -19,7 +19,7 @@ Recent iOS iPhones will record time-lapse videos. Many camera manufacturers also
 
 1. Sam Taylor Wood, still lifes
  * [*Still Life* (2001)](https://www.youtube.com/watch?v=pXPP8eUlEtk)
- * [*A Little Death* (2002)](https://www.youtube.com/watch?v=01tx6u3lasM)
+ * [*A Little Death* (2002)](https://www.youtube.com/watch?v=NYka4ouQXqk)
 
 [![Sam Taylor-Wood, Still Life](images/Sam_Wood_Still_Life_2001.gif)](https://www.youtube.com/watch?v=pXPP8eUlEtk)
 
@@ -47,7 +47,7 @@ Recent iOS iPhones will record time-lapse videos. Many camera manufacturers also
 ---
 
 1. Assorted time-lapse projects
-  * [JK Keller's daily photos, 16 years](https://www.youtube.com/watch?v=XjSfaRzbAHc)
+  * [JK Keller's daily photos, 16 years](https://www.youtube.com/watch?v=XjSfaRzbAHc) *link dead*
   * [Dove Evolution](https://www.youtube.com/watch?v=iYhCn0jf46U)
   * [How to Make a Baby](https://www.youtube.com/watch?v=MsBMG-p1HDM)
   * [35 years of Shinjuku construction](https://www.youtube.com/watch?v=laPU0bS8JOc)

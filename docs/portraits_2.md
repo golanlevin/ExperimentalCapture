@@ -61,5 +61,5 @@ The title of each photograph is a combination of the name the gamer had given th
 
 And: 
 
-* [Tanja Hollander, *Photograph a Friend*](https://www.youtube.com/watch?v=0posLr4TTiI)
-* [Nancy Burson, *Guys who Look Like Jesus*](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/image-averaging/burson_jesus_guys.jpg)
+* [Tanja Hollander, *Photograph a Friend*](https://www.youtube.com/watch?v=0posLr4TTiI) (Journey to photograph all of her facebook friends)
+* [Nancy Burson, *Guys who Look Like Jesus*](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/image-averaging/burson_jesus_guys.jpg) 

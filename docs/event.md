@@ -20,6 +20,8 @@ A documentary film of a soccer game, focusing on a single player, shot with 19 c
 
 [Sophie Calle - The Shadow, 1981](http://www.medienkunstnetz.de/assets/img/data/3441/full.jpg) - “At my request, my mother went to a detective agency. She hired them to follow me, to report my daily activities, and to provide photographic evidence of my existence”
 
+[Sophie Calle's voyeuristic portraits of hotel rooms](https://www.sfmoma.org/sophie-calles-voyeuristic-portraits-of-hotel-rooms/)
+
 [Nicholas Nixon - 40 years of the Brown Sisters](https://www.nytimes.com/interactive/2014/10/03/magazine/01-brown-sisters-forty-years.html)
 
 --- 

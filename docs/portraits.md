@@ -12,7 +12,7 @@ Stacy Greene, [*Lipsticks*](http://stacygreene.com/portfolio/lipsticks/) (1992)
 [![Stacey Greene](images/datavis_lipstick_greene2.jpg)](http://stacygreene.com/portfolio/lipsticks/)
 
 ---
-Felix Gonzalez-Torres, [Hide/Seek: "Untitled" (Portrait of Ross in L.A.)](http://www.artbabble.org/video/npg/hideseek-untitled-portrait-ross-la-felix-gonzalez-torres) (1991)
+Felix Gonzalez-Torres, [Hide/Seek: "Untitled" (Portrait of Ross in L.A.)](https://www.youtube.com/watch?v=37bSb-aQ4BM) (1991)
 
 [![Felix Gonzalez-Torres](images/torres.jpg)](http://www.artbabble.org/video/npg/hideseek-untitled-portrait-ross-la-felix-gonzalez-torres)
 

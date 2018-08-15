@@ -81,67 +81,71 @@ Today's topic is seeing beyond human perception, with: **Multi-spectral imaging*
 
 * [Moving Cameras (shutter stroboscopy)](../docs/moving-cameras.md)
 * [Undercranking and Time Lapse](../docs/undercranking.md)
-* [Long Exposure and Light Painting](../docs/longexposure.md)
-* [Bullet Time (Array Videography)](../docs/bullettime.md)
 * [Slit-Scanning](http://www.flong.com/texts/lists/slit_scan/)
-* [Backwards (Retrograde) Time](../docs/backwards.md)
-* [Looping (Canon) Time](../docs/looping.md)
 
+#### Topic: 360° Capture
 
-
-<!---
-
-#### Photogrammetry 
+* [Panoramic, 360-degree, and environmental capture](../docs/environmental-capture.md)
+* Smokey Dyar's thesis on 360 filmmaking, [Stuck in Spheres](http://stuckinspheres.com/)
+* Jessica Brillhart's [Google lecture on 360° filmmaking](https://www.youtube.com/watch?v=t3xDgONMdlM)
+* Michael Naimark's writeup of [360° cinematography studies](https://medium.com/@michaelnaimark/vr-cinematography-studies-for-google-8a2681317b3)
 
 
 ---
 
-### Wednesday
+## Wednesday
 
-Today's topic is **panoramic imaging**. We will also look at other forms of **time play**.  
+#### Concepts in Capture
 
-1. Main Topics
-	* [Panoramic, 360-degree, and environmental capture](../docs/environmental-capture.md)
-	* [360 into youtube, by Claire](pdf/360_video_for_youtube.pdf)
-	
-		* Computing a [depth map from stereo images](https://github.com/CreativeInquiry/stereobm_depth_map), [download binary](download/stereobm_depth_map.zip)
+* [Capturing and Representing Objects: Still Life & More](../docs/object-references.md)
+* [Gesture recording and playback; 2D & 3D motion capture](../docs/gesture.md)
+* [Events](../docs/event.md)
 
-[Google's YouTube MetaData Injector (to display equirectangular video in YouTube as a navigable space)](download/360.Video.Metadata.Tool.mac.zip)
+#### Mini Technical Lectures:
 
-	
+* Computing a [depth map from stereo images](https://github.com/CreativeInquiry/stereobm_depth_map), [download binary](download/stereobm_depth_map.zip)
+* [Gonioreflectometry](../docs/gonioreflectometry.md) 
+* [Long Exposure and Light Painting](../docs/longexposure.md)
+* [Bullet Time (Array Videography)](../docs/bullettime.md)
+* Backwards (Retrograde) Time](../docs/backwards.md)
+* [Looping (Canon) Time](../docs/looping.md)
+
+
 #### Activities and Exercises
 
+Demonstrations of OSC: 
 
-* Catadioptric omnidirectional/panoramic lens devices, using the [Sony Bloggie](http://www.flong.com/blog/2010/open-source-panoramic-video-bloggie-openframeworks-processing/), and [CatadioptricUnwarp360](https://github.com/danzeeeman/CatadioptricUnwarp360)
-* Double-fisheye lens devices; Hugin & Autopano (Crecord) 
-* Depth from stereo 
+* [BlinkOSC](../code/osc/blinkOSC.zip)
+* [EyeOSC](../code/osc/EyeOSC.zip)
+* [FaceOSC](../code/osc/FaceOSC.zip) / [video](https://vimeo.com/26098366) / [Templates](https://github.com/CreativeInquiry/FaceOSC-Templates)
+* [GyrOSC](../code/osc/gyrOSC.zip)
+* [TouchOSC](../code/osc/touchOSC.zip)
+
+Additional controllers: 
+
+* [LEAP controller](https://github.com/nok/leap-motion-processing), [ManosOSC](https://github.com/n1ckfg/ManosOsc)
+* [3D SpaceNavigator] (https://gist.github.com/brysonian/100144)
+* Scanse LIDAR
+* [Sensel Morph](../code/ofxSenselMorph2.zip)
+
+
+
+
+---
+
+<!---
+
+	
+
 
 ---
 
 ### Thursday 
 
 1. Mini Lectures
-	* [Gonioreflectometry](../docs/gonioreflectometry.md) 
+	* 
 	* [Slit Scanning](http://www.flong.com/texts/lists/slit_scan/)
 	* [Expanded Audio Capture](../docs/audio.md)
-1. Also on deck to view: 
-	
-	* [Paul Debevec's *light stage rendering*](http://www.pauldebevec.com/Research/LS/)
-	* [Sophie Kahn](http://www.sophiekahn.net/#!Laura:RGB, 2011/zoom/c199t/image1afu)
-	* [Computational Portraiture](http://prostheticknowledge.tumblr.com/post/101297249296/computational-portraiture-a-class-at-nyu-itp-run) (link from James George)
-	* [Sophie Kahn](http://www.sophiekahn.net/)
-
-#### Activities and Exercises
-
-1. Demonstrations of: 
-	* [FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/releases) / [video](https://vimeo.com/26098366) / [Templates](https://github.com/CreativeInquiry/FaceOSC-Templates)
-	* [EyeOSC](https://github.com/kylemcdonald/AppropriatingNewTechnologies/downloads)
-	* [TouchOSC](http://hexler.net/docs/touchosc-setup-other)
-	* [OpenTSPS](http://www.tsps.cc/)
-	* [LEAP controller](https://github.com/nok/leap-motion-processing)
-	* [KinectV2OSC](https://github.com/microcosm/KinectV2-OSC)
-2. DepthKit (RGBD Toolkit)
-
 
 -- 
 
@@ -150,9 +154,8 @@ Today's topic is **panoramic imaging**. We will also look at other forms of **ti
 
 *To be organized on-the-fly, responding to circumstances. A list of activities and lectures we'll draw from throughout the week:*
 
-* [Capturing and Representing Objects: Still Life & More](../docs/object-references.md)
-* [Gesture recording and playback; 2D & 3D motion capture](../docs/gesture.md)
-* [Photogrammetry and 3D scanning](../docs/Photogrammetry-and-3D-scanning.md)
+
+
 * [Pixillation and Stop-Frame](../docs/pixillation.md)
 * [Backwards (Retrograde) Time](../docs/backwards.md)
 * [Looping (Canon) Time](../docs/looping.md)

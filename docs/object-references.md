@@ -1,7 +1,7 @@
 
 # 'Object' References
 
-In this lecture, in laying the groundwork for your *[Object](assignment1-object.md)* ("still life") assignment, I present a series of works for your contemplation. The projects shown here consider a (by no means comprehensive) variety of ways in which the capture and display of objects has been treated in interactive and computational new media. 
+In this lecture, in laying the groundwork for an *[Object](assignment1-object.md)* ("still life") assignment, I present a series of works for your contemplation. The projects shown here consider a (by no means comprehensive) variety of ways in which the capture and display of objects has been treated in interactive and computational new media. 
 
 ## A Refresher On Still Life
 
@@ -93,7 +93,7 @@ In capturing representations of objects, keep in mind that the world of the micr
 
 ![](http://petapixel.com/assets/uploads/2015/03/example1.jpg)
  
-* *[Snowtime](https://vimeo.com/87342468)*, Microscopic timelapse of snowflakes forming, by Slava Ivanov (2014). Also by Slava Ivanov is *[Daphnia](https://vimeo.com/136739473)* (2015), high-speed microvideography of a water-flea.
+* *[Snowtime](https://vimeo.com/87342468)*, Microscopic timelapse of snowflakes forming, by Slava Ivanov (2014). Another excellent project by Slava Ivanov is *[Daphnia](https://vimeo.com/136739473)* (2015), high-speed microvideography of a water-flea.
 
 [![Still Life, 2001](http://img.youtube.com/vi/DYgbsAWNHq0/0.jpg)](http://www.youtube.com/watch?v= DYgbsAWNHq0)<br />
 
@@ -103,11 +103,11 @@ In capturing representations of objects, keep in mind that the world of the micr
 
 Carefully study the following two projects by former CMU MFA student, [Cassandra C. Jones](http://www.cassandracjones.com): 
 
-* *[Eventide](http://www.cassandracjones.com/snap-motion-re-animations)* (2004) represents a single object -- the Sun -- constructed from hundreds of photos by different people. 
+* *[Eventide](https://vimeo.com/84883569)* (2004) represents a single object -- the Sun -- constructed from hundreds of photos by different people. 
 
 [![](images/eventide.jpg)](https://vimeo.com/84883569)
 
-* *[Car Fire](http://www.cassandracjones.com/snap-motion-re-animations)* (2009) constructs a virtual, 'conceptual' object from many, similar, others.
+* *[Car Fire](https://vimeo.com/84894920)* (2009) constructs a virtual, 'conceptual' object from many, similar, others.
 
 [![](images/carfire.jpg)](https://vimeo.com/84894920)
 
@@ -162,10 +162,10 @@ Video clips from:
 - "The Man Who Did Not Want to Paint", which was the prelude to the film *THE AGONY AND THE ECSTASY* (D: Reed, 1965).
 - *THE MYSTERY OF PICASSO* (D: Clouzot, 1956)
 - *EAT DRINK MAN WOMAN* (D: Lee, 1994)
-- *TOPS* (D: Charles & Ray Eames, 1969)
+- [*TOPS* (D: Charles & Ray Eames, 1969)](https://www.youtube.com/watch?v=UJ-VFMymEiE)
 - *NEW DIMENSIONS* (D: Norling, 1940)
 - *LATE SPRING* (D: Ozu, 1949)
-- *STUDY IN CHOREOGRAPHY FOR CAMERA* (D: Maya Deren, 1943)
+- [*STUDY IN CHOREOGRAPHY FOR CAMERA* (D: Maya Deren, 1943)](https://www.youtube.com/watch?v=OnUEr_gNzwk)
 
 
 

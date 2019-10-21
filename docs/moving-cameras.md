@@ -56,10 +56,17 @@ Here the camera is made to "move" in post-production, in order to produce an app
 
 [![Stabilized Gymnast ball](images/gymnast-ball.gif)](https://i.imgur.com/8LEIObL.gifv)
 
+Dirk Koy, "Fixed" series:
+
+* Fixed02 (Diver): https://vimeo.com/350977026
+* Fixed03 (Gymnast): https://vimeo.com/352532472
+* Fixed04 (PingPong): https://vimeo.com/354368811
+* Fixed05 (Bicyclist): https://vimeo.com/358530638
+* Fixed08 (Trampolinist): https://vimeo.com/367279236
 
 ---
 
 "Bullet lens" moving quickly through narrow spaces: the [Laowa 24mm f/14 Probe Lens](https://www.kickstarter.com/projects/laowa/revolutionize-macro-videography-laowa-24mm-f-14-pr)
 
-"[Zoom In](https://www.youtube.com/watch?v=yQM7-6hWvNA)", Hotwheels+GoPro mount:
+"[Zoom In](https://www.youtube.com/watch?v=yQM7-6hWvNA)", Hotwheels+GoPro mount:<br />
 [![Hotwheels GoPro mount](images/gopro-hotwheels.jpg)](https://www.youtube.com/watch?v=yQM7-6hWvNA)

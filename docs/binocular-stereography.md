@@ -1,6 +1,6 @@
 # Stereography & Binocular Imaging
 
---
+---
 
 ### Binocular STEREOGRAPHY
 

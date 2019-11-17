@@ -1,12 +1,8 @@
-# Gonioreflectometry
+# Reflectometry and Light Field Capture
 
-### Light Field Capture
+### The Catoptric Cistula
 
-Paul Debevec captures the "light field" of a human face (i.e., how the face appears when illuminated from every possible direction). Multiplying these light fields against captured environments, he is able to relight subjects from new locations. 
-
-![debevec-light-field-capture.jpg](images/debevec-light-field-capture.jpg)<br />
-*Paul Debevec, [Acquiring the Reflectance Field of a Human Face](http://www.pauldebevec.com/Research/LS/) (2000)*
-
+A [catoptric cistula](https://en.wikipedia.org/wiki/Catoptric_cistula), also called a catoptric theatre, is a box with several sides lined with mirrors, so as to magnify or multiply images of any object placed inside the box.
 
 ### Capturing Light Fields with Mirrors
 
@@ -20,6 +16,13 @@ http://motherboard.vice.com/blog/humans-are-really-good-at-facial-recognition
 * Surface reflectance can also be recovered using a *tapered kaleidoscope*, as in [this work by Ken Perlin and Jeff Han](http://mrl.nyu.edu/~perlin/cat-talks/kaleidoscope/#2)
 
 ![Fly-eye mirror](images/pennies-tapered-kaleidoscope.jpg)
+
+### Light Field Capture
+
+Paul Debevec captures the "light field" of a human face (i.e., how the face appears when illuminated from every possible direction). Multiplying these light fields against captured environments, he is able to relight subjects from new locations. 
+
+![debevec-light-field-capture.jpg](images/debevec-light-field-capture.jpg)<br />
+*Paul Debevec, [Acquiring the Reflectance Field of a Human Face](http://www.pauldebevec.com/Research/LS/) (2000)*
 
 ### For further reading 
 

@@ -14,6 +14,10 @@ A [catoptric cistula](https://en.wikipedia.org/wiki/Catoptric_cistula), also cal
 
 ![Depth Map from spherical mirrors](images/OutputSphericalMirrors.png)
 
+* Another article on [Spherical Catadioptric Arrays: Construction, Multi-View Geometry, and Calibration](https://www.researchgate.net/publication/221625753_Spherical_Catadioptric_Arrays_Construction_Multi-View_Geometry_and_Calibration):
+
+![Spherical catadioptric array](images/Spherical-catadioptric-array.png)
+
 * Images of what someone is looking at can be recovered from reflections in their eyes. [Identifiable Images of Bystanders Extracted from Corneal Reflections](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083325) (Rob Jenkins, Christie Kerr)
 http://motherboard.vice.com/blog/humans-are-really-good-at-facial-recognition
 

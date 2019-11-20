@@ -31,7 +31,7 @@ Finally, it's not even necessary to image with electromagnetic radiation; let's 
 
 --- 
 
-### Overview. What does it look like? 
+### Overview. What does the world look like when observed with non-visible light frequencies? 
 
 Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, and so forth, an imaging technology is required to translate energy patterns in these spectra into patterns we can see. The "right" way to visualize such energy patterns is always arbitrary, or, at least, an artifact of the sensing and display technology. 
 
@@ -269,6 +269,10 @@ UV is also [widely used in forensics](http://ultravioletcameras.com/applications
 * It is also relatively inexpensive to have a [Canon SLR permanently converted for UV](http://www.lifepixel.com/shop/ultraviolet-camera-conversion/canon-dslr-uv-camera-conversion). 
 * It is [worth pointing out](http://www.savazzi.net/photography/uv.htm) that UV & NIR photography also benefit from using [special lenses](http://www.savazzi.net/photography/coastalopt_60.html) which better focus these wavelengths. 
 * Of course, [dedicated UV cameras](http://www.edmundoptics.com/cameras/nir-uv-cameras/sony-xc-e-series-monochrome-ccd-cameras/56346/) also exist. 
+
+![Golan in UV](images/uv_golan.jpg)
+
+*The STUDIO has an extremely sensitive monochrome security camera which, used with a UV-pass filter, is able to view the world in UV. The image above was recorded with this camera.*
 
 ---
 ### Radar

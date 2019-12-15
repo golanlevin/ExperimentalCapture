@@ -7,7 +7,7 @@ Curricular Materials for CMU Course 60-461/60-761/16-461<br />
 
 > <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and multispectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays. Please note that there are usage/materials fees associated with this course.</small>
 
--- 
+--- 
 
 ### Editions & Credits
 
@@ -20,7 +20,8 @@ Curricular Materials for CMU Course 60-461/60-761/16-461<br />
 
 *This syllabus contains many contributions from [James George](http://jamesgeorge.org/) and [Alexander Porter](http://alexanderporter.net/) (of [Scatter/Specular](http://www.specular.cc/)), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Kyle McDonald](http://kylemcdonald.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Suzie Silver](http://suziesilver.com/), [Claire Hentschker](http://www.clairesophie.com/), [Nica Ross](https://www.nicaross.com/), and others.* 
 
---
+---
+
 ### Learning Objectives
 
 This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. In particular, we are concerned with how we can understand and build representations of the world using devices that sense beyond the limits of human perception. In this course, we seek:
@@ -36,7 +37,8 @@ This is an interdisciplinary course in experimental media practices that arise f
 * Demonstrate understanding of the poetic and elucidative potentials of such techniques, and their application to the production of expressive and provocative new culture.
 * Command the practical use of one or more such techniques.
 
---
+---
+
 ### Course Logistics
 
 * [**Deliverables**](docs/deliverables.md)
@@ -50,7 +52,8 @@ This is an interdisciplinary course in experimental media practices that arise f
 * [**Readings**](docs/readings.md)
 * [**Course Policies**](docs/policies.md)
 
---
+---
+
 ### Lectures
 *This is a partial and unordered list of some of the capture technologies and techniques we will discuss this semester.*
 
@@ -78,7 +81,8 @@ This is an interdisciplinary course in experimental media practices that arise f
 * *[Portraiture: Capturing People and Movements](docs/portraits.md)*
 * *[Landscape: Capturing Places](docs/places.md)*
 
---
+---
+
 ### Helpful Information 
 * [How to take screengrab documentation](docs/screengrabs.md)
 * [Some software tools used in this course](docs/tools.md)

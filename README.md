@@ -47,7 +47,7 @@ This is an interdisciplinary course in experimental media practices that arise f
 
 * [What is a Camera? Conceptual Cameras](docs/conceptual-cameras.md)
 * [Capturing and Representing Objects: Still Life & More](docs/object-references.md)
-* [Multispectral & Hyperspectral Imaging](docs/hyperspectral.md)
+* [Multispectral Imaging](docs/multispectral.md)
 * [Gesture recording and playback; 2D & 3D motion capture](docs/gesture.md)
 * [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)
 * [Overcranking (Slow-Motion)](docs/overcranking.md)

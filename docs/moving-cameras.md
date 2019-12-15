@@ -10,19 +10,19 @@
 
 [Steve McQueen, *Drumroll*](https://www.youtube.com/watch?v=9oGO2mawifA) (1998)
 
--- 
+--- 
 
 [![Dirk Roy, *Time Tunnel*](images/time-tunnel.jpg)](https://vimeo.com/84162988)<br />
 
 [*Time Tunnel (Camera on a Car Wheel)*, by Dirk Roy for Boris Blank/Yello](https://vimeo.com/84162988)
 
--- 
+--- 
 
 [![Dirk Roy, *Time Tunnel*](images/roel.gif)](http://gizmodo.com/these-designers-make-boring-old-video-cameras-do-imposs-1444863383)
 
-[Roel Wouters, Camera Workshop at ECAL](http://gizmodo.com/these-designers-make-boring-old-video-cameras-do-imposs-1444863383)
+[Roel Wouters, Camera Workshop at ECAL](https://vimeo.com/62869207)
 
---
+---
 
 * [*Full Circle* from Callum Cooper (Jump Rope Camera)](https://vimeo.com/37077712)
 * [Hula Hoop Camera](https://www.youtube.com/watch?v=EumsgPn9xaM)

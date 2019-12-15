@@ -1,4 +1,6 @@
-# Multispectral & Hyperspectral Imaging
+# Multispectral Imaging
+
+Images captured from electromagnetic frequencies beyond the range of human perception. 
 
 ![Electromagnet_spectrum](images/spectrum.jpg)
 
@@ -46,6 +48,8 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 
 ![UV, Vis, NIR by Spigget / Nick Spiker](images/uv_vis_ir_by_spigget.jpg)
 
+![UV, Vis, NIR, from Wikipedia](images/uv_vis_ir_portrait.jpg)
+
 --- 
 
 ### Some applications
@@ -70,79 +74,47 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 
 ### Near-Infrared (NIR) Imaging
 
-Near-infrared is widely used in security cameras. 
+IR is light that is beyond the red end of the visible spectrum. Wavelengths in the range of ~770 to ~1400 nanometers are called the near infrared (or NIR) region of the electromagnetic spectrum, while longer wavelengths are called the far infrared.  Near-infrared is widely used in security cameras. 
+
+![NIR Spectrum](images/nir_spectrum.png)
 
 * Owing to the different infrared reflectivity of blood, you can [see veins easily](https://www.flickr.com/photos/nebarnix/2034727799) in NIR.
 
 ![Veins, in NIR by Jasper Nance](images/nir-veins.jpg)
 
-It's important to distinguish between *monochromatic* IR images (a grayscale image whose content is exclusively from the infrared part of the spectrum), and various types of *CIR* (Color+IR) images, which store multiple channels of information from different parts of the spectrum. Since RGB images are a common display format for multichannel image data, one common CIR technique ([described in this PDF](images/using_cir_imagery.pdf)) stores IR information in the Red channel, Red information in the Green channel, and Green information in the Blue channel. Edward Thompson has compiled [an artful book](http://www.edwardthompson.co.uk/theunseen.html) of such images.
+It's important to distinguish between *monochromatic* IR images (a grayscale image whose content is exclusively from the infrared part of the spectrum), such as the image above, and various types of *CIR* (Color+IR) images, which store multiple channels of information from different parts of the spectrum. Since RGB images are a common display format for multichannel image data, one common CIR technique ([described in this PDF](pdf/using_cir_imagery.pdf)) stores IR information in the Red channel, Red information in the Green channel, and Green information in the Blue channel. Edward Thompson has compiled [an artful book](http://www.edwardthompson.co.uk/theunseen.html) of such images, such as this one:
 
 ![CIR images by Edward Thompson](images/cir-edward-thompson.png)
 
-Incidentally, the visibility of veins in IR has been used in some medical AR applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) device. 
+Incidentally, the visibility of veins in IR has been used in some medical augmented-projection applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) device: <br />![The VeinViewer visualizes an IR image with an augmented projection](https://c2.staticflickr.com/8/7706/27529572870_bb07b07e7b_b.jpg)
 
-![The VeinViewer visualizes an IR image with an augmented projection](https://c2.staticflickr.com/8/7706/27529572870_bb07b07e7b_b.jpg)
+It's common for CIR imaging to be used for aerial/satellite photography. Plants, in particular, become much more visible:<br />![CIR images by Edward Thompson](images/cir-edward-thompson-landscape.jpg)
 
-It's common for CIR imaging to be used for aerial/satellite photography. Plants, in particular, become much more visible: 
+Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a documentary film about the ongoing civil war in Congo, shot on CIR film. Mosse's work has spurred controversy for the way in which it aestheticizes turmoil, especially as captured by a European working in Africa.<br />[![Richard Mosse's 'The Enclave'](images/cir_film_richard_mosse_enclave.gif)](https://vimeo.com/67115692)
 
-![CIR images by Edward Thompson](images/cir-edward-thompson-landscape.jpg)
+Andrew Shurtleff explicitly aestheticizes NIR in this otherworldly [infrared time-lapse](https://vimeo.com/58232705) video:<br />
+[![Still from NIR time-lapse by Andrew Shurtleff](images/nir-shurtleff.png)](https://vimeo.com/58232705)
 
-Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a documentary film about the ongoing civil war in Congo, shot on CIR film. 
+Some materials are opaque in visible wavelengths, but transparent in NIR wavelengths. This means that NIR can be used to see certain kinds of obscured or invisible information. A common technique for this is *infrared reflectography*, which takes advantage of the NIR-transparency of some kinds of paint, in order to view a painting's underlayers:
 
-![Richard Mosse's 'The Enclave'](images/nir-congo.png)
+![NIR infrared reflectography](images/nir_infrared_reflectography.png)
 
-* In some circumstances, depending on materials, NIR cameras can [kind of see through clothes](http://www.komonews.com/news/problemsolvers/94802064.html). 
+For example, *The Blue Boy* (ca. 1770), an oil painting by Thomas Gainsborough (1727-1788), has an overpainted dog, discovered in 1994. Here the painting is shown in normal light photography (left), digital x-radiography, and infrared reflectography (right).
 
-* NIR imaging can be used to [detect traced (i.e. forged) signatures](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/tracingb.jpg)
+![The Blue Boy in visible, X-Ray, and NIR](images/nir_infrared_reflectometry_blueboy.jpg)
 
-![Forged signatures in IR](images/nir-signature.jpg)
+In some circumstances, depending on materials, NIR cameras can [see through clothes](https://www.youtube.com/watch?v=RdtJlHVDcmM).<br />![NIR camera seeing through clothes](images/nir-see-through-clothes.jpg)
+
+NIR imaging can be used to [detect traced (i.e. forged) signatures](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/tracingb.jpg)<br />![Forged signatures in IR](images/nir-signature.jpg)
 
 * Osman Khan created a strictly [IR-viewable image](http://www.osmankhan.com/works.asp?name=Unviewed).
-* The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com/oliverlutz_prjct_lfrnk.htm) and [*"Stella at the Playground"*](http://www.oliverlutz.com/oliverlutz_prjct_plygrnd_inst.htm) by Oliver Lutz (2010) use a (visibly) black acrylic overpainting covering a secret image that can only be observed by a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera). 
 
-![Paintings by Oliver Lutz](images/lutz.jpg)
+* The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com) and [*"Stella at the Playground"*](http://www.oliverlutz.com) by Oliver Lutz (2010) use a (visibly) black acrylic overpainting covering a secret image that can only be observed by a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the Walker Art Center exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera). 
 
-Hey, here's an [infrared time-lapse](https://vimeo.com/58232705) video by Andrew Shurtleff.<br />
-![Still from NIR time-lapse by Andrew Shurtleff](images/nir-shurtleff.png)
+![Paintings by Oliver Lutz](images/nir_lutz_1.jpg)
 
----
+![Paintings by Oliver Lutz](images/nir_lutz_2.jpg)
 
-### X-Ray imaging
-
-#### X-Ray Imaging in the Arts
-
-* This is a stunning new project by Cohen+Van Balen: [Infrastructres of Natural History](http://www.cohenvanbalen.com/work/infrastructures-of-natural-history), X-rays of taxidermied animals:
-
-![infrastructures-of-natural-history-leopard.jpg](images/infrastructures-of-natural-history-leopard.jpg)
-
-* [X-ray portraits by Ayako Kanda and Mayuka Hayashi](http://www.boredpanda.com/x-ray-couple-portraits-ayako-kanda-mayuka-hayashi/)
-
-![X-ray portraits by Ayako Kanda and Mayuka Hayashi](https://c2.staticflickr.com/8/7198/27196288194_c64b8f810a_b.jpg)
-
-* [*Lick* by Wim Delvoye](http://curiator.com/art/wim-delvoye/lick-1)
-
-![Lick by Wim Delvoye](https://c2.staticflickr.com/8/7392/27707261232_b627010ce9_b.jpg)
-
-* [*Pinup Calendar* by German ad firm, BUTTER](http://www.themarysue.com/x-ray-pin-up-calendar/)
-
-![Pinup Calendar by BUTTER](https://c2.staticflickr.com/8/7298/27196288294_99546c5c9c_o.jpg)
-
-* [Xograms, by Hugh Turvey](http://www.smithsonianmag.com/arts-culture/x-ray-art-deeper-look-everyday-objects-180949540/?no-ist)
-
-![Xograms, by Hugh Turvey](https://c2.staticflickr.com/8/7596/27808644505_42ac18a3dc_b.jpg)
-
-* [*X-Ray Photographic Art* (Survey)](http://www.theapricity.com/forum/showthread.php?147702-X-Ray-Photographic-Art-Seeing-Humans-Nature-Objects-Beneath-The-Surface)
-
-It is also possible to design or arrange objects for the express purpose of having them discovered in X-Ray images.
-
-* Evan Roth, *TSA Interventions*
-
-![Evan Roth's TSA Interventions](https://c2.staticflickr.com/8/7786/27530295090_d82a7258a8_o.jpg)
-
-* Arguably some of these people have done so. ([X-ray insertions](https://www.google.com/search?q=X-ray+insertions&tbm=isch))
-
-![X-ray insertions](https://c2.staticflickr.com/8/7309/27197444883_5092813dcb_o.jpg)
 
 ---
 
@@ -153,7 +125,6 @@ It is also possible to design or arrange objects for the express purpose of havi
 * David Attenborough discusses the use of thermal imaging to understand lizard temperature self-regulation, in [this BBC video](https://youtu.be/e4bprBup6w4)
 
 [![Thermal Lizards](images/thermal-lizards.png)](https://youtu.be/e4bprBup6w4)
-
 
 * A cult classic, [*THE OPERATION*](https://vimeo.com/24149525) by Jacob Pander and Marne Lucas (1995) is a hybrid art/porn movie, shot completely with a thermal camera. (NSFW)
 
@@ -195,7 +166,7 @@ Sometimes simply presenting such alternative views can be a provocative, enterta
 
 ### Thermochromic Imaging
 
-Some substances temporarily change color in response to heat. In different contexts, thermochromic pigments can work as a capture technology or a display technology. 
+*While we're on the topic of visualizing heat:* Some substances temporarily change color in response to heat. In different contexts, thermochromic pigments can work as a capture technology or a display technology. 
 
 * Jay Watson's *[Thermochromic Table](http://www.fubiz.net/en/2014/02/21/thermochromic-table/)* (2011) reveals where and how people have sat at the furniture. 
 
@@ -217,7 +188,7 @@ Some substances temporarily change color in response to heat. In different conte
 
 ### Ultraviolet (UV) Imaging 
 
-* [The World In UV](https://www.youtube.com/watch?v=V9K6gjR07Po), an excellent overview video. Discusses atmospheric haze, sunscreen, quinine, flowers, polar bears.
+* [The World In UV](https://www.youtube.com/watch?v=V9K6gjR07Po), an excellent overview video by Veritasium. Discusses atmospheric haze, sunscreen, quinine, flowers, polar bears, and more:
 
 [![The world in UV](images/the_world_in_uv.png)](https://www.youtube.com/watch?v=V9K6gjR07Po)
 
@@ -231,15 +202,12 @@ Many animals [appear different, and can see in the ultraviolet](http://www.theat
 * Some species of birds use UV markings to tell males and females apart.
 * The flower Black-eyed Susans have petals that appear yellow to humans, but UV markings give them a bull's eye-like design that attracts bees.
 * Sockeye salmon may use their ultraviolet perception to see food.
-Scorpions glow under ultraviolet light, but scientists do not know why.
 
-* [Kestrels can see in the UV](https://youtu.be/AUm-TabNFF0), which helps them find prey. 
+[Kestrels can see in the UV](https://youtu.be/AUm-TabNFF0), which helps them find prey from their UV-fluorescent urine. Here's David Attenborough:<br />[![kestrel-vision.png](images/kestrel-vision.png)](https://youtu.be/AUm-TabNFF0)
 
-[![kestrel-vision.png](images/kestrel-vision.png)](https://youtu.be/AUm-TabNFF0)
+* Scorpions glow under ultraviolet light, but scientists do not know why.
 
-* Scorpions glow in Ultraviolet. 
-
-![Scorpions glow in UV](https://c2.staticflickr.com/8/7064/27708074312_a12d8e3ec3_o.jpg)
+![Scorpions glow in UV](images/uv_scorpion.jpg)
 
 * [Spectra of different species' vision](https://fieldguidetohummingbirds.files.wordpress.com/2008/11/spectrum.jpg).
 
@@ -249,30 +217,73 @@ Scorpions glow under ultraviolet light, but scientists do not know why.
 
 ![Bird vision makes use of UV](https://c2.staticflickr.com/8/7226/27197152074_0a42cf3410_o.png)
 
-UV is also [widely used in forensics](http://ultravioletcameras.com/applications/longwave-ultraviolet-forensics-imaging-applications/). 
+UV is also [widely used in forensics](http://ultravioletcameras.com/applications/longwave-ultraviolet-forensics-imaging-applications/):<br />![Cleaning marks visualized with UV](images/uv_forensics_paint.jpg)
 
-![Cleaning marks visualized with UV](https://c2.staticflickr.com/8/7427/27733775101_4f0c3e8d6c_o.jpg)
+[UV video overview by Thomas Leveritt](https://www.youtube.com/watch?v=o9BqrSAHbTc), promoting sunscreen:<br />![Thomas Leveritt video](images/uv_leveritt.png)
 
 #### Artworks using UV
 
-* [UV video overview by Thomas Leveritt](https://www.youtube.com/watch?v=o9BqrSAHbTc)
+Cara Phillips makes portraits that explore the [aesthetics of the human skin in UV](http://www.theguardian.com/artanddesign/gallery/2012/aug/03/ultraviolet-beauties-cara-phillips-photographs):<br />![Portrait by Cara Phillips](images/uv_cara_phillips.jpg)
 
-![Thomas Leveritt video](https://c2.staticflickr.com/8/7383/27197271604_90566a6700_o.png)
+Using the *wet collodion* chemical process, an early photographic technique invented by Frederick Scott Archer in 1851, photographer Michael Bradley [developed a series of portraits](https://fstoppers.com/film/cultural-tattoos-invisible-wet-collodion-prints-259738), featuring facial tattoos from the indigenous New Zealand culture, the Māori.<br />![Michael Bradley uv/vis portrait with Maori tattoos](images/uv_wet_collodion_michael_bradley.jpg)
 
-* [UV portraits by Cara Phillips](http://www.theguardian.com/artanddesign/gallery/2012/aug/03/ultraviolet-beauties-cara-phillips-photographs)
+The wet collodion process primarily records UV information, as can be seen in the spectrum recording below. The spectrum was generated by a prism, and was directly photographed using collodion. A photograph of the same spectrum was taken simultaneously with digital color. The two photographs were then overlaid using registration marks to ensure accuracy.<br />![visible and collodion spectra](images/uv_collodion_spectrum_niles_lund.jpg)
 
-![Portrait by Cara Phillips](https://c2.staticflickr.com/8/7669/27809409615_9afd17005a_o.jpg)
 
 #### UV imaging in practice
 
 * [UV-pass, visible-cut filters](http://www.savazzi.net/photography/baader_u.htm) are available. 
 * It is also relatively inexpensive to have a [Canon SLR permanently converted for UV](http://www.lifepixel.com/shop/ultraviolet-camera-conversion/canon-dslr-uv-camera-conversion). 
 * It is [worth pointing out](http://www.savazzi.net/photography/uv.htm) that UV & NIR photography also benefit from using [special lenses](http://www.savazzi.net/photography/coastalopt_60.html) which better focus these wavelengths. 
-* Of course, [dedicated UV cameras](http://www.edmundoptics.com/cameras/nir-uv-cameras/sony-xc-e-series-monochrome-ccd-cameras/56346/) also exist. 
+* Of course, [dedicated UV cameras](http://www.edmundoptics.com/cameras/nir-uv-cameras/sony-xc-e-series-monochrome-ccd-cameras/56346/) also exist, some of which, like this [Nurugo UV camera attachment](https://www.amazon.com/Nurugo-SmartUV-Detachable-Lamp-Connectable/dp/B079YVY7PB) for Android, are relatively inexpensive.
 
 ![Golan in UV](images/uv_golan.jpg)
 
 *The STUDIO has an extremely sensitive monochrome security camera which, used with a UV-pass filter, is able to view the world in UV. The image above was recorded with this camera.*
+
+
+---
+
+### X-Ray imaging
+
+#### X-Ray Imaging in the Arts
+
+As X-rays can reveal the interior structure of objects and people, we expect to see artists exploring this form of 'revelation'. For example, here is a Rose by Bryan Whitney, from this [*Survey of X-Ray Photographic Art*](http://www.theapricity.com/forum/showthread.php?147702-X-Ray-Photographic-Art-Seeing-Humans-Nature-Objects-Beneath-The-Surface): 
+
+![Rose X-Ray by Bryan Whitney](images/x-ray_bryan_whitney_rose.jpg)
+
+* In his series '[Xograms](http://www.smithsonianmag.com/arts-culture/x-ray-art-deeper-look-everyday-objects-180949540/?no-ist)', Hugh Turvey (Artist in Residence, The British Institute of Radiology) takes a "deeper look at everyday objects":
+
+![Xograms, by Hugh Turvey](images/x-ray_hugh_turvey.jpg)
+
+* This is a stunning project by Cohen+Van Balen: [Infrastructures of Natural History](http://www.cohenvanbalen.com/work/infrastructures-of-natural-history), X-rays of taxidermied animals:
+
+![infrastructures-of-natural-history-leopard.jpg](images/infrastructures-of-natural-history-leopard.jpg)
+
+* [X-ray portraits by Ayako Kanda and Mayuka Hayashi](http://www.boredpanda.com/x-ray-couple-portraits-ayako-kanda-mayuka-hayashi/)
+
+![X-ray portraits by Ayako Kanda and Mayuka Hayashi](https://c2.staticflickr.com/8/7198/27196288194_c64b8f810a_b.jpg)
+
+* [*Lick* by Wim Delvoye](http://curiator.com/art/wim-delvoye/lick-1)
+
+![Lick by Wim Delvoye](https://c2.staticflickr.com/8/7392/27707261232_b627010ce9_b.jpg)
+
+* [*Pinup Calendar* by German ad firm, BUTTER](http://www.themarysue.com/x-ray-pin-up-calendar/)
+
+![Pinup Calendar by BUTTER](https://c2.staticflickr.com/8/7298/27196288294_99546c5c9c_o.jpg)
+
+It is also possible to design or arrange objects for the express purpose of having them discovered in X-Ray images.
+
+* Evan Roth's *[TSA Communication](http://www.evan-roth.com/work/tsa-communication/)* project, a series of custom sheet metal cutouts placed in luggage, adopts a strategy similar to the [Surveillance Camera Players](http://imaginationforpeople.org/en/project/surveillance-camera-players/):
+
+![Evan Roth's TSA Interventions](images/x-ray_tsa_communications_roth1.jpg)
+
+![Evan Roth's TSA Interventions](images/x-ray_tsa_communications_roth2.jpg)
+
+* We can also reimagine extreme insertions as a form of performance art, for an audience of radiologists. ([X-ray insertions](https://www.google.com/search?q=X-ray+insertions&tbm=isch))
+
+![X-ray insertions](images/x-ray_hammer_insertion.jpg)
+
 
 ---
 ### Radar
@@ -292,9 +303,7 @@ UV is also [widely used in forensics](http://ultravioletcameras.com/applications
 
 #### Seeing through Walls with Radio & ML
 
-[RF-Pose](https://www.youtube.com/watch?v=HgDdaMy8KNE) by researchers at MIT CSAIL
-
-![Terahertz imaging](images/radio.png)
+[RF-Pose](https://www.youtube.com/watch?v=HgDdaMy8KNE) by researchers at MIT CSAIL:<br />[![Terahertz imaging](images/radio.png)](https://www.youtube.com/watch?v=HgDdaMy8KNE)
 
 #### Millimeter Wave & Terahertz Imaging
 
@@ -305,10 +314,7 @@ This is the stuff that *really* sees through clothing.
 * [Millimeter wave scanners](https://en.wikipedia.org/wiki/Full_body_scanner#Controversies), also called backscatter imaging, are used by the TSA 
 * [Terahertz imagers](http://www.stamparein3d.it/wp-content/uploads/2015/04/Lenti-a-Onde-THZ-05.jpg), which operate around 300 micrometers.
 
-Indeed, it can see through [more than just clothing](http://www.propublica.org/article/drive-by-scanning-officials-expand-use-and-dose-of-radiation-for-security-s). 
-
-![Backscatter examination of truck with illegal immigrants](images/backscatter-truck.jpg)<br />
-*"Treating people like luggage"*
+Indeed, it can see through [more than just clothing](http://www.propublica.org/article/drive-by-scanning-officials-expand-use-and-dose-of-radiation-for-security-s).<br />![Backscatter examination of truck with illegal immigrants](images/backscatter-truck.jpg)<br />
 
 #### CT Scans, MRI, CAT etc. 
 
@@ -316,6 +322,8 @@ X-ray computed tomography (X-ray CT) and magnetic resonance imaging (MRI) and ar
 
 ![Kyle McDonald CT scan](images/kyle-mcdonald-ct-scan.jpg)<br />
 *Kyle McDonald experimenting with some of his own CT scan data in openFrameworks.*
+
+Angiography is the process of imaging blood vessels. Recent progress in MRI imaging has made possible whole-body magnetic resonance angiography (MRA):<br />![whole body angiography](images/mri_whole_body_angiography_mra.jpg)
 
 ![Bird CT scan](images/ctscan-bird.png)<br />[CT scan by Scott Echols](https://www.theguardian.com/science/2017/mar/05/wellcome-image-awards-2017-shortlist-science-visions-photography) capturing tiny blood vessels in the head of a pigeon, created by a special ‘contrast agent’ to highlight the microvasculatory system. 
 

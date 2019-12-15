@@ -1,4 +1,4 @@
-#Long Exposure and Light Painting
+# Long Exposure and Light Painting
 
 ![Long exposure by Matthew Fang](images/long-exposure-matthew-fang.jpg)
 
@@ -12,7 +12,7 @@ Many terrific examples of long-exposure photography can be found in Nicholas Fel
 
 [![Nick Felton at Webstock](images/felton-webstock.jpg)](https://vimeo.com/122852255)
 
---
+---
 
 ### For viewing and consideration: Nature
 
@@ -38,7 +38,7 @@ Many terrific examples of long-exposure photography can be found in Nicholas Fel
 
 [![Dennis Hlynsky: *Ground Cloud*](images/long-exposure-hlynsky.jpg)](https://vimeo.com/149022523)
 
---
+---
 
 ### Machines and Signals
 
@@ -58,7 +58,7 @@ Many terrific examples of long-exposure photography can be found in Nicholas Fel
 
 [![Berg: *Immaterials: Light painting WiFi*](images/long-exposure-berg-wifi.jpg)](https://vimeo.com/20412632)
 
---
+---
 
 ### The Body
 
@@ -74,6 +74,6 @@ Many terrific examples of long-exposure photography can be found in Nicholas Fel
 
 [![Shinichi Maruyama, *Nudes*](images/maruyama-long-exposure.jpg)](http://www.shinichimaruyama.com/)
 
-* [Olivier Gondry (dir.) for Tiga, *You Gonna Want Me*](https://www.youtube.com/watch?v=b7IJVdBecqQ): long exposure bullet time. 
+* [Olivier Gondry (dir.) for Tiga, *You Gonna Want Me*](https://www.youtube.com/watch?v=b7IJVdBecqQ): long exposure bullet time (especially at 1'00"). 
 
 [![Gondry (dir.) for Tiga](images/long-exposure-gondry.jpg)](https://www.youtube.com/watch?v=b7IJVdBecqQ)

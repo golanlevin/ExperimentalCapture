@@ -2,7 +2,7 @@
 
 ### Perspective Representation
 
-Size = Proximity. (Right?)
+*Size = Proximity* (Right?)
 
 ![Forced perspective by mtsonic](images/forced-perspective.jpg)<br />
 *Forced perspective by [mtsonic](https://www.flickr.com/photos/mtsonic/2933383930/).*
@@ -11,7 +11,7 @@ Owing to our familiarity with perspective imaging, we take for granted that thin
 
 ### Hierarchical size 
 
-Size = Importance.
+*Size = Importance*
 
 ![Hierarchical proportion in Egyptian art](images/hierarchical-proportion.jpg)<br />
 *At left, from [here](http://www.curatorscorner.com/2014_10_01_archive.html?m=1): "Senwosret-senebefny, an Egyptian official in the Twelfth Dynasty (1937–1759 bce), depict the deceased squatting on the ground covered in a cloak. The small figure is Itneferuseneb, most likely Senwosret-senebefny’s wife." At right: Family Group, mortuary statue, ca 2371–2298 bce.*
@@ -22,7 +22,7 @@ This is *psychological* rather than *mechanical* representation.
 
 ### Perspectiveless Imaging
 
-Size = A Question of Composition
+*Size = A Question of Composition*
 
 The "lack" of perspective is a common feature in Asian, Indian, and Medieval European art. Notice how the characters are all the same size, even if they are further away. Well, "further away" from what? Who (or what) is the implied observer here? 
 
@@ -66,7 +66,9 @@ In fact, there are a wide variety of alternative graphical projection methods, i
 
 ### Telecentric Lenses
 
-A [*telecentric lens*](https://en.wikipedia.org/wiki/Telecentric_lens) is an unusual type of lens whose focal point is at infinity. It naturally produces an orthographic view of its subject. It can only work for small objects, i.e. smaller than the lens aperture. 
+A [*telecentric lens*](https://en.wikipedia.org/wiki/Telecentric_lens) is an unusual type of lens whose focal point is at infinity. It naturally produces an orthographic view of its subject. It can only work for small objects, i.e. smaller than the lens aperture. Such lenses are used in machine vision systems because image magnification is independent of the object's distance or position in the field of view.
+
+This [video](https://www.youtube.com/watch?v=8xP4lr1ojTo) demonstrates telecentric imaging well:<br />[![Telecentric imaging, from Edmund Optics](images/telecentric_edmund.png)](https://www.youtube.com/watch?v=8xP4lr1ojTo)
 
 ![Telecentric imaging, from Edmund Optics](images/telecentric.gif)<br />
 *Telecentric imaging, from Edmund Optics.*
@@ -78,11 +80,19 @@ You can see a telecentric lens used to document insects in the Berlin Natural Hi
 
 -- 
 
-### Hypercentric and Pericentric Lenses
+### Hypercentric / Pericentric Lenses
 
-A hypercentric lens provides a converging view of an object, letting you see the top and all around the sides, simultaneously.
+A hypercentric (or pericentric) lens provides a converging view of an object, letting you see the top and all around the sides, simultaneously. One of the most important use cases of hypercentric lenses in machine vision applications is thus  the 360 degree inspection of an object with a single image.  For this to work, the lens must be larger than the imaged object. <br />![Hypercentric imaging, from Edmund Optics](images/hypercentric_edmund.png)
+
+An [example](https://link.springer.com/article/10.1007/s00138-019-01032-w) is shown below. 
+
+> <small>Here, the print on the label of a bottle shown in Fig. 1a must be inspected. The camera was mounted above the bottle with a perpendicular view down onto the object, as illustrated in Fig. 1b. The entrance pupil of a hypercentric lens lies in front of the lens. The object is placed between the entrance pupil and the front of the lens. In this setup, objects that are closer to the camera appear smaller in the image. Figure 1c shows the image obtained by a camera with a hypercentric lens. The bottle’s cap is imaged in the center and the entire label is visible and imaged as a circular ring. Unfortunately, this is achieved at the expense of severe perspective distortions of the object in the image. Figure 1d shows the bottle as observed by a traditional perspective camera.
+
+![Hypercentric diagram](images/hypercentric_diagram.png)
 
 ![Hypercentric lens](images/hypercentric-lens.jpg)
+
+![Hypercentric image of dice](images/hypercentric_oleksandr_holovachov.png)
  
 ![Hypercentric lens](images/hypercentric-lens1.jpg)
 

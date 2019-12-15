@@ -16,6 +16,11 @@ Many terrific examples of long-exposure photography can be found in Nicholas Fel
 
 ### For viewing and consideration: Nature
 
+* Solargraphy is a technique in which a fixed pinhole camera is used to expose photographic paper for an extremely long amount of time (sometimes half a year). It is most often used to show the path taken by the Sun across the sky. "The image below was recorded with a pinhole camera made from a drink can lined with a piece of photographic paper. The simple camera continuously records the Sun's path each day as a glowing trail burned into the photosensitive paper. Dark gaps in the daily arcs are caused by cloud cover, whereas continuous bright tracks record glorious spells of sunny weather."
+
+![Solargraphy](images/solargraphy_regina_valkenborgh_6months.jpg)
+
+
 * [David Rokeby, *Plot Against Time*](http://www.davidrokeby.com/PlotAgainstTime.html) (Pedestrians, Fireflies, Birds, etc.)
 
 [![](images/long-exposure-rokeby-snow.jpg)](http://www.davidrokeby.com/PlotAgainstTime.html)

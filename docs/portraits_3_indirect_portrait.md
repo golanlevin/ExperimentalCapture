@@ -1,4 +1,4 @@
-# Portraits (IV): The Indirect Portrait
+# Portraits (III): The Indirect Portrait
 
 
 * [Portrait of Ross](#portrait-of-ross)

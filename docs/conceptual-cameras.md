@@ -20,6 +20,7 @@ Some artist-made cameras make aesthetic judgements about their surroundings, and
 
 Other experimental cameras bring politics and poetics to the act of image capture.
 
+* [*Film Noir*](#film-noir) by Ayodele Odubela
 * [*Between Blinks and Buttons*](#between-blinks-and-buttons) by Sascha Pohflepp
 * [*Image Fulgurator*](#image-fulgurator) by Julius von Bismarck
 
@@ -89,17 +90,13 @@ The opposite of this is [*WordsEye*](http://www.wordseye.com/) (2015), an intera
 
 Closely related to the above projects is *[The Unoptic Camera](http://cl.ly/1h2Q0q0h1J32)* by Kyle McDonald and Chris Woebken.
 
-<!--
-
 ---
 
 ### Film Noir
 
-Data scientist Ayodele Odubela is creating *Film Noir*, a [Black Camera](https://www.dazzlingdata.science/film-noir/). She writes: 
+Data scientist [Ayodele Odubela](https://www.dazzlingdata.science/) is actively developing *Film Noir*, a camera optimized for black skin. She writes that the aim of *Film Noir* is 
 
-> "*Imagine a camera optimized for black skin.
-That’s exactly the aim of my project, to improve the photo taking experience for black people. I want to train a Convolutional Neural Network to learn features based off a variety of black faces. Then I’ll use a Generative Adversarial Network (GAN) to create a new image, that should highlight black people’s features better.*"
--->
+> "*to improve the photo taking experience for black people. I am training a Convolutional Neural Network to learn features based off a variety of black faces, and then using a Generative Adversarial Network (GAN) to create a new image, that should highlight black people’s features better.*"
 
 ---
 

@@ -1,47 +1,38 @@
-### Portraits (II)
+# Portraits (II): Candid Machinery
 
 ---
 
-*More rule-based approaches to portraiture (both with, and without, computation).*
+*In these rule-based approaches to portraiture, artists have devised systems for eliciting candid views of their subjects. They rely not on computation, but on the observational logic of [cinéma vérité](https://en.wikipedia.org/wiki/Cin%C3%A9ma_v%C3%A9rit%C3%A9) and the organizational logic of the [small multiple](https://en.wikipedia.org/wiki/Small_multiple).*
 
 ---
 
-Some more 3D portraits: 
+### More Turns
 
-* [Sophie Kahn, *Portraits*](https://www.sophiekahn.net/portraits)
-* [Mathilde Marc & Hugo Arcier, *Camgirl Odalisque*](http://hugoarcier.com/en/camgirl-odalisque/)
-* [Dmitry Zakharov, *Inside Me*](https://vimeo.com/106671329)
-* [Marshmallow Laser Feast, *Duologue - Memex*](https://www.youtube.com/watch?v=dFrdG-ZPVLQ)
-* [The *Visible Human Project*](https://www.youtube.com/watch?v=dPPjUtiAGYs) and [Croix Gagnon and Frank Schott, *12:31*](http://www.project1231.com/)
+![*Turnstiles*](images/portrait_bill_sullivan_turnstiles.jpg)
+
+Bill Sullivan's [*More Turns*](https://www.moma.org/learn/moma_learning/walker-evans-subway-portraits-1938-41/) (2006) is a highly controlled photographic study of people passing through subway turnstiles. Sullivan equalizes his subjects by capturing all of them in the same action and from the same distance. 
+
+![*Turnstiles*](images/portrait_bill_sullivan_turnstiles2.jpg)
+
+
+Sullivan writes:
+
+> "*I needed something to be objective: I wanted the context to be clearly established. I wanted play a role in the situation, but I wanted the situation to take a photograph of itself for me. I would design the scenarios in which this could happen, and then the situation could be responsible for creating the picture. The poetry would be as much in the design of that scenario as from any photograph that might come from it. These situations would include me but I would disappear as any kind of typical photographer. I would simply play a role in the scenario. I would become someone waiting for an elevator, a man reading the New Yorker waiting for a friend to pass through the turnstile, or simply another tourist watching someone having his or her portrait done. The situations were mapped out, tests were made, and special clothing was worn. I became a spy for the obvious. I developed a situation so that various subjects could be defined by the constraints of exactly the same mechanical apparatus. The scenario consisted of someone passing through a subway turnstile. At the moment that the subjects passed through the turnstile, unknown to them, I took their picture stationed at a distance of eleven feet. I stood there turning pages of a magazine observing subjects out of the corner of my eye, waiting for only the moment when they pushed the turnstile bar to release the shutter.*" (Via [MoMA](https://www.moma.org/learn/moma_learning/walker-evans-subway-portraits-1938-41/)) 
+
 
 ---
 
-[Bob Sabiston, *Project Incognito*](https://youtu.be/xX5m3LqjuUc) (1997)
-
-Very early work by the creator of [*The Waking Life*](https://www.youtube.com/watch?v=6DLga_hRwcQ) and [*A Scanner Darkly*](https://www.youtube.com/watch?v=hkjDUERgCQw). 
-
-![Bob Sabiston, *Project Incognito*](images/sabiston_incognito_1997.jpg)
-
-Sabiston's custom software applied forces, computed using optical flow, to buffet particles comprising vector-based drawings. Kyle McDonald's [ofxCv addon for openFrameworks](https://github.com/kylemcdonald/ofxCv) includes an example with two different optical flow algorithms. There's also an [implementation for Processing](https://www.openprocessing.org/sketch/84287) (Java).
-
-![optical flow](images/opticalflow.gif)
- 
----
-
-[Rachel Strickland, *Portable Portraits*](https://vimeo.com/9364721) (1990s)
-
-Interviews with people about the contents of their bags, and other portable effects. 
-[![*Portable Portraits*](images/portable-portrait.jpg)](https://vimeo.com/9364721)
-
---
+### Ten Meter Tower
 
 [Maximilien van Aertryck and Axel Danielson, *Ten Meter Tower*](https://www.nytimes.com/2017/01/30/opinion/ten-meter-tower.html) (2017)
 
-"Our objective in making this film was something of a psychology experiment: We sought to capture people facing a difficult situation, to make a portrait of humans in doubt. We’ve all seen actors playing doubt in fiction films, but we have few true images of the feeling in documentaries. To make them, we decided to put people in a situation powerful enough not to need any classic narrative framework. A high dive seemed like the perfect scenario."
+> "*Our objective in making this film was something of a psychology experiment: We sought to capture people facing a difficult situation, to make a portrait of humans in doubt. We’ve all seen actors playing doubt in fiction films, but we have few true images of the feeling in documentaries. To make them, we decided to put people in a situation powerful enough not to need any classic narrative framework. A high dive seemed like the perfect scenario.*"
 
 ![*Ten Meter Tower*](images/dive.gif)
 
---
+---
+
+### Shooter
 
 [Beate Geissler & Oliver Gann, *Shooter*](http://www.taubertcontemporary.com/artists/geissler-sann/shooter/) (2000)
 
@@ -53,13 +44,43 @@ The title of each photograph is a combination of the name the gamer had given th
 ![*Shooter*](images/shooter_big_drozdowski_115_kai_115.jpg)
 *Big Drozdowski, 115* (left). *Kai, 115* (right). 
 
-"The photographs are taken in the very moment the depicted person is killing an opponent in the computer game. According to the artists, ‘The viewer witnesses a life-and-death game with no consequences’. ‘shooter’ presents a test set-up with which to analyse the human relation to real and virtual spaces and the associated gestures and facial expressions."
+> "*The photographs are taken in the very moment the depicted person is killing an opponent in the computer game. According to the artists, ‘The viewer witnesses a life-and-death game with no consequences’. ‘shooter’ presents a test set-up with which to analyse the human relation to real and virtual spaces and the associated gestures and facial expressions.*"
 
 ![*Shooter*](images/shooter-geissler-sann.png)
 
---
+--- 
 
-And: 
+### The Stun Gun Photoshoot
 
-* [Tanja Hollander, *Photograph a Friend*](https://www.youtube.com/watch?v=0posLr4TTiI) (Journey to photograph all of her facebook friends)
-* [Nancy Burson, *Guys who Look Like Jesus*](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/image-averaging/burson_jesus_guys.jpg) 
+Patrick Hall's [*Stun Gun Photoshoot*](https://www.patrickhall.photography/the-stun-gun-photoshoot) is a photo series showcasing the various emotions and reactions of people at the moment they are hit with a 300,000 volt stun gun. Hall's approach elicits utterly candid reactions ranging, interestingly, from pain to pleasure.  
+
+[![Stun Gun Portrait Series](images/portrait_stun_gun.jpg)](https://www.patrickhall.photography/the-stun-gun-photoshoot)
+
+---
+
+### Hysterical Literature
+
+> "*[Hysterical Literature](http://hystericalliterature.com/sessions) is a video art series by NYC-based photographer and filmmaker Clayton Cubitt. It explores feminism, mind/body dualism, distraction portraiture, and the contrast between culture and sexuality.*"
+
+[![*Hysterical Literature*](images/portrait_hysterical_literature.jpg)](http://hystericalliterature.com/sessions)
+
+One of the writers affiliated with the project, Amanda Hess, writes: 
+
+> “*Hysterical Literature hits the internet at a time in human history where it is increasingly possible for women to obliterate that distinction [between sexual object and human subject], to express our sexuality without surrendering our agency.*”
+
+---
+
+### Portable Portraits
+
+[Rachel Strickland, *Portable Portraits*](https://vimeo.com/9364721) (1990s)
+
+Strickland conducts candid *cinema-verite* interviews with people about the contents of their bags, and other portable effects. Subjects exhaustively divulge their vernacular organizational strategies. An overview of the project is [here](https://spontaneouscinema.com/projects/portable-effects-a-survey-of-nomadic-design-practice/). 
+
+[![Portable Portraits](images/portrait_strickland_grid.jpg)](https://spontaneouscinema.com/projects/portable-effects-a-survey-of-nomadic-design-practice/)
+
+Strickland writes: 
+
+> "*Once upon a summertime expedition to Japan circa 1984, Strickland encountered expressions of a culture that’s enormously sophisticated in the ways of folding, stacking, rolling, nesting, carrying, miniaturizing, and transforming things. Transporting that inspiration home and proceeding to unpack it several years later, Portable Effects is a video anthropology project that investigates people’s design of the miniature environments we carry with us—in pockets, backpacks, briefcases, and handbags. Between setting forth in the morning and returning home at night, every person lives nomadically for a portion of each day. You can’t take everything with you—neither in your backpack nor in your head. Identifying essentials, and figuring out how to contain, arrange and keep track of them as you go, are instances of design thinking.*"
+
+[![*Portable Portraits*](images/portable-portrait.jpg)](https://vimeo.com/9364721)
+

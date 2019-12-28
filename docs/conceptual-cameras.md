@@ -2,7 +2,7 @@
 
 This lecture is intended to provoke reconsiderations about what a camera "is" or could be. 
 
--- 
+--- 
 
 ### The Descriptive Camera
 
@@ -10,7 +10,7 @@ This lecture is intended to provoke reconsiderations about what a camera "is" or
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8vkWb15Uudg" target="_blank"><img src="http://img.youtube.com/vi/8vkWb15Uudg/0.jpg" width="640" height="480" border="0" /></a><br />
 
---
+---
 
 ### Word.Camera
 
@@ -28,7 +28,7 @@ The opposite of this is [WordsEye](http://www.wordseye.com/). Try it!
 
 [![Wordseye](images/wordseye.png)](http://www.wordseye.com/)<br />
 
--- 
+--- 
 
 ### Camera Restricta
 
@@ -39,7 +39,7 @@ The opposite of this is [WordsEye](http://www.wordseye.com/). Try it!
 
 Closely related to this project is *[The Unoptic Camera](http://cl.ly/1h2Q0q0h1J32)* by Kyle McDonald and Chris Woebken.
 
--- 
+--- 
 
 ### Nadia, Camera Intelligent Interface
 
@@ -47,7 +47,7 @@ Closely related to this project is *[The Unoptic Camera](http://cl.ly/1h2Q0q0h1J
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ColrQao4Hlg" target="_blank"><img src="http://img.youtube.com/vi/ColrQao4Hlg/0.jpg" width="640" height="480" border="0" /></a><br />
 
---
+---
 
 ### Image Fulgurator
 
@@ -59,6 +59,7 @@ von Bismarck writes:
 
 > In principle, the Fulgurator can be used anywhere where there is another camera nearby that is being used with a flash. It operates via a kind of reactive flash projection that enables an image to be projected on an object exactly at the moment when someone else is photographing it. The intervention is unobtrusive because it takes only a few milliseconds. Every photo another photographer takes of an object at which the Fulgurator is also aimed is affected by the manipulation. Hence visual information can be smuggled unnoticed into the images of others.
 
+---
 
 ### Prosthetic Photographer
 

@@ -7,22 +7,21 @@
 Several artist-made cameras probe the relationship between words and images, language and perception. 
 
 * [*The Descriptive Camera*](#the-descriptive-camera) by Matt Richardson
-* *Word.Camera* by Ross Goodwin
-* *Neural Talk and Walk* by Kyle McDonald
-* *WordsEye*
+* [*Word.Camera*](#wordcamera) by Ross Goodwin
+* [*Neural Talk and Walk*](#neural-talk-and-walk) by Kyle McDonald
+* [*WordsEye*](#wordseye)
 
 Some artist-made cameras make aesthetic judgements about their surroundings, and prompt or prevent their operator from capturing the scene, accordingly.
 
-* *Camera Restricta* by Philipp Schmitt
-* *Nadia, Intelligent Camera Interface* by Andrew Kupresanin
-* *Prosthetic Photographer* by Peter Buczkowski
-* *The Unoptic Camera* by Kyle McDonald and Chris Woebken
+* [*Camera Restricta*](#camera-restricta) by Philipp Schmitt
+* [*Nadia, Intelligent Camera Interface*](#nadia-intelligent-camera-interface) by Andrew Kupresanin
+* [*Prosthetic Photographer*](#prosthetic-photographer) by Peter Buczkowski
+* [*The Unoptic Camera*](#the-unoptic-camera) by Kyle McDonald and Chris Woebken
 
-Other experimental cameras meld poetics and politics with the act of image capture.
+Other experimental cameras bring politics and poetics to the act of image capture.
 
-* *Film Noir* by Ayodele Odubela
-* *Between Blinks & Buttons* by Sascha Pohflepp
-* *Image Fulgurator* by Julius von Bismarck
+* [*Between Blinks and Buttons*](#between-blinks-and-buttons) by Sascha Pohflepp
+* [*Image Fulgurator*](#image-fulgurator) by Julius von Bismarck
 
 
 --- 
@@ -65,8 +64,8 @@ The opposite of this is [*WordsEye*](http://www.wordseye.com/) (2015), an intera
 
 *[Camera Restricta](http://philippschmitt.com/projects/camera-restricta)* (2014) by Philipp Schmitt is a 'disobedient' camera designed to take unique photographs. By using data of geotagged photos, the camera will refuse to operate in popular places.
 
-![Camera restricta](images/conceptual_camera_restricta.jpg)<br />
-![Camera restricta](images/conceptual_camera_restricta_viewfinder.jpg)<br />
+[![Camera restricta](images/conceptual_camera_restricta.jpg)](https://vimeo.com/137595414)<br />
+[![Camera restricta](images/conceptual_camera_restricta_viewfinder.jpg)](https://vimeo.com/137595414)<br />
 
 --- 
 
@@ -90,6 +89,8 @@ The opposite of this is [*WordsEye*](http://www.wordseye.com/) (2015), an intera
 
 Closely related to the above projects is *[The Unoptic Camera](http://cl.ly/1h2Q0q0h1J32)* by Kyle McDonald and Chris Woebken.
 
+<!--
+
 ---
 
 ### Film Noir
@@ -98,10 +99,11 @@ Data scientist Ayodele Odubela is creating *Film Noir*, a [Black Camera](https:/
 
 > "*Imagine a camera optimized for black skin.
 That’s exactly the aim of my project, to improve the photo taking experience for black people. I want to train a Convolutional Neural Network to learn features based off a variety of black faces. Then I’ll use a Generative Adversarial Network (GAN) to create a new image, that should highlight black people’s features better.*"
+-->
 
 ---
 
-### Between Blinks & Buttons
+### Between Blinks and Buttons
 
 Sascha Pohflepp's [*Between Blinks & Buttons*](http://pohflepp.net/Work/Buttons) (2006/2010) reduces the act of photo-taking to capturing a moment in time. Ignoring your location, pressing this camera's shutter button will retrieve another photo taken (elsewhere) at the same time, potentially from the other side of the world. (As [seen in Wired](https://www.wired.com/2010/03/blind-camera-takes-photos-from-other-side-of-the-world/).)
 

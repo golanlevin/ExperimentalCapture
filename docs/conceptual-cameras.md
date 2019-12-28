@@ -1,12 +1,12 @@
 # Conceptual Cameras
 
-This lecture is intended to provoke reconsiderations about what a camera "is" or could be.
+*This lecture is intended to provoke reconsiderations about what a camera is, could be, or ought to be.*
 
 ### Contents
 
 Several artist-made cameras probe the relationship between words and images, language and perception. 
 
-* *The Descriptive Camera* by Matt Richardson
+* [*The Descriptive Camera*](#the-descriptive-camera) by Matt Richardson
 * *Word.Camera* by Ross Goodwin
 * *Neural Talk and Walk* by Kyle McDonald
 * *WordsEye*
@@ -18,7 +18,7 @@ Some artist-made cameras make aesthetic judgements about their surroundings, and
 * *Prosthetic Photographer* by Peter Buczkowski
 * *The Unoptic Camera* by Kyle McDonald and Chris Woebken
 
-Other experimental cameras meld poetics and politics.
+Other experimental cameras meld poetics and politics with the act of image capture.
 
 * *Film Noir* by Ayodele Odubela
 * *Between Blinks & Buttons* by Sascha Pohflepp

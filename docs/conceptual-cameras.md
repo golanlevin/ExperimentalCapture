@@ -72,3 +72,10 @@ Data scientist Ayodele Odubela is creating a [Black Camera](https://www.dazzling
 "Imagine a camera optimized for black skin.
 That’s exactly the aim of my project, to improve the photo taking experience for black people. I want to train a Convolutional Neural Network to learn features based off a variety of black faces. Then I’ll use a Generative Adversarial Network (GAN) to create a new image, that should highlight black people’s features better."
 
+---
+
+### Blind Camera
+
+Sascha Pohflepp's [Buttons](http://pohflepp.net/Work/Buttons) reduces the act of photo-taking to capturing a moment in time. Ignoring your location, pressing this camera's shutter button will retrieve a photo taken at the same time. (As [seen in Wired](https://www.wired.com/2010/03/blind-camera-takes-photos-from-other-side-of-the-world/).)
+
+

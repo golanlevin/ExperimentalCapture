@@ -1,12 +1,12 @@
 # Assumptions to Question
 
-> *In this course, we aim to understand the words "photograph" and "camera" in the broadest possible sense.* 
+> *In this course in "Experimental Capture", we aim to understand the words "photograph" and "camera" in the broadest possible sense.* 
 
-In this course on "Experimental Capture", we aim to *question the basic assumptions of camera-based imaging*, as we generally understand it today. For example, we will interrogate and test underlying assumptions such as:
+We aim to *question the basic assumptions of camera-based imaging*, as we generally understand it today. In this course, we will interrogate and test underlying assumptions, such as the premise that:
 
 * **a photo shows a scene from only one moment**
 * **a photo shows a scene from only one point of view**
-* **a photograph's exposure is nearly instantaneous**
+* **a photo's exposure is nearly instantaneous**
 * **a photo is viewable (developed) immediately**
 * **a camera is small enough to be handheld**
 * **a camera is large enough to see with the naked eye**  

@@ -1,14 +1,15 @@
 # Portraits (III): The Indirect Portrait
 
+Artists use *indirect means* to capture or depict their subject.
 
 * [Portrait of Ross](#portrait-of-ross)
 * [Lipsticks](#lipsticks)
-* [Material World](#material-world)
+* [The Hote](#the-hotel)
 * [Stranger Visions](#stranger-visions)
-* [Time Capsules](*time-capsules)
 * [Tracking Transience](#tracking-transience)
 * [Browser History](#browser-history)
 * [Evidence Locker](#evidence-locker)
+* [Material World](#material-world)
 
 ---
 
@@ -20,26 +21,32 @@
 
 ---
 
+### Library of Dust
+
+[![Felix Gonzalez-Torres](images/portraits/maisel_library_of_dust.jpg)](https://davidmaisel.com/works/library-of-dust/)
+
+David Maisel's [*Library of Dust*](https://davidmaisel.com/works/library-of-dust/) depicts approximately 3,500 individual copper canisters, each containing the cremated remains of patient from a state-run psychiatric hospital. The patients died at the hospital between 1883 and the 1970’s; their bodies have remained unclaimed by their families.
+ 
+---
+
 ### Lipsticks
 
-Stacy Greene's [*Lipsticks*](http://stacygreene.com/portfolio/lipsticks/) (1992) "are a series color close-ups of used lipsticks, with each print titled with the name of the lipstick’s owner. They are distinguished by their striking variations in form and texture arising from the owners’ individual techniques of application. The everyday, factory, ‘ready-made’ product turned into a uniquely surreal and subconscious image – a sculpture evolving from a private daily ritual taken for granted. A personal object/process that reveals , through colors and shapes, a relationship of imprint at the periphery of the body."
+Stacy Greene's [*Lipsticks*](http://stacygreene.com/portfolio/lipsticks/) (1992), per the artist,
+
+> "are a series color close-ups of used lipsticks, with each print titled with the name of the lipstick’s owner. They are distinguished by their striking variations in form and texture arising from the owners’ individual techniques of application. The everyday, factory, ‘ready-made’ product turned into a uniquely surreal and subconscious image – a sculpture evolving from a private daily ritual taken for granted. A personal object/process that reveals , through colors and shapes, a relationship of imprint at the periphery of the body."
 
 [![Stacey Greene](images/portraits/portrait_lipstick_greene2.jpg)](http://stacygreene.com/portfolio/lipsticks/)
 
 ---
 
-### Material World
+### The Hotel 
 
-In [*Material World: A Global Family Portrait*](http://www.npr.org/sections/pictureshow/2010/08/10/129113632/picturingpossessions), photographer Peter Menzel and other photographers took portraits of 30 statistically average families with all of their worldly possessions displayed outside their homes.
+For her photo series, [*The Hotel*](https://www.youtube.com/watch?v=V5yLOcp-azI) (1981), Sophie Calle posed as a chambermaid in order to take photos of hotel rooms, as proxies for their inhabitants. 
 
-[![Peter Menzel](images/portraits/portrait_family.jpg)](http://www.npr.org/sections/pictureshow/2010/08/10/129113632/picturingpossessions)
+[![Calle: The Hotel](images/portraits/portrait_calle_hotel.jpg)](https://www.youtube.com/watch?v=V5yLOcp-azI)
 
----
+> "Sophie Calle's voyeuristic fascination with the lives of others inspired *The Hotel*, a project she executed in the early 1980s while posing as a chambermaid at a hotel in Venice, Italy. Each work in the series is a portrait of a room she was assigned to clean, including photographs of the bed and personal belongings she found there, and a text by the artist offering her imaginative impression of the absent guests."
 
-### Time Capsules
-
-Andy Warhol, [*Time Capsules*](http://www.phaidon.com/agenda/art/articles/2014/january/03/opening-warhols-time-capsules/)
-![Andy Warhol](images/warhol-crates.jpg)
 
 ---
 
@@ -76,3 +83,30 @@ Jill Magid's [*Evidence Locker*](http://www.jillmagid.com/projects/evidence-lock
 [![Jill Magid](images/portraits/magid.jpg)](http://www.jillmagid.com/projects/evidence-locker-2)
 
 > *​In 2004, Jill Magid spent 31 days in Liverpool, during which time she developed a close relationship with Citywatch (Merseyside Police and Liverpool City Council), whose function is citywide video surveillance- the largest system of its kind in England. The videos in her *Evidence Locker* were staged and edited by the artist and filmed by the police using the public surveillance cameras in the city centre. Wearing a bright red trench coat she would call the police on duty with details of where she was and ask them to film her in particular poses.*
+
+---
+
+# Typologies: People and their Stuff
+
+
+---
+
+### Material World
+
+In the [*Material World: A Global Family Portrait*](http://www.npr.org/sections/pictureshow/2010/08/10/129113632/picturingpossessions) photo series (1994), Peter Menzel and other photographers took portraits of 30 statistically average families — with all of their worldly possessions displayed outside their homes.
+
+[![Peter Menzel](images/portraits/portrait_family.jpg)](http://menzelphoto.com/galleries/material-world/)
+
+---
+
+### Toy Stories
+
+
+For [*Toy Stories*](https://www.gabrielegalimberti.com/toy-stories/), over two years, photographer Gabriele Galimbert
+
+> visited more than 50 countries and created colorful images of boys and girls in their homes and neighborhoods with their most prized possessions: their toys. From Texas to India, Malawi to China, Iceland, Morocco, and Fiji, I recorded the spontaneous and natural joy that unites kids despite their diverse backgrounds. Whether the child owns a veritable fleet of miniature cars or a single stuffed monkey, the pride that they have is moving, funny, and thought provoking.
+
+[![Gabriele Galimbert's *Toy Stories*](images/portraits/portrait_toy_stories.jpg)](https://www.gabrielegalimberti.com/toy-stories/)
+
+
+

@@ -15,3 +15,5 @@ There are a variety of alternative techniques and/or experimental microphones fo
 * laser microphones
 * laryngophones
 * accelerometers
+* acoustic camera
+* laser record needle

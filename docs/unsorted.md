@@ -6,6 +6,22 @@
 * [Acoustic camera](https://www.cae-systems.de/en/products/acoustic-camera-sound-source-localization.html)
 * [Microphone arrays for sound localization](https://www.acoustic-camera.com/en/products/microphone-arrays/paddle-2x52-ac-pro.html)
 
+Photos:
+* hunter or farmer?
+* index or trace?
+* https://www.photopedagogy.com/threshold-concept-2.html
+* Barthes: [studium vs punctum](https://www.photopedagogy.com/threshold-concept-6.html)
+
+Case Studies
+* Sarah Parcak & PCA
+* Swiss Cheese
+* Hizal Celik 
+* Ben Snell & LIDAR
+* Claire & Shining360
+* [Snowflake Man](https://www.youtube.com/watch?v=ptLmA263hlk)
+
+
+
 # Unsorted Links (In Process)
 
 *This page borrows significantly from the [Computational Portraiture Workshop curriculum](http://www.specular.cc/computational-portraiture-workshop) developed by James George & Alexander Porter of [Specular.cc](http://www.specular.cc/).*

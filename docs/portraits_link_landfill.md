@@ -1,21 +1,23 @@
 # Portraits: Link Landfill
 
----
-
-And: 
-
-* [Tanja Hollander, *Photograph a Friend*](https://www.youtube.com/watch?v=0posLr4TTiI) (Journey to photograph all of her facebook friends)
-* [Nancy Burson, *Guys who Look Like Jesus*](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/image-averaging/burson_jesus_guys.jpg) 
 
 ---
 
-Some more 3D portraits: 
+### The Brown Sisters
 
-* [Sophie Kahn, *Portraits*](https://www.sophiekahn.net/portraits)
-* [Mathilde Marc & Hugo Arcier, *Camgirl Odalisque*](http://hugoarcier.com/en/camgirl-odalisque/)
-* [Dmitry Zakharov, *Inside Me*](https://vimeo.com/106671329)
-* [Marshmallow Laser Feast, *Duologue - Memex*](https://www.youtube.com/watch?v=dFrdG-ZPVLQ)
-* [The *Visible Human Project*](https://www.youtube.com/watch?v=dPPjUtiAGYs) and [Croix Gagnon and Frank Schott, *12:31*](http://www.project1231.com/)
+Every year for the past 40 years, Nicholas Nixon has photographed the four Brown sisters. [Video](https://vimeo.com/107875653) • [New York Times article](https://www.nytimes.com/interactive/2014/10/03/magazine/01-brown-sisters-forty-years.html)
+
+![*Nicholas Nixon: 40 Years of the Brown Sisters*](images/portrait_brown_sisters_1.jpg)
+
+![*Nicholas Nixon: 40 Years of the Brown Sisters*](images/portrait_brown_sisters_2.jpg)
+
+---
+
+### Guys Who Look Like Jesus
+
+Nancy Burson, [*Guys who Look Like Jesus*](https://www.nancyburson.com/portfolio/G0000oCZbt_Xbvy4/I0000iQ4msZO2eoQ)
+
+![Nancy Burson, *Guys who Look Like Jesus*](images/image-averaging/burson_jesus_guys.jpg) 
 
 ---
 
@@ -30,6 +32,26 @@ Very early work by the creator of [*The Waking Life*](https://www.youtube.com/wa
 Sabiston's custom software applied forces, computed using optical flow, to buffet particles comprising vector-based drawings. Kyle McDonald's [ofxCv addon for openFrameworks](https://github.com/kylemcdonald/ofxCv) includes an example with two different optical flow algorithms. There's also an [implementation for Processing](https://www.openprocessing.org/sketch/84287) (Java).
 
 ![optical flow](images/opticalflow.gif)
+
+
+
+
+---
+
+And: 
+
+* [Tanja Hollander, *Photograph a Friend*](https://www.youtube.com/watch?v=0posLr4TTiI) (Journey to photograph all of her facebook friends)
+
+
+---
+
+Some more 3D portraits: 
+
+* [Sophie Kahn, *Portraits*](https://www.sophiekahn.net/portraits)
+* [Mathilde Marc & Hugo Arcier, *Camgirl Odalisque*](http://hugoarcier.com/en/camgirl-odalisque/)
+* [Dmitry Zakharov, *Inside Me*](https://vimeo.com/106671329)
+* [Marshmallow Laser Feast, *Duologue - Memex*](https://www.youtube.com/watch?v=dFrdG-ZPVLQ)
+* [The *Visible Human Project*](https://www.youtube.com/watch?v=dPPjUtiAGYs) and [Croix Gagnon and Frank Schott, *12:31*](http://www.project1231.com/)
 
 
 
@@ -51,13 +73,12 @@ Rollin Leonard, [*Crash Kiss*](http://rollinleonard.com/2016/Crash%20Kiss%20Kate
 * [Universal Everything, *Walking City*](https://vimeo.com/85596568)
 * [audio](http://audio.theguardian.tv/sys-audio/Arts/Culture/2007/01/24/yellowhammerfinal.mp3) and then [Marcus Coates, *Dawn Chorus*](https://www.youtube.com/watch?v=PCCpnDtgxXk) 
 * [*Visible Human Project*](https://www.youtube.com/watch?v=dPPjUtiAGYs) and [Croix Gagnon and Frank Schott, *12:31*](http://www.project1231.com/)
-* [JK Keller's daily photos, 16 years](https://www.youtube.com/watch?v=CcLPn46Xsv8)
+* [JK Keller's daily photos, 16 years](https://www.youtube.com/watch?v=LVAkxmZqNNE)
 * Bill Viola: [*The Passions*](http://www.getty.edu/art/exhibitions/viola/art.html)
-  * [The Quintet of the Astonished](https://www.youtube.com/watch?v=As7OtWMYPRc)
-  * [Silent Mountain](https://www.youtube.com/watch?v=e2Eam0GMjZg)
+  * [The Quintet of the Astonished](https://www.youtube.com/watch?v=nSlMgPXOkmk)
+  * [Silent Mountain](https://www.youtube.com/watch?v=oA9BG5aOD64)
   * [The making of Emergence](https://www.youtube.com/watch?v=hx5Cu7U-Fkg)
-  * [Six Heads (The Passions)](https://www.youtube.com/watch?v=RnVCJJeuFaE)
-  * [Observance (2002)](https://www.youtube.com/watch?v=TCiQBOkt-rs)
+  * [Six Heads (The Passions)](https://www.youtube.com/watch?v=x1mGaf1lElo)
   * [The Dreamers](https://www.youtube.com/watch?v=mJpv4Z1X3CY)
 * [Rollin Leonard, Crash Portraits](http://rollinleonard.com/projects/2013/lilia360/)
 * [Sophie Kahn](http://www.sophiekahn.net/#!Laura:RGB, 2011/zoom/c199t/image1afu)

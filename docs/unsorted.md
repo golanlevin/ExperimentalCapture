@@ -1,3 +1,11 @@
+# Todo 
+
+* HDR imaging (Merging an exposure stack)
+* Light probe spheres; image-based relighting
+* [Fluke ii900 Sonic Industrial Imager](https://www.youtube.com/watch?v=7Wx9B_0n1co)
+* [Acoustic camera](https://www.cae-systems.de/en/products/acoustic-camera-sound-source-localization.html)
+* [Microphone arrays for sound localization](https://www.acoustic-camera.com/en/products/microphone-arrays/paddle-2x52-ac-pro.html)
+
 # Unsorted Links (In Process)
 
 *This page borrows significantly from the [Computational Portraiture Workshop curriculum](http://www.specular.cc/computational-portraiture-workshop) developed by James George & Alexander Porter of [Specular.cc](http://www.specular.cc/).*

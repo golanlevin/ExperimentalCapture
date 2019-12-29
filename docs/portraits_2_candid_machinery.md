@@ -2,18 +2,18 @@
 
 ---
 
-*In these rule-based approaches to portraiture, artists have devised systems for eliciting candid views of their subjects. They rely not on computation, but on the observational logic of [cinéma vérité](https://en.wikipedia.org/wiki/Cin%C3%A9ma_v%C3%A9rit%C3%A9) and the organizational logic of the [small multiple](https://en.wikipedia.org/wiki/Small_multiple).*
+*In these rule-based approaches to portraiture, artists have devised systems, frameworks, and platforms for eliciting candid views of their subjects. They rely not on computation, but on the observational logic of [cinéma vérité](https://en.wikipedia.org/wiki/Cin%C3%A9ma_v%C3%A9rit%C3%A9) and the organizational logic of the [small multiple](https://en.wikipedia.org/wiki/Small_multiple).*
+
 
 ---
 
 ### More Turns
 
-![*Turnstiles*](images/portrait_bill_sullivan_turnstiles.jpg)
+![*Turnstiles*](images/portraits/portrait_bill_sullivan_turnstiles.jpg)
 
 Bill Sullivan's [*More Turns*](https://www.moma.org/learn/moma_learning/walker-evans-subway-portraits-1938-41/) (2006) is a highly controlled photographic study of people passing through subway turnstiles. Sullivan equalizes his subjects by capturing all of them in the same action and from the same distance. 
 
-![*Turnstiles*](images/portrait_bill_sullivan_turnstiles2.jpg)
-
+![*Turnstiles*](images/portraits/portrait_bill_sullivan_turnstiles2.jpg)
 
 Sullivan writes:
 
@@ -28,7 +28,7 @@ Sullivan writes:
 
 > "*Our objective in making this film was something of a psychology experiment: We sought to capture people facing a difficult situation, to make a portrait of humans in doubt. We’ve all seen actors playing doubt in fiction films, but we have few true images of the feeling in documentaries. To make them, we decided to put people in a situation powerful enough not to need any classic narrative framework. A high dive seemed like the perfect scenario.*"
 
-![*Ten Meter Tower*](images/dive.gif)
+![*Ten Meter Tower*](images/portraits/portrait_dive.gif)
 
 ---
 
@@ -36,17 +36,17 @@ Sullivan writes:
 
 [Beate Geissler & Oliver Gann, *Shooter*](http://www.taubertcontemporary.com/artists/geissler-sann/shooter/) (2000)
 
-![*Shooter*](images/shooter_Mad_Bob_120.jpg)
+![*Shooter*](images/portraits/portrait_shooter_Mad_Bob_120.jpg)
 *Mad Bob, 120*
 
 The title of each photograph is a combination of the name the gamer had given themselves and their individual pulse frequency in the moment the picture was taken. 
 
-![*Shooter*](images/shooter_big_drozdowski_115_kai_115.jpg)
+![*Shooter*](images/portraits/portrait_shooter_big_drozdowski_115_kai_115.jpg)
 *Big Drozdowski, 115* (left). *Kai, 115* (right). 
 
 > "*The photographs are taken in the very moment the depicted person is killing an opponent in the computer game. According to the artists, ‘The viewer witnesses a life-and-death game with no consequences’. ‘shooter’ presents a test set-up with which to analyse the human relation to real and virtual spaces and the associated gestures and facial expressions.*"
 
-![*Shooter*](images/shooter-geissler-sann.png)
+![*Shooter*](images/portraits/portrait_shooter-geissler-sann.png)
 
 --- 
 
@@ -54,7 +54,7 @@ The title of each photograph is a combination of the name the gamer had given th
 
 Patrick Hall's [*Stun Gun Photoshoot*](https://www.patrickhall.photography/the-stun-gun-photoshoot) is a photo series showcasing the various emotions and reactions of people at the moment they are hit with a 300,000 volt stun gun. Hall's approach elicits utterly candid reactions ranging, interestingly, from pain to pleasure.  
 
-[![Stun Gun Portrait Series](images/portrait_stun_gun.jpg)](https://www.patrickhall.photography/the-stun-gun-photoshoot)
+[![Stun Gun Portrait Series](images/portraits/portrait_stun_gun.jpg)](https://www.patrickhall.photography/the-stun-gun-photoshoot)
 
 ---
 
@@ -62,7 +62,7 @@ Patrick Hall's [*Stun Gun Photoshoot*](https://www.patrickhall.photography/the-s
 
 > "*[Hysterical Literature](http://hystericalliterature.com/sessions) is a video art series by NYC-based photographer and filmmaker Clayton Cubitt. It explores feminism, mind/body dualism, distraction portraiture, and the contrast between culture and sexuality.*"
 
-[![*Hysterical Literature*](images/portrait_hysterical_literature.jpg)](http://hystericalliterature.com/sessions)
+[![*Hysterical Literature*](images/portraits/portrait_hysterical_literature.jpg)](http://hystericalliterature.com/sessions)
 
 One of the writers affiliated with the project, Amanda Hess, writes: 
 
@@ -76,11 +76,11 @@ One of the writers affiliated with the project, Amanda Hess, writes:
 
 Strickland conducts candid *cinema-verite* interviews with people about the contents of their bags, and other portable effects. Subjects exhaustively divulge their vernacular organizational strategies. An overview of the project is [here](https://spontaneouscinema.com/projects/portable-effects-a-survey-of-nomadic-design-practice/). 
 
-[![Portable Portraits](images/portrait_strickland_grid.jpg)](https://spontaneouscinema.com/projects/portable-effects-a-survey-of-nomadic-design-practice/)
+[![Portable Portraits](images/portraits/portrait_strickland_grid.jpg)](https://spontaneouscinema.com/projects/portable-effects-a-survey-of-nomadic-design-practice/)
 
 Strickland writes: 
 
 > "*Once upon a summertime expedition to Japan circa 1984, Strickland encountered expressions of a culture that’s enormously sophisticated in the ways of folding, stacking, rolling, nesting, carrying, miniaturizing, and transforming things. Transporting that inspiration home and proceeding to unpack it several years later, Portable Effects is a video anthropology project that investigates people’s design of the miniature environments we carry with us—in pockets, backpacks, briefcases, and handbags. Between setting forth in the morning and returning home at night, every person lives nomadically for a portion of each day. You can’t take everything with you—neither in your backpack nor in your head. Identifying essentials, and figuring out how to contain, arrange and keep track of them as you go, are instances of design thinking.*"
 
-[![*Portable Portraits*](images/portable-portrait.jpg)](https://vimeo.com/9364721)
+[![*Portable Portraits*](images/portraits/portrait_strickland_rose.jpg)](https://vimeo.com/9364721)
 

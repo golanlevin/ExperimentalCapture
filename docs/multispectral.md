@@ -1,18 +1,16 @@
 # Multispectral Imaging
 
-Images captured from electromagnetic frequencies beyond the range of human perception. 
+In this lesson, we discuss images captured from electromagnetic frequencies beyond the range of human perception. 
+
+[*Multispectral imaging*](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more. 
 
 ![Electromagnet_spectrum](images/spectrum.jpg)
 
 ![Nasa_spectrum](images/spectrum_wall_chart_aug2011.jpg)
 
-[*Multispectral imaging*](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more. 
-
-[*Hyperspectral imaging*](https://en.wikipedia.org/wiki/Hyperspectral_imaging) attempts to capture the entire reflective or emissive spectrum for every pixel, essentially representing an image with a three-dimensional (x,y,λ) data cube.
-
 This lesson includes a discussion of the following: 
 
-* Overview of Multi/Hyperspectral Imaging
+* Overview of Multispectral Imaging
 * Near-Infrared (NIR) Imaging
 * X-Ray Imaging
 * Thermal Imaging
@@ -120,7 +118,7 @@ NIR imaging can be used to [detect traced (i.e. forged) signatures](https://www.
 
 ### Thermal Imaging 
 
-*Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. Interestingly, most of what we see when we observe radiation in this range is *emissive* rather than *reflective*. In short, we see where something is hot. 
+*Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. In short, we see where something is hot. Interestingly, most of what we see when we observe radiation in this range is *emissive* rather than *reflective*.  
 
 * David Attenborough discusses the use of thermal imaging to understand lizard temperature self-regulation, in [this BBC video](https://youtu.be/e4bprBup6w4)
 
@@ -129,6 +127,10 @@ NIR imaging can be used to [detect traced (i.e. forged) signatures](https://www.
 * A cult classic, [*THE OPERATION*](https://vimeo.com/24149525) by Jacob Pander and Marne Lucas (1995) is a hybrid art/porn movie, shot completely with a thermal camera. (NSFW)
 
 ![The Operation by Jacob Pander and Marne Lucas](https://c2.staticflickr.com/8/7375/27808644605_83d956e0ae_o.png)
+
+* Lucas and Pander have also produced [*Incident Energy*](https://vimeo.com/119734456), a multi-channel thermal video which explores "themes of nature and humanity", including live human birth. 
+
+![Incident Energy by Jacob Pander and Marne Lucas](images/thermal_incident_energy.jpg)
 
 * [Route 94: *My Love*](https://vimeo.com/84702235) is a much more recent music video with much the same idea. 
 
@@ -196,7 +198,7 @@ Sometimes simply presenting such alternative views can be a provocative, enterta
 
 Many animals [appear different, and can see in the ultraviolet](http://www.theatlantic.com/technology/archive/2011/08/6-animals-that-can-see-or-glow-in-ultraviolet-light/243634/). For example, 
 
-* Butterflies are thought to have the widest visual range of any animal. Butterflies can use ultraviolet markings to find healthier mates. Ultraviolet patterns also help certain species of butterflies appear similar to predators, while differentiating themselves to potential mates.
+* Butterflies are thought to have the widest spectral visual range of any animal. Butterflies can use ultraviolet markings to find healthier mates. Ultraviolet patterns also help certain species of butterflies appear similar to predators, while differentiating themselves to potential mates.
 * Reindeer rely on ultraviolet light to spot lichens that they eat. They can also easily spot the UV-absorbent urine of predators among the UV-reflective snow.
 * One bird species was found to feed its young based on how much UV the chicks reflected.
 * Some species of birds use UV markings to tell males and females apart.
@@ -300,6 +302,10 @@ It is also possible to design or arrange objects for the express purpose of havi
 
 --- 
 ### And Beyond...
+
+[*Hyperspectral imaging*](https://en.wikipedia.org/wiki/Hyperspectral_imaging) attempts to capture the entire reflective or emissive spectrum for every pixel, essentially representing an image with a three-dimensional (x,y,λ) data cube.
+
+![Hyperspectral imaging](images/hyperspectral.jpg)
 
 #### Seeing through Walls with Radio & ML
 

@@ -39,7 +39,7 @@ Other experimental cameras bring politics and poetics to the act of image captur
 
 *[Word.Camera](https://word.camera/about)* (2015) by Ross Goodwin sends the image it takes to an artificial intelligence, that then attempts to describe it, *expressively*, in English prose. It uses convolutional neural networks (via Clarifai) to extract concept words from images; it then expands those initial words (mostly nouns) into sentences and paragraphs using a lexical relationship database (ConceptNet) and a flexible template system. 
 
-[![Word.Camera](images/conceptual_word_camera.jpg)](https://vimeo.com/158403097)<br />
+[![Word.Camera](images/conceptual/conceptual_word_camera.jpg)](https://vimeo.com/158403097)<br />
 
 Ross Goodwin has also made a similar [Sentient Surveillance Camera](http://motherboard.vice.com/read/sentient-surveillance-camera).
 
@@ -49,7 +49,7 @@ Ross Goodwin has also made a similar [Sentient Surveillance Camera](http://mothe
 
 Kyle McDonald has made [a camera that describes what it sees in real-time](https://vimeo.com/146492001), *Neural Talk and Walk* (2015), using neural networks in OpenFrameworks. 
 
-[![Neural Talk and Walk](images/conceptual_camera_neural_talk.png)](https://vimeo.com/146492001)<br />
+[![Neural Talk and Walk](images/conceptual/conceptual_camera_neural_talk.png)](https://vimeo.com/146492001)<br />
 
 ---
 
@@ -57,7 +57,7 @@ Kyle McDonald has made [a camera that describes what it sees in real-time](https
 
 The opposite of this is [*WordsEye*](http://www.wordseye.com/) (2015), an interactive, web-based system which produces visual renderings from a verbal description. (Try it!)
 
-[![Wordseye](images/conceptual_wordseye.png)](http://www.wordseye.com/)<br />
+[![Wordseye](images/conceptual/conceptual_wordseye.png)](http://www.wordseye.com/)<br />
 
 --- 
 
@@ -65,7 +65,7 @@ The opposite of this is [*WordsEye*](http://www.wordseye.com/) (2015), an intera
 
 *[Camera Restricta](http://philippschmitt.com/projects/camera-restricta)* (2014) by Philipp Schmitt is a 'disobedient' camera designed to take unique photographs. By using data of geotagged photos, the camera will refuse to operate in popular places.
 
-[![Camera restricta](images/conceptual_camera_restricta.jpg)](https://vimeo.com/137595414)<br />
+[![Camera restricta](images/conceptual/conceptual_camera_restricta.jpg)](https://vimeo.com/137595414)<br />
 [![Camera restricta](images/conceptual_camera_restricta_viewfinder.jpg)](https://vimeo.com/137595414)<br />
 
 --- 
@@ -80,7 +80,7 @@ The opposite of this is [*WordsEye*](http://www.wordseye.com/) (2015), an intera
 
 ### Prosthetic Photographer
 
-![Prosthetic Photographer](images/conceptual_camera_prosthetic-photographer.jpg)
+![Prosthetic Photographer](images/conceptual/conceptual_camera_prosthetic-photographer.jpg)
 
 [*Prosthetic Photographer*](http://peterbuczkowski.com/projects/prosthetic-photographer) by Peter Buczkowski (2018) "enables anybody to unwillingly take beautiful pictures." It is an AI-powered device that can recognize a well-composed scene and then force the photographer to press the shutter via a mild electrical shock to their hand. [It is](https://www.engadget.com/2018/02/16/prosthetic-photographer-shocks-you-into-taking-good-photos/) "a real, fully functional device that can attach to any DSLR camera. Its AI was trained on the much-used CUHKPQ data set, which contains 17,000 internet photos rated by humans. The box has a built-in camera that can detect when you've composed a scene to its standards, then fire a jolt of electricity into your hand, forcing your trigger finger to move and take the photo."
 
@@ -104,7 +104,7 @@ Data scientist [Ayodele Odubela](https://www.dazzlingdata.science/) is actively 
 
 Sascha Pohflepp's [*Between Blinks & Buttons*](http://pohflepp.net/Work/Buttons) (2006/2010) reduces the act of photo-taking to capturing a moment in time. Ignoring your location, pressing this camera's shutter button will retrieve another photo taken (elsewhere) at the same time, potentially from the other side of the world. (As [seen in Wired](https://www.wired.com/2010/03/blind-camera-takes-photos-from-other-side-of-the-world/).)
 
-![Sascha Pohflepp's Between Blinks & Buttons](images/conceptual_camera_pohflepp.jpg)
+![Sascha Pohflepp's Between Blinks & Buttons](images/conceptual/conceptual_camera_pohflepp.jpg)
 
 Pohflepp writes: 
 

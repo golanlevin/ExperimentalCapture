@@ -41,14 +41,12 @@ This is an interdisciplinary course in experimental media practices that arise f
 
 ### Course Logistics
 
-* [**Deliverables**](docs/deliverables.md)
-   1. [An Object](docs/assignment1-object.md)
-   1. [A Person in Time](docs/assignment2-person.md)
+* **Deliverables**
+   1. An Object
+   1. A Person in Time
    1. A Place
    1. Final Project
-* [**Student Area**](students/README.md)
 * [**Tutorials**](docs/tutorials.md)
-* [**Calendar**](docs/calendar.md)
 * [**Readings**](docs/readings.md)
 * [**Course Policies**](docs/policies.md)
 
@@ -78,8 +76,8 @@ This is an interdisciplinary course in experimental media practices that arise f
 * [Stereography & Binocular Imaging](docs/binocular-stereography.md)
 * [Experimental Audio Capture](docs/audio.md)
 * [Perspective Capture and Representation](docs/perspective.md)
-* *[Portraiture: Capturing People and Movements](docs/portraits.md)*
-* *[Landscape: Capturing Places](docs/places.md)*
+* [Portraiture: Capturing People and Movements](docs/portraits.md)
+* [Landscape: Capturing Places](docs/places.md)
 
 ---
 
@@ -95,4 +93,4 @@ This is an interdisciplinary course in experimental media practices that arise f
 
 --- 
 
-*Remaining: a [large landfill](docs/unsorted.md) of as-yet unsorted links and resources, especially about RGBD capture.*
+*Remaining: a [large landfill](docs/unsorted.md) of as-yet unsorted links and resources.*

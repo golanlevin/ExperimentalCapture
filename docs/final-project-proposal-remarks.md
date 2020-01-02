@@ -66,7 +66,7 @@ Drone-based topographic mapping is a great starting point. I've got a few though
 
 ---
 
-### [Katie_Rose](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/katierose/finalprojectproposal.md)
+### [Pipkin](https://github.com/golanlevin/ExperimentalCapture/blob/master/students/katierose/finalprojectproposal.md)
 
 Cool. I'm thoroughly satisfied with this proposal; -- thank you. I do have a few brief suggestions.
 

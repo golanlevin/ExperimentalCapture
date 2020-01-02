@@ -42,7 +42,7 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 * [Differences between UV, Vis, NIR (Wikipedia)](https://en.wikipedia.org/wiki/Full-spectrum_photography#/media/File:UV_Vis_IR_Portrait.jpg)
 * More [faces viewed in multiple spectra](https://www.flickr.com/photos/rshephorse/4279928945)
 
-![Hyperspectral face by RShephorse](images/hyperspectral-face-rshephorse.jpg)
+![Hyperspectral face by RShephorse](images/multispectral/hyperspectral-face-rshephorse.jpg)
 
 ![UV, Vis, NIR by Spigget / Nick Spiker](images/uv_vis_ir_by_spigget.jpg)
 
@@ -58,13 +58,13 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 
 * Astronomers use multispectral imaging to [understand the Sun](http://www.nasa.gov/images/content/719688main_Sun-Wavelength-Chart_full.jpg). 
 
-![Multispectral image of the sun](images/719688main_Sun-Wavelength-Chart_full.jpg)
+![Multispectral image of the sun](images/multispectral/multispectral_sun-wavelength-chart.jpg)
 
 * Forensic specialists use infrared and ultraviolet imaging and/or fluorescence to [recover writing lost to water damage](https://people.rit.edu/andpph/photofile-b/ir-letter-comparison-1.jpg), [analyze medieval frescoes](https://artcosnervationcsmodotcom.wordpress.com/category/rti/), [detect fraudulent documents](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/inkglowb.jpg), [determine the provenance of artifacts](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/matchb.jpg), [sort fragments of shredded documents](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/shredb.jpg), [detect underpaintings in famous artworks](http://www.artic.edu/collections/conservation/revealing-picasso-conservation-project/examination-techniques/infrared), [detecting previous versions of artworks (includes web interactive)](http://www.webexhibits.org/pigments/intro/visible.html).
 
 ![IR image of water-damaged document](images/water-damage.jpg)
 
-![Using IR to detect fraud](images/checkforge.jpg)
+![Using IR to detect fraud](images/nir/checkforge.jpg)
 
 ![Using UV fluorescence to distinghuish different fragments of white paper](images/uv-fluorescence.jpg)
 
@@ -72,53 +72,61 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 
 ### Near-Infrared (NIR) Imaging
 
-IR is light that is beyond the red end of the visible spectrum. Wavelengths in the range of ~770 to ~1400 nanometers are called the near infrared (or NIR) region of the electromagnetic spectrum, while longer wavelengths are called the far infrared.  Near-infrared is widely used in security cameras. 
+IR is light that is beyond the red end of the visible spectrum. Wavelengths in the range of ~770 to ~1400 nanometers are called the near infrared (or NIR) region of the electromagnetic spectrum, while longer wavelengths are called the far infrared (or Long-Wave IR).  Near-infrared is widely used in standard security cameras, while far infrared is known as thermal imaging (which we discuss in the section after this).
 
-![NIR Spectrum](images/nir_spectrum.png)
+![NIR Spectrum](images/nir/nir_spectrum.png)
+
+NIR cameras can be inexpensive and easy to obtain. Given the presence of IR illumination, they allow us to see in the "dark", so they are widely used as security cameras. Here's a BBC video tracking animals, unobtrusively, licking salt in a cave at night:
+
+[![Animals in NIR](images/nir/elephants-nir.png)](https://www.youtube.com/watch?v=8qpZz5NPU3g)
 
 * Owing to the different infrared reflectivity of blood, you can [see veins easily](https://www.flickr.com/photos/nebarnix/2034727799) in NIR.
 
-![Veins, in NIR by Jasper Nance](images/nir-veins.jpg)
+![Veins, in NIR by Jasper Nance](images/nir/nir-veins.jpg)
 
 It's important to distinguish between *monochromatic* IR images (a grayscale image whose content is exclusively from the infrared part of the spectrum), such as the image above, and various types of *CIR* (Color+IR) images, which store multiple channels of information from different parts of the spectrum. Since RGB images are a common display format for multichannel image data, one common CIR technique ([described in this PDF](pdf/using_cir_imagery.pdf)) stores IR information in the Red channel, Red information in the Green channel, and Green information in the Blue channel. Edward Thompson has compiled [an artful book](http://www.edwardthompson.co.uk/theunseen.html) of such images, such as this one:
 
-![CIR images by Edward Thompson](images/cir-edward-thompson.png)
+![CIR images by Edward Thompson](images/nir/cir-edward-thompson.png)
 
 Incidentally, the visibility of veins in IR has been used in some medical augmented-projection applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) device: <br />![The VeinViewer visualizes an IR image with an augmented projection](https://c2.staticflickr.com/8/7706/27529572870_bb07b07e7b_b.jpg)
 
-It's common for CIR imaging to be used for aerial/satellite photography. Plants, in particular, become much more visible:<br />![CIR images by Edward Thompson](images/cir-edward-thompson-landscape.jpg)
+It's common for CIR imaging to be used for aerial/satellite photography. Plants, in particular, become much more visible:<br />![CIR images by Edward Thompson](images/nir/cir-edward-thompson-landscape.jpg)
 
-Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a documentary film about the ongoing civil war in Congo, shot on CIR film. Mosse's work has spurred controversy for the way in which it aestheticizes turmoil, especially as captured by a European working in Africa.<br />[![Richard Mosse's 'The Enclave'](images/cir_film_richard_mosse_enclave.gif)](https://vimeo.com/67115692)
+Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a documentary film about the ongoing civil war in Congo, shot on CIR film. Mosse's work has spurred controversy for the way in which it aestheticizes turmoil, especially as captured by a European working in Africa.<br />[![Richard Mosse's 'The Enclave'](images/nir/cir_film_richard_mosse_enclave.gif)](https://vimeo.com/67115692)
 
 Andrew Shurtleff explicitly aestheticizes NIR in this otherworldly [infrared time-lapse](https://vimeo.com/58232705) video:<br />
-[![Still from NIR time-lapse by Andrew Shurtleff](images/nir-shurtleff.png)](https://vimeo.com/58232705)
+[![Still from NIR time-lapse by Andrew Shurtleff](images/nir/nir-shurtleff.png)](https://vimeo.com/58232705)
 
 Some materials are opaque in visible wavelengths, but transparent in NIR wavelengths. This means that NIR can be used to see certain kinds of obscured or invisible information. A common technique for this is *infrared reflectography*, which takes advantage of the NIR-transparency of some kinds of paint, in order to view a painting's underlayers:
 
-![NIR infrared reflectography](images/nir_infrared_reflectography.png)
+![NIR infrared reflectography](images/nir/nir_infrared_reflectography.png)
 
 For example, *The Blue Boy* (ca. 1770), an oil painting by Thomas Gainsborough (1727-1788), has an overpainted dog, discovered in 1994. Here the painting is shown in normal light photography (left), digital x-radiography, and infrared reflectography (right).
 
-![The Blue Boy in visible, X-Ray, and NIR](images/nir_infrared_reflectometry_blueboy.jpg)
+![The Blue Boy in visible, X-Ray, and NIR](images/nir/nir_infrared_reflectometry_blueboy.jpg)
 
-In some circumstances, depending on materials, NIR cameras can [see through clothes](https://www.youtube.com/watch?v=RdtJlHVDcmM).<br />![NIR camera seeing through clothes](images/nir-see-through-clothes.jpg)
+The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com) and [*"Stella at the Playground"*](http://www.oliverlutz.com) by Oliver Lutz (2010) use a (visibly) black, IR-transparent overpainting—covering a secret image that can only be observed by means of a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the Walker Art Center exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera). 
 
-NIR imaging can be used to [detect traced (i.e. forged) signatures](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/tracingb.jpg)<br />![Forged signatures in IR](images/nir-signature.jpg)
+![Paintings by Oliver Lutz](images/nir/nir_lutz_1.jpg)
 
-* Osman Khan created a strictly [IR-viewable image](http://www.osmankhan.com/works.asp?name=Unviewed).
+![Paintings by Oliver Lutz](images/nir/nir_lutz_2.jpg)
 
-* The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com) and [*"Stella at the Playground"*](http://www.oliverlutz.com) by Oliver Lutz (2010) use a (visibly) black acrylic overpainting covering a secret image that can only be observed by a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the Walker Art Center exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera). 
+Artist Osman Khan created a strictly [IR-viewable image](http://www.osmankhan.com/works.asp?name=Unviewed), whose content is visible only through the audience's personal digital capture devices.<br />![Osman Khan IR-only art](images/nir/nir_osman.jpg)
 
-![Paintings by Oliver Lutz](images/nir_lutz_1.jpg)
+In some circumstances, depending on materials, NIR cameras can [see through clothes](https://www.youtube.com/watch?v=RdtJlHVDcmM), as in this example with a tattoo, below.<br />![NIR camera seeing through clothes](images/nir/nir-see-through-clothes.jpg)
 
-![Paintings by Oliver Lutz](images/nir_lutz_2.jpg)
+NIR imaging can be used to [detect traced (i.e. forged) signatures](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/tracingb.jpg)<br />![Forged signatures in IR](images/nir/nir-signature.jpg)
 
 
 ---
 
 ### Thermal Imaging 
 
-*Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. In short, we see where something is hot. Interestingly, most of what we see when we observe radiation in this range is *emissive* rather than *reflective*.  
+*Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. In short, we see where something is hot. 
+
+What we see when we observe radiation in this range is *emissive* rather than *reflective*. Interestingly, there is a band that is not used for imaging — the "low transmittance window", between 5000-8000nm, because *air is opaque* to those wavelengths. That is: those are the wavelengths of energy that heat the air itself.
+
+![IR Spectrum](images/nir/ir-spectrum.jpg)
 
 * David Attenborough discusses the use of thermal imaging to understand lizard temperature self-regulation, in [this BBC video](https://youtu.be/e4bprBup6w4)
 
@@ -190,7 +198,7 @@ Sometimes simply presenting such alternative views can be a provocative, enterta
 
 ### Ultraviolet (UV) Imaging 
 
-* [The World In UV](https://www.youtube.com/watch?v=V9K6gjR07Po), an excellent overview video by Veritasium. Discusses atmospheric haze, sunscreen, quinine, flowers, polar bears, and more:
+* [The World In UV](https://www.youtube.com/watch?v=V9K6gjR07Po), an excellent overview video by science YouTuber, Veritasium. Discusses atmospheric haze, sunscreen, quinine, flowers, polar bears, and more:
 
 [![The world in UV](images/the_world_in_uv.png)](https://www.youtube.com/watch?v=V9K6gjR07Po)
 
@@ -282,9 +290,47 @@ It is also possible to design or arrange objects for the express purpose of havi
 
 ![Evan Roth's TSA Interventions](images/x-ray_tsa_communications_roth2.jpg)
 
-* We can also reimagine extreme insertions as a form of performance art, for an audience of radiologists. ([X-ray insertions](https://www.google.com/search?q=X-ray+insertions&tbm=isch))
+* We can also reimagine extreme insertions as a mode of performance art, for the audience of radiologists. ([X-ray insertions](https://www.google.com/search?q=X-ray+insertions&tbm=isch))
 
 ![X-ray insertions](images/x-ray_hammer_insertion.jpg)
+
+
+--- 
+### Multi- and Hyperspectral Visible Imaging
+
+Using [Bayer filters](https://en.wikipedia.org/wiki/Bayer_filter), standard color digital cameras record three channels (RGB) of spectral information. Using less-common Bayer filters, a few [specialized cameras have four channels](https://www.e-consystems.com/OV4682-RGB-IR-USB3-camera.asp) (RGB+NIR), or even [as many as 8 or 16](https://www.spectraldevices.com/products/multispectral-snapshot-cameras). As the number of channels increases even further, multi-spectral imaging becomes [*hyperspectral imaging*](https://en.wikipedia.org/wiki/Hyperspectral_imaging), which attempts to capture the entire reflective or emissive spectrum for every pixel — essentially representing an image with a three-dimensional (x,y,λ) *data cube*. Some hyperspectral cameras have [as many as 200 spectral channels](https://www.specim.fi/iq/tech-specs/), some with bandwidth as narrow as 7 nanometers per channel. 
+
+![Hyperspectral imaging](images/multispectral/hyperspectral_cube.png)
+
+Multivariate statistics and machine learning are often required for the analysis of hyperspectral images, in order to perform "spectral unmixing": discriminating the spectral contributions from different image sources ("endmembers"), based on their unique spectral signatures. For example, in remote sensing and satellite imagery: vegetation, soil, moisture, certain minerals, etc.:
+
+![Hyperspectral imaging with spectral breakdowns](images/multispectral/hyperspectral_unmixing.png)
+
+or, [in human skin](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-24/issue-06/066002/Three-dimensional-maps-of-human-skin-properties-on-full-face/10.1117/1.JBO.24.6.066002.full?SSO=1): melanin, hemoglobin, oxyhemoglobin (blood oxygenation), and bilirubin. 
+
+![Hyperspectral imaging with spectral breakdowns](images/multispectral/hyperspectral_face1.jpg)
+
+![Hyperspectral imaging with spectral breakdowns](images/multispectral/hyperspectral_face2.jpg)
+
+
+#### Case Studies
+
+There are lots of applications in agriculture, food processing, dermatology, forensics, art conservation, etc....
+
+* [SpecIM camera](https://www.specim.fi/iq/casestudies/)
+* [A Hyperspectral Survey of New York City Lighting Technology](https://www.mdpi.com/1424-8220/16/12/2047/htm)
+* [VideometerLab sphere](https://www.youtube.com/watch?v=SlYYmAKQBLM)
+
+#### Technologies
+
+Multispectral and hyperspectral cameras are built using several different technologies. Most methods require a great deal of time to capture a scene at all of the supported frequencies. 
+
+* [Liquid Crystal Tunable Filter (LCTF)](https://en.wikipedia.org/wiki/Liquid_crystal_tunable_filter): a device that filters the color of transmitted light, under computer control<br />![Liquid Crystal Tunable Filter](images/multispectral/liquid_crystal_tunable_filter.jpg)
+* [Linear Variable Bandpass Filter](https://www.edmundoptics.com/p/linear-variable-vis-bandpass-filter/30623): literally a strip of glass with a rainbow on it. Imaging is accomplished by moving the camera and the filter relative to each other at a known rate, and then compiling image columns in a slit-scan-like process. <br />[![Linear Variable Bandpass Filter](images/multispectral/multispectral_linear_filter.gif)](https://www.youtube.com/watch?v=otRTc0wDtMc)
+* Multiplexed monochromatic illumination. Here's a semi-DIY [hyperspectral camera using 17 color LEDS](https://www.youtube.com/watch?v=2txnWR_zcpY)<br />![](images/multispectral/multispectral_illumination.gif)
+* Filter wheels.<br />![](images/multispectral/filter_wheel.png) 
+* [Adjustable bandpass filter employing a prism](https://www.semanticscholar.org/paper/Adjustable-bandpassfilter-employing-a-prism.-Burch/6416df9018aee6ebaa46b52bbcfddaf7352c2f1a)
+* [Multispectral Bayer Filter](https://www.spectraldevices.com/products/multispectral-snapshot-cameras). Such cameras can operate at video rates, but sacrifice resolution.<br />![](images/multispectral/multispectral_bayer.jpg)
 
 
 ---
@@ -300,14 +346,9 @@ It is also possible to design or arrange objects for the express purpose of havi
 
 **Ground-penetrating radar** images features such as underground pipes. Speak to the professor if you're interested in this; we have a contact at Pittsburgh-area providers, [Geospatial Corporation](http://www.geospatialcorporation.com/).
 
---- 
-### And Beyond...
+---
 
-[*Hyperspectral imaging*](https://en.wikipedia.org/wiki/Hyperspectral_imaging) attempts to capture the entire reflective or emissive spectrum for every pixel, essentially representing an image with a three-dimensional (x,y,λ) data cube.
-
-![Hyperspectral imaging](images/hyperspectral.jpg)
-
-#### Seeing through Walls with Radio & ML
+### Radio-Wave Imaging
 
 [RF-Pose](https://www.youtube.com/watch?v=HgDdaMy8KNE) by researchers at MIT CSAIL:<br />[![Terahertz imaging](images/radio.png)](https://www.youtube.com/watch?v=HgDdaMy8KNE)
 
@@ -333,6 +374,16 @@ Angiography is the process of imaging blood vessels. Recent progress in MRI imag
 
 ![Bird CT scan](images/ctscan-bird.png)<br />[CT scan by Scott Echols](https://www.theguardian.com/science/2017/mar/05/wellcome-image-awards-2017-shortlist-science-visions-photography) capturing tiny blood vessels in the head of a pigeon, created by a special ‘contrast agent’ to highlight the microvasculatory system. 
 
+--- 
+
+### Neutron Imaging
+
+[Neutron Imaging](https://en.wikipedia.org/wiki/Neutron_imaging) is based on the neutron attenuation properties of the imaged object. The resulting images have much in common with X-ray images, but some things easily visible with neutron imaging may be very challenging or impossible to see with X-ray imaging techniques (and vice versa). X-rays are attenuated based on a material's density. Denser materials will stop more X-rays. With neutrons, a material's likelihood of attenuation of neutrons is not related to its density. Some light materials such as boron will absorb neutrons while hydrogen will generally scatter neutrons, and many commonly used metals allow most neutrons to pass through them completely. 
+
+Neutron imaging is often used to see the movement of fluids, such as oil or water, in large metal objects. (Car makers regularly visit neutron imaging facilities to carry out quality control tests on engines). Another application of imaging is the study of wooden objects. [Video](https://www.youtube.com/watch?v=VESMU7JfVHU)
+
+[![Neutron video of coffee brewing](images/multispectral/neutron_imaging.png)](https://www.youtube.com/watch?v=VESMU7JfVHU)
+
 ---
 
 ### Polarized Light
@@ -349,6 +400,16 @@ By computing the difference between images of scenes taken with and without pola
 ![Specular image of scissors](images/scissor-spec.jpg)<br />
 
 You can see this technique applied to a human face in [this video](https://www.youtube.com/watch?v=piJ4Zke7EUw) of the photoreal Digital Emily Project.
+
+![](images/polarization_direction_image_synthetic.png)
+
+![](images/polarization_magnitude_image0.png)
+![](images/polarization_magnitude_image1.png)
+
+
+*Polarimetric thermal* imaging enhances standard thermal imaging (2nd frame, below) with polarizing filters (generally wire-grid polarizers). This produces perpendicularly- and cross-polarized views of the thermal radiation (3rd and 4th frames), which reveal structures not visible in uniform thermal imagery. This information encodes the spatial orientation of the surface emitting the heat. 
+
+![](images/thermal_polarimetric.png)
 
 Incidentally, there are some [other very clever ways of separating specular from diffuse appearances](http://www.mit.edu/~yzli/ECCV02-Sep.pdf) of objects.
 

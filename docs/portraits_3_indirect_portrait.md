@@ -10,6 +10,7 @@ Artists use *indirect means* to capture or depict their subject.
 * [Browser History](#browser-history)
 * [Evidence Locker](#evidence-locker)
 * [Material World](#material-world)
+* [Toy Stories](#toy-stories)
 
 ---
 

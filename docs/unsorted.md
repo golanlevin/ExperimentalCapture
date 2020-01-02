@@ -5,6 +5,28 @@
 * [Fluke ii900 Sonic Industrial Imager](https://www.youtube.com/watch?v=7Wx9B_0n1co)
 * [Acoustic camera](https://www.cae-systems.de/en/products/acoustic-camera-sound-source-localization.html)
 * [Microphone arrays for sound localization](https://www.acoustic-camera.com/en/products/microphone-arrays/paddle-2x52-ac-pro.html)
+* https://www.cbrnetechindex.com/Search/s/camera?s=camera
+* Neutron Interrogation; Gamma Spectroscopy; https://www.cbrnetechindex.com/p/3792/EADS-Sodern/Unattended-Luggage-Inspection-System-ULIS
+* Laser Induced Breakdown Spectroscopy
+* X-ray Fluorescence (XRF) ;Scintillation Detectors;
+* [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy) is a spectroscopic technique, used in chemistry to provide a structural fingerprint by which molecules can be identified. Raman spectroscopy relies upon inelastic scattering of photons. "A source of monochromatic light, usually from a laser, interacts with molecular vibrations in the subject, resulting in the energy of the laser photons being shifted up or down. This shift in energy gives information about the vibrational modes in the system." [ResQ-CQL Raman analyzer](https://www.cbrnetechindex.com/p/6178/Rigaku-Analytical-Devices/ResQ-CQL)
+* Scintillation Detectors. The [RadCam](https://www.cbrnetechindex.com/p/3793/Radiation-Monitoring-Devices-Inc/RadCam) is a radiation detection camera that locates gamma radiation sources by acquiring and superimposing a color-coded nuclear image over a video image of the interrogated area.
+* https://deepai.org/publication/decomposing-multispectral-face-images-into-diffuse-and-specular-shading-and-biophysical-parameters
+* Ultrasound + AR: [Sonic flashlight](https://www.youtube.com/watch?v=ERle45xg9l8) at CMU
+* Magnified sense of touch [Hand Held Force Magnfier](http://www.vialab.org/main/Publications/pdf/Stetten_IPCAI_2011.pdf)
+* https://www.mdpi.com/1424-8220/16/12/2047/htm
+
+Typologies
+
+
+* https://www.photopedagogy.com/typologies.html
+* https://mymodernmet.com/identical-twins-portrait-photography-peter-zelewski/
+* https://allthatsinteresting.com/4-amazing-contemporary-portrait-series Martin Schoeller twins
+* Lalage Snow’s *We Are Not Dead* https://allthatsinteresting.com/4-amazing-contemporary-portrait-series
+* https://www.demilked.com/young-vs-old-portraits-faces-of-century-jan-langer/
+
+
+https://www.middletonspectral.com/company/about-us/
 
 Photos:
 * hunter or farmer?
@@ -31,23 +53,16 @@ Case Studies
 * Telescopy: Trevor paglen "a guy who points his camera through astronomy telescopes at secret military sites to photography things that are off limits to the public."
 * Microscopy: Robert Hooke, Micrographia - microscope history
 * Paul Debevec lecture from RI/HCII? Youtube? 
-* Erkki lecture, Mareorama
-* Erkki lecture, "Stereoscopy and Art CMU 2011"
 * Telestereoscope (Cassidy)
-* Anamorphosis (in Perspective), see also Erkki's lecture at end
 * *Taper*, *Blindspot* Tim Hawkinson photographic self-portrait
 * John Gerrard, ["Infinite Freedom Exercise" (2011)](https://www.youtube.com/watch?v=xUKC11NEK0A), [landscapes](https://www.youtube.com/watch?v=R9t2ApMEPX0)
 * Luke duBois, *[Play](https://www.youtube.com/watch?v=VzFA11pQIIo)*, 2006.
-* Find game players with bpm
 * Tinapple breath debate = video + data
 * Visual hulls for thermal carving
-* sensing normal polarization lens sense normals
-* marios sarrides - face scanner 
 * [breathing life into 3d models](https://www.youtube.com/watch?v=4CRMgPcgKp4), michael black
 * eulerian video magnification 
 * [Digital portraits by Chris Coleman](https://www.flickr.com/photos/digitalcoleman/albums/72157656141589104)
 * Pseudo-analog 3D scanner Sculptural Device, [Balint Bolygo - *Trace (Self Portrait)*](https://www.youtube.com/watch?v=J3XWQzz_JWs)
-*  Scanning Electron Microscope, DIY, $2000
 
 
 GL put these back, 9/12/2015 (they're for mocap & bodies):
@@ -60,20 +75,17 @@ GL put these back, 9/12/2015 (they're for mocap & bodies):
 
 
 
+---
 
-<del>
-* Artec Space Spider - Yaser's 3D scanner 
-* Yaser's other small scanner NextEngine 3DEngine Scanner
 * 3D printed zoetrope of multiple people
 * [bodies from mocap](http://thecreatorsproject.vice.com/blog/open-motion-capture-data-becomes-a-surreal-3d-short-film)
 * [*Going to the Store* by David Lewandowski](https://www.youtube.com/watch?v=iRZ2Sh5-XuM)
 * [*Late for Meeting* by David Lewandowski](https://www.youtube.com/watch?v=wBqM2ytqHY4)
+*[Pitt Orthopedics](http://www.engineering.pitt.edu/Sub-Sites/Labs/Orthopaedic_Robotics/Contact/) - contacted Drs. Musahl, Debski, Bell, and Miller...
+* Yang Cai
 
-[Pitt Orthopedics](http://www.engineering.pitt.edu/Sub-Sites/Labs/Orthopaedic_Robotics/Contact/) - contacted Drs. Musahl, Debski, Bell, and Miller...
 
-</del>
-
-[Camera on fishing trawler moving through blood](https://vimeo.com/45252172), by the Harvard Sensory Ethnography Lab
+[Camera on fishing trawler moving through blood](https://vimeo.com/45252172) (hard to watch), by the Harvard Sensory Ethnography Lab
 
 
 Portrait from motion capture: Merce Cunningham & Open-Ended Group
@@ -81,8 +93,6 @@ Portrait from motion capture: Merce Cunningham & Open-Ended Group
 Once you have a 3D scan
 https://twitter.com/albertomoss/status/634870714856660992
 https://www.youtube.com/watch?v=3yyLIG935zc
-
-Contact Yang Cai to borrow camera, visit lab, invite lecture. 
 
 Human Flesh Search 
 * http://www.theatlantic.com/international/archive/2012/10/what-is-a-human-flesh-search-and-how-is-it-changing-china/263258/
@@ -101,8 +111,6 @@ Robert Hooke, *Micrographia*
 
 
 * [Japan’s New Satellite Captures an Image of Earth Every 10 Minutes](http://www.nytimes.com/interactive/2015/07/10/science/An-Image-of-Earth-Every-Ten-Minutes.html) (Himawari-8 weather satellite)
-
-[One Man, Eight Cameras](https://vimeo.com/91836700)
 
 
 Still Life
@@ -175,8 +183,7 @@ http://www.buzzfeed.com/danmeth/welcome-to-uncanny-valley#.mw59Yjg23
 * Motion Capture		http://www.quanticdream.com/en/
 * 4D Views		http://www.4dviews.com/	
 				
-				
-			
+						
 ### PHOTOGRAMMETRY ++ (Static scanning)
 <del>				
 * SketchUp>Photogrammetry		http://www.mastersketchup.com/why-google-doesnt-need-sketchup-anymore/	

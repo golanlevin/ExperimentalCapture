@@ -15,6 +15,13 @@
 * Ultrasound + AR: [Sonic flashlight](https://www.youtube.com/watch?v=ERle45xg9l8) at CMU
 * Magnified sense of touch [Hand Held Force Magnfier](http://www.vialab.org/main/Publications/pdf/Stetten_IPCAI_2011.pdf)
 * https://www.mdpi.com/1424-8220/16/12/2047/htm
+* [Frame Interpolation video](https://www.youtube.com/watch?v=T_g6S3f0Z5I), [paper](https://arxiv.org/abs/1708.01692), [source code](https://arxiv.org/format/1708.01692)
+* [Re-Lighting Photographs Using Deep Learning](https://www.youtube.com/watch?v=giJS0i8-V1Y)
+* Online super-resolution
+* neural net slowmo
+* [Train and run StyleGAN to make more of something](https://www.cunicode.com/works/confusing-coleopterists) using [Runway](https://learn.runwayml.com/#/create/train-models)
+* Workshop in DepthKit (Chloe)
+* Workshop in Photogrammetry (Claire)
 
 Typologies
 

@@ -9,7 +9,7 @@ Curricular Materials for CMU Course 60-461/60-761/16-461<br />
 
 --- 
 
-### Editions & Credits
+### Editions, Credits & Acknowledgements
 
 * Fall 2015: Golan Levin
 * [July 2016 one-week workshop](workshop/README.md): Golan Levin
@@ -17,22 +17,23 @@ Curricular Materials for CMU Course 60-461/60-761/16-461<br />
 * [July 2018 one-week workshop](workshop/README.md): Golan Levin
 * Spring 2019: Golan Levin & Nica Ross (co-taught)
 
-
 *This syllabus contains many contributions from [James George](http://jamesgeorge.org/) and [Alexander Porter](http://alexanderporter.net/) (of [Scatter/Specular](http://www.specular.cc/)), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Kyle McDonald](http://kylemcdonald.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Suzie Silver](http://suziesilver.com/), [Claire Hentschker](http://www.clairesophie.com/), [Nica Ross](https://www.nicaross.com/), and others.* 
 
 ---
 
 ### Learning Objectives
 
+*This course is concerned with new ways of seeing.*
+
 This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. In particular, we are concerned with how we can understand and build representations of the world using devices that sense beyond the limits of human perception. In this course, we seek:
 
 * *To explore the affordances of exotic, forgotten, and nascent image capture technologies in revealing unseen or alternative realities.*
-* *To explore the use of computation in expanding our expressive vocabulary for representations of people, objects, environments, and events.*
+* *To explore the use of computation and other technological media in expanding our expressive vocabulary for representations of people, objects, environments, and events.*
 * *[To question the practical and epistemological assumptions](docs/assumptions.md) that underpin the project of capturing representations of reality with devices.*
 
 **At the conclusion of this course, students will be able to:** 
 
-* Recognize and identify the use of expanded capture techniques (such as photogrammetry, motion capture, hyperspectral imaging, binaural audio, stroboscopy, etc.) in popular and experimental media. 
+* Recognize and identify the use of expanded capture techniques (such as photogrammetry, motion capture, multispectral imaging, binaural audio, stroboscopy, etc.) in popular and experimental media. 
 * Demonstrate understanding of the scientific principles and/or engineering foundations underlying such techniques, in revealing phenomena beyond the limits of ordinary human perception.
 * Demonstrate understanding of the poetic and elucidative potentials of such techniques, and their application to the production of expressive and provocative new culture.
 * Command the practical use of one or more such techniques.
@@ -41,11 +42,6 @@ This is an interdisciplinary course in experimental media practices that arise f
 
 ### Course Logistics
 
-* **Deliverables**
-   1. An Object
-   1. A Person in Time
-   1. A Place
-   1. Final Project
 * [**Tutorials**](docs/tutorials.md)
 * [**Readings**](docs/readings.md)
 * [**Course Policies**](docs/policies.md)
@@ -53,7 +49,7 @@ This is an interdisciplinary course in experimental media practices that arise f
 ---
 
 ### Lectures
-*This is a partial and unordered list of some of the capture technologies and techniques we will discuss this semester.*
+*This is a partial and unordered list of some of the technologies and techniques we will discuss this semester.*
 
 
 * [What is a Camera? Conceptual Cameras](docs/conceptual-cameras.md)

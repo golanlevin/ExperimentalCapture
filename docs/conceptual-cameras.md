@@ -94,7 +94,7 @@ Closely related to the above projects is *[The Unoptic Camera](http://cl.ly/1h2Q
 
 ### Film Noir
 
-Historically, color film has been [biased for capturing lighter skin tones.](https://www.youtube.com/watch?v=d16LNHIEJzs) (Video)
+Historically, color film has been biased for capturing lighter skin tones. [Video](https://www.youtube.com/watch?v=d16LNHIEJzs) / [More info](https://petapixel.com/2015/09/19/heres-a-look-at-how-color-film-was-originally-biased-toward-white-people/)
 
 Data scientist [Ayodele Odubela](https://www.dazzlingdata.science/) is actively developing *Film Noir*, a camera optimized for black skin. She writes that the aim of *Film Noir* is 
 

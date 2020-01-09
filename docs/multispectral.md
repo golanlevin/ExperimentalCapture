@@ -4,7 +4,7 @@ In this lesson, we discuss images captured from electromagnetic frequencies beyo
 
 [*Multispectral imaging*](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more. 
 
-![Electromagnet_spectrum](images/spectrum.jpg)
+[![Electromagnet_spectrum](images/spectrum.jpg)](images/spectrum.jpg?raw=true)
 
 This lesson includes a discussion of the following: 
 

@@ -1,1 +1,0 @@
-This project can be found at [Any Given Tuesday Night](../smokey/projects/project3.md).

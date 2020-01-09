@@ -1,23 +1,6 @@
 # Portraits: Link Landfill
 
 
----
-
-### The Brown Sisters
-
-Every year for the past 40 years, Nicholas Nixon has photographed the four Brown sisters. [Video](https://vimeo.com/107875653) • [New York Times article](https://www.nytimes.com/interactive/2014/10/03/magazine/01-brown-sisters-forty-years.html)
-
-![*Nicholas Nixon: 40 Years of the Brown Sisters*](images/portrait_brown_sisters_1.jpg)
-
-![*Nicholas Nixon: 40 Years of the Brown Sisters*](images/portrait_brown_sisters_2.jpg)
-
----
-
-### Guys Who Look Like Jesus
-
-Nancy Burson, [*Guys who Look Like Jesus*](https://www.nancyburson.com/portfolio/G0000oCZbt_Xbvy4/I0000iQ4msZO2eoQ)
-
-![Nancy Burson, *Guys who Look Like Jesus*](images/image-averaging/burson_jesus_guys.jpg) 
 
 ---
 
@@ -56,9 +39,6 @@ Some more 3D portraits:
 
 
 
---- 
-Jason Salavon, [*Portrait*](http://www.salavon.com/work/Portrait/) (2009)![](images/salavon-portrait.jpg)
-
 ---
 Rollin Leonard, [*Crash Kiss*](http://rollinleonard.com/2016/Crash%20Kiss%20Kate%20Rollin%20animation/) (2013)
 ![Rollin Leonard](images/crashkiss.jpg)
@@ -93,11 +73,6 @@ Rollin Leonard, [*Crash Kiss*](http://rollinleonard.com/2016/Crash%20Kiss%20Kate
 * [Mark Payne	](http://metredux.tumblr.com/)
 * [Rachel Strickland, *Portable Portraits*](https://vimeo.com/9364721)
 
-We also viewed: 
-
-* [Backwards (Retrograde) Time](backwards.md)
-* [Looping (Canon) Time](looping.md)
-* [Bullet-Time (Array Videography)](bullettime.md)
 
 ---
 

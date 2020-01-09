@@ -4,7 +4,6 @@
 
 *In these rule-based approaches to portraiture, artists have devised systems, frameworks, and platforms for eliciting candid views of their subjects. They rely not on computation, but on the observational logic of [cinéma vérité](https://en.wikipedia.org/wiki/Cin%C3%A9ma_v%C3%A9rit%C3%A9) and the organizational logic of the [small multiple](https://en.wikipedia.org/wiki/Small_multiple).*
 
-
 ---
 
 ### More Turns

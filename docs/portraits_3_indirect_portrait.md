@@ -48,6 +48,8 @@ For her photo series, [*The Hotel*](https://www.youtube.com/watch?v=V5yLOcp-azI)
 
 > "Sophie Calle's voyeuristic fascination with the lives of others inspired *The Hotel*, a project she executed in the early 1980s while posing as a chambermaid at a hotel in Venice, Italy. Each work in the series is a portrait of a room she was assigned to clean, including photographs of the bed and personal belongings she found there, and a text by the artist offering her imaginative impression of the absent guests."
 
+* More information about [Sophie Calle's hotel rooms](https://www.sfmoma.org/sophie-calles-voyeuristic-portraits-of-hotel-rooms/)
+
 
 ---
 
@@ -75,6 +77,15 @@ While a student at CMU, Shan Huang developed [Quantified Selfie: Browser History
 
 [![Shan Huang](images/portraits/shan_huang_fullpage.png)](http://golancourses.net/2014/shan/03/06/project-3-shan-browser-history-visualization/)
 
+--- 
+
+### Photos from CPB
+
+> The items seem inconsequential, but the story they tell is anything but. Each one was left behind by a migrant processed at an Arizona Customs and Border Protection facility where photographer, Tom Kiefer, worked as a part-time janitor for 11 years, much of it spent diligently rescuing these objects from the trash.
+
+[![Tom Kiefer](images/portraits/tom-kiefer-toothbrushes.jpg)](https://www.washingtonpost.com/arts-entertainment/2019/12/05/janitor-rescued-migrants-possessions-border-facilitys-trash-now-theyre-art/)
+
+
 ---
 
 ### Evidence Locker
@@ -84,30 +95,3 @@ Jill Magid's [*Evidence Locker*](http://www.jillmagid.com/projects/evidence-lock
 [![Jill Magid](images/portraits/magid.jpg)](http://www.jillmagid.com/projects/evidence-locker-2)
 
 > *​In 2004, Jill Magid spent 31 days in Liverpool, during which time she developed a close relationship with Citywatch (Merseyside Police and Liverpool City Council), whose function is citywide video surveillance- the largest system of its kind in England. The videos in her *Evidence Locker* were staged and edited by the artist and filmed by the police using the public surveillance cameras in the city centre. Wearing a bright red trench coat she would call the police on duty with details of where she was and ask them to film her in particular poses.*
-
----
-
-# Typologies: People and their Stuff
-
-
----
-
-### Material World
-
-In the [*Material World: A Global Family Portrait*](http://www.npr.org/sections/pictureshow/2010/08/10/129113632/picturingpossessions) photo series (1994), Peter Menzel and other photographers took portraits of 30 statistically average families — with all of their worldly possessions displayed outside their homes.
-
-[![Peter Menzel](images/portraits/portrait_family.jpg)](http://menzelphoto.com/galleries/material-world/)
-
----
-
-### Toy Stories
-
-
-For [*Toy Stories*](https://www.gabrielegalimberti.com/toy-stories/), over two years, photographer Gabriele Galimbert
-
-> visited more than 50 countries and created colorful images of boys and girls in their homes and neighborhoods with their most prized possessions: their toys. From Texas to India, Malawi to China, Iceland, Morocco, and Fiji, I recorded the spontaneous and natural joy that unites kids despite their diverse backgrounds. Whether the child owns a veritable fleet of miniature cars or a single stuffed monkey, the pride that they have is moving, funny, and thought provoking.
-
-[![Gabriele Galimbert's *Toy Stories*](images/portraits/portrait_toy_stories.jpg)](https://www.gabrielegalimberti.com/toy-stories/)
-
-
-

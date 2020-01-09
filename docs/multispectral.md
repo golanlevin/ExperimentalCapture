@@ -6,34 +6,35 @@ In this lesson, we discuss images captured from electromagnetic frequencies beyo
 
 ![Electromagnet_spectrum](images/spectrum.jpg)
 
-![Nasa_spectrum](images/spectrum_wall_chart_aug2011.jpg)
-
 This lesson includes a discussion of the following: 
 
-* Overview of Multispectral Imaging
-* Near-Infrared (NIR) Imaging
-* X-Ray Imaging
-* Thermal Imaging
-* Thermochromic Imaging
-* Ultraviolet (UV) Imaging
-* Radar 
-* Millimeter Wave & Terahertz Imaging
-* CT Scans, MRI, CAT Etc.
+* [Overview of Multispectral Imaging](#overview)
+* [Some Applications](#some-applications)
+* [Near-Infrared Imaging](#near-infrared-imaging)
+* [Thermal Imaging](#thermal-imaging)
+* [Thermochromic Imaging](#thermochromic-imaging)
+* [Ultraviolet Imaging](#ultraviolet-imaging)
+* [X-Ray Imaging](#x-ray-imaging)
+* [Hyperspectral Imaging](#hyperspectral-imaging)
+* [Radio-Wave Imaging](#radio-wave-imaging)
+* [Neutron Imaging](#neutron-imaging)
 
 In addition, two other imaging techniques, while not properly multi-spectral, deal with unusual properties of light and its transmissive medium: 
-* Polarized Light
-* Schlieren Photography
+
+* [Polarimetry](#polarimetry)
+* [Schlieren Imaging and Shadowgraphy](#schlieren-imaging-and-shadowgraphy)
 
 Finally, it's not even necessary to image with electromagnetic radiation; let's not forget about sound. 
 
-* Sonar and Ultrasonic Imaging
-
+* [Sonar and Ultrasound](#sonar-and-ultrasound)
 
 --- 
 
-### Overview. What does the world look like when observed with non-visible light frequencies? 
+## Overview 
 
-Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, and so forth, an imaging technology is required to translate energy patterns in these spectra into patterns we can see. The "right" way to visualize such energy patterns is always arbitrary, or, at least, an artifact of the sensing and display technology. 
+#### What does the world look like when observed with non-visible light frequencies? 
+
+Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, and so forth, an imaging technology is required to translate energy patterns in these spectra into patterns we can see. The "right" way to visualize such energy patterns is *always arbitrary* — or, at least, an artifact of the sensing and display technology. 
 
 ![Multi-spectral face](images/face-spectra.jpg)<br />
 *A face simultaneously imaged in the (a) visible spectrum, 0.4–0.7 µm, (b) short-wave infrared, 1.0–3.0µm, (c) mid-wave infrared, 3.0–5.0µm, and (d) long-wave infrared, 8.0-14.0µm.*
@@ -50,17 +51,17 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 
 --- 
 
-### Some applications
+## Some Applications
 
-* Satellites employ multispectral imaging to understand the Earth. [Charlie Loyd, Putting Landsat8's multispectral imaging to work.](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/). For example, here's a false-color Landsat8 image by in which SWIR (thermal) is used in the red channnel; NIR as green; and deep blue as blue:
+* Satellites employ multispectral imaging to understand the Earth. In order to make invisible energy visible, a common trick in satellite imaging is to re-map a channel of invisible light (like IR) to the R,G,B channels of a regular image. [Charlie Loyd discusses this in *Putting Landsat8's multispectral imaging to work*](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/). For example, here's a false-color Landsat8 image by in which SWIR (thermal) is used in the red channnel; NIR as green; and deep blue as blue:
 
-![False-color image using thermal data in the red channel](images/landsat-false-color.jpg)
+[![False-color image using thermal data in the red channel](images/landsat-false-color.jpg)](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/)
 
 * Astronomers use multispectral imaging to [understand the Sun](http://www.nasa.gov/images/content/719688main_Sun-Wavelength-Chart_full.jpg). 
 
 ![Multispectral image of the sun](images/multispectral/multispectral_sun-wavelength-chart.jpg)
 
-* Forensic specialists use infrared and ultraviolet imaging and/or fluorescence to [recover writing lost to water damage](https://people.rit.edu/andpph/photofile-b/ir-letter-comparison-1.jpg), [analyze medieval frescoes](https://artcosnervationcsmodotcom.wordpress.com/category/rti/), [detect fraudulent documents](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/inkglowb.jpg), [determine the provenance of artifacts](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/matchb.jpg), [sort fragments of shredded documents](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/shredb.jpg), [detect underpaintings in famous artworks](http://www.artic.edu/collections/conservation/revealing-picasso-conservation-project/examination-techniques/infrared), [detecting previous versions of artworks (includes web interactive)](http://www.webexhibits.org/pigments/intro/visible.html).
+* Forensic specialists use infrared and ultraviolet imaging and/or fluorescence to [recover writing lost to water damage](https://people.rit.edu/andpph/photofile-b/ir-letter-comparison-1.jpg), [analyze medieval frescoes](https://artcosnervationcsmodotcom.wordpress.com/category/rti/), [detect fraudulent documents](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/inkglowb.jpg), [determine the provenance of artifacts](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/matchb.jpg), [sort fragments of shredded documents](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/shredb.jpg), [detect underpaintings in famous artworks](http://www.artic.edu/collections/conservation/revealing-picasso-conservation-project/examination-techniques/infrared), and [detect earlier versions of artworks (includes web interactive)](http://www.webexhibits.org/pigments/intro/visible.html).
 
 ![IR image of water-damaged document](images/water-damage.jpg)
 
@@ -70,7 +71,7 @@ Because the human eye cannot see X-rays, long-wave infrared, ultraviolet light, 
 
 ---
 
-### Near-Infrared (NIR) Imaging
+## Near-Infrared Imaging
 
 IR is light that is beyond the red end of the visible spectrum. Wavelengths in the range of ~770 to ~1400 nanometers are called the near infrared (or NIR) region of the electromagnetic spectrum, while longer wavelengths are called the far infrared (or Long-Wave IR).  Near-infrared is widely used in standard security cameras, while far infrared is known as thermal imaging (which we discuss in the section after this).
 
@@ -84,13 +85,13 @@ NIR cameras can be inexpensive and easy to obtain. Given the presence of IR illu
 
 ![Veins, in NIR by Jasper Nance](images/nir/nir-veins.jpg)
 
-It's important to distinguish between *monochromatic* IR images (a grayscale image whose content is exclusively from the infrared part of the spectrum), such as the image above, and various types of *CIR* (Color+IR) images, which store multiple channels of information from different parts of the spectrum. Since RGB images are a common display format for multichannel image data, one common CIR technique ([described in this PDF](pdf/using_cir_imagery.pdf)) stores IR information in the Red channel, Red information in the Green channel, and Green information in the Blue channel. Edward Thompson has compiled [an artful book](http://www.edwardthompson.co.uk/theunseen.html) of such images, such as this one:
+It's important to distinguish between *monochromatic* IR images (a grayscale image whose content is exclusively from the infrared part of the spectrum), such as the image above, and various types of *CIR* (Color+IR) images, which store multiple (spatially aligned!) channels of information from different parts of the spectrum. Since RGB images are a common display format for multichannel image data, one common CIR technique ([described in this PDF](pdf/using_cir_imagery.pdf)) stores IR information in the Red channel, Red information in the Green channel, and Green information in the Blue channel. This is conceptually similar to the LandSat satellite imaging trick described above. Edward Thompson has compiled [an artful book](http://www.edwardthompson.co.uk/theunseen.html) of such images, such as this one:
 
 ![CIR images by Edward Thompson](images/nir/cir-edward-thompson.png)
 
 Incidentally, the visibility of veins in IR has been used in some medical augmented-projection applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) device: <br />![The VeinViewer visualizes an IR image with an augmented projection](https://c2.staticflickr.com/8/7706/27529572870_bb07b07e7b_b.jpg)
 
-It's common for CIR imaging to be used for aerial/satellite photography. Plants, in particular, become much more visible:<br />![CIR images by Edward Thompson](images/nir/cir-edward-thompson-landscape.jpg)
+It's common for CIR imaging to be used for aerial/satellite photography. Foliage, in particular, becomes much more visible:<br />![CIR images by Edward Thompson](images/nir/cir-edward-thompson-landscape.jpg)
 
 Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a documentary film about the ongoing civil war in Congo, shot on CIR film. Mosse's work has spurred controversy for the way in which it aestheticizes turmoil, especially as captured by a European working in Africa.<br />[![Richard Mosse's 'The Enclave'](images/nir/cir_film_richard_mosse_enclave.gif)](https://vimeo.com/67115692)
 
@@ -105,7 +106,7 @@ For example, *The Blue Boy* (ca. 1770), an oil painting by Thomas Gainsborough (
 
 ![The Blue Boy in visible, X-Ray, and NIR](images/nir/nir_infrared_reflectometry_blueboy.jpg)
 
-The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com) and [*"Stella at the Playground"*](http://www.oliverlutz.com) by Oliver Lutz (2010) use a (visibly) black, IR-transparent overpainting—covering a secret image that can only be observed by means of a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the Walker Art Center exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera). 
+The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com) and [*"Stella at the Playground"*](http://www.oliverlutz.com) by Oliver Lutz (2010) use a (visibly) black, IR-transparent overpainting—covering a "secret" image that can only be observed by means of a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the Walker Art Center exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera). 
 
 ![Paintings by Oliver Lutz](images/nir/nir_lutz_1.jpg)
 
@@ -120,39 +121,41 @@ NIR imaging can be used to [detect traced (i.e. forged) signatures](https://www.
 
 ---
 
-### Thermal Imaging 
+## Thermal Imaging 
 
 *Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. In short, we see where something is hot. 
 
-What we see when we observe radiation in this range is *emissive* rather than *reflective*. Interestingly, there is a band that is not used for imaging — the "low transmittance window", between 5000-8000nm, because *air is opaque* to those wavelengths. That is: those are the wavelengths of energy that heat the air itself.
+What we see when we observe radiation in this range is *emissive* rather than *reflective*. 
+
+Interestingly, there is a band that is not used for imaging — the "low transmittance window", between 5000-8000nm, because *air is opaque* (absorbs) at those wavelengths. That is: those are the wavelengths of energy that heat the air itself.
 
 ![IR Spectrum](images/nir/ir-spectrum.jpg)
 
 * David Attenborough discusses the use of thermal imaging to understand lizard temperature self-regulation, in [this BBC video](https://youtu.be/e4bprBup6w4)
 
-[![Thermal Lizards](images/thermal-lizards.png)](https://youtu.be/e4bprBup6w4)
+[![Thermal Lizards](images/thermal/thermal-lizards.png)](https://youtu.be/e4bprBup6w4)
 
 * A cult classic, [*THE OPERATION*](https://vimeo.com/24149525) by Jacob Pander and Marne Lucas (1995) is a hybrid art/porn movie, shot completely with a thermal camera. (NSFW)
 
-![The Operation by Jacob Pander and Marne Lucas](https://c2.staticflickr.com/8/7375/27808644605_83d956e0ae_o.png)
+![The Operation by Jacob Pander and Marne Lucas](images/thermal/thermal-lucas.png)
 
 * Lucas and Pander have also produced [*Incident Energy*](https://vimeo.com/119734456), a multi-channel thermal video which explores "themes of nature and humanity", including live human birth. 
 
-![Incident Energy by Jacob Pander and Marne Lucas](images/thermal_incident_energy.jpg)
+![Incident Energy by Jacob Pander and Marne Lucas](images/thermal/thermal_incident_energy.jpg)
 
-* [Route 94: *My Love*](https://vimeo.com/84702235) is a much more recent music video with much the same idea. 
+* [Route 94: *My Love*](https://vimeo.com/84702235) (2013) is a much recent music video with much the same idea. Note how the intensity of thermal energy can be interpreted according to a grayscale spectrum, color spectrum, etc. 
 
-![Thermal image](images/thermal-img.jpg)
+![Thermal image](images/thermal/thermal-my-love.jpg)
 
 * Terike Haapoja's [*Community* (2007)](http://www.av-arkki.fi/en/works/community_en/) presents thermal videos of animals which have just died. We see the heat leaving their bodies. 
 
-![Terike Haapoja animals](images/terike-haapoja-thermal.jpg)
+![Terike Haapoja animals](images/thermal/terike-haapoja-thermal.jpg)
 
 * [This Photographer Shoots Portraits With a Thermal Camera](http://www.smithsonianmag.com/science-nature/this-photographer-shoots-portraits-with-a-thermal-camera-1437109/)
   * [Linda Alterwitz 1](http://www.lindaalterwitz.com/thermal_portrait.html)
   * [Linda Alterwitz 2](http://www.lindaalterwitz.com/thermal_core.html)
 
-![Portrait by Linda Alterwitz](https://c2.staticflickr.com/8/7352/27809023865_f4dcc562aa_o.jpg)
+![Portrait by Linda Alterwitz](images/thermal/thermal-alterwitz.jpg)
 
 Note that there is no "correct" way to view thermal imagery. Cameras offer a variety of different spectra for mapping their temperature ranges, including grayscale, black-body, chromatic (blue = cold), etc. 
 
@@ -162,83 +165,101 @@ Sometimes simply presenting such alternative views can be a provocative, enterta
 
 * [*City Thermogram*](http://thecreatorsproject.vice.com/blog/times-square-is-a-heat-sensitive-camera-thanks-to-peggy-ahwesh), by Peggy Ahwesh (2015), was commissioned to create a live-video installation in New York's Time Square, in which she connected up a thermal camera (trained on passersby) to a large electronic billboard.
 
-![City Thermogram by Peggy Ahwesh](https://c2.staticflickr.com/8/7084/27530871390_af9646986a_b.jpg)
+![City Thermogram by Peggy Ahwesh](images/thermal/thermal-peggy-ahwesh.jpg)
+
+* In the exhibition "Laura Poitras: Astro Noise" (2016) at the Whitney Museum of American Art, the installation "Bed Down Location" features time-lapse video projections of night skies in Yemen and Somalia. In the next room over is Poitras' project "Last Seen", which shows a time-lagged view of the previous room's mattress, showing the viewer's own fading thermal imprints. 
+
+[![Laura Poitras, *Bed Down Location*](images/thermal/thermal-poitras-1.png)](https://www.nytimes.com/2016/02/05/arts/design/laura-poitras-astro-noise-examines-surveillance-and-the-new-normal.html)
+[![Laura Poitras, *Last Seen*](images/thermal/thermal-poitras-2.jpg)](https://www.nytimes.com/2016/02/05/arts/design/laura-poitras-astro-noise-examines-surveillance-and-the-new-normal.html)
 
 * Google has recently made [satellite thermal imaging of roofs](http://mashable.com/2015/08/20/google-house-solar/?utm_cid=mash-com-fb-main-link) available to the public, to prompt people's awareness about the  heat inefficiency of their homes.
 
-![Google roof tool](https://c2.staticflickr.com/8/7291/27197574323_469ee6a71a_o.jpg)
+![Google roof tool](images/thermal/thermal-google-roof.jpg)
 
-* Thermal video was also useful in [visualizing the Porter Ranch methane leak](https://www.youtube.com/watch?v=Jt_DffiFoTY). 
+* Different gases absorb energy in different parts of the thermal radiation spectrum. Just as air is opaque from 5-8um (MWIR), methane is opaque in the LWIR. Thermal LWIR video was thus useful in [visualizing the 2015 Porter Ranch methane leak](https://www.youtube.com/watch?v=Jt_DffiFoTY):
 
-![Thermal video of methane leak](https://c2.staticflickr.com/8/7095/27198201853_2cea60d4ed_o.png)
+[![Thermal video of methane leak](images/thermal/thermal-methane-leak.png)](https://www.youtube.com/watch?v=Jt_DffiFoTY)
+
+* These Swedish researchers have built a modified thermal camera [specifically for seeing methane](https://www.discovermagazine.com/planet-earth/a-camera-that-sees-methane). This is important because methane is 86 times more impactful in greenhouse warming.
+
+[![Thermal video of methane leak](images/thermal/thermal-methane-camera-linkoping.png)](https://www.discovermagazine.com/planet-earth/a-camera-that-sees-methane)
+
+#### Additional thermal videos of possible interest
+
+* [High-resolution (1024x768) thermal video](https://vimeo.com/220133177) of bats, accompanied by their audibleized ultrasound
+* [High-resolution thermal imaging of owls](https://vimeo.com/246577570)
+* [Envisioning Chemistry: Getting Hot](https://vimeo.com/236209234)
+* [Envisioning Chemistry: Getting Cold](https://vimeo.com/354855897)
+* [Simple liquid experiments](https://vimeo.com/208078286): boiling water, water convection, oil heating, ice floating in water, etc.
+* ["3D thermography" (thermal imaging + photogrammetry)](https://vimeo.com/110217187)
+
 
 ---
 
-### Thermochromic Imaging
+## Thermochromic Imaging
 
 *While we're on the topic of visualizing heat:* Some substances temporarily change color in response to heat. In different contexts, thermochromic pigments can work as a capture technology or a display technology. 
 
 * Jay Watson's *[Thermochromic Table](http://www.fubiz.net/en/2014/02/21/thermochromic-table/)* (2011) reveals where and how people have sat at the furniture. 
 
-![Jay Watson's Thermochromic Table](https://c2.staticflickr.com/8/7693/27733523841_f3208d6089_o.jpg)
+![Jay Watson's Thermochromic Table](images/thermochromic-table.jpg)
 
 * The *[Temperature Sensitive Object](http://www.mascontext.com/wp-content/uploads/2011/12/12_game_ornaments_09.jpg)* chair (2001) by Orléans-based design group, Archilab, is similar. 
 
-![Temperature Sensitive Object by Archilab](https://c2.staticflickr.com/8/7393/27197574343_b162da0d15_o.jpg)
+![Temperature Sensitive Object by Archilab](images/thermochromic-seat.jpg)
 
 * The revelatory potential of this technology is directly connected to considerations of mammalian territory-marking behavior in this *[thermochromic toilet seat](http://theluxuryofprotest.com/Thermochromic_Toilet_Seat.html)* and this remarkable *[thermochromic urinal](http://www.technocrazed.com/wp-content/uploads/2014/08/New-Thermochromic-Furniture-And-Pots-11.jpg)*
 
-![Thermochromic Urinal](https://c2.staticflickr.com/8/7102/27733523921_a4b1298776_o.jpg)
+![Thermochromic Urinal](images/thermochromic-urinal.jpg)
 
 * Dutch artist [Carina Hesper](http://carinahesper.nl) has created a book, *[Like a Pearl in My Hand](http://www.carinahesper.nl/#!visually-impaired)*, in which portrait photographs have been overprinted with thermochromic coating. The reader of the book must interactively reveal the underlying photographs 
 
-![Carina Hesper's book, 'Like a Pearl in My Hand'](https://c2.staticflickr.com/8/7396/27197575403_24761d60f3_o.png)
+[![Carina Hesper's book, 'Like a Pearl in My Hand'](images/thermochromic-hesper.png)](http://carinahesper.nl) has created a book, [*Like a Pearl in My Hand*](http://www.carinahesper.nl/#!visually-impaired)
 
 ---
 
-### Ultraviolet (UV) Imaging 
+## Ultraviolet Imaging 
 
-* [The World In UV](https://www.youtube.com/watch?v=V9K6gjR07Po), an excellent overview video by science YouTuber, Veritasium. Discusses atmospheric haze, sunscreen, quinine, flowers, polar bears, and more:
+* [*The World In UV*](https://www.youtube.com/watch?v=V9K6gjR07Po), an excellent overview video by science YouTuber, Veritasium, discusses how UV offers new understandings of atmospheric haze, sunscreen, quinine, flowers, polar bears, and more:
 
-[![The world in UV](images/the_world_in_uv.png)](https://www.youtube.com/watch?v=V9K6gjR07Po)
+[![The world in UV](images/uv/the_world_in_uv.png)](https://www.youtube.com/watch?v=V9K6gjR07Po)
 
 #### Ultraviolet animal vision and markings. 
 
 Many animals [appear different, and can see in the ultraviolet](http://www.theatlantic.com/technology/archive/2011/08/6-animals-that-can-see-or-glow-in-ultraviolet-light/243634/). For example, 
 
-* Butterflies are thought to have the widest spectral visual range of any animal. Butterflies can use ultraviolet markings to find healthier mates. Ultraviolet patterns also help certain species of butterflies appear similar to predators, while differentiating themselves to potential mates.
+* Butterflies are thought to have the widest spectral visual range of any land animal. Butterflies can use ultraviolet markings to find healthier mates. Ultraviolet patterns also help certain species of butterflies appear similar to predators, while differentiating themselves to potential mates.
 * Reindeer rely on ultraviolet light to spot lichens that they eat. They can also easily spot the UV-absorbent urine of predators among the UV-reflective snow.
 * One bird species was found to feed its young based on how much UV the chicks reflected.
 * Some species of birds use UV markings to tell males and females apart.
 * The flower Black-eyed Susans have petals that appear yellow to humans, but UV markings give them a bull's eye-like design that attracts bees.
 * Sockeye salmon may use their ultraviolet perception to see food.
 
-[Kestrels can see in the UV](https://youtu.be/AUm-TabNFF0), which helps them find prey from their UV-fluorescent urine. Here's David Attenborough:<br />[![kestrel-vision.png](images/kestrel-vision.png)](https://youtu.be/AUm-TabNFF0)
+[Kestrels can see in the UV](https://youtu.be/AUm-TabNFF0), which helps them find prey from their UV-fluorescent urine. Here's David Attenborough:<br />[![kestrel-vision.png](images/uv/uv-kestrel-vision.png)](https://youtu.be/AUm-TabNFF0)
 
 * Scorpions glow under ultraviolet light, but scientists do not know why.
 
-![Scorpions glow in UV](images/uv_scorpion.jpg)
+![Scorpions glow in UV](images/uv/uv_scorpion.jpg)
 
 * [Spectra of different species' vision](https://fieldguidetohummingbirds.files.wordpress.com/2008/11/spectrum.jpg).
 
-![Spectra of different species' vision](https://c2.staticflickr.com/8/7344/27197151834_c80b6f85aa_o.jpg)
+![Spectra of different species' vision](images/uv/uv_animal_vision_spectra.jpg)
 
 * [Birds & bees' UV vision](http://www.nature.com/scitable/blog/the-artful-brain/alternate_realities)
 
-![Bird vision makes use of UV](https://c2.staticflickr.com/8/7226/27197152074_0a42cf3410_o.png)
+![Bird vision makes use of UV](images/uv/uv_birds.png)
 
-UV is also [widely used in forensics](http://ultravioletcameras.com/applications/longwave-ultraviolet-forensics-imaging-applications/):<br />![Cleaning marks visualized with UV](images/uv_forensics_paint.jpg)
+UV is also [widely used in forensics](http://ultravioletcameras.com/applications/longwave-ultraviolet-forensics-imaging-applications/):<br />![Cleaning marks visualized with UV](images/uv/uv_forensics_paint.jpg)
 
-[UV video overview by Thomas Leveritt](https://www.youtube.com/watch?v=o9BqrSAHbTc), promoting sunscreen:<br />![Thomas Leveritt video](images/uv_leveritt.png)
+[UV video overview by Thomas Leveritt](https://www.youtube.com/watch?v=o9BqrSAHbTc), promoting sunscreen:<br />[![Thomas Leveritt video](images/uv/uv_leveritt.png)](https://www.youtube.com/watch?v=o9BqrSAHbTc)
 
 #### Artworks using UV
 
-Cara Phillips makes portraits that explore the [aesthetics of the human skin in UV](http://www.theguardian.com/artanddesign/gallery/2012/aug/03/ultraviolet-beauties-cara-phillips-photographs):<br />![Portrait by Cara Phillips](images/uv_cara_phillips.jpg)
+Cara Phillips makes portraits that explore the [aesthetics of the human skin in UV](http://www.theguardian.com/artanddesign/gallery/2012/aug/03/ultraviolet-beauties-cara-phillips-photographs):<br />![Portrait by Cara Phillips](images/uv/uv_cara_phillips.jpg)
 
-Using the *wet collodion* chemical process, an early photographic technique invented by Frederick Scott Archer in 1851, photographer Michael Bradley [developed a series of portraits](https://fstoppers.com/film/cultural-tattoos-invisible-wet-collodion-prints-259738), featuring facial tattoos from the indigenous New Zealand culture, the Māori.<br />![Michael Bradley uv/vis portrait with Maori tattoos](images/uv_wet_collodion_michael_bradley.jpg)
+Using the *wet collodion* chemical process, an early photographic technique invented by Frederick Scott Archer in 1851, photographer Michael Bradley [developed a series of portraits](https://fstoppers.com/film/cultural-tattoos-invisible-wet-collodion-prints-259738), featuring facial tattoos from the indigenous New Zealand culture, the Māori.<br />![Michael Bradley uv/vis portrait with Maori tattoos](images/uv/uv_wet_collodion_michael_bradley.jpg)
 
-The wet collodion process primarily records UV information, as can be seen in the spectrum recording below. The spectrum was generated by a prism, and was directly photographed using collodion. A photograph of the same spectrum was taken simultaneously with digital color. The two photographs were then overlaid using registration marks to ensure accuracy.<br />![visible and collodion spectra](images/uv_collodion_spectrum_niles_lund.jpg)
-
+The wet collodion process primarily records UV information, as can be seen in the spectrum recording below. The spectrum was generated by a prism, and was directly photographed using collodion. A photograph of the same spectrum was taken simultaneously with digital color. The two photographs were then overlaid using registration marks to ensure accuracy.<br />![visible and collodion spectra](images/uv/uv_collodion_spectrum_niles_lund.jpg)
 
 #### UV imaging in practice
 
@@ -247,14 +268,25 @@ The wet collodion process primarily records UV information, as can be seen in th
 * It is [worth pointing out](http://www.savazzi.net/photography/uv.htm) that UV & NIR photography also benefit from using [special lenses](http://www.savazzi.net/photography/coastalopt_60.html) which better focus these wavelengths. 
 * Of course, [dedicated UV cameras](http://www.edmundoptics.com/cameras/nir-uv-cameras/sony-xc-e-series-monochrome-ccd-cameras/56346/) also exist, some of which, like this [Nurugo UV camera attachment](https://www.amazon.com/Nurugo-SmartUV-Detachable-Lamp-Connectable/dp/B079YVY7PB) for Android, are relatively inexpensive.
 
-![Golan in UV](images/uv_golan.jpg)
-
+![Golan in UV](images/uv/uv_golan.jpg)<br />
 *The STUDIO has an extremely sensitive monochrome security camera which, used with a UV-pass filter, is able to view the world in UV. The image above was recorded with this camera.*
+
+Ultraviolet light can also produce dramatic fluorescence in some materials.  
+
+> Fluorescence is the emission of light by a substance that has absorbed light or other electromagnetic radiation. It is a form of luminescence. In most cases, the emitted light has a longer wavelength, and therefore lower energy, than the absorbed radiation. The most striking example of fluorescence occurs when the absorbed radiation is in the ultraviolet region of the spectrum, and thus invisible to the human eye, while the emitted light is in the visible region, which gives the fluorescent substance a distinct color that can be seen only when exposed to UV light. Fluorescent materials cease to glow nearly immediately when the radiation source stops, unlike phosphorescent materials, which continue to emit light for some time after.
+
+Because the material is *absorbing* UV light, most fluorescent materials appear dark or black in UV. 
+
+![](images/uv/uv_fluorescent_minerals.jpg)
+
+* Vitamin B2 fluoresces yellow.
+* Tonic water fluoresces blue due to the presence of quinine.
+* Highlighter ink is often fluorescent due to the presence of pyranine.
 
 
 ---
 
-### X-Ray imaging
+## X-Ray Imaging
 
 #### X-Ray Imaging in the Arts
 
@@ -295,8 +327,9 @@ It is also possible to design or arrange objects for the express purpose of havi
 ![X-ray insertions](images/x-ray_hammer_insertion.jpg)
 
 
---- 
-### Multi- and Hyperspectral Visible Imaging
+---
+
+## Hyperspectral Imaging
 
 Using [Bayer filters](https://en.wikipedia.org/wiki/Bayer_filter), standard color digital cameras record three channels (RGB) of spectral information. Using less-common Bayer filters, a few [specialized cameras have four channels](https://www.e-consystems.com/OV4682-RGB-IR-USB3-camera.asp) (RGB+NIR), or even [as many as 8 or 16](https://www.spectraldevices.com/products/multispectral-snapshot-cameras). As the number of channels increases even further, multi-spectral imaging becomes [*hyperspectral imaging*](https://en.wikipedia.org/wiki/Hyperspectral_imaging), which attempts to capture the entire reflective or emissive spectrum for every pixel — essentially representing an image with a three-dimensional (x,y,λ) *data cube*. Some hyperspectral cameras have [as many as 200 spectral channels](https://www.specim.fi/iq/tech-specs/), some with bandwidth as narrow as 7 nanometers per channel. 
 
@@ -332,9 +365,9 @@ Multispectral and hyperspectral cameras are built using several different techno
 * [Adjustable bandpass filter employing a prism](https://www.semanticscholar.org/paper/Adjustable-bandpassfilter-employing-a-prism.-Burch/6416df9018aee6ebaa46b52bbcfddaf7352c2f1a)
 * [Multispectral Bayer Filter](https://www.spectraldevices.com/products/multispectral-snapshot-cameras). Such cameras can operate at video rates, but sacrifice resolution.<br />![](images/multispectral/multispectral_bayer.jpg)
 
-
 ---
-### Radar
+
+## Radio-Wave Imaging
 
 [From [Wikipedia](https://en.wikipedia.org/wiki/Radar)] **Radar** is an object-detection system that uses radio waves to determine the range, angle, or velocity of objects. It can be used to detect aircraft, ships, spacecraft, missiles, motor vehicles, weather formations, and terrain. A radar transmits radio waves or microwaves that reflect from any object in their path. 
 
@@ -346,11 +379,7 @@ Multispectral and hyperspectral cameras are built using several different techno
 
 **Ground-penetrating radar** images features such as underground pipes. Speak to the professor if you're interested in this; we have a contact at Pittsburgh-area providers, [Geospatial Corporation](http://www.geospatialcorporation.com/).
 
----
-
-### Radio-Wave Imaging
-
-[RF-Pose](https://www.youtube.com/watch?v=HgDdaMy8KNE) by researchers at MIT CSAIL:<br />[![Terahertz imaging](images/radio.png)](https://www.youtube.com/watch?v=HgDdaMy8KNE)
+**Radio waves** can be used in other ways for imaging, as in [RF-Pose](https://www.youtube.com/watch?v=HgDdaMy8KNE) by researchers at MIT CSAIL:<br />[![Terahertz imaging](images/radio.png)](https://www.youtube.com/watch?v=HgDdaMy8KNE)
 
 #### Millimeter Wave & Terahertz Imaging
 
@@ -376,7 +405,7 @@ Angiography is the process of imaging blood vessels. Recent progress in MRI imag
 
 --- 
 
-### Neutron Imaging
+## Neutron Imaging
 
 [Neutron Imaging](https://en.wikipedia.org/wiki/Neutron_imaging) is based on the neutron attenuation properties of the imaged object. The resulting images have much in common with X-ray images, but some things easily visible with neutron imaging may be very challenging or impossible to see with X-ray imaging techniques (and vice versa). X-rays are attenuated based on a material's density. Denser materials will stop more X-rays. With neutrons, a material's likelihood of attenuation of neutrons is not related to its density. Some light materials such as boron will absorb neutrons while hydrogen will generally scatter neutrons, and many commonly used metals allow most neutrons to pass through them completely. 
 
@@ -386,7 +415,7 @@ Neutron imaging is often used to see the movement of fluids, such as oil or wate
 
 ---
 
-### Polarized Light
+## Polarimetry
 
 Polarization is a property of light which describes, not its frequency or wavelength, but the orientation of the spatial plane in which its waves are traveling. It is useful in visualizing several phenomena which cannot otherwise be seen by the human eye. 
 
@@ -406,16 +435,13 @@ You can see this technique applied to a human face in [this video](https://www.y
 ![](images/polarization_magnitude_image0.png)
 ![](images/polarization_magnitude_image1.png)
 
+This [face analysis research](https://deepai.org/publication/decomposing-multispectral-face-images-into-diffuse-and-specular-shading-and-biophysical-parameters) combines machine learning, polarimetry (to split specular and diffuse reflections), and hyperspectral imaging (to visualize differences in blood oxygenation and skin pigmentation):<br />![](images/polarimetry-and-hyperspectral-faces.png)
 
-*Polarimetric thermal* imaging enhances standard thermal imaging (2nd frame, below) with polarizing filters (generally wire-grid polarizers). This produces perpendicularly- and cross-polarized views of the thermal radiation (3rd and 4th frames), which reveal structures not visible in uniform thermal imagery. This information encodes the spatial orientation of the surface emitting the heat. 
+*Polarimetric thermal* imaging enhances standard thermal imaging (2nd frame, below) with polarizing filters (generally wire-grid polarizers). This produces perpendicularly- and cross-polarized views of the thermal radiation (3rd and 4th frames), which reveal structures not visible in uniform thermal imagery. This information encodes the spatial orientation of the surface emitting the heat.<br />![](images/thermal_polarimetric.png)
 
-![](images/thermal_polarimetric.png)
+[More information about polarized light](https://www.youtube.com/watch?v=CSu0cV3fqi8) in this video from PBS:<br />[![PBS Polarizing video](images/pbs-polarizer.png)](https://www.youtube.com/watch?v=CSu0cV3fqi8)
 
 Incidentally, there are some [other very clever ways of separating specular from diffuse appearances](http://www.mit.edu/~yzli/ECCV02-Sep.pdf) of objects.
-
-[More information about polarized light](https://www.youtube.com/watch?v=CSu0cV3fqi8) in this video from PBS:
-
-![PBS Polarizing video](images/pbs-polarizer.png)
 
 #### Transmissive Polarized Light: Visualizing Stress
 
@@ -433,21 +459,35 @@ Some nice videos of polarization and stress visualization:
 
 ---
 
-### Schlieren Photography
+## Schlieren Imaging and Shadowgraphy
 
-Schlieren photography creates images which reveal, and depend on, minute differences in the index of refraction of air. In short, it depends not on a property of light, but on a property of light's medium. 
+[**Schlieren imaging**](https://www.youtube.com/watch?v=mLp_rSBzteI) creates images which reveal, and depend on, minute differences in the index of refraction of air. In short, it depends not on a property of light, but on a property of light's medium. 
 
-[Schlieren photography](https://www.youtube.com/watch?v=mLp_rSBzteI)
+[![Schlieren imaging](images/schlieren.png)](https://www.youtube.com/watch?v=mLp_rSBzteI)
 
-![Schlieren imaging](images/schlieren.png)
+* Kyle McDonald has explored [Moiré-Schlieren imaging](https://vimeo.com/322380229).
+
+[**Shadowgraphy**](https://en.wikipedia.org/wiki/Shadowgraph) is an optical method that reveals non-uniformities in transparent media like air, water, or glass. It is related to, but simpler than, Schlieren methods, generally using a flash image and extremely brief exposure. (It's literally just the shadows of shimmering heat in the air.) [*Video*](https://vimeo.com/13430625)
+
+[![](images/shadowgram-bottle.png)](https://vimeo.com/13430625)
+
+![](images/shadowgram_settles_gun.jpg)![](images/shadowgram_bullet.jpg)
+
+> [The shadowgraph](http://www.thermopedia.com/content/1117/) is the simplest form of optical system suitable for observing a flow exhibiting variations of the fluid density. In principle, the system does not need any optical component except a light source and a recording plane onto which to project the shadow of the varying density field (Figure 1). A shadow effect is generated because a light ray is refractively deflected so that the position on the recording plane where the undeflected ray would arrive now remains dark. At the same time the position where the deflected ray arrives appears brighter than the undisturbed environment. 
+
+![shadowgraphy](images/shadowgraphy-technique.gif)
+
+Here are some [smartphone shadowgraphy techniques](https://www.sciencedirect.com/science/article/abs/pii/S0143816617303858).
+
 
 --- 
-### Sonar and Ultrasound
+
+## Sonar and Ultrasound
 
 It's well-known that bats and dolphins image the world through ultrasonic reflections. 
 
 But were you aware of *human echolocation*? Here are three different individuals, who despite being blind are able to map a detailed mental plan of their surroundings:
-* [Ben Underwood](https://www.youtube.com/watch?v=Wby1CIhnYWI)
+* [Ben Underwood](https://www.youtube.com/watch?v=XUXh-X1iveU)
 * [Sam](https://www.youtube.com/watch?v=zXtExOMCDfE)
 * [Daniel](https://www.youtube.com/watch?v=2IKT2akh0Ng)
 
@@ -461,5 +501,5 @@ It has become popular in Japan to [3D-print copies of the unborn](http://microfa
 
 Sonar can also be used to image *environments* in both 2D and 3D. Using equipment such as [this](http://www.blueview.com/products/3d-multibeam-scanning-sonar/3/), for example, people investigate and discover seafloor shipwrecks. 
 
-![3D-printed fetus](images/sonar-shipwreck.jpg)<br />
+![Sonar shipwreck](images/sonar-shipwreck.jpg)<br />
 

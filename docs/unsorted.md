@@ -11,7 +11,6 @@
 * X-ray Fluorescence (XRF) ;Scintillation Detectors;
 * [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy) is a spectroscopic technique, used in chemistry to provide a structural fingerprint by which molecules can be identified. Raman spectroscopy relies upon inelastic scattering of photons. "A source of monochromatic light, usually from a laser, interacts with molecular vibrations in the subject, resulting in the energy of the laser photons being shifted up or down. This shift in energy gives information about the vibrational modes in the system." [ResQ-CQL Raman analyzer](https://www.cbrnetechindex.com/p/6178/Rigaku-Analytical-Devices/ResQ-CQL)
 * Scintillation Detectors. The [RadCam](https://www.cbrnetechindex.com/p/3793/Radiation-Monitoring-Devices-Inc/RadCam) is a radiation detection camera that locates gamma radiation sources by acquiring and superimposing a color-coded nuclear image over a video image of the interrogated area.
-* https://deepai.org/publication/decomposing-multispectral-face-images-into-diffuse-and-specular-shading-and-biophysical-parameters
 * Ultrasound + AR: [Sonic flashlight](https://www.youtube.com/watch?v=ERle45xg9l8) at CMU
 * Magnified sense of touch [Hand Held Force Magnfier](http://www.vialab.org/main/Publications/pdf/Stetten_IPCAI_2011.pdf)
 * https://www.mdpi.com/1424-8220/16/12/2047/htm
@@ -21,7 +20,9 @@
 * neural net slowmo
 * [Train and run StyleGAN to make more of something](https://www.cunicode.com/works/confusing-coleopterists) using [Runway](https://learn.runwayml.com/#/create/train-models)
 * Workshop in DepthKit (Chloe)
-* Workshop in Photogrammetry (Claire)
+* Workshop in Electron Microscopy (Donna)
+* Rottytooth Straightened trees
+* [Viewing wifi](https://www.youtube.com/watch?v=g3LT_b6K0Mc)
 
 Typologies
 

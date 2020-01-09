@@ -94,6 +94,8 @@ Closely related to the above projects is *[The Unoptic Camera](http://cl.ly/1h2Q
 
 ### Film Noir
 
+Historically, color film has been [biased for capturing lighter skin tones.](https://www.youtube.com/watch?v=d16LNHIEJzs) (Video)
+
 Data scientist [Ayodele Odubela](https://www.dazzlingdata.science/) is actively developing *Film Noir*, a camera optimized for black skin. She writes that the aim of *Film Noir* is 
 
 > "*to improve the photo taking experience for black people. I am training a Convolutional Neural Network to learn features based off a variety of black faces, and then using a Generative Adversarial Network (GAN) to create a new image, that should highlight black people’s features better.*"

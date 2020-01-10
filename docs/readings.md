@@ -1,5 +1,7 @@
 #Readings
 
+* [Nonhuman Photography](https://mitpress.mit.edu/books/nonhuman-photography) by Joanna Zylinska<br />
+*A philosophy of photography that goes beyond humanist concepts to consider imaging practices from which the human is absent, as both subject and agent — exploring the potential of photography for developing new modes of seeing and imagining.*
 * Bazin, André and Hugh Gray. [*The Ontology of the Photographic Image*](http://cmuems.com/excap/readings/bazin-ontology-photographic-image.pdf), 1960.* Benjamin, Walter. [*A Little History of Photography*](http://cmuems.com/excap/readings/benjamin-little-history-of-photography.pdf), 1934.
 * Bioy Casares, Alfredo. [*The Invention of Morel*](http://cmuems.com/excap/readings/bioy-casares-the-invention-of-morel.pdf), 1941.
 * Borges, Jorge Luis. [*On Exactitude in Science*](http://cmuems.com/excap/readings/borges-on-exactitude-in-science.pdf)* Cohen, Jonathan and Aaron Meskin. [*On The Epistemic Value of Photographs*](http://cmuems.com/excap/readings/cohen-epistemic-value-of-photographs.pdf)

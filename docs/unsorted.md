@@ -27,11 +27,7 @@
 Typologies
 
 
-* https://www.photopedagogy.com/typologies.html
-* https://mymodernmet.com/identical-twins-portrait-photography-peter-zelewski/
-* https://allthatsinteresting.com/4-amazing-contemporary-portrait-series Martin Schoeller twins
-* Lalage Snow’s *We Are Not Dead* https://allthatsinteresting.com/4-amazing-contemporary-portrait-series
-* https://www.demilked.com/young-vs-old-portraits-faces-of-century-jan-langer/
+
 
 
 https://www.middletonspectral.com/company/about-us/

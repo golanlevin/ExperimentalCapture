@@ -1,10 +1,14 @@
 # Portraits: Typologies
 
 
+* https://www.photopedagogy.com/typologies.html
+
 ---
+
+### Screen Tests
+
 Andy Warhol, [*Screen Tests*](https://www.youtube.com/watch?v=hLW_sXv44Uc) (1960s)
 [![Andy Warhol](images/warhol-edie.jpg)](https://www.youtube.com/watch?v=hLW_sXv44Uc)
-
 
 ---
 
@@ -18,18 +22,61 @@ Every year for the past 40 years, Nicholas Nixon has photographed the four Brown
 
 ---
 
+### Faces Of Century
+
+> For his project called [*Faces Of Century*](https://www.demilked.com/young-vs-old-portraits-faces-of-century-jan-langer/), photographer Jan Langer captured over a dozen Czech centenarians and compared their pictures of when they were young, and when they were over 100 years old.
+
+![](images/portraits/young-vs-old-portraits-faces-of-century-jan-langer-5.jpg)
+![](images/portraits/young-vs-old-portraits-faces-of-century-jan-langer-7.jpg)
+![](images/portraits/young-vs-old-portraits-faces-of-century-jan-langer-10.jpg)
+
+---
+
+### National Geographic: Twins
+
+> In January 2012, National Geographic published an article and portrait series that compared sets of identical twins. The photographer, Martin Schoeller, shot each set of twins in identical clothing, with the same lighting, and from the same angle. Both the article and photos sought to explore how and why twins differ despite sharing identical genetic makeup.
+
+![Martin Schoeller: *Twins*](images/portraits/portrait-twins-older-women.jpg) 
+
+![Martin Schoeller: *Twins*](images/portraits/portrait-twins-men.jpg) 
+
+![Martin Schoeller: *Twins*](images/portraits/portrait-twins-boys.jpg) 
+
+
+---
+
+### Alike But Not Alike
+
+> For the past three years, Detroit-born, London-based photographer Peter Zelewski has been exploring the similarities and differences between sets of identical twins in his ongoing portrait photography series, [*Alike But Not Alike*](https://mymodernmet.com/identical-twins-portrait-photography-peter-zelewski/). 
+
+![Peter Zelewski, *Alike But Not Alike*](images/portraits/identical-twins-alike-but-not-alike-peter-zelewski-9.jpg)
+
+
+
+---
+
+### We Are Not Dead
+
+> Photographer Lalage Snow’s [*We Are Not Dead*](https://allthatsinteresting.com/4-amazing-contemporary-portrait-series) series visually depicts the state of mind soldiers found themselves in before, during, and after their operational tours in Afghanistan. Taken over a period of eight months, each individual was photographed on three separate occasions. The first photos were taken before heading to Afghanistan, the middle photographs were taken during the tour, and the final shots were taken once the subject had returned home.
+
+![](images/portraits/Portrait-Before-After-War-1.jpg)
+![](images/portraits/Portrait-Before-After-War-2.jpg)
+![](images/portraits/Portrait-Before-After-War-4.jpg)
+
+
+--- 
+
 ### Guys Who Look Like Jesus
 
 Nancy Burson, [*Guys who Look Like Jesus*](https://www.nancyburson.com/portfolio/G0000oCZbt_Xbvy4/I0000iQ4msZO2eoQ)
 
 ![Nancy Burson, *Guys who Look Like Jesus*](images/image-averaging/burson_jesus_guys.jpg) 
 
+---
 
+### Image Averaging 
 
---- 
 Jason Salavon, [*Portrait*](http://www.salavon.com/work/Portrait/) (2009)![](images/salavon-portrait.jpg)
-
-
 
 ---
 

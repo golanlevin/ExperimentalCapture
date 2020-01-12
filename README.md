@@ -7,18 +7,6 @@ Curricular Materials for CMU Course 60-461/60-761/16-461<br />
 
 > <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and multispectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays. Please note that there are usage/materials fees associated with this course.</small>
 
---- 
-
-### Editions, Credits & Acknowledgements
-
-* Fall 2015: Golan Levin
-* [July 2016 one-week workshop](workshop/README.md): Golan Levin
-* [Spring 2017](http://golancourses.net/excap17/): Golan Levin & Claire Hentschker (TA)
-* [July 2018 one-week workshop](workshop/README.md): Golan Levin
-* Spring 2019: Golan Levin & Nica Ross (co-taught)
-
-*This syllabus contains many contributions from [James George](http://jamesgeorge.org/) and [Alexander Porter](http://alexanderporter.net/) (of [Scatter/Specular](http://www.specular.cc/)), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Kyle McDonald](http://kylemcdonald.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Suzie Silver](http://suziesilver.com/), [Claire Hentschker](http://www.clairesophie.com/), [Nica Ross](https://www.nicaross.com/), and others.* 
-
 ---
 
 ### Learning Objectives
@@ -85,6 +73,19 @@ More:
 * [Stereography & Binocular Imaging](docs/binocular-stereography.md)
 * [Perspective Capture and Representation](docs/perspective.md)
 * [Landscape: Capturing Places](docs/places.md)
+
+--- 
+
+### Editions, Credits & Acknowledgements
+
+* Fall 2015: Golan Levin
+* [July 2016 one-week workshop](workshop/README.md): Golan Levin
+* [Spring 2017](http://golancourses.net/excap17/): Golan Levin & Claire Hentschker (TA)
+* [July 2018 one-week workshop](workshop/README.md): Golan Levin
+* Spring 2019: Golan Levin & Nica Ross (co-taught)
+
+*This syllabus contains many contributions from [James George](http://jamesgeorge.org/) and [Alexander Porter](http://alexanderporter.net/) (of [Scatter/Specular](http://www.specular.cc/)), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Kyle McDonald](http://kylemcdonald.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Suzie Silver](http://suziesilver.com/), [Claire Hentschker](http://www.clairesophie.com/), [Nica Ross](https://www.nicaross.com/), and others.* 
+
 
 ---
 

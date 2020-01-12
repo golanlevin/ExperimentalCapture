@@ -1,6 +1,5 @@
 # Some ExCap Student Projects
 
-
 ---
  
 ### Ben Snell (2015) 
@@ -41,7 +40,6 @@ In *Underkey*, Miles Peyton appled panoramic stitching software to numerous imag
 
 [![](images/students/miles_underkey.jpg)](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/students/miles_underkey.jpg)
 
-
 ---
 
 ### Michelle Ma (2015)
@@ -50,7 +48,7 @@ Michelle Ma captured a person using a DSLR camera, fed it into photogrammetry so
 
 ![](images/students/michelle_composite.png)
 
-[![Final Project](images/students/michelle_animation.gif)](https://vimeo.com/148398718)
+[![](images/students/michelle_animation.gif)](https://vimeo.com/148398718)
 
 ---
 
@@ -75,15 +73,15 @@ Scott Fitzgerald, a workshop student, recorded a drive with a catadioptric 360°
 
 Faith Kim developed a portable, binaural DepthKit rig in order to record the annual Pittonkatonk festival in immersive 3D. 
 
-[![](http://golancourses.net/excap17/wp-content/uploads/2017/05/gif1.gif)](http://golancourses.net/excap17/fatik/05/14/fatik-final/)
+[![](images/students/faith_kim_pittonkatonk.gif)](http://golancourses.net/excap17/fatik/05/14/fatik-final/)
 
 ---
 
 ### Chloé Desaulles (2017)
 
-Chloé Desaulles made [high-speed Schlieren recordings](http://golancourses.net/excap17/cdslls/04/13/cdslls-event/) https://vimeo.com/213102188) of air currents distubing candles. 
+Chloé Desaulles made [high-speed Schlieren recordings](http://golancourses.net/excap17/cdslls/04/13/cdslls-event/) of air currents distubing candles. 
 
-[![](http://golancourses.net/excap17/wp-content/uploads/2017/04/GifSmall.gif)](http://golancourses.net/excap17/cdslls/04/13/cdslls-event/)
+[![](images/students/chloe-desaulles-schlieren.gif)](https://vimeo.com/213102188)
 
 ---
 
@@ -91,7 +89,7 @@ Chloé Desaulles made [high-speed Schlieren recordings](http://golancourses.net/
 
 Using an RC car, a laser line, and custom software, Hizal Celik [made a machine](http://golancourses.net/excap17/hizlik/05/10/hizlik-final/) to create 3D scans of the undersides of cars.
 
-[![](http://golancourses.net/excap17/wp-content/uploads/2017/05/ezgif.com-optimize-2.gif)](http://golancourses.net/excap17/hizlik/05/10/hizlik-final/)
+[![](images/students/hizal-underside.gif)](http://golancourses.net/excap17/hizlik/05/10/hizlik-final/)
 
 ---
 
@@ -111,9 +109,9 @@ She then made a light-painting video recording of herself exploring an unfamilia
 
 Using the STUDIO's UR5 arm and computer-conrolled cameras, Evi and Soonho conducted a [number of experiments](http://golancourses.net/excap17/quan/05/11/quan-final/) in robotic cinematography.
 
-![](http://golancourses.net/excap17/wp-content/uploads/2017/05/Action-1.gif)
+![](images/students/soonho-evi-robot.gif)
 
-[![](http://golancourses.net/excap17/wp-content/uploads/2017/05/Faces_hires.gif)](http://golancourses.net/excap17/quan/05/11/quan-final/)
+[![](images/students/soonho-evi-faces.gif)](http://golancourses.net/excap17/quan/05/11/quan-final/)
 
 ---
 

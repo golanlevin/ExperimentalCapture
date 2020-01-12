@@ -4,7 +4,7 @@
 
 ### Getting Started 
 
-[Claude Lelouch - C'était un Rendezvous (It was an appointment) - 1976](https://www.youtube.com/watch?v=zvDXlDxMnb4)
+[Claude Lelouch - C'était un Rendezvous (It was an appointment) - 1976](https://www.youtube.com/watch?v=HgPoiKiMRFQ)
 
 ---
 
@@ -60,7 +60,8 @@ http://muybridgeshorse.com/wp-content/uploads/muybridge-horse.jpg
 
 [Richard Long - A Line Made by Walking, 1967](http://www.tate.org.uk/art/artworks/long-a-line-made-by-walking-p07149)
 
-[Baldessari throwing three red balls in the air trying to make a straight line.](http://www.invaluable.com/auction-lot/baldessari,-j.-throwing-three-balls-in-the-air-to-194-c-4ee4252adf)
+[Baldessari throwing three red balls in the air trying to make a straight line.](http://www.invaluable.com/auction-lot/baldessari,-j.-throwing-three-balls-in-the-air-to-194-c-4ee4252adf)<br />
+![](images/baldessari.png)
 
 [Robert Morris, Box with the Sound of Its Own Making, 1961](https://www.youtube.com/watch?v=_nrTxgLaXTQ)
 

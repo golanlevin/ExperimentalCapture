@@ -42,20 +42,14 @@ Photos:
 Case Studies
 * Sarah Parcak & PCA
 * Swiss Cheese
-* Hizal Celik 
-* Ben Snell & LIDAR
-* Claire & Shining360
-* [Snowflake Man](https://www.youtube.com/watch?v=ptLmA263hlk)
-
 
 
 # Unsorted Links (In Process)
 
 *This page borrows significantly from the [Computational Portraiture Workshop curriculum](http://www.specular.cc/computational-portraiture-workshop) developed by James George & Alexander Porter of [Specular.cc](http://www.specular.cc/).*
 
-* [Edgerton](https://www.youtube.com/watch?v=SMoIKNZGyf8) Documentary developing strobe light & using it to capture fast movements 
 * [Muybridge](https://www.youtube.com/watch?v=5Awo-P3t4Ho) Extreme classical nature photographer
-* Telescopy: Trevor paglen "a guy who points his camera through astronomy telescopes at secret military sites to photography things that are off limits to the public."
+* Telescopy: Trevor paglen "a guy who points his camera through astronomy telescopes at secret military sites to photograph things that are off limits to the public."
 * Microscopy: Robert Hooke, Micrographia - microscope history
 * Paul Debevec lecture from RI/HCII? Youtube? 
 * Telestereoscope (Cassidy)

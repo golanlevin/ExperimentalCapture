@@ -1,13 +1,5 @@
 # Capturing Places
 
----
-#### Some housekeeping: 
-
-*Not on today's menu:*
-
-* *Stereoscopy*
-* *Slit Scanning*
-
 --- 
 
 ### Where we are today: 360° Video 

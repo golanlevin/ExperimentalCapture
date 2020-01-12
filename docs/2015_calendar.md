@@ -1,4 +1,4 @@
-# Course Calendar
+# Course Calendar (2015)
 
 This course meets Monday and Wednesday afternoons from 1:30-2:50pm. Meetings are usually held in the CMU Hunt Library Black Box (HL A10A), and occasionally in the Frank-Ratchye STUDIO for Creative Inquiry (CFA-111). 
 

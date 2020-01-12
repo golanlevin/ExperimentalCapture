@@ -1,7 +1,7 @@
 ### Pixel Rearrangement
 
 * [*Disgrand* by Ben Fry](http://benfry.com/video98/disgrand/index.html)
-[![* Disgrand*](images/disgrand-15.jpg)
+![* Disgrand*](images/disgrand-15.jpg)
 
 * [*Straightened Trees* by Daniel Temkin](http://danieltemkin.com/StraightenedTrees)
 [![*Straightened Trees*](images/trees.jpg)](http://danieltemkin.com/StraightenedTrees)

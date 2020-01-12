@@ -47,6 +47,16 @@ Photography, from its beginnings in the 1830s, has been preoccupied with catalog
 
 Typically, and unlike small multiples, typologies depict a *collection*, and not necessarily an *ordered set*. 
 
+--- 
+
+### Wilson A. "Snowflake" Bentley (1865-1931)
+
+Wilson Alwyn Bentley was the first known photographer of snowflakes. He invented a process of catching flakes on black velvet in such a way that their images could be captured before they either melted or sublimated.
+
+[![](images/typologies/wilson_snowflake_bentley.jpg)](https://www.youtube.com/watch?v=ptLmA263hlk)
+
+![](images/typologies/bentley_snowflakes.jpg)
+
 ---
 
 ### Bernd and Hilla Becher

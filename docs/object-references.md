@@ -75,7 +75,7 @@ Perhaps less common is the kind of conceptual leap that's made when an artist li
 Samantha Taylor-Johnson (also known as Sam Taylor-Wood) has created some exceptional time-lapse still-lifes which make heavy reference to the history of painting:
  
 * [*Still Life*](https://www.youtube.com/watch?v=pXPP8eUlEtk) (2001)
-* [*A Little Death*](https://www.youtube.com/watch?v=01tx6u3lasM) (2002)
+* [*A Little Death*](https://www.youtube.com/watch?v=NYka4ouQXqk) (2002)
 
 [![Still Life, 2001](http://img.youtube.com/vi/pXPP8eUlEtk/0.jpg)](http://www.youtube.com/watch?v=pXPP8eUlEtk)
 
@@ -89,7 +89,7 @@ In capturing representations of objects, keep in mind that the world of the micr
 
 ![](http://semiconductorfilms.com/wordpress/wp-content/uploads/2006/04/Marc_Domage-1b+w-960x637.jpg)
 
-* Photogtapher Trevor Paglen photographs secret military sites with an astronomy telescope. He has a sereis called [Limit Telephotography](http://www.paglen.com/?l=work&s=limit) (2012) which is classified military bases, that are tucked away in remote parts of the US. [Here](http://petapixel.com/2015/03/17/trevor-paglen-on-photographing-secret-military-sites-with-a-telescope/) is more info about how he creates his work.
+* Photogtapher Trevor Paglen photographs secret military sites with an astronomy telescope. He has a series called [Limit Telephotography](http://www.paglen.com/?l=work&s=limit) (2012) which is classified military bases, that are tucked away in remote parts of the US. [Here](http://petapixel.com/2015/03/17/trevor-paglen-on-photographing-secret-military-sites-with-a-telescope/) is more info about how he creates his work.
 
 ![](http://petapixel.com/assets/uploads/2015/03/example1.jpg)
  

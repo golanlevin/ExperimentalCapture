@@ -12,13 +12,13 @@
 
 --- 
 
-[![Dirk Roy, *Time Tunnel*](images/time-tunnel.jpg)](https://vimeo.com/84162988)<br />
+[![Dirk Koy, *Time Tunnel*](images/time-tunnel.jpg)](https://vimeo.com/84162988)<br />
 
-[*Time Tunnel (Camera on a Car Wheel)*, by Dirk Roy for Boris Blank/Yello](https://vimeo.com/84162988)
+[*Time Tunnel (Camera on a Car Wheel)*, by Dirk Koy for Boris Blank/Yello](https://vimeo.com/84162988)
 
 --- 
 
-[![Dirk Roy, *Time Tunnel*](images/roel.gif)](http://gizmodo.com/these-designers-make-boring-old-video-cameras-do-imposs-1444863383)
+[![Roel](images/roel.gif)](http://gizmodo.com/these-designers-make-boring-old-video-cameras-do-imposs-1444863383)
 
 [Roel Wouters, Camera Workshop at ECAL](https://vimeo.com/62869207)
 
@@ -50,7 +50,7 @@ Here the camera is made to "move" in post-production, in order to produce an app
 
 [Paul Pfeiffer' *The Rules of Basketball*](https://www.youtube.com/watch?v=ssJZJs9g_xQ)
 
-![White Glove Tracking](images/zl-pf.gif)
+[![White Glove Tracking](images/zl-pf.gif)](https://youtu.be/jrktgrUPxjo)
 
 [*White Glove Tracking*](http://whiteglovetracking.com/) project by Evan Roth and Ben Engebreth, et al., e.g.: [Zach Lieberman for White Glove Tracking](images/zl_pf_tribute.mov) or at their [Gallery](http://whiteglovetracking.com/gallery.html)
 
@@ -58,11 +58,11 @@ Here the camera is made to "move" in post-production, in order to produce an app
 
 Dirk Koy, "Fixed" series:
 
-* Fixed02 (Diver): https://vimeo.com/350977026
-* Fixed03 (Gymnast): https://vimeo.com/352532472
-* Fixed04 (PingPong): https://vimeo.com/354368811
-* Fixed05 (Bicyclist): https://vimeo.com/358530638
-* Fixed08 (Trampolinist): https://vimeo.com/367279236
+* [*Fixed02* (Diver)](https://vimeo.com/350977026)
+* [*Fixed03* (Gymnast)](https://vimeo.com/352532472)
+* [*Fixed04* (PingPong)](https://vimeo.com/354368811)
+* [*Fixed05* (Bicyclist)](https://vimeo.com/358530638)
+* [*Fixed08* (Trampolinist)](https://vimeo.com/367279236)
 
 ---
 

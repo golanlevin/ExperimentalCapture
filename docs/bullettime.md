@@ -42,5 +42,6 @@ Another variation on the technique is to keep some elements of the frame still a
 * [Networked RaspberryPi cameras](https://www.youtube.com/watch?v=IqoA4HeBCQ4)
 * [Ghetto bullet time with a ceiling fan & 1 GoPro](https://www.youtube.com/watch?v=OEd5lTmeAH8)
 * [Bullet time with a group of iPhones](http://theawesomer.com/iphone-bullet-time/43560/) (App, not yet public)
+* [Bullet time with iPhone XR](https://www.cinema5d.com/apple-combines-32-iphone-xrs-bullet-time-rig/). To make it happen, the team at Incite simply used a series of Apps: Pro Camera app, ProCam 6 app, and Moment app.
 
 

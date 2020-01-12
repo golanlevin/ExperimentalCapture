@@ -6,7 +6,7 @@
 Ordinary video is customarily 25 (Europe) or approximately 30 (USA) frames per second (fps). Slow-motion cinema, also known as *overcranking*, is achieved by using a special camera which can record events at higher frame rates, such as 1000fps. When this video is then played back at the usual frame rate, it appears slowed down. 
 
 Some practical options available to our class are: 
-* Modern iPhones can achieve 120-240 frames per second.
+* Modern iPhones can achieve 240 frames per second.
 * We have an [Edgertronics](http://edgertronic.com/) high-speed camera, capable of up to 18,000 fps. This camera does 720p video at 700 fps. 
 * We have a Casio Exilim Pro EX-F1 ($750-1000), which can record low-resolution video at 300, 600, and 1200 frames per-second. 
 * Another option is the inexpensive Sony PS3-Eye USB webcam (less than $50). Using Chris Baker's addon for openFrameworks, the PS3 eye can achieve can record 320x240 video at frame rates of 60,120, 187, and (with some glitches) 205 fps, yielding up to a 8x slowdown.
@@ -18,6 +18,10 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 * [Wikipedia article on Slow Motion cinema](https://en.wikipedia.org/wiki/Slow_motion)
 
 ### Things to see and consider
+
+
+1. [Edgerton](https://www.youtube.com/watch?v=SMoIKNZGyf8) Documentary developing strobe light & using it to capture fast movements 
+1. [Edgerton stroboscopy, 1940](https://www.youtube.com/watch?v=gspK_Bi0aoQ)
 1. Slow-motion as an analytic tool for "microexpressions"
   * Slow-motion is widely used for analyzing ballistics and other very short events ([gunshots](https://www.youtube.com/watch?v=7y9apnbI6GA), [impacts](https://www.youtube.com/watch?v=QfDoQwIAaXg), etc.). However, it can also be used for analysis of ultra-fast facial expressions.
   * [Paul Ekman on microexpressions](https://www.youtube.com/watch?v=EXm6YbXxSYk)

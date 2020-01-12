@@ -2,6 +2,7 @@
 
 ### Computational & Expanded ███ography, <br/>Anderson Ranch, August 2018
 
+***NOTE: Documents have moved; links below may be outdated.***
 
 [Golan Levin](http://flong.com) / [@golan](http://twitter.com/golan) <br />
 A one-week workshop taught at Anderson Ranch, July 2016<br />

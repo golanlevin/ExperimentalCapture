@@ -1,7 +1,17 @@
 # Some Inspirations
 
+---
 
-![](images/cheese.gif)
+[James George at Eyeo 2015](https://vimeo.com/134973504) (from 7:34, "Camera of the Future")<br />
+[![](images/james_geoerge_eyeo.png)](https://vimeo.com/134973504)
+
+---
+
+### Eye Formation in Cheese
+
+![Eyes in cheese](images/cheese.gif)
+
+Tomography and [Holes in Swiss Cheese](https://www.nytimes.com/2015/05/29/world/europe/switzerland-scientists-find-the-secret-to-the-holes-in-swiss-cheese-hay-dust.html); "Mechanism and control of the eye formation in cheese" [paper](https://scinapse.io/papers/2024396341), [paper](https://link.springer.com/article/10.1007/s13594-012-0105-2), e.g. ["There is demand for non‐destructive monitoring of eye formation in cheese during ripening."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1471-0307.2009.00478.x), [[PDF](docs/pdf/eye-formation-in-cheese.pdf)]
 
 ---
 
@@ -61,7 +71,7 @@ such as [*Stainless, 42 Street*](https://vimeo.com/83664407):
 
 ### Trevor Paglen
 
-Trevor Paglen uses photography to reveal secret sites and satellites](https://www.youtube.com/watch?v=9Igfu0VwdkQ) as a mode of artistic practice. Trevor is "a guy who points his camera through astronomy telescopes at secret military sites to photograph things that are off limits to the public." To produce his work, he designs photographic processes using astronomy telescopes.
+Trevor Paglen [uses photography to reveal secret sites and satellites](https://www.youtube.com/watch?v=9Igfu0VwdkQ) as a mode of artistic practice. Trevor is "a guy who points his camera through astronomy telescopes at secret military sites to photograph things that are off limits to the public." To produce his work, he designs photographic processes using astronomy telescopes.
 
 [![Paglen](images/paglen.jpg)](https://www.youtube.com/watch?v=9Igfu0VwdkQ)
 
@@ -105,7 +115,6 @@ In *The Nine Eyes of Google Street View*, Canadian artist Jon Rafman collects th
 > "*Our objective in making this film was something of a psychology experiment: We sought to capture people facing a difficult situation, to make a portrait of humans in doubt. We’ve all seen actors playing doubt in fiction films, but we have few true images of the feeling in documentaries. To make them, we decided to put people in a situation powerful enough not to need any classic narrative framework. A high dive seemed like the perfect scenario.*"
 
 [![*Ten Meter Tower*](images/portraits/portrait_dive.gif)](https://www.youtube.com/watch?v=cU2AvkKA4kM)
-
 
 --- 
 

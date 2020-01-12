@@ -39,7 +39,7 @@ This is an interdisciplinary course in experimental media practices that arise f
 ### Lectures
 *This is a partial and unordered list of some of the technologies and techniques we will discuss this semester.*
 
-* [Some examples of previous student projects](student-work.md)
+* [Some examples of previous student projects](docs/student-work.md)
 * [What is a Camera? Conceptual Cameras](docs/conceptual-cameras.md)
 
 Capturing Nouns (People, Places, and Things):

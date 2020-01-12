@@ -53,7 +53,6 @@ Rollin Leonard, [*Crash Kiss*](http://rollinleonard.com/2016/Crash%20Kiss%20Kate
 * [Universal Everything, *Walking City*](https://vimeo.com/85596568)
 * [audio](http://audio.theguardian.tv/sys-audio/Arts/Culture/2007/01/24/yellowhammerfinal.mp3) and then [Marcus Coates, *Dawn Chorus*](https://www.youtube.com/watch?v=PCCpnDtgxXk) 
 * [*Visible Human Project*](https://www.youtube.com/watch?v=dPPjUtiAGYs) and [Croix Gagnon and Frank Schott, *12:31*](http://www.project1231.com/)
-* [JK Keller's daily photos, 16 years](https://www.youtube.com/watch?v=LVAkxmZqNNE)
 * Bill Viola: [*The Passions*](http://www.getty.edu/art/exhibitions/viola/art.html)
   * [The Quintet of the Astonished](https://www.youtube.com/watch?v=nSlMgPXOkmk)
   * [Silent Mountain](https://www.youtube.com/watch?v=oA9BG5aOD64)
@@ -71,23 +70,13 @@ Rollin Leonard, [*Crash Kiss*](http://rollinleonard.com/2016/Crash%20Kiss%20Kate
 * [Mike Pelletier, *Kinect Portraits*](http://mikepelletier.nl/Kinect-Portraits-1)
 * [Dmitry Zakharov, Inside Me](https://vimeo.com/106671329)
 * [Mark Payne	](http://metredux.tumblr.com/)
-* [Rachel Strickland, *Portable Portraits*](https://vimeo.com/9364721)
 
-
----
-
-Unseen
-
-* [Pixillation](pixillation.md)
-* [Overcranking](overcranking.md)
 
 
 And: 
 
 * [James George at *Eyeo 2015* (Vimeo)](https://vimeo.com/134973504)
 * [James George & Jonathan Minard, *CLOUDS*](http://cloudsdocumentary.com/)
-* [Nancy Burson, *Guys who Look Like Jesus*](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/image-averaging/burson_jesus_guys.jpg)
-* [Cassandra C. Jones (CMU MFA '04), *Snap Motion Reanimations*](http://www.cassandracjones.com/snap-motion-re-animations)
 * [Paul Debevec's *light stage rendering*](http://www.pauldebevec.com/Research/LS/)
 * [John Gerrard, *Infite Freedom Exercise*](https://www.youtube.com/watch?v=xUKC11NEK0A)
 * [Corneal reflectography](http://petapixel.com/2012/08/17/great-scott-corneal-imaging-is-a-real-thing/)
@@ -101,7 +90,6 @@ RGBD:
 
 And 
 
-* [Shinseungback Kimyonghun, Cloud Faces](http://ssbkyh.com/works/cloud_face/)
 * ["Onformative (Cedric Kiefer, Julia Laub)", Google Faces](http://www.onformative.com/lab/googlefaces/)
 * [Lev Manovitch et. al	, *Selfie City*](http://selfiecity.net/#)
 

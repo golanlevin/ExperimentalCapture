@@ -53,26 +53,37 @@ This is an interdisciplinary course in experimental media practices that arise f
 
 
 * [What is a Camera? Conceptual Cameras](docs/conceptual-cameras.md)
-* [Capturing and Representing Objects: Still Life & More](docs/object-references.md)
+
+Capturing Nouns (People, Places, and Things):
+
+* [Typologies](docs/typologies.md)
+* [Portraits I: Series](docs/portraits_1_series.md)
+* [Portraits II: Candid Machinery](docs/portraits_2_candid_machinery.md)
+* [Portraits III: The Indirect Portrait](docs/portraits_3_indirect_portrait.md)
 * [Multispectral Imaging](docs/multispectral.md)
-* [Gesture recording and playback; 2D & 3D motion capture](docs/gesture.md)
+* [Capturing and Representing Objects: Still Life & More](docs/object-references.md)
 * [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)
+
+Capturing Phenomena in Time: 
+
 * [Overcranking (Slow-Motion)](docs/overcranking.md)
 * [Undercranking and Time Lapse](docs/undercranking.md)
 * [Long Exposure and Light Painting](docs/longexposure.md)
 * [Bullet Time (Array Videography)](docs/bullettime.md)
 * [Pixillation and Stop-Frame](docs/pixillation.md)
-* [Synthesis from Image Databases](docs/collection-synthesis.md)
 * [Backwards (Retrograde) Time](docs/backwards.md)
 * [Looping (Canon) Time](docs/looping.md)
-* [Gonioreflectometry](docs/gonioreflectometry.md)
+* [Moving Cameras and Stroboscopy](docs/moving-cameras.md)
 * [Slit Scanning](http://www.flong.com/texts/lists/slit_scan/)
-* [Moving Cameras (shutter stroboscopy)](docs/moving-cameras.md)
+* [Experimental Audio Capture](docs/audio.md)
+
+More: 
+
+* [Synthesis from Image Databases](docs/collection-synthesis.md)
+* [Gonioreflectometry](docs/gonioreflectometry.md)
 * [Panoramic, 360-degree, and environmental capture](docs/environmental-capture.md)
 * [Stereography & Binocular Imaging](docs/binocular-stereography.md)
-* [Experimental Audio Capture](docs/audio.md)
 * [Perspective Capture and Representation](docs/perspective.md)
-* [Portraiture: Capturing People and Movements](docs/portraits.md)
 * [Landscape: Capturing Places](docs/places.md)
 
 ---

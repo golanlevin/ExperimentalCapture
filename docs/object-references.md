@@ -99,20 +99,6 @@ In capturing representations of objects, keep in mind that the world of the micr
 
 --
 
-### The Distributed Object
-
-Carefully study the following two projects by former CMU MFA student, [Cassandra C. Jones](http://www.cassandracjones.com): 
-
-* *[Eventide](https://vimeo.com/84883569)* (2004) represents a single object -- the Sun -- constructed from hundreds of photos by different people. 
-
-[![](images/eventide.jpg)](https://vimeo.com/84883569)
-
-* *[Car Fire](https://vimeo.com/84894920)* (2009) constructs a virtual, 'conceptual' object from many, similar, others.
-
-[![](images/carfire.jpg)](https://vimeo.com/84894920)
-
---
-
 ### Box with the Sound of Its Own Making
 
 Sometimes the conditions of capture are meaningful because of the conditions of presentation. There's nothing especially unusual about making a recording of doing some light woodwork, for example, unless you're constructing a... 

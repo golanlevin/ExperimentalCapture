@@ -1,7 +1,28 @@
-#Gesture Recording and Playback; 2D & 3D motion capture
+# 2D & 3D Gesture Capture
 
-* [Dance With Your Face by Supermarché and creative coders Aaron Meyers,Lauren McCarthy, and James George] (https://www.youtube.com/watch?v=dplBh_rxoUc) Face Dance Motion Capture & FaceShift 
-* Kyle & Arturo [Face Substitution](
-https://vimeo.com/29348533)
-* Nobumichi Asai, [OMOTE 1](https://vimeo.com/103425574)
-* Nobumichi Asai, [OMOTE 2](https://vimeo.com/117029335)
+[![](images/tracking/joystick-headtracking.png)](https://twitter.com/tannicalloy/status/1206440500162482176)
+
+---
+
+Some Code Resources: 
+
+* [blinkOSC.zip](../code/osc/blinkOSC.zip)* [EyeOSC.zip](../code/osc/EyeOSC.zip)* [FaceOSC.zip](../code/osc/FaceOSC.zip)* [gyrOSC.zip](../code/osc/gyrOSC.zip)* [touchOSC.zip](../code/osc/touchOSC.zip)
+* [poseOSC](https://github.com/LingDong-/PoseOSC)
+* [trackpadOSC](https://github.com/LingDong-/TrackpadOSC)
+* [leapOSC](https://github.com/genekogan/LeapMotionOSC/releases)
+* Lots more at [Wekinator](http://www.wekinator.org/examples/)
+
+Equipment Resources (Spring 2020): 
+
+* Sensel Morph
+* Leap Motion Sensor
+* Tobii Eye-Tracker
+* Kinect v1
+* Kinect v2
+* Kinect Azure
+* Intel Real-Sense
+* Hokuyo URG LIDAR
+* Wacom Cintiq
+* GameTrak "Real World Golf"
+* Optitrak Motion Capture
+

@@ -18,7 +18,6 @@ Sullivan writes:
 
 > "*I needed something to be objective: I wanted the context to be clearly established. I wanted play a role in the situation, but I wanted the situation to take a photograph of itself for me. I would design the scenarios in which this could happen, and then the situation could be responsible for creating the picture. The poetry would be as much in the design of that scenario as from any photograph that might come from it. These situations would include me but I would disappear as any kind of typical photographer. I would simply play a role in the scenario. I would become someone waiting for an elevator, a man reading the New Yorker waiting for a friend to pass through the turnstile, or simply another tourist watching someone having his or her portrait done. The situations were mapped out, tests were made, and special clothing was worn. I became a spy for the obvious. I developed a situation so that various subjects could be defined by the constraints of exactly the same mechanical apparatus. The scenario consisted of someone passing through a subway turnstile. At the moment that the subjects passed through the turnstile, unknown to them, I took their picture stationed at a distance of eleven feet. I stood there turning pages of a magazine observing subjects out of the corner of my eye, waiting for only the moment when they pushed the turnstile bar to release the shutter.*" (Via [MoMA](https://www.moma.org/learn/moma_learning/walker-evans-subway-portraits-1938-41/)) 
 
-
 ---
 
 ### Ten Meter Tower
@@ -28,6 +27,18 @@ Sullivan writes:
 > "*Our objective in making this film was something of a psychology experiment: We sought to capture people facing a difficult situation, to make a portrait of humans in doubt. We’ve all seen actors playing doubt in fiction films, but we have few true images of the feeling in documentaries. To make them, we decided to put people in a situation powerful enough not to need any classic narrative framework. A high dive seemed like the perfect scenario.*"
 
 ![*Ten Meter Tower*](images/portraits/portrait_dive.gif)
+
+---
+
+### People Staring at Computers
+
+[“People Staring at Computers”](https://vimeo.com/25958231) (2011) was a photographic intervention by Kyle McDonald that pushed the legal limits of candid photography in commercially-controlled commercial spaces.
+
+McDonald wrote an simple application that took one picture every minute. If it found a face, it uploaded the photo to his server. He installed the app in Apple stores around NYC over three days, collecting more than a thousand photos.
+
+[![People Staring at Computers by Kyle McDonald](images/portraits/people-staring-at-computers.jpg)](https://vimeo.com/25958231)
+
+* I wasn't expecting the Secret Service" [article in WIRED](https://www.wired.com/2012/07/people-staring-at-computers/)
 
 ---
 

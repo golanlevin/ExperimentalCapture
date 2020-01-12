@@ -5,7 +5,7 @@
 Primary Author: [Golan Levin](http://flong.com), Carnegie Mellon University<br />
 Curricular Materials for CMU Course 60-461/60-761/16-461<br />
 
-> <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and multispectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays. Please note that there are usage/materials fees associated with this course.</small>
+> <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and multispectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays.</small>
 
 ---
 
@@ -37,7 +37,9 @@ This is an interdisciplinary course in experimental media practices that arise f
 ---
 
 ### Lectures
-*This is a partial and unordered list of some of the technologies and techniques we will discuss this semester.*
+*This is a partial and mostly unordered list of some of the technologies and techniques we will discuss this semester.*
+
+Introductions
 
 * [Some inspirations](docs/inspirations.md)
 * [Some examples of previous student projects](docs/student-work.md)
@@ -51,7 +53,7 @@ Capturing Nouns (People, Places, and Things):
 * [Portraits III: The Indirect Portrait](docs/portraits_3_indirect_portrait.md)
 * [Multispectral Imaging](docs/multispectral.md)
 * [Capturing and Representing Objects: Still Life & More](docs/object-references.md)
-* [Photogrammetry and 3D scanning](docs/Photogrammetry-and-3D-scanning.md)
+* [Photogrammetry and 3D Scanning](docs/Photogrammetry-and-3D-scanning.md)
 * [Pixel rearrangement](docs/pixel-rearrangement.md)
 
 Capturing Phenomena in Time: 
@@ -64,8 +66,9 @@ Capturing Phenomena in Time:
 * [Backwards (Retrograde) Time](docs/backwards.md)
 * [Looping (Canon) Time](docs/looping.md)
 * [Moving Cameras and Stroboscopy](docs/moving-cameras.md)
-* [Slit Scanning](http://www.flong.com/texts/lists/slit_scan/)
+* [Slit-Scanning](http://www.flong.com/texts/lists/slit_scan/)
 * [Experimental Audio Capture](docs/audio.md)
+* [Gesture Capture in 2D and 3D](docs/gesture.md)
 
 More: 
 
@@ -80,14 +83,14 @@ More:
 
 ### Editions, Credits & Acknowledgements
 
-* Fall 2015: Golan Levin
-* [July 2016 one-week workshop](workshop/README.md): Golan Levin
-* [Spring 2017](http://golancourses.net/excap17/): Golan Levin & Claire Hentschker (TA)
+* [**Spring 2020**](https://courses.ideate.cmu.edu/60-461/s2020/): Golan Levin & Nica Ross (co-taught)
 * [July 2018 one-week workshop](workshop/README.md): Golan Levin
-* Spring 2019: Golan Levin & Nica Ross (co-taught)
+* [Spring 2017](http://golancourses.net/excap17/): Golan Levin & Claire Hentschker (TA)
+* [July 2016 one-week workshop](workshop/README.md): Golan Levin
+* Fall 2015: Golan Levin
+
 
 *This syllabus contains many contributions from [James George](http://jamesgeorge.org/) and [Alexander Porter](http://alexanderporter.net/) (of [Scatter/Specular](http://www.specular.cc/)), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Kyle McDonald](http://kylemcdonald.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Suzie Silver](http://suziesilver.com/), [Claire Hentschker](http://www.clairesophie.com/), [Nica Ross](https://www.nicaross.com/), and others.* 
-
 
 ---
 

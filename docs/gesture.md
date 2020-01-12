@@ -6,10 +6,10 @@
 
 Some Code Resources: 
 
-* [blinkOSC.zip](../code/osc/blinkOSC.zip)* [EyeOSC.zip](../code/osc/EyeOSC.zip)* [FaceOSC.zip](../code/osc/FaceOSC.zip)* [gyrOSC.zip](../code/osc/gyrOSC.zip)* [touchOSC.zip](../code/osc/touchOSC.zip)
+* [blinkOSC.zip](../code/osc/blinkOSC.zip)* [EyeOSC.zip](../code/osc/EyeOSC.zip)* [FaceOSC.zip](../code/osc/FaceOSC.zip) • [video](https://vimeo.com/26098366) • [templates](https://github.com/CreativeInquiry/FaceOSC-Templates)* [gyrOSC.zip](../code/osc/gyrOSC.zip)* [touchOSC.zip](../code/osc/touchOSC.zip)
 * [poseOSC](https://github.com/LingDong-/PoseOSC)
 * [trackpadOSC](https://github.com/LingDong-/TrackpadOSC)
-* [leapOSC](https://github.com/genekogan/LeapMotionOSC/releases)
+* [leapOSC](https://github.com/genekogan/LeapMotionOSC/releases) & [ManosOSC](https://github.com/n1ckfg/ManosOsc)
 * Lots more at [Wekinator](http://www.wekinator.org/examples/)
 
 Equipment Resources (Spring 2020): 
@@ -20,8 +20,9 @@ Equipment Resources (Spring 2020):
 * Kinect v1
 * Kinect v2
 * Kinect Azure
-* Intel Real-Sense
+* Intel RealSense 415 & 435
 * Hokuyo URG LIDAR
+* Scanse LIDAR
 * Wacom Cintiq
 * GameTrak "Real World Golf"
 * Optitrak Motion Capture

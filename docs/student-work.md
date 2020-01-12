@@ -39,7 +39,8 @@ Using multiple synchronized-flash cameras, Irene and Smokey were able to apply p
 
 In *Underkey*, Miles Peyton appled panoramic stitching software to numerous images from an inexpensive USB microscope, in order to create a high-resolution recording of the detritus which had accumulated underneath the keys of a public CMU computer cluster keyboard.
 
-[![](images/students/miles_underkey.jpg)](images/students/miles_underkey.jpg)
+[![](images/students/miles_underkey.jpg)](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/students/miles_underkey.jpg)
+
 
 ---
 

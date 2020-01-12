@@ -2,6 +2,7 @@
 
 * HDR imaging (Merging an exposure stack)
 * Light probe spheres; image-based relighting
+* Eulerian video magnification
 * [Fluke ii900 Sonic Industrial Imager](https://www.youtube.com/watch?v=7Wx9B_0n1co)
 * [Acoustic camera](https://www.cae-systems.de/en/products/acoustic-camera-sound-source-localization.html)
 * [Microphone arrays for sound localization](https://www.acoustic-camera.com/en/products/microphone-arrays/paddle-2x52-ac-pro.html)

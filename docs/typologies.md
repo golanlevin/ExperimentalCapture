@@ -91,6 +91,15 @@ Notice the regularization strategies employed by Alex Kayser in his *Heads* coll
 
 ![](images/typologies/heads_alex_kayser.jpg)
 
+--- 
+
+### Candice Breitz
+
+Typologies can use *dynamic* media objects, not just static ones. Candice Breitz asked people to sing along with a favorite song (which they heard through discreet headphones), and then [synchronized video-recordings](https://www.youtube.com/watch?v=rnYxeezPvnk) of their experiences:
+
+[![](images/typologies/breitz-madonna.jpg)](https://www.youtube.com/watch?v=rnYxeezPvnk)
+
+
 ---
 
 ### Cloud Face

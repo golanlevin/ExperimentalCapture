@@ -11,7 +11,7 @@ Curricular Materials for CMU Course 60-461/60-761/16-461<br />
 
 ### Learning Objectives
 
-*This course is concerned with new ways of seeing.*
+*This course is concerned with the creation of systems to enable new ways of seeing.*
 
 This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. In particular, we are concerned with how we can understand and build representations of the world using devices that sense beyond the limits of human perception. In this course, we seek:
 

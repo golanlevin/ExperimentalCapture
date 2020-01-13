@@ -479,6 +479,12 @@ Some nice videos of polarization and stress visualization:
 
 Here are some [smartphone shadowgraphy techniques](https://www.sciencedirect.com/science/article/abs/pii/S0143816617303858).
 
+Dr. Gary Settles at Penn State University, an expert in Schlieren imaging and shadowgraphy, has built a "Full Scale Schlieren" system using retroreflective material. 
+
+![Full Scale Schlieren](images/penn-state-full-scale-schlieren1.png)
+![Full Scale Schlieren](images/penn-state-full-scale-schlieren2.png)
+
+
 
 --- 
 

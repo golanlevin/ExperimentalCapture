@@ -17,7 +17,7 @@ We aim to *question the basic assumptions of camera-based imaging*, as we genera
 * **a photo documents light frequencies similar to those perceived by human vision.** 
 	* *But what if a photo recorded or transduced electromagnetic phenomena beyond our perception, such as ultraviolet, near infrared, thermal (deep infrared), or x-rays?*
 * **a photo is someone's decisive construction.** 
-	* *But what if a photo were more like the result of a query into a database?*
+	* *But what if a photo were more like the result of a query into a database? Or something triggered by an algorithm?*
 * **a photo only shows the external surfaces of things.** 
 	* *But what if a photo showed the internal structure of its subject?*
 * **a photograph is comprised of a uniform rectangular grid of pixels**
@@ -26,7 +26,3 @@ We aim to *question the basic assumptions of camera-based imaging*, as we genera
 * **a photo is a static media object.** (It could be playable, like a game)
 * **a photo is is rectangular**
 
---
-
-Recommended introductory viewing: <br>
-[James George, Eyeo 2015 artist lecture] (https://vimeo.com/134973504)

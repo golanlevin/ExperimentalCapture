@@ -66,15 +66,16 @@ The opposite of this is [*WordsEye*](http://www.wordseye.com/) (2015), an intera
 *[Camera Restricta](http://philippschmitt.com/projects/camera-restricta)* (2014) by Philipp Schmitt is a 'disobedient' camera designed to take unique photographs. By using data of geotagged photos, the camera will refuse to operate in popular places.
 
 [![Camera restricta](images/conceptual/conceptual_camera_restricta.jpg)](https://vimeo.com/137595414)<br />
-[![Camera restricta](images/conceptual_camera_restricta_viewfinder.jpg)](https://vimeo.com/137595414)<br />
+[![Camera restricta](images/conceptual/conceptual_camera_restricta_viewfinder.jpg)](https://vimeo.com/137595414)<br />
+
 
 --- 
 
 ### Nadia, Intelligent Camera Interface
 
-[Nadia, Intelligent Camera Interface](https://www.youtube.com/watch?v=ColrQao4Hlg) by Andrew Kupresanin (2010) is a critic-in-a-camera. "Unlike a conventional camera, Nadia has no display of the photographs to be taken, but rather gives the judgment of aesthetic quality to the machine, displaying only a current rating as feedback about when and what to snap. Within pop culture and society artificial intelligence has been a topic that is approached with hope, fear, cynicism, curiousity and caution."
+[*Nadia, Intelligent Camera Interface*](https://www.youtube.com/watch?v=ColrQao4Hlg) by Andrew Kupresanin (2010) is a critic-in-a-camera. "Unlike a conventional camera, Nadia has no display of the photographs to be taken, but rather gives the judgment of aesthetic quality to the machine, displaying only a current rating as feedback about when and what to snap. Within pop culture and society artificial intelligence has been a topic that is approached with hope, fear, cynicism, curiousity and caution."
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ColrQao4Hlg" target="_blank"><img src="http://img.youtube.com/vi/ColrQao4Hlg/0.jpg" width="640" height="480" border="0" /></a><br />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ColrQao4Hlg" target="_blank"><img src="images/conceptual/nadia.jpg" width="640" border="0" /></a><br />
 
 ---
 

@@ -14,6 +14,8 @@ A "Portrait Machine" at Warhol's Factory.
 
 [![Andy Warhol's Screen Test of Ann Buchanan](images/portraits/warhol-screen-test-ann-buchanan.jpg)](https://www.youtube.com/watch?v=rQEiOoMyvos)
 
+> Many of the subjects appeared uncomfortable. Others seemed beaten. Some were insolent, provocative. Or insolent one moment and provocative the next. Mary Woronov observed in *Swimming Underground: My Years in the Warhol Factory* that the screen tests were like a psychological test: “You would see the person fighting with his image—trying to protect it. You can project your image for a few seconds, but after that it slips and your real self starts to show through. That’s why it was so great—you saw the person and the image.” [Source](http://sacksco.com/notes/dean_and_britta.html)
+
 
 ---
 

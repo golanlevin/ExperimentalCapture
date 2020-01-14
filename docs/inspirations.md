@@ -39,7 +39,7 @@ Samantha Taylor-Johnson (also known as Sam Taylor-Wood) has created some excepti
 High-speed recordings of people on subway platforms,
 such as [*Stainless, 42 Street*](https://vimeo.com/83664407):
   
-[![Magyar](images/magyar.jpg)](https://vimeo.com/83664407)
+[![Adam Magyar, Stainless](images/magyar.jpg)](https://vimeo.com/83664407)
 
 ---
 
@@ -47,7 +47,7 @@ such as [*Stainless, 42 Street*](https://vimeo.com/83664407):
 
 [Burger assembly and documentation system](https://vimeo.com/178939743):
 
-[![](images/burger.jpg)](https://vimeo.com/178939743)
+[![Burger assembly](images/burger.jpg)](https://vimeo.com/178939743)
 
 
 ---

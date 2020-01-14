@@ -25,7 +25,7 @@
 * Rottytooth Straightened trees
 * [Viewing wifi](https://www.youtube.com/watch?v=g3LT_b6K0Mc)
 
-Typologies
+https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651
 
 
 

@@ -2,9 +2,20 @@
 
 In this lesson, we discuss images captured from electromagnetic frequencies beyond the range of human perception. 
 
-[*Multispectral imaging*](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more. 
+[*Multispectral imaging*](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more.
 
+[![](images/multispectral/cmu-rainbow.jpg)](https://twitter.com/cmu_mech/status/784391682343182340)
+
+[![](images/multispectral/rainbow.jpg)](https://www.flickr.com/photos/clickr12345/3164164748)
+
+![](images/multispectral/components-of-electromagnetic-spectrum.jpg) 
+
+![](images/multispectral/electromagneticspectrum.jpg) 
+
+*Useful chart, but note flip of direction:* 
 [![Electromagnet_spectrum](images/spectrum.jpg)](images/spectrum.jpg?raw=true)
+
+---
 
 This lesson includes a discussion of the following: 
 
@@ -27,6 +38,7 @@ In addition, two other imaging techniques, while not properly multi-spectral, de
 Finally, it's not even necessary to image with electromagnetic radiation; let's not forget about sound. 
 
 * [Sonar and Ultrasound](#sonar-and-ultrasound)
+* [Sonic Imaging](#sonic-imaging)
 
 --- 
 
@@ -249,9 +261,20 @@ Many animals [appear different, and can see in the ultraviolet](http://www.theat
 
 ![Bird vision makes use of UV](images/uv/uv_birds.png)
 
+[UV video overview by Thomas Leveritt](https://www.youtube.com/watch?v=o9BqrSAHbTc), promoting sunscreen:<br />[![Thomas Leveritt video](images/uv/uv_leveritt.png)](https://www.youtube.com/watch?v=o9BqrSAHbTc)
+
 UV is also [widely used in forensics](http://ultravioletcameras.com/applications/longwave-ultraviolet-forensics-imaging-applications/):<br />![Cleaning marks visualized with UV](images/uv/uv_forensics_paint.jpg)
 
-[UV video overview by Thomas Leveritt](https://www.youtube.com/watch?v=o9BqrSAHbTc), promoting sunscreen:<br />[![Thomas Leveritt video](images/uv/uv_leveritt.png)](https://www.youtube.com/watch?v=o9BqrSAHbTc)
+
+#### Fluorescence is not UV Imaging
+
+![Money fluorescing](images/uv/uv-fluorescence-money.png)
+
+> UV photography is very different from the photography of UV-excited fluorescence in the visible range. Fluorescence is the emission of longer wavelengths than those of incident light. Thus, illumination with UV radiation can cause the subject to fluoresce by emitting visible light. This is, for all practical purposes, photography in the visible range. [(Source)](http://www.savazzi.net/photography/uv.htm)
+
+In addition to psychedelic posters and hidden features of paper currency, there's lots of interesting UV fluorescence in nature, such as in these minerals:<br />
+![Rocks fluorescing](images/uv/uv_fluorescent_minerals.jpg)
+
 
 #### Artworks using UV
 
@@ -463,7 +486,11 @@ Some nice videos of polarization and stress visualization:
 
 [**Schlieren imaging**](https://www.youtube.com/watch?v=mLp_rSBzteI) creates images which reveal, and depend on, minute differences in the index of refraction of air. In short, it depends not on a property of light, but on a property of light's medium. 
 
-[![Schlieren imaging](images/schlieren.png)](https://www.youtube.com/watch?v=mLp_rSBzteI)
+Video:<br />[![Schlieren imaging](images/schlieren.png)](https://www.youtube.com/watch?v=mLp_rSBzteI)
+
+Video:<br />[![Schlieren imaging](images/schlieren-sneeze.gif)](https://www.youtube.com/watch?v=px3oVGXr4mo)
+
+
 
 * Kyle McDonald has explored [Moiré-Schlieren imaging](https://vimeo.com/322380229).
 
@@ -483,8 +510,6 @@ Dr. Gary Settles at Penn State University, an expert in Schlieren imaging and sh
 
 ![Full Scale Schlieren](images/penn-state-full-scale-schlieren1.png)
 ![Full Scale Schlieren](images/penn-state-full-scale-schlieren2.png)
-
-
 
 --- 
 
@@ -507,5 +532,26 @@ It has become popular in Japan to [3D-print copies of the unborn](http://microfa
 
 Sonar can also be used to image *environments* in both 2D and 3D. Using equipment such as [this](http://www.blueview.com/products/3d-multibeam-scanning-sonar/3/), for example, people investigate and discover seafloor shipwrecks. 
 
-![Sonar shipwreck](images/sonar-shipwreck.jpg)<br />
+![Sonar shipwreck](images/sonar-shipwreck.jpg)
+
+---
+
+## Sonic Imaging
+
+Microphone arrays, in combination with appropriate analysis software, can be used to localize audible or near-ultrasonic audio, in order to (for example) localize gas leaks in pipes — so-called "acoustic cameras".
+
+![Acoustic camera](images/multispectral/acoustic-camera-array.png)
+
+* [Fluke ii900 Sonic Industrial Imager](https://www.youtube.com/watch?v=7Wx9B_0n1co)
+* [Acoustic camera](https://www.cae-systems.de/en/products/acoustic-camera-sound-source-localization.html)
+* [Microphone arrays for sound localization](https://www.acoustic-camera.com/en/products/microphone-arrays/paddle-2x52-ac-pro.html)
+* [*Video*](https://www.youtube.com/watch?v=wSB_h7NPuxc)
+* [*Video*](https://www.youtube.com/watch?v=_w9WdTvryfw)
+
+[![Acoustic camera](images/multispectral/acoustic-camera.png)](https://www.youtube.com/watch?v=_w9WdTvryfw)
+
+![Acoustic camera](images/multispectral/acoustic-cameras-family.jpg)
+
+
+
 

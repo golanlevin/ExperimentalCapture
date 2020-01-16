@@ -3,7 +3,8 @@
 ***Note: the list below may be out of date (2015) and is under active revision.*** 
 
 
--- 
+---
+
 #### Multispectral and Related 
 
 *Imaging equipment as of Spring 2020*
@@ -32,7 +33,8 @@
 * IR-cut filter
 * [Walabot Creator Pack Radio imager](https://walabot.com/makers)
 
---
+---
+
 #### Gesture/movement capture equipment 
 
 * [Hokuyo URG-04LX-UG01 Scanning Laser Rangefinder](http://www.robotshop.com/en/hokuyo-urg-04lx-ug01-scanning-laser-rangefinder.html)

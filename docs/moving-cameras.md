@@ -24,8 +24,10 @@
 
 ---
 
-* [*Full Circle* from Callum Cooper (Jump Rope Camera)](https://vimeo.com/37077712)
-* [Hula Hoop Camera](https://www.youtube.com/watch?v=EumsgPn9xaM)
+[*Full Circle* from Callum Cooper (Jump Rope Camera)](https://vimeo.com/37077712)<br />[![Jumprope Camera](images/moving/cam_jumprope.gif)](https://vimeo.com/37077712)
+
+[Hula Hoop Camera](https://www.youtube.com/watch?v=EumsgPn9xaM)<br />[![Hula hoop camera](images/moving/cam_hulahoop.gif)](https://www.youtube.com/watch?v=EumsgPn9xaM)
+
 * [Another camera on a drill](https://www.youtube.com/watch?v=FIJfshJ757s)
 * [Centriphone by Nicolas Vuignier](https://www.youtube.com/watch?v=aqncOP7OzMg)
 * [Trombone Camera](https://www.youtube.com/watch?v=soDn2puEuL8)
@@ -38,21 +40,19 @@
 
 Sometimes the camera is moving relative to the reference frame of gravity, but not to the apparent scene:
 
-[![Studio Moniker, *Sally*](images/sally.jpg)](http://roelwouters.com/sally)
 
-[Studio Moniker, *Sally*](http://roelwouters.com/sally) or see [on YouTube](https://www.youtube.com/watch?v=mrPe6bpAgI8)
+[Studio Moniker, *Sally*](http://roelwouters.com/sally) or see [on YouTube](https://www.youtube.com/watch?v=mrPe6bpAgI8)<br />[![Studio Moniker, *Sally*](images/sally.jpg)](http://roelwouters.com/sally)
 
 ---
 
 Here the camera is made to "move" in post-production, in order to produce an apparently stationary object.  
 
-[![Paul Pfeiffer's The Rules of Basketball](images/pfeiffer.gif)](https://www.youtube.com/watch?v=ssJZJs9g_xQ)
+[Paul Pfeiffer' *The Rules of Basketball*](https://www.youtube.com/watch?v=ssJZJs9g_xQ)<br />[![Paul Pfeiffer's The Rules of Basketball](images/pfeiffer.gif)](https://www.youtube.com/watch?v=ssJZJs9g_xQ)
 
-[Paul Pfeiffer' *The Rules of Basketball*](https://www.youtube.com/watch?v=ssJZJs9g_xQ)
 
-[![White Glove Tracking](images/zl-pf.gif)](https://youtu.be/jrktgrUPxjo)
+[*White Glove Tracking*](http://whiteglovetracking.com/) project by Evan Roth and Ben Engebreth, et al., e.g.: [Zach Lieberman for White Glove Tracking](images/zl_pf_tribute.mov) or at their [Gallery](http://whiteglovetracking.com/gallery.html)<br />[![White Glove Tracking](images/zl-pf.gif)](https://youtu.be/jrktgrUPxjo)
 
-[*White Glove Tracking*](http://whiteglovetracking.com/) project by Evan Roth and Ben Engebreth, et al., e.g.: [Zach Lieberman for White Glove Tracking](images/zl_pf_tribute.mov) or at their [Gallery](http://whiteglovetracking.com/gallery.html)
+
 
 [![Stabilized Gymnast ball](images/gymnast-ball.gif)](https://i.imgur.com/8LEIObL.gifv)
 

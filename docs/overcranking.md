@@ -120,7 +120,7 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 * [Phantom cameras](http://www.visionresearch.com/Products/High-Speed-Cameras/) can achieve about 1.4 million fps. 
 * [Spinning mirror systems](http://www.stanfordcomputeroptics.com/applications/physics/rotating-mirror-camera.html) can achieve 3 million fps. 
 * This camera can capture neurons firing, at [100 billion frames per second](http://www.livescience.com/55296-high-speed-camera-captures-neurons-firing.html).
-* This [trillion-fps camera from MIT](http://video.mit.edu/watch/visualizing-video-at-the-speed-of-light-one-trillion-frames-per-second-9742/) can capture the movement of light *as it travels*. 
+* This [trillion-fps camera from MIT](https://www.youtube.com/watch?v=EtsXgODHMWk) can capture the movement of light *as it travels*. 
 * [Ultra-slow-motion with Machine Learning interpolation](https://www.youtube.com/watch?v=MjViy6kyiqs)
 
 ### Audio 

@@ -4,6 +4,8 @@
 
 In this lecture, we examine *collections* through the related concepts of "small multiples" in information visualization, and "typologies" in photography. 
 
+* [A helpful reading on Typologies](https://www.photopedagogy.com/typologies.html): Exploring photography as a tool for visual classification with August Sander, Bernd and Hilla Becher, Ed Ruscha and others. Adapted from Jon Nicholls, Thomas Tallis School.
+
 ---
 
 ## Small Multiples
@@ -20,7 +22,7 @@ In Meaghan Kombol's *The Subway Lines*, the artist attempted to draw straight li
 
 ![](images/typologies/datavis_subwaylines.jpg)
 
-It is also possible to use photographs (and not just charts or diagrams) in small multiples. Eadweard Muybridge's gridlike presentation of frames from the horse in motion provide comparative context for the "key" frame that won the bet, showing all four hooves off the ground. *These are organized in time.*
+It is also possible to use photographs (and not just charts or diagrams) in small multiples. Eadweard Muybridge's gridlike presentation of frames from the horse in motion provide comparative context for the special "key" frame that won the famous bet — showing all four hooves off the ground. *These are organized in time.*
 
 ![](images/typologies/The_Horse_in_Motion.jpg)
 
@@ -55,7 +57,7 @@ Wilson Alwyn Bentley was the first known photographer of snowflakes. He invented
 
 [![](images/typologies/wilson_snowflake_bentley.jpg)](https://www.youtube.com/watch?v=ptLmA263hlk)
 
-![](images/typologies/bentley_snowflakes.jpg)
+[![](images/typologies/bentley_snowflakes.jpg)](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/typologies/bentley_snowflakes.jpg)
 
 ---
 
@@ -112,7 +114,7 @@ Typologies can use *dynamic* media objects, not just static ones. Candice Breitz
 
 ---
 
-### Cloud Face
+### Algorithmic Acquisition: Cloud Face
 
 Computer vision algorithms can be ideal tools for compiling collections for typologies. For example, [Shinseungback Kimyonghun's Cloud Face](http://ssbkyh.com/works/cloud_face/)
 
@@ -124,11 +126,22 @@ Computer vision algorithms can be ideal tools for compiling collections for typo
 
 ---
 
-### The Face of TV
+### Algorithmic Acquisition: The Face of TV
 
 While an MFA student at CMU, [David Tinapple](http://davidtinapple.webflow.io/projects/the-face-of-tv) used a face tracker to calculate portraits of the average faces shown on different cable television channels: 
 
 [![David Tinapple](images/image-averaging/tinapple-video-faces.jpg)](http://davidtinapple.webflow.io/projects/the-face-of-tv)<br />
+
+
+---
+
+### Algorithmic Acquisition: *5-Minute Shower*
+
+Below are small fragments (details) of a photographic study of every water-droplet shed during a 5-minute shower, captured using a high-speed (1000fps) camera and extracted using custom software, by CMU Art/CS student Doug Fritz, 2007. 
+
+![Doug Fritz](images/typologies/fritz-droplets.jpg)
+
+![Doug Fritz](images/typologies/fritz_droplets_3k.jpg)
 
 
 --- 
@@ -196,5 +209,29 @@ Consider the following two projects by former CMU MFA student, [Cassandra C. Jon
 * *[Car Fire](https://vimeo.com/84894920)* (2009) constructs a virtual, 'conceptual' object from many, similar, others. The contributing images are ordered rotationally. 
 
 [![](images/carfire.jpg)](https://vimeo.com/84894920)
+
+---
+
+### Minimum Inventory, Maximum Diversity Collections ("All Possible X")
+
+Neolithic polyhedra (the five Platonic solids), Scotland, c. 2000 BC:<br />![](images/typologies/neolithic_polyhedra.jpg)
+
+Michael Joaquin Grey, *Erosion Blocks* (1990):<br />![](images/typologies/grey_erosion_blocks.jpg)
+
+A “[Minimum Inventory, Maximum Diversity](http://blog.wolfram.com/2009/03/25/minimum-inventory-maximum-diversity/)” system, a term coined by Peter Pearce in *Structure in Nature Is a Strategy for Design* (1978). Christopher Carlson writes that “a minimum inventory/maximum diversity system is a kit of modular parts and rules of assembly that gives you maximal design bang for your design-component buck. It’s a system that achieves a wide variety of effects from a small variety of parts. Nature excels at this game: every one of the many millions of natural proteins is assembled from an inventory of just 20 amino acids.”
+
+All 20 possible combinations of 3 pairwise comparisons of 4 elements: <br />
+
+![all-possible-combinations-of-20-three-pc-generators.png](images/typologies/all-possible-combinations-of-20-three-pc-generators.png)
+
+The artwork *Variations of Incomplete Open Cubes* by Sol Lewitt (below left, 1974) and *Arc Forms* by Christopher Carlson (below right, 2009) illustrate the "Minimum Inventory, Maximum Diversity" principle. *Open Cubes* shows all possible forms of a cube with one or more missing edges. *Arc Forms* shows all possible combinations of semicircles joined at 3 connection points evenly distributed along a vertical line. 
+
+![](images/typologies/maximuminventory.png)
+
+Tauba Auerbach and Daniel E. Kelm produced the "[RGB Colorspace Atlas](https://www.thecollectiveloop.com/2013/01/book-of-colors-for-human-eyes.html)", a 3,632-page book that showcases all possible printable colors.
+
+![](images/typologies/colorbook01.jpg)<br/>![](images/typologies/colorbook06.jpg)<br/>![](images/typologies/colorbook09.jpg)<br/>
+
+
 
 

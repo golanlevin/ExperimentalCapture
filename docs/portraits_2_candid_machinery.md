@@ -42,9 +42,22 @@ McDonald wrote an simple application that took one picture every minute. If it f
 
 ---
 
+### Eva Teppe's Visualization
+
+Eva Teppe's visualization for Elliott Carter's Dialogue (2005).<br />![*Eva Teppe*](images/portraits/eva_teppe.jpg)
+
+This stunning visualization, created by German video artist Eva Teppe, accompanied a performance by the Bruckner Orchester Linz at the 2005 Ars Electronica Festival, with Dennis Russell Davies conducting.
+
+In this visualization, Teppe videotaped the faces of people listening to a recorded version of the concert. These face-videos were then presented while the orchestra performed the same music. The conductor kept the orchestra to within 3 seconds of the timing of the original recorded version. The result? Each subject's face portrays a different visualization of the music—a completely subjective, enormously multidimensional representation which is organically derived from the psychological impact of Carter's music on the unique personality and tastes of each subject, and our own subjective proclivities as interpreters of facial expressions. Viewing the performance, we each begin to identify with one or more of the subjects, based on the similarity of their reactions to our own. We develop a mental model, not only of the music we are listening to, but of the personalities of each of the subjects. We may even laugh when a subject's expression confirms our own inner feelings.
+
+
+
+
+---
+
 ### Shooter
 
-[Beate Geissler & Oliver Gann, *Shooter*](http://www.taubertcontemporary.com/artists/geissler-sann/shooter/) (2000)
+[Beate Geissler & Oliver Sann, *Shooter*](http://www.lifeisgood.biz/shooter/) (2000)
 
 ![*Shooter*](images/portraits/portrait_shooter_Mad_Bob_120.jpg)
 *Mad Bob, 120*
@@ -93,4 +106,10 @@ Strickland writes:
 > "*Once upon a summertime expedition to Japan circa 1984, Strickland encountered expressions of a culture that’s enormously sophisticated in the ways of folding, stacking, rolling, nesting, carrying, miniaturizing, and transforming things. Transporting that inspiration home and proceeding to unpack it several years later, Portable Effects is a video anthropology project that investigates people’s design of the miniature environments we carry with us—in pockets, backpacks, briefcases, and handbags. Between setting forth in the morning and returning home at night, every person lives nomadically for a portion of each day. You can’t take everything with you—neither in your backpack nor in your head. Identifying essentials, and figuring out how to contain, arrange and keep track of them as you go, are instances of design thinking.*"
 
 [![*Portable Portraits*](images/portraits/portrait_strickland_rose.jpg)](https://vimeo.com/9364721)
+
+* [Portable Portrait: HENRY ROSE (1990)](https://vimeo.com/9364721)
+* [Portable Portrait: THELMA GEHRY (1989)](https://vimeo.com/9370678)
+* [Portable Portrait: PHYLIS MORRISON (1994)](https://vimeo.com/9299697)
+* [Portable Portrait: REBECCA REILLY (1995)](https://vimeo.com/9370157)
+* [Portable Portrait: JOANNA PFEIFFER (1990)](https://vimeo.com/9369129)
 

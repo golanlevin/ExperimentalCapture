@@ -6,6 +6,13 @@ Recent iOS iPhones will record time-lapse videos. Many camera manufacturers also
 
 ### Things to see and consider
 
+
+1. [Marcell Esterhazy - v.n.p. V2.0, 2005](https://vimeo.com/15745474) - 
+The artist’s grandfather eats a bowl of soup
+
+1. [Tehching Hsieh - One Year Performance, 1980 – 1981 (Time Clock Piece)](https://vimeo.com/16280427)
+
+
 1. Geoffrey Reggio and Philip Glass, *Koyaanisqatsi* (1982)
   * [*Koyaanisqatsi* (Pt. 3, The Grid)](https://www.youtube.com/watch?v=fwPDFeXEMs4)
   * [*Koyaanisqatsi* (The Grand Illusion)](https://www.youtube.com/watch?v=o64zjJeXClw)

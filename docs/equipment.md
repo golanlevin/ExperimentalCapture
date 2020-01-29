@@ -26,7 +26,8 @@
 * [Insta360 One](https://www.insta360.com/product/insta360-one/) (Insta360, CCAI17LP149QT8)
 * [LG 360 Cam LG-R105](https://www.lg.com/us/mobile-accessories/lg-LGR105AVRZTS-360-cam) (LG, ZNFR105) 
 * [Samsung Gear 360 Degree Spherical Camera SM-C200](https://www.samsung.com/us/mobile/virtual-reality/gear-360/sm-c200nzwaxar-sm-c200nzwaxar/) (Samsung, RFAH607P3HE)
-
+* [EyeSee 360 GoPano Plus](https://sites.google.com/site/joaorodriguesras/eyesee-360-degree-gopano-plus-panoramic-camera-mount-with-photowarp-and-videowarp-software) catadioptric lens, 3X units
+* [GoPano Micro](https://www.kickstarter.com/projects/1106196796/the-gopano-micro-a-lens-for-capturing-360-video-on)
 
 ---
 

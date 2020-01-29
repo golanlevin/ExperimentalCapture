@@ -180,9 +180,10 @@ Obsolescent:
 
 *Current as of 2/1/2020.*
 
-* [Free Space - Binaural Microphone](http://www.amazon.com/3Dio-FSMobile-Free-Space-Microphone/dp/B00HDOOCB4/)
+* [Zoom H3-VR](https://www.zoom-na.com/products/field-video-recording/field-recording/zoom-h3-vr-handy-recorder) 360° Ambisonic/3D microphone
+* [3Dio Free Space](http://www.amazon.com/3Dio-FSMobile-Free-Space-Microphone/dp/B00HDOOCB4/) Binaural Microphone
 * [HAUSBELL Listening Device](https://www.amazon.com/Listening-Scientific-Explorer-Electronic-Observing/dp/B00EEZQPHO/) (Telemicrophone)
-* [Dodotronic Ultramic 384K USB Microphone](https://www.dodotronic.com/product/ultramic-384k/?v=7516fd43adaa) (Dodotronic, 081018), 384KHz ultrasonic mic
+* [Dodotronic Ultramic 384K USB Microphone](https://www.dodotronic.com/product/ultramic-384k/?v=7516fd43adaa) (Dodotronic, 081018), 384KHz ultrasonic USB microphone
 * [Stethomicrophone](https://www.etsy.com/listing/477257401/stethomicrophone)
 * [RNK Products PCP-1 Telemedicine Stethoscope](https://rnkproducts.com/telemedicine-stethoscopes/)
 * [Yeti Blue Microphone](https://www.bluedesigns.com/products/yeti/), Silver (Yeti, 2850Y11039) 
@@ -194,6 +195,8 @@ Obsolescent:
 ---
 
 ### Radio/RF Transduction 
+
+*Current as of 2/1/2020.*
 
 * [Walabot Creator Pack radio imager](https://walabot.com/makers)
 * [SOMA Ether V2 Anti-Radio](https://somasynths.com/ether/)

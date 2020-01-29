@@ -131,6 +131,7 @@ Obsolescent:
 * [Muse 2 Brain Sensing Headband](https://choosemuse.com/) (Muse, 4006-M4T3-22EC) 
 * [3D Connexion Space Mouse Compact](https://www.3dconnexion.com/spacemouse_compact/en/) 6 degree-of-freedom joystick, 2X units
 * Steam Controller (Valve, FC6112278C)
+* [GameTrak](https://en.wikipedia.org/wiki/Gametrak#Technology) Real World Golf 2x3DOF USB interface, 2X units
 * [Wacom Cintiq 13HD](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-13) Creative Pen and Touch Display  (Wacom, 5IAH001590)
 * [Wacom Intuos Tablet](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos) (Wacom, 3GAH058441) 
 * [Wacom Inkling Digital Sketch Pen (MDP123)](http://www.amazon.com/Wacom-Inkling-Digital-Sketch-MDP123/dp/B005KPUYVA/) (Wacom, 341201764)

@@ -1,0 +1,19 @@
+
+# Windows ignores #
+###################
+
+read_contacts_win/Debug/*
+read_contacts_win/Release/*
+ipch/*
+
+*.user
+*.sdf
+*.suo
+*.opensdf
+
+# Linux ignores #
+#################
+
+build/*
+
+sensel_example_read_contacts

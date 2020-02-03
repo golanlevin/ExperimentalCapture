@@ -1,0 +1,18 @@
+// stdafx.h : include file for standard system include files,
+// or project specific include files that are used frequently, but
+// are changed infrequently
+//
+
+#pragma once
+
+#define NOMINMAX // This makses sure we don't include window's min and max functions which are buggy
+
+#include "targetver.h"
+
+#include <windows.h>
+#include <stdio.h>
+#include <tchar.h>
+
+
+
+// TODO: reference additional headers your program requires here

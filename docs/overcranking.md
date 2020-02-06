@@ -115,6 +115,25 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 
 ---
 
+### Springtail insects
+
+[Springtail Collembole insects, via BBC](https://www.youtube.com/watch?v=x6ZGV4ikHi4&t=1m0s)
+
+[![Springtails on BBC](images/springtail.png)](https://www.youtube.com/watch?v=x6ZGV4ikHi4&t=1m0s)
+
+### The Visual Microphone: Passive Recovery of Sound from Video
+
+* [The Visual Microphone: Passive Recovery of Sound from Video](https://www.youtube.com/watch?v=FKXOucXB4a8)
+
+[![The Visual Microphone: Passive Recovery of Sound from Video](images/passive-recovery-of-sound.png)](https://www.youtube.com/watch?v=FKXOucXB4a8)
+
+### Bullets colliding (at 1M fps)
+
+* [Bullets colliding, captured at one million FPS by Werner Mehl from Kurzzeit](https://www.youtube.com/watch?v=QfDoQwIAaXg)
+
+[![](images/bullets-colliding.png)](https://www.youtube.com/watch?v=QfDoQwIAaXg)
+
+
 ### Some Really Really Fast Cameras
 
 * [Phantom cameras](http://www.visionresearch.com/Products/High-Speed-Cameras/) can achieve about 1.4 million fps. 

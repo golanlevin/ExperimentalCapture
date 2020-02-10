@@ -2,24 +2,26 @@
 
 This document lists some powerful, low-budget, resources for capturing gestural information. This document assumes you are aleady familiar with *why* you might want to capture gestural data, and that you have some familiarity with programming in e.g. Processing. 
 
-**Contents:**
+### Contents:
 
-* **OSC Tools**
- * [touchOSC](touchOSC)
- * [gyrOSC](gyrOSC)
- * [FaceOSC](FaceOSC)
- * [blinkOSC](blinkOSC)
- * [EyeOSC](EyeOSC)
- * [PoseOSC](PoseOSC)
-* **Non-OSC Tools**
- * [PoseNet in the Browser](PoseNet-in-the-Browser)
- * [Offline PoseNet](Offline-PoseNet)
- * [Brekel MoCap](Brekel-MoCap)
- * [Leap Motion for Processing](Leap-Motion-for-Processing)
- * [BodyPix and MaskRCNN](BodyPix-and-MaskRCNN)
- * [OpenTSPS](OpenTSPS)
-* **Other Tools**
- * [Diagnostic Tools](Diagnostic-Tools)
+**OSC Tools**
+* [touchOSC](touchOSC)
+* [gyrOSC](gyrOSC)
+* [FaceOSC](FaceOSC)
+* [blinkOSC](blinkOSC)
+* [EyeOSC](EyeOSC)
+* [PoseOSC](PoseOSC)
+
+**Non-OSC Tools**
+* [PoseNet in the Browser](PoseNet-in-the-Browser)
+* [Offline PoseNet](Offline-PoseNet)
+* [Brekel MoCap](Brekel-MoCap)
+* [Leap Motion for Processing](Leap-Motion-for-Processing)
+* [BodyPix and MaskRCNN](BodyPix-and-MaskRCNN)
+* [OpenTSPS](OpenTSPS)
+
+**Other Tools**
+* [Diagnostic Tools](Diagnostic-Tools)
 
 
 ---
@@ -72,6 +74,7 @@ Of related interest, are face-trackers that work with JavaScript in the browser:
 * [p5.js + BRFv4 (via handsfree.js) at Editor.p5js.org](https://editor.p5js.org/golan/sketches/AeEppZ4XR) or [here](https://editor.p5js.org/sovid/sketches/bmTRGd3b5)
 * [Face Landmarks at RunwayML.com](https://runwayml.com/).
 
+![clm.png](images/clm.png)
 
 ---
 
@@ -213,7 +216,6 @@ The Leap Motion sensor detects and tracks hands, fingers and finger-like tools. 
 
 ### *Not Yet Organized*
 
-https://github.com/microcosm/KinectV2-OSC
-https://github.com/microcosm/ofxKinectV2-OSCLots more at http://www.wekinator.org/examples/
-
-[Squarepusher: *Terminal Slam*](https://www.youtube.com/watch?v=GlhV-OKHecI) (video by Daito Manabe)
+* https://github.com/microcosm/KinectV2-OSC
+* https://github.com/microcosm/ofxKinectV2-OSC* Lots more at http://www.wekinator.org/examples/
+

@@ -5,23 +5,23 @@ This document lists some powerful, low-budget, resources for capturing gestural 
 ### Contents:
 
 **OSC Tools**
-* [touchOSC](touchOSC)
-* [gyrOSC](gyrOSC)
-* [FaceOSC](FaceOSC)
-* [blinkOSC](blinkOSC)
-* [EyeOSC](EyeOSC)
-* [PoseOSC](PoseOSC)
+* [touchOSC](#touchOSC)
+* [gyrOSC](#gyrOSC)
+* [FaceOSC](#FaceOSC)
+* [blinkOSC](#blinkOSC)
+* [EyeOSC](#EyeOSC)
+* [PoseOSC](#PoseOSC)
 
 **Non-OSC Tools**
-* [PoseNet in the Browser](PoseNet-in-the-Browser)
-* [Offline PoseNet](Offline-PoseNet)
-* [Brekel MoCap](Brekel-MoCap)
-* [Leap Motion for Processing](Leap-Motion-for-Processing)
-* [BodyPix and MaskRCNN](BodyPix-and-MaskRCNN)
-* [OpenTSPS](OpenTSPS)
+* [PoseNet in the Browser](#PoseNet-in-the-Browser)
+* [Offline PoseNet](#Offline-PoseNet)
+* [Brekel MoCap](#Brekel-MoCap)
+* [Leap Motion for Processing](#Leap-Motion-for-Processing)
+* [BodyPix and MaskRCNN](#BodyPix-and-MaskRCNN)
+* [OpenTSPS](#OpenTSPS)
 
 **Other Tools**
-* [Diagnostic Tools](Diagnostic-Tools)
+* [Diagnostic Tools](#Diagnostic-Tools)
 
 
 ---

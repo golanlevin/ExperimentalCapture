@@ -10,6 +10,7 @@ This document lists some powerful, low-budget, resources for capturing gestural 
 * [FaceOSC](#FaceOSC)
 * [blinkOSC](#blinkOSC)
 * [EyeOSC](#EyeOSC)
+* [sendMultiTouches](#sendMultiTouches)
 * [PoseOSC](#PoseOSC)
 
 **Non-OSC Tools**
@@ -96,6 +97,17 @@ Gaze estimation application by Kyle McDonald (2012) that sends data over OSC, de
 
 ![eyeOSC.png](images/eyeOSC.png)
 
+---
+
+### sendMultiTouches
+
+This is a small bit of code that will allow you to send multitouch data
+from a MacBook trackpad via OSC, by Duncan Boehle (2012).
+
+![sendmultitouches.png](images/sendmultitouches.png)
+
+* Download [sendMultiTouches.zip](sendMultiTouches.zip) for OSX
+* [Original repository](https://github.com/dboehle/SendMultiTouches)
 
 ---
 

@@ -226,6 +226,17 @@ The Leap Motion sensor detects and tracks hands, fingers and finger-like tools. 
 
 ---
 
+### ofxURG
+
+For the Hokuyo LIDAR, by Dan Moore
+
+![ofxURG.png](images/ofxURG.png)
+
+* [Download sender/receiver for OSX](ofxURG.zip)
+
+
+---
+
 ### *Not Yet Organized*
 
 * https://github.com/microcosm/KinectV2-OSC

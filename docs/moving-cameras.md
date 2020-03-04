@@ -28,15 +28,23 @@
 
 [Hula Hoop Camera](https://www.youtube.com/watch?v=EumsgPn9xaM)<br />[![Hula hoop camera](images/moving/cam_hulahoop.gif)](https://www.youtube.com/watch?v=EumsgPn9xaM)
 
+[Trombone Camera](https://www.youtube.com/watch?v=soDn2puEuL8)<br />[![Trombone camera](images/moving/cam_trombone.gif)](https://www.youtube.com/watch?v=soDn2puEuL8)
+
+
 * [Another camera on a drill](https://www.youtube.com/watch?v=FIJfshJ757s)
 * [Centriphone by Nicolas Vuignier](https://www.youtube.com/watch?v=aqncOP7OzMg)
-* [Trombone Camera](https://www.youtube.com/watch?v=soDn2puEuL8)
+* [Gimbal-stabilized camera on a dog](https://www.youtube.com/watch?v=r9UfGtM-kHc&t=616s)
+* [360° camera in a cannon](https://www.youtube.com/watch?v=RhGwPa92QKc)
+
 
 > I had the idea of a new astro time-lapse technique in which the camera is pointed right at the north star and mounted to a motorized pivot point directly lined up with the sensor so the camera is able to spin with the stars through the night. Sit back, relax and Ride the Sky.
 
 * [Lance Page, *Ride the Sky*](https://vimeo.com/98679934)
 * [Time Lapse Sky Shows Earth Rotating Instead of Stars](https://www.youtube.com/watch?v=nkn2ZXWDl6k)
 * [Vincent Brady, *Planetary Panorama: 360 Degree Night-Sky Time-Lapse*](https://www.youtube.com/watch?v=azJaOQAGTJo)
+
+
+![Camera on a shovel](images/moving/cam_shovel.gif)
 
 Sometimes the camera is moving relative to the reference frame of gravity, but not to the apparent scene:
 

@@ -56,6 +56,16 @@ Many of the images in the *High-Altitude Spirit Photography* series are made by 
 
 ---
 
+![](images/everyday/vrchat.png)
+
+Interviews on VR Chat by Syrmor
+
+* [kid in vrchat talks about getting bullied](https://www.youtube.com/watch?v=KZWOXgc7PA4)
+* [Korean Bird talks about his Brother's death in VRchat](https://www.youtube.com/watch?v=K0w4AU4uN34)
+
+
+---
+
 
 ## Constructing a Truth
 

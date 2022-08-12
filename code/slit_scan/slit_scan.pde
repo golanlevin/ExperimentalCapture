@@ -1,15 +1,15 @@
 // Simple slit-scanning program. 
-// Works with Processing 3.5.3.
-// Golan Levin, 2020
+// Works with Processing 4.0.1.
+// Golan Levin, 2022
 
 import processing.video.*;
 Capture cam;
 int dstX = 0;
 
 void setup() {
-  cam = new Capture(this, 640, 360, 30);
+  cam = new Capture(this, 640, 480, 30);
   cam.start();  
-  size(640, 720);
+  size(640, 960);
 }
 
 void draw() {

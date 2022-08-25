@@ -2,6 +2,18 @@
 
 ---
 
+
+
+### Westinghouse Works, 1904
+
+[Westinghouse Works, 1904](https://lightcone.org/en/film-5890-westinghouse-works-panorama-views)
+
+[![Westinghouse Works](images/inspirations/westinghouse-works-1904.jpg)](https://lightcone.org/en/film-5890-westinghouse-works-panorama-views)
+
+
+
+---
+
 [James George at Eyeo 2015](https://vimeo.com/134973504) (from 7:34, "Camera of the Future")<br />
 [![](images/james_geoerge_eyeo.png)](https://vimeo.com/134973504)
 
@@ -12,6 +24,15 @@
 ![Eyes in cheese](images/cheese.gif)
 
 Tomography and [Holes in Swiss Cheese](https://www.nytimes.com/2015/05/29/world/europe/switzerland-scientists-find-the-secret-to-the-holes-in-swiss-cheese-hay-dust.html); "Mechanism and control of the eye formation in cheese" [paper](https://scinapse.io/papers/2024396341), [paper](https://link.springer.com/article/10.1007/s13594-012-0105-2), e.g. ["There is demand for non‐destructive monitoring of eye formation in cheese during ripening."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1471-0307.2009.00478.x), [[PDF](docs/pdf/eye-formation-in-cheese.pdf)]
+
+---
+
+### The Visual Microphone
+
+[The MIT visual microphone](https://www.youtube.com/watch?v=FKXOucXB4a8)
+
+[![The visual microphone](images/inspirations/mit-visual-microphone.jpg)](https://www.youtube.com/watch?v=FKXOucXB4a8)
+
 
 ---
 
@@ -33,6 +54,13 @@ Samantha Taylor-Johnson (also known as Sam Taylor-Wood) has created some excepti
 
 
 ---
+### Bill Viola, *The Raft*
+
+[High-speed recordings of composed tableaus.](https://www.youtube.com/watch?v=uFCKSccanSI) 
+
+[![](images/inspirations/viola-raft.jpg)](https://www.youtube.com/watch?v=uFCKSccanSI)
+
+---
 
 ### Adam Magyar, *Stainless*
 
@@ -40,6 +68,8 @@ High-speed recordings of people on subway platforms,
 such as [*Stainless, 42 Street*](https://vimeo.com/83664407):
   
 [![Adam Magyar, Stainless](images/magyar.jpg)](https://vimeo.com/83664407)
+
+
 
 ---
 
@@ -58,6 +88,22 @@ such as [*Stainless, 42 Street*](https://vimeo.com/83664407):
 
 [![White Glove Tracking](images/zl-pf.gif)](https://youtu.be/jrktgrUPxjo)
 
+
+---
+### Zbig Rybczynski, *Media*
+
+[Zbig Rybczynski, *Media*](https://vimeo.com/71936364)
+
+[![Zbig Rybczynski, *Media*](images/inspirations/rybczynski-media.jpg)](https://vimeo.com/71936364)
+
+---
+
+### Wonbin Yang, *Abandoned memories*
+
+"A video made with the reconstructed but damaged jpeg images from the computer I got from the thrift store." [Abandoned Memories](https://www.instagram.com/tv/Cgc9ZG6FRHo/?igshid=YmMyMTA2M2Y%3D)
+
+[![Abandoned Memories](images/inspirations/wonbin-yang.jpg)](https://www.instagram.com/tv/Cgc9ZG6FRHo/?igshid=YmMyMTA2M2Y%3D)
+
 ---
 
 ### Cassandra C. Jones, *Eventide*
@@ -65,7 +111,6 @@ such as [*Stainless, 42 Street*](https://vimeo.com/83664407):
 *[Eventide](https://vimeo.com/84883569)* (2004) represents a single object — the Sun — constructed from hundreds of photos by different people. The full video shows a complete sunset.
 
 [![](images/eventide.jpg)](https://vimeo.com/84883569)
-
 
 ---
 
@@ -98,6 +143,17 @@ Images of what someone is looking at can be recovered from reflections in their 
 [Corneal imaging](http://www1.cs.columbia.edu/CAVE/projects/world_eye/)
 [![](images/corneal_imaging.png)](http://www1.cs.columbia.edu/CAVE/projects/world_eye/)
 
+
+---
+
+### FlatCam, a lensless camera
+
+[A lensless camera](https://www.youtube.com/watch?v=BdgwO_i5p54)
+
+[![Flatcam](images/inspirations/flatcam.jpg)](https://www.youtube.com/watch?v=BdgwO_i5p54)
+
+
+
 ---
 
 ### Jon Rafman, *The Nine Eyes of Google Street View*
@@ -125,5 +181,4 @@ Regarding Heather Dewey-Hagborg's tour-de-force [*Stranger Visions*](http://dewe
 > In *Stranger Visions* I collected hairs, chewed up gum, and cigarette butts from the streets, public bathrooms and waiting rooms of New York City. I extracted DNA from them and analyzed it to computationally generate 3d printed life size full color portraits representing what those individuals might look like, based on genomic research. Working with the traces strangers unwittingly left behind, the project was meant to call attention to the developing technology of forensic DNA phenotyping, the potential for a culture of biological surveillance, and the impulse towards genetic determinism. [*Video*](https://www.youtube.com/watch?v=o5ijy2xboZs)
 
 [![Heather Dewey-Hagborg](images/portraits/dewey_hagborg.jpg)](https://www.youtube.com/watch?v=o5ijy2xboZs)[![Heather Dewey-Hagborg](images/portraits/heather-dewey-hagborg-ted-scrn.jpg)](https://www.youtube.com/watch?v=o5ijy2xboZs)
-
 

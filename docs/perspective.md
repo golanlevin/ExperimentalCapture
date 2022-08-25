@@ -1,5 +1,17 @@
 # Perspective Capture and Imaging
 
+---
+
+### Readings
+
+* [Beyond Linear Perspective:
+Art, Human Vision, and Computer Graphics](https://www.dgp.toronto.edu/~hertzman/sig22-perspective/)
+* Aaron Hertzmann, [How Does Perspective Work in Pictures?](https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html)
+* Robert Carroll et al., [Optimizing Content-Preserving Projections for Wide-Angle Images](http://vis.berkeley.edu/papers/capp/)
+* Steven M. Seitz and Jiwon Kim, [Multiperspective Images](http://grail.cs.washington.edu/projects/stereo/cga.html)
+
+---
+
 ### Perspective Representation
 
 *Size = Proximity* (Right?)

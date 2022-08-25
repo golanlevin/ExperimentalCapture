@@ -69,6 +69,7 @@ Capturing Phenomena in Time:
 * [Slit-Scanning](http://www.flong.com/texts/lists/slit_scan/)
 * [Experimental Audio Capture](docs/audio.md)
 * [Gesture Capture in 2D and 3D](docs/gesture.md)
+* [Volumetric Video](docs/volumetric-video.md)
 
 More: 
 

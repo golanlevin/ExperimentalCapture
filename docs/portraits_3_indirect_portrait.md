@@ -1,6 +1,6 @@
 # Portraits (III): The Indirect Portrait
 
-Artists use *indirect means* to capture or depict their subject.
+This page is concerned with *proxy portraiture*. Artists use *indirect means* to capture or depict their subject.
 
 * [Portrait of Ross](#portrait-of-ross)
 * [Lipsticks](#lipsticks)
@@ -11,6 +11,13 @@ Artists use *indirect means* to capture or depict their subject.
 * [Evidence Locker](#evidence-locker)
 * [Material World](#material-world)
 * [Toy Stories](#toy-stories)
+
+---
+### Synecdoche
+
+![Byron Kim, Synecdoche (1991-)](images/typologies/byron_kim_synecdoche.jpg)
+
+[*Synecdoche*](https://puamsab.princeton.edu/2019/04/artist-feature-byron-kim-isabel-griffith-gorgati-21/) is a collection of panels representing the skin color of hundreds of individuals who have sat for Kim. It is housed in the National Gallery of Art in Washington, DC. The description on the Gallery’s website reads, “The title—referring to a figure of speech in which a part represents the whole or vice versa—makes clear that issues of representation, both visual and democratic, are in play.” (Compare with [*Humanae*](images/typologies/angelica_dass_humanae.jpg) by Angelica Dass)
 
 ---
 

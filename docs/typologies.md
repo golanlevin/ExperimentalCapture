@@ -105,6 +105,14 @@ Notice the regularization strategies employed by Alex Kayser in his *Heads* coll
 
 --- 
 
+### Skin Color 
+
+Consider the regularization strategies used in Angélica Dass’s "[humanae](https://news.artnet.com/art-world/4000-skin-colors-in-pantone-squares-1254683)", in which the artist has matched the skin colors of 4000 participants to corresponding Pantone colors. Also, compare this with "[Synecdoche](images/typologies/byron_kim_synecdoche.jpg)" by Byron Kim. 
+
+![Dass Humanae](images/typologies/angelica_dass_humanae.jpg)
+
+--- 
+
 ### Candice Breitz
 
 Typologies can use *dynamic* media objects, not just static ones. Candice Breitz asked people to sing along with a favorite song (which they heard through discreet headphones), and then [synchronized video-recordings](https://www.youtube.com/watch?v=rnYxeezPvnk) of their experiences:

@@ -80,3 +80,7 @@ Dirk Koy, "Fixed" series:
 
 "[Zoom In](https://www.youtube.com/watch?v=yQM7-6hWvNA)", Hotwheels+GoPro mount:<br />
 [![Hotwheels GoPro mount](images/gopro-hotwheels.jpg)](https://www.youtube.com/watch?v=yQM7-6hWvNA)
+
+---
+
+

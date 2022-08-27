@@ -139,5 +139,7 @@ Geep Warhaftig developed [*Sphinct!*](http://golancourses.net/excap17/geep/05/10
 
 [![Sphinctometer](images/students/geep_sphinct.png)](https://www.youtube.com/watch?v=VGW29JOlCsA)
 
+Related to this, see [Plethysmography & Photoplethysmography](https://www.queensu.ca/psychology/sexuality-and-gender-lab/lab-equipment).
+
 
 

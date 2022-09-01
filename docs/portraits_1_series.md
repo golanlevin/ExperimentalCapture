@@ -16,6 +16,15 @@ A "Portrait Machine" at Warhol's Factory.
 
 > Many of the subjects appeared uncomfortable. Others seemed beaten. Some were insolent, provocative. Or insolent one moment and provocative the next. Mary Woronov observed in *Swimming Underground: My Years in the Warhol Factory* that the screen tests were like a psychological test: “You would see the person fighting with his image—trying to protect it. You can project your image for a few seconds, but after that it slips and your real self starts to show through. That’s why it was so great—you saw the person and the image.” [Source](http://sacksco.com/notes/dean_and_britta.html)
 
+---
+
+### Marcus Coates, *Dawn Chorus*
+
+[![Marcus Coates, *Dawn Chorus*](images/Marcus_Coats_Dawn_Chorus_2007.gif)](https://www.youtube.com/watch?v=enpuy1WLezY)
+
+* Marcus Coates, [*Dawn Chorus* (2007)](https://www.youtube.com/watch?v=enpuy1WLezY)
+* [Original audio](http://audio.theguardian.tv/sys-audio/Arts/Culture/2007/01/24/yellowhammerfinal.mp3) (MP3)
+* [Original audio](sounds/dawn_chorus_original_yellowhammer_audio.mp3) (MP3)
 
 ---
 

@@ -49,6 +49,28 @@ Photography, from its beginnings in the 1830s, has been preoccupied with catalog
 
 Typically, and unlike small multiples, typologies depict a *collection*, and not necessarily an *ordered set*. 
 
+---
+
+### Alphonse Bertillon, *Anthropometry* (1885)
+
+Photographic typologies immediately had applications in (pseudo-)scientifically cataloguing people for carceral and eugenic purposes.> While working as a clerk for the Paris police department, Alphonse Bertillon was overwhelmed by the massive accumulation of files of criminals and the lack of a system to sort or retrieve them. In particular, he was concerned with the institutional inability to identify previous offenders, or recidivists, who may have taken on new names or identities. In 1879B, Bertillon, who came from a family of statisticians, devised a method for organizing the identity records of prisoners. Applying "anthropometry", the science of bodily measurements, to police work, Bertillon established a rigorously standardized card-filing system to track records of prisoners' statistics. Later, Bertillon added photography to his methodology, developing the mug shot, which consisted of a full-face picture accompanied by a profile view of the same size. The profile view was added because Bertillon believed that the unique shape of each individual's ear was the key identifier. *Identification anthropometrique. Instructions signaletiques*, published in 1885, was an instruction manual with how-to diagrams for recording prisoners and sample photographs. This forensic method, dubbed *Bertillonage*, was adopted by the Paris police department in 1888, and was soon used in the United States, Britain, and throughout the world. [From *The Order of Things*]
+
+![Bertillon](images/typologies/bertillon-1.jpg)
+
+![Bertillon](images/typologies/bertillon-2.jpg)
+
+![Bertillon](images/typologies/bertillon_anthropometry.jpg)
+
+
+---
+
+### Karl Blossfeldt, *Art Forms in Nature* (1928)
+
+> As early as 1898, Karl Blossfeldt began to photograph plants, seeds, and other natural specimens, using their organic forms to study linearity and design. A lecturer at the School of the Royal Museum of Arts and Crafts in Berlin, he taught a course titled "Modeling from Living Plants," in which he projected slides of his plant photographs for students to copy. Blossfeldt consistently used a neutral background, drawing upon seventeenth-and eighteenth-century botanical classification systems. He continued to add to his catalogue, and by the time these works were first exhibited in 1926, coinciding with the beginning of Neue Sachlichkeit (New Objectivity) photography by August Sander and Albert Renger-Patzsch, Blossfeldt had accumulated over 4,000 images. Although the project may have been conceived in the context of Art Nouveau-a movement dominated by reference to natural forms-by the 1920s, Blossfeldt's sharp-focus realism, rigid compositions, and objective-documentary style looked surprisingly avant-garde. But neither the extraordinary diligence of Blossfeldt's labor, nor the stark beauty of his minimalist approach, could explain the overnight international sensation created in 1928 by his first book of plant photographs, *Urformen der Kunst* (literally "Archetypes of Art"; published in English as *Art Forms in Nature*), a portfolio of 120 loose-leaf photogravure plates. The initial print run of 6,000 copies sold out within months, and further editions were published in Germany, France, England, and the United States. [From *The Order of Things*]
+
+![](images/typologies/blossfeldt.jpg)
+
+
 --- 
 
 ### Wilson A. "Snowflake" Bentley (1865-1931)
@@ -58,6 +80,10 @@ Wilson Alwyn Bentley was the first known photographer of snowflakes. He invented
 [![](images/typologies/wilson_snowflake_bentley.jpg)](https://www.youtube.com/watch?v=ptLmA263hlk)
 
 [![](images/typologies/bentley_snowflakes.jpg)](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/typologies/bentley_snowflakes.jpg)
+
+Here's [recent progress in synthesizing and capturing snowflakes in the lab](https://www.youtube.com/watch?v=ao2Jfm35XeE). 
+
+[![](images/typologies/libbrecht.jpg)](https://www.youtube.com/watch?v=ao2Jfm35XeE)
 
 ---
 
@@ -85,6 +111,10 @@ Masters of the photographic typology, Bernd and Hilla Becher spent more than 30 
 
 ![](images/typologies/michael_wolf_bastard_chairs.jpg)
 
+
+
+
+
 ---
 
 ### People of the Twenty‐First Century
@@ -111,6 +141,15 @@ Consider the regularization strategies used in Angélica Dass’s "[humanae](htt
 
 ![Dass Humanae](images/typologies/angelica_dass_humanae.jpg)
 
+---
+
+### J. D. 'Okhai Ojeikere, *Untitled [Hairstyles]* (1970-1979)  
+
+> Shortly after Nigeria gained its independence from Britain in 1960, J. D. 'Okhai Ojeikere began a remarkable self-assigned project: to record systematically key elements of his native Nigerian culture during the experience of postcolonial cultural transition. In 1968, without any specific anthropological or scholarly agenda, he initiated an immense effort to document Nigerian women's hairstyles. Across the next forty years, he compiled over 1,000 photographs of braided, twisted, and wrapped hair, with each sculptural expression referencing a particular component of Nigerian life-from its various ethnic groups to the expanding shapes of the Lagos skyline. Formally similar, these highly detailed photographs are generally shot close up, centered from behind, and exposed against a stark white or black background, emphasizing the intricacy and architectural fantasy of the elaborate hair designs. "Hairstyles are an art form," Ojeikere has said. "[But] all these hairstyles are ephemeral. I want my photographs to be noteworthy traces of them. I always wanted to record moments of beauty, moments of knowledge." [From *The Order of Things*]
+
+![](images/typologies/ojeikere.jpg)
+
+
 --- 
 
 ### Candice Breitz
@@ -134,15 +173,6 @@ Computer vision algorithms can be ideal tools for compiling collections for typo
 
 ---
 
-### Algorithmic Acquisition: The Face of TV
-
-While an MFA student at CMU, [David Tinapple](http://davidtinapple.webflow.io/projects/the-face-of-tv) used a face tracker to calculate portraits of the average faces shown on different cable television channels: 
-
-[![David Tinapple](images/image-averaging/tinapple-video-faces.jpg)](http://davidtinapple.webflow.io/projects/the-face-of-tv)<br />
-
-
----
-
 ### Algorithmic Acquisition: *5-Minute Shower*
 
 Below are small fragments (details) of a photographic study of every water-droplet shed during a 5-minute shower, captured using a high-speed (1000fps) camera and extracted using custom software, by CMU Art/CS student Doug Fritz, 2007. 
@@ -156,9 +186,17 @@ Below are small fragments (details) of a photographic study of every water-dropl
 
 ## Typologies Depicted Through Averaging
 
-It is possible to get at something 'essential' by averaging collections of photographs depicting related subjects. (This form of statistical inquiry is a precursor to work with GANs and neural networks that we'll see later.)
+A conceit is that it is possible to get at something 'essential' by averaging collections of photographs depicting related subjects. (This form of statistical inquiry is a precursor to work with GANs and neural networks that we'll also see later.)
 
-Nancy Burson invented what we now call "morphing" while working as an artist-in-residence at MIT in the late '70s. One of her best-known works was a series of composites, which created mathematically weighted averages of well-known individuals. Of them, Vilém Flusser [has written](http://www.medienkunstnetz.de/works/first-and-second-beauty/): 
+
+![Galton](images/typologies/galton.jpg) 
+
+Francis Galton, *Inquiries Into Human Faculty and Its Development* (1883)  
+
+> A cousin to naturalist Charles Darwin, British scientist Francis Galton formed his own ideas about the biological foundations of human society, becoming a central figure in the Victorian field of scientific naturalism. Galton, a firm believer in hereditary behavioral traits and social typologies, employed statistics and photography to demonstrate his theories objectively. In 1877, Galton pioneered the process of composite photography, overlaying multiple portraits of specific individuals to create an average or typical person. He used this method as a way of characterizing biologically predetermined racial and criminal types, often identifying them by standard facial features or skull shapes. In 1883, Galton published some of his composite photographic portraits as the frontispiece to his *Inquiries Into Human Faculty and Its Development*. That same year, he coined the term "eugenics" as a name for the process or pseudoscience by which racial types could be improved or purified through selective breeding. Galton believed that British Jewish "types," whom he studied extensively, and disparaged, provided the strongest case for his hierarchical racial theories; these views ultimately influenced Nazi racial policies and anti-Semitic discourses. [From *The Order of Things*]
+
+
+Artist Nancy Burson invented what we now call "morphing" while working as an artist-in-residence at MIT in the late '70s. One of her best-known works was a series of composites, which created mathematically weighted averages of well-known individuals. Of them, Vilém Flusser [has written](http://www.medienkunstnetz.de/works/first-and-second-beauty/): 
 
 > *«‹Chimera› is an ancient word meaning composite fabulous beast: a goat with a lion’s head and a tail of serpents. One might thus be led to believe that the mythical Ancients knew how to calculate and compute, but one would be mistaken. The mythical chimaera was a collage, a patchwork. If Bellerophon, who fought the Chimaera heroically, had kicked it instead of fighting it heroically, its head would have rolled to one side and its tail to another. This is quite different from the newly emerging, ‹true› chimaera. One may kick Burson’s Big Brother as often as one likes, he will never disintegrate into Hitler, Mussolini and the others. [...] The new ‹true› chimeras are consistent, autonomous phenomena. This is the way with myths: as soon as they become real, they look different from what was expected.»* 
 
@@ -173,6 +211,10 @@ Jason Salavon, [*Every Playboy Centerfold, The Decades*](http://www.salavon.com/
 Salavon has also created [averages of homes-for-sale](http://salavon.com/work/Homes/) (1999-2002) from classified advertisements in different metropolitan areas:<br />![](images/image-averaging/salavon_homes_for_sale.jpg)
 
 Jason Salavon, [*Portrait*](http://www.salavon.com/work/Portrait/) (2009) <br />![](images/image-averaging/salavon-portrait.jpg)
+
+While an MFA student at CMU, [David Tinapple](http://davidtinapple.webflow.io/projects/the-face-of-tv) used a face tracker to calculate portraits of the average faces shown on different cable television channels: 
+
+[![David Tinapple](images/image-averaging/tinapple-video-faces.jpg)](http://davidtinapple.webflow.io/projects/the-face-of-tv)
 
 ---
 

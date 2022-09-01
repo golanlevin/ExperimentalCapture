@@ -59,6 +59,25 @@ Transformations can be purely formal. This [series by Alex Beck](https://time.co
 ![](images/portraits/Becoming-Mel-Day-6_25.jpg)
 ![](images/portraits/Becoming-Mel-Day-7_01.jpg)
 
+
+--- 
+
+### Zhang Huan, *Skin (20 Self-Portraits)* (1997)
+
+Self-portraiture under different conditions of manipulation.
+
+> Zhang Huan's works are frequently based on his performance art, which is sometimes painful or perilous, but almost always involves using his own body as a surface for symbolic political commentary. "The body is the only direct way through which I come to know society and society comes to know me," Zhang says. "The body is the proof of identity. The body is language." Whereas his earliest performance works in China centered on physical endurance, after moving to New York, in 1998, Zhang's later works show the body as a productive intersection between personal and social identity. In *Skin (20 Self-Portraits)*, the artist's sequential manipulations of his skin and body parts create an alphabet of gestures-blocking his eyes, ears, and nose-that symbolizes anger and resistance. [From *The Order of Things*]
+
+![](images/typologies/zhanghuan.jpg)
+
+---
+
+### Dieter Appelt, *The Mark on the Mirror Breathing Makes* (1977)
+
+> Many of Dieter Appelt's works address his traumatic post-World War II experience of Germany through a series of photographed performances or "actions"-as he calls them, after Josef Beuys. This emphasis on dramatic performance may stem from the fact that Appelt was trained as an opera singer, and worked with the Deutsche Opera Berlin for eighteen years before turning to photography in 1979. Focusing on detailed photographic studies of elements of his body in performance, he utilizes extreme physicality and labored temporality to allude to issues of death, decay, rebirth, and the ephemeral. "I want to unmask time in a picture," Appelt has said. "I'm interested in having a succession of movements layered in one image. I use time like a mechanic, permanently layering memories and actual experiences ... like a time montage." His image of breath on a mirror breaks down that evanescent moment into a series of concrete actions, and distills time into a frame-by-frame sequential performance. [From *The Order of Things*]
+
+![](images/typologies/appelt.jpg)
+
 ---
 
 ### Before and After

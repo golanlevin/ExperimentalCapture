@@ -22,6 +22,16 @@ In Meaghan Kombol's *The Subway Lines*, the artist attempted to draw straight li
 
 ![](images/typologies/datavis_subwaylines.jpg)
 
+---
+
+### J.F. Blumenbach (1752-1840)
+
+> Blumenbach’s central question, one of great interest at the time and still rarely discussed in science, was whether contemporary humans comprised one or more species. The first edition of his thesis discussed four geographically defined varieties of humans, while the second edition in 1881 outlined five geographically defined varieties. (From [*The beautiful skull and Blumenbach’s errors: the birth of the scientific concept of race*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151154/))
+
+In his writings and typological illustrations, Blumenbach put special emphasis on the comparative aesthetics of skulls. "Mostly, Blumenbach’s writing retained a scientific stance, but he exposed his bias on beauty when he wrote that the Causasian skull of a Georgian female was the “most handsome and becoming.”
+
+![](images/typologies/blumenbach2.jpg)
+
 It is also possible to use photographs (and not just charts or diagrams) in small multiples. Eadweard Muybridge's gridlike presentation of frames from the horse in motion provide comparative context for the special "key" frame that won the famous bet — showing all four hooves off the ground. *These are organized in time.*
 
 ![](images/typologies/The_Horse_in_Motion.jpg)
@@ -32,7 +42,7 @@ Here's a photographic small multiple which depicts "what 200 calories looks like
 
 ---
 
-## Typologies
+## (Photographic) Typologies 
 
 [**Exploring photography as a tool for visual classification**](https://www.photopedagogy.com/typologies.html): 
 
@@ -49,7 +59,6 @@ Photography, from its beginnings in the 1830s, has been preoccupied with catalog
 
 Typically, and unlike small multiples, typologies depict a *collection*, and not necessarily an *ordered set*. 
 
----
 
 ### Alphonse Bertillon, *Anthropometry* (1885)
 

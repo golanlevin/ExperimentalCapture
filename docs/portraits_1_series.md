@@ -41,6 +41,14 @@ Every year for the past 40 years, Nicholas Nixon has photographed the four Brown
 
 ---
 
+### Taryn Simon
+
+Taryn Simon [discusses typological approaches in her portrait series](https://www.youtube.com/watch?v=lBatctT7iFo&t=58s), *A Living Man Declared Dead and Other Chapters*.
+
+[![**](images/typologies/simon.jpg)](https://www.youtube.com/watch?v=lBatctT7iFo&t=58s)
+
+---
+
 ### Faces Under Reflection
 
 Transformations can be purely formal. This [series by Alex Beck](https://time.com/2848303/heres-what-faces-would-look-like-if-they-were-perfectly-symmetrical/) and this [related work by Julian Wolkenstein](https://petapixel.com/2012/10/02/a-portrait-project-showing-subjects-with-two-perfectly-symmetrical-faces/) shows how different people's faces appear when mirrored. 

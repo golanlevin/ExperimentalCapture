@@ -86,7 +86,7 @@ Photographic typologies immediately had applications in (pseudo-)scientifically 
 
 Wilson Alwyn Bentley was the first known photographer of snowflakes. He invented a process of catching flakes on black velvet in such a way that their images could be captured before they either melted or sublimated.
 
-[![](images/typologies/wilson_snowflake_bentley.jpg)](https://www.youtube.com/watch?v=ptLmA263hlk)
+[![](images/typologies/wilson_snowflake_bentley.jpg)](https://www.youtube.com/watch?v=ptLmA263hlk) ([8-minute short film](https://www.youtube.com/watch?v=ptLmA263hlk))
 
 [![](images/typologies/bentley_snowflakes.jpg)](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/typologies/bentley_snowflakes.jpg)
 
@@ -108,7 +108,7 @@ Masters of the photographic typology, Bernd and Hilla Becher spent more than 30 
 
 ### Ed Ruscha
 
-> Ruscha explains that he 'had no real agenda or message' when photographing the swimming pools, gas stations and parking lots of Los Angeles, yet found an artistic value and new perspective in shooting the scenes from above. [Video](https://www.youtube.com/watch?time_continue=16&v=0xboX5cvIzw)
+> Ruscha explains that he 'had no real agenda or message' when photographing the swimming pools, gas stations and parking lots of Los Angeles, yet found an artistic value and new perspective in shooting the scenes from above. [3-minuteVideo](https://www.youtube.com/watch?time_continue=16&v=0xboX5cvIzw)
 
 [![](images/typologies/ruscha_gas_stations.jpg)](https://www.youtube.com/watch?time_continue=16&v=0xboX5cvIzw)
 
@@ -257,7 +257,7 @@ Tim Hawkinson extracted just the numbers, in his altered found photograph, *Blea
 
 ### Collections Presented In Time
 
-While small multiples are generally ordered in space, they can also be ordered by time, as in this extreme [16-year time lapse by artist JK Keller](https://www.youtube.com/watch?v=LVAkxmZqNNE):<br />[![](images/typologies/selfies-JK-Keller.jpg)](https://www.youtube.com/watch?v=LVAkxmZqNNE)
+While small multiples are generally ordered in space, they can also be ordered by time, as in this extreme [16-year time lapse by artist JK Keller](https://www.youtube.com/watch?v=hcWVoTlknwM):<br />[![](images/typologies/selfies-JK-Keller.jpg)](https://www.youtube.com/watch?v=hcWVoTlknwM)
 
 Consider the following two projects by former CMU MFA student, [Cassandra C. Jones](http://www.cassandracjones.com), depicting 'distributed objects':
 

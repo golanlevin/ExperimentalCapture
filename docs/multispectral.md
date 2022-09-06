@@ -299,6 +299,8 @@ Many animals [appear different, and can see in the ultraviolet](http://www.theat
 
 UV is also [widely used in forensics](http://ultravioletcameras.com/applications/longwave-ultraviolet-forensics-imaging-applications/):<br />![Cleaning marks visualized with UV](images/uv/uv_forensics_paint.jpg)
 
+Recently, [skin splotches that are visible only in UV have been used as markers for face-tracking](https://vimeo.com/536145929/3227ef1035).<br />![UV face tracking](images/multispectral/uv-face-tracking.jpg)
+
 
 #### Fluorescence is not UV Imaging
 

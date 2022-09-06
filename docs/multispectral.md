@@ -304,6 +304,12 @@ Recently, [skin splotches that are visible only in UV have been used as markers 
 
 #### Fluorescence is not UV Imaging
 
+Fluorescent materials absorb UV light (and thus appear dark in a UV camera). The materials then convert some of that absorbed energy into visible light, which they release. Thus, fluorescent materials appear brighter to the eye because they appear to be glowing. 
+
+*UV fluorescence as viewed by the STUDIO's UV camera:*
+
+![fluorescence-test.jpg](images/uv/fluorescence-test.jpg)
+
 *UV fluorescence reveals hidden imagery in a Canadian Passport and Danish currency:* 
 
 ![canadian-passport-with-uv.jpg](images/multispectral/canadian-passport-with-uv.jpg)

@@ -364,17 +364,21 @@ As X-rays can reveal the interior structure of objects and people, we expect to 
 
 ![infrastructures-of-natural-history-leopard.jpg](images/infrastructures-of-natural-history-leopard.jpg)
 
+* [Scans of historic sculptures by David Maisel](https://davidmaisel.com/works/historys-shadow/)
+
+![David Maisel X-Ray](images/multispectral/HS_GM10_MAISEL2.jpg)
+
 * [X-ray portraits by Ayako Kanda and Mayuka Hayashi](http://www.boredpanda.com/x-ray-couple-portraits-ayako-kanda-mayuka-hayashi/)
 
-![X-ray portraits by Ayako Kanda and Mayuka Hayashi](https://c2.staticflickr.com/8/7198/27196288194_c64b8f810a_b.jpg)
+![X-ray portraits by Ayako Kanda and Mayuka Hayashi](images/multispectral/KandaandHayashi.jpg)
 
 * [*Lick* by Wim Delvoye](http://curiator.com/art/wim-delvoye/lick-1)
 
-![Lick by Wim Delvoye](https://c2.staticflickr.com/8/7392/27707261232_b627010ce9_b.jpg)
+![Lick by Wim Delvoye](images/multispectral/delvoye-lick-xray.jpg)
 
 * [*Pinup Calendar* by German ad firm, BUTTER](http://www.themarysue.com/x-ray-pin-up-calendar/)
 
-![Pinup Calendar by BUTTER](https://c2.staticflickr.com/8/7298/27196288294_99546c5c9c_o.jpg)
+![Pinup Calendar by BUTTER](images/multispectral/butter-xray-pinup.jpg)
 
 It is also possible to design or arrange objects for the express purpose of having them discovered in X-Ray images.
 
@@ -391,7 +395,7 @@ It is also possible to design or arrange objects for the express purpose of havi
 
 ---
 
-## Hyperspectral Imaging
+## Multispectral Imaging
 
 Using [Bayer filters](https://en.wikipedia.org/wiki/Bayer_filter), standard color digital cameras record three channels (RGB) of spectral information. Using less-common Bayer filters, a few [specialized cameras have four channels](https://www.e-consystems.com/OV4682-RGB-IR-USB3-camera.asp) (RGB+NIR), or even [as many as 8 or 16](https://www.spectraldevices.com/products/multispectral-snapshot-cameras). As the number of channels increases even further, multi-spectral imaging becomes [*hyperspectral imaging*](https://en.wikipedia.org/wiki/Hyperspectral_imaging), which attempts to capture the entire reflective or emissive spectrum for every pixel — essentially representing an image with a three-dimensional (x,y,λ) *data cube*. Some hyperspectral cameras have [as many as 200 spectral channels](https://www.specim.fi/iq/tech-specs/), some with bandwidth as narrow as 7 nanometers per channel.
 

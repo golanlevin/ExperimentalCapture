@@ -388,10 +388,11 @@ It is also possible to design or arrange objects for the express purpose of havi
 
 ![Evan Roth's TSA Interventions](images/x-ray_tsa_communications_roth2.jpg)
 
-* We can also reimagine extreme insertions as a mode of performance art, for the audience of radiologists. ([X-ray insertions](https://www.google.com/search?q=X-ray+insertions&tbm=isch))
+* We can also reimagine extreme insertions as a form of performance art, for an audience of radiologists. ([X-ray insertions](https://www.google.com/search?q=X-ray+insertions&tbm=isch))
 
 ![X-ray insertions](images/x-ray_hammer_insertion.jpg)
 
+* [Backscatter X-Ray imaging](http://www.propublica.org/article/drive-by-scanning-officials-expand-use-and-dose-of-radiation-for-security-s) operates differently, and measures the X-Rays that bounce off of materials rather than passing through them.<br />![Backscatter examination of truck with illegal immigrants](images/backscatter-truck.jpg)
 
 ---
 
@@ -447,9 +448,9 @@ Multispectral and hyperspectral cameras are built using several different techno
 
 ![Ground penetrating radar](images/ground-penetrating-radar.jpg)<br />*(Image from [here](http://www.malags.com/getattachment/Innovation/GPR-Explained/MALA-GPR-principle.jpg)).*
 
-**Ground-penetrating radar** images features such as underground pipes. Speak to the professor if you're interested in this; we have a contact at Pittsburgh-area providers, [Geospatial Corporation](http://www.geospatialcorporation.com/).
+**Ground-penetrating radar** images features such as underground pipes. We have a contact at Pittsburgh-area GPR providers, [Geospatial Corporation](http://www.geospatialcorporation.com/).
 
-**Radio waves** can be used in other ways for imaging, as in [RF-Pose](https://www.youtube.com/watch?v=HgDdaMy8KNE) by researchers at MIT CSAIL:<br />[![Terahertz imaging](images/radio.png)](https://www.youtube.com/watch?v=HgDdaMy8KNE)
+**Radio waves** can be used in other ways for imaging, as in [RF-Pose](https://www.youtube.com/watch?v=HgDdaMy8KNE) by researchers at MIT CSAIL. The STUDIO owns a [Walabot](https://walabot.com/) RF imaging device (essentially a stud-finder array) which, used with appropriate machine-learning models, can form the basis for this type of imaging.<br />[![Terahertz imaging](images/radio.png)](https://www.youtube.com/watch?v=HgDdaMy8KNE)
 
 #### Millimeter Wave & Terahertz Imaging
 
@@ -457,10 +458,9 @@ Multispectral and hyperspectral cameras are built using several different techno
 
 This is the stuff that *really* sees through clothing.
 
-* [Millimeter wave scanners](https://en.wikipedia.org/wiki/Full_body_scanner#Controversies), also called backscatter imaging, are used by the TSA
+* [Millimeter wave scanners](https://en.wikipedia.org/wiki/Full_body_scanner#Controversies), are used by the TSA
 * [Terahertz imagers](http://www.stamparein3d.it/wp-content/uploads/2015/04/Lenti-a-Onde-THZ-05.jpg), which operate around 300 micrometers.
 
-Indeed, it can see through [more than just clothing](http://www.propublica.org/article/drive-by-scanning-officials-expand-use-and-dose-of-radiation-for-security-s).<br />![Backscatter examination of truck with illegal immigrants](images/backscatter-truck.jpg)<br />
 
 #### CT Scans, MRI, CAT etc.
 

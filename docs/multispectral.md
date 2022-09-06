@@ -331,7 +331,7 @@ The wet collodion process primarily records UV information, as can be seen in th
 * Of course, [dedicated UV cameras](http://www.edmundoptics.com/cameras/nir-uv-cameras/sony-xc-e-series-monochrome-ccd-cameras/56346/) also exist, some of which, like this [Nurugo UV camera attachment](https://www.amazon.com/Nurugo-SmartUV-Detachable-Lamp-Connectable/dp/B079YVY7PB) for Android, are relatively inexpensive.
 
 ![Golan in UV](images/uv/uv_golan.jpg)<br />
-*The STUDIO has an extremely sensitive monochrome security camera which, used with a UV-pass filter, is able to view the world in UV. The image above was recorded with this camera.*
+*The STUDIO has an extremely sensitive monochrome security camera which, used with a UV-pass filter, is able to view the world in UV. The image above was recorded with this camera. You can see some of my skin damage.*
 
 Ultraviolet light can also produce dramatic fluorescence in some materials.  
 
@@ -396,6 +396,8 @@ It is also possible to design or arrange objects for the express purpose of havi
 ---
 
 ## Multispectral Imaging
+
+*What is the spectrum of light captured by each pixel of a camera?*
 
 ![bayer_pattern_on_sensor.png](images/multispectral/bayer_pattern_on_sensor.png)
 

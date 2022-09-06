@@ -562,6 +562,10 @@ Dr. Gary Settles at Penn State University, an expert in Schlieren imaging and sh
 
 ## Sonar and Ultrasound
 
+The STUDIO has a portable ultrasound device. ExCap'20 student Cat Ploehn used this to create a [typology or portrait series of her classmates' beating hearts](https://courses.ideate.cmu.edu/60-461/s2020/cploehnandrew-cmu-edu/02/27/sonogram-portraits-of-heartbeats/). 
+
+![Ploehn hearts](images/multispectral/cat_ploehn_ultrasound_hearts.gif)
+
 It's well-known that bats and dolphins image the world through ultrasonic reflections.
 
 But were you aware of *human echolocation*? Here are three different individuals, who despite being blind are able to map a detailed mental plan of their surroundings:

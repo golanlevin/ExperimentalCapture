@@ -12,6 +12,12 @@ The input to photogrammetry is *photographs*, and the output is typically a 3D m
 
 ### Triangulation from multiple images
 
+![photogrammetry.png](images/photogrammetry.png)
+
+
+3D shapes are determined by comparing corresponding points in multiple images. 
+
+
 ![triangulation.jpg](images/triangulation.jpg)
 
 ![stereoplotting-2.jpg](images/stereoplotting-2.jpg)
@@ -41,14 +47,7 @@ The Kelsh Stereoplotter (1940s), video:<br />
 
 ![lightning2.gif](images/lightning2.gif)
 
-* Google Earth		
-	* Using stereo photogrammetry to make google maps buildings. [Article](www.mastersketchup.com/why-google-doesnt-need-sketchup-anymore/) [Video](https://www.youtube.com/watch?v=N6Douyfa7l8)
-   * [With satellite](http://eijournal.sensorsandsystems.com/newsite/wp-content/uploads/2012/06/cover_section3_grx.jpg)
-* Real estate (look into the homes online) [Matterport](http://realestate.matterport.com/)
-* LIDAR 
   * [ScanLab created a fashion shoot with 3d laser scanners](http://www.dezeen.com/2014/06/26/scanlab-vivienne-westwood-first-laser-scanned-photoshoot-interview/)
-  * [Terrestrial laser scanning by CyArk]	(http://www.cyark.org/education/terrestrial-lidar-3d-laser-scanning	)
-  * [Phantom by Scanlab] (http://scanlabprojects.co.uk/projects/newmuseumnewyork) VR Brazilian rainforest
 
 
 				

@@ -53,7 +53,7 @@ Capturing Nouns (People, Places, and Things):
 * [Portraits III: The Indirect Portrait](docs/portraits_3_indirect_portrait.md)
 * [Multispectral Imaging](docs/multispectral.md)
 * [Capturing and Representing Objects: Still Life & More](docs/object-references.md)
-* [Photogrammetry](docs/photogrammetry-and-3D-scanning.md)
+* [Photogrammetry](docs/photogrammetry.md)
 * [Pixel rearrangement](docs/pixel-rearrangement.md)
 
 Capturing Phenomena in Time: 

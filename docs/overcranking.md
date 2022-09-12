@@ -6,12 +6,11 @@
 Ordinary video is customarily 25 (Europe) or approximately 30 (USA) frames per second (fps). Slow-motion cinema, also known as *overcranking*, is achieved by using a special camera which can record events at higher frame rates, such as 1000fps. When this video is then played back at the usual frame rate, it appears slowed down. 
 
 Some practical options available to our class are: 
-* Modern iPhones can achieve 240 frames per second.
-* We have an [Edgertronics](http://edgertronic.com/) high-speed camera, capable of up to 18,000 fps. This camera does 720p video at 700 fps. 
-* We have a Casio Exilim Pro EX-F1 ($750-1000), which can record low-resolution video at 300, 600, and 1200 frames per-second. 
-* Another option is the inexpensive Sony PS3-Eye USB webcam (less than $50). Using Chris Baker's addon for openFrameworks, the PS3 eye can achieve can record 320x240 video at frame rates of 60,120, 187, and (with some glitches) 205 fps, yielding up to a 8x slowdown.
 
-Because the exposure time of each frame is so short, high-frame-rate cameras generally require a lot of light. A lighting kit or bright sunshine is essential for good results with slow-motion cameras. 
+* Modern iPhones can achieve 240 frames per second.
+* We have two [Edgertronics](http://edgertronic.com/) high-speed cameras, capable of up to 18,000 fps. This camera does 720p video at 1000 fps.
+
+Because the exposure time of each frame is so short, high-frame-rate cameras generally require a lot of light. A lighting kit or bright sunshine is essential for good results with slow-motion cameras. For very high speed cameras, it is essential to have lights without any appreciable flickering.
 
 ### Readings
 
@@ -40,9 +39,8 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 [![Raspberry](images/raspberry.gif)](https://www.youtube.com/watch?v=cWGn6_EH2gM) 
  
   * [Face slap](https://www.youtube.com/watch?v=7AXB8nGq5jc)
-  * [Baby laugh, with audio](https://www.youtube.com/watch?v=8igSA8HdR_Q)
-  * ['Ultraslo' stock clips](http://www.ultraslo.com/)
-  * [High speed video clip database, Colorado State](http://high_speed_video.colostate.edu/)
+  * [Baby laugh, with audio](https://www.youtube.com/watch?v=ikD-Uugb0zo); another [one](https://www.youtube.com/watch?v=yuwWCT-LiCs)
+  * [High speed video clip database, Colorado State](https://high-speed-video.colostate.edu/)
 
 --
 
@@ -51,7 +49,6 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 
 [![Bill Viola](images/viola.jpg)](https://www.youtube.com/watch?v=MR9av-I35ME)
 
-  * [Silent Mountain](https://www.youtube.com/watch?v=e2Eam0GMjZg)
   * [The making of Emergence](https://www.youtube.com/watch?v=hx5Cu7U-Fkg)
   * [Six Heads (The Passions)](https://www.youtube.com/watch?v=x1mGaf1lElo)
 
@@ -95,18 +92,18 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 
 ---
 
-1. Julien Maire, [*Double-Face* and *Ordonner*](http://julienmaire.ideenshop.net/project3.shtml)
+1. Julien Maire, [*Double-Face* and *Ordonner*](https://www.youtube.com/watch?v=Z2-FecbLogs)
 
-![Julien Maire, Ordonner](images/julien_maire_1.jpg)
+[![Julien Maire, Ordonner](images/julien_maire_1.jpg)](https://www.youtube.com/watch?v=Z2-FecbLogs)
 
   * French new-media artist Julien Maire plays fun on the concept of slow-motion cinema in these elaborately conceived simulacra, which are not actually presented in slow-motion. In one live performance (*Ordonner*), he heaves "heavy-looking" cardboard boxes which are in reality filled with helium balloons; their slow, gentle tumble through the air is a near-perfect imitation of slowmo video. In Maire's *Double-Face* performance, a coin tossed in the air tumbles ever more slowly until it eventually comes to a rest in mid-air; in fact, the coin is controlled by a mechatronic suspension system with nearly invisible guy-wires.
-  * [*Double-Face* ](images/julien_maire_df_perf.mov), http://julienmaire.ideenshop.net/mov/df_perf.mov
-  * [*Ordonner*](images/julien_maire_or_perf.mov), http://julienmaire.ideenshop.net/mov/or_perf.mov
+  * [*Double-Face* ](https://www.youtube.com/watch?v=Tn3gcSYyRiE)
+  * [*Ordonner*](https://www.youtube.com/watch?v=Z2-FecbLogs)
 
 ---
 
-1. The Dancing Pigeons, [*Ritalin*](https://vimeo.com/13639493) (Music video, 2010)
-[![Ritalin by the Dancing Pigeons](images/ritalin.jpg)](https://vimeo.com/13639493) (Music video, 2010)
+1. The Dancing Pigeons, [*Ritalin*](https://www.youtube.com/watch?v=ZziLdaAaRIg) (Music video, 2010)
+[![Ritalin by the Dancing Pigeons](images/ritalin.jpg)](https://www.youtube.com/watch?v=ZziLdaAaRIg) (Music video, 2010)
 
 ---
 

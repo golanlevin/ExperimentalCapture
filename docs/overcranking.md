@@ -145,3 +145,7 @@ Special things happen to sound when it is slowed down *and* time-stretched. The 
 
 
 Zach Poff has [Resources for Exploring Ultrasound](https://www.zachpoff.com/resources/exploring-ultrasound/). For example, Bioacoustics researchers and hobbyists use portable bat detectors to lower their pitch into the human hearing range in realtime. 
+
+[See What Happens When You Tickle a Rat](https://www.youtube.com/watch?v=d-84UJpYFRM&t=17s) - Ultrasonic laughter. Male mice make ["courtship songs"](https://www.youtube.com/watch?v=wVQVw478Rh4). These researchers [used machine learning](https://www.youtube.com/watch?v=25LYVxTUZhM) to recognize their calls.
+
+Brian House has made "[macrophones](https://brianhouse.net/works/macrophones/)" that capture infrasound (ultra-low frequencies) and speed it up by several octaves.

@@ -17,7 +17,10 @@ boolean bDoSave = false;
  
 //----------------------------------------------------------
 void setup(){
-  myCapture = new Capture(this, videoWidth,videoHeight);
+  String[] cameras = Capture.list();
+  printArray(cameras); 
+  
+  myCapture = new Capture(this, videoWidth,videoHeight, cameras[0]);
   myCapture.start();
   size(1280,720); // can't use variables here in Processing v.4.
   previousImage = new PImage(myCapture.width,myCapture.height);

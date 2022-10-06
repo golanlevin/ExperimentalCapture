@@ -5,13 +5,12 @@ This document lists some powerful, low-budget, resources for capturing gestural 
 ### Contents:
 
 **OSC Tools**
+* [VisionOSC](#VisionOSC)
 * [touchOSC](#touchOSC)
 * [gyrOSC](#gyrOSC)
 * [FaceOSC](#FaceOSC)
-* [blinkOSC](#blinkOSC)
-* [EyeOSC](#EyeOSC)
-* [sendMultiTouches](#sendMultiTouches)
-* [PoseOSC](#PoseOSC)
+* [TrackpadOSC](TrackpadOSC)
+* [HandsFreeOSC](HandsFreeOSC)
 
 **Non-OSC Tools**
 * [PoseNet in the Browser](#PoseNet-in-the-Browser)
@@ -27,6 +26,16 @@ This document lists some powerful, low-budget, resources for capturing gestural 
 
 ---
 
+### VisionOSC
+
+Lingdong Huang has published [VisionOSC](https://github.com/LingDong-/VisionOSC), which includes PoseOSC + FaceOSC + HandOSC + OcrOSC + CatOSC + DogOSC. This sends (almost) all Apple Vision Framework's detection results via OSC. macOS 11+ only. Bundle includes app and Processing receiver. 
+
+[Download VisionOSC.zip](VisionOSC.zip)
+
+![VisionOSC](images/vision-osc.png)
+
+---
+
 ### touchOSC
 
 [TouchOSC](https://hexler.net/products/touchosc) is a modular OSC and MIDI control surface for iOS (iPhone/iPod Touch/iPad) and Android. It can send messages via OSC from interactions with its control panels. Custom control panels can be created by using the TouchOSC Editor, available for Windows/Mac OSX/Linux.
@@ -37,7 +46,6 @@ This document lists some powerful, low-budget, resources for capturing gestural 
 ![touchOSC.png](images/touchOSC.png)
 
 ![touchosc-20.png](images/touchosc-20.png)
-
 
 ---
 
@@ -51,18 +59,17 @@ This document lists some powerful, low-budget, resources for capturing gestural 
 
 ![gyrOSC.png](images/gyrOSC.png)
 
-
 ---
 
 ### FaceOSC
 
-[FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/) is an application by Kyle McDonald that transmits face landmark geometries over OSC. There are a wide variety of clients (Processing, openFrameworks, etc.) which can receive this data for further artistic play. Created 2012-2016 by Kyle McDonald in openFrameworks v0.98. Known to work with Mac OSX 10.13.6, includes Processing v3 demo. Windows FaceOSC is [also available](https://github.com/kylemcdonald/ofxFaceTracker/releases).
+[FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/) is an older application by Kyle McDonald that transmits face landmark geometries over OSC. There are a wide variety of clients (Processing, openFrameworks, etc.) which can receive this data for further artistic play. Created 2012-2016 by Kyle McDonald in openFrameworks v0.98. Known to work with Mac OSX 10.15, includes Processing v3 demo. Windows FaceOSC is [also available](https://github.com/kylemcdonald/ofxFaceTracker/releases).
 
 You will need: 
 
-* [FaceOSC.zip](FaceOSC.zip) (local copy), or from [Kyle's repository](https://github.com/kylemcdonald/ofxFaceTracker/releases)
+* [FaceOSC.zip](FaceOSC-v1.2-osx.zip) (local copy), or from [Kyle's repository](https://github.com/kylemcdonald/ofxFaceTracker/releases)
 * [OSCp5 library](http://www.sojamo.de/libraries/oscP5/) (enables Processing to receive OSC); install with the inbuilt installer
-* [FaceOSC Receiver Templates](https://github.com/CreativeInquiry/FaceOSC-Templates)
+* [FaceOSC Receiver Templates](https://github.com/CreativeInquiry/FaceOSC-Templates), [FaceOSC_ProcessingReceiver.zip](FaceOSC_ProcessingReceiver.zip)
 
 ![faceOSC_processing.png](images/faceOSC_processing.png)
 
@@ -79,50 +86,22 @@ Of related interest, are face-trackers that work with JavaScript in the browser:
 
 ---
 
-### blinkOSC
+### TrackpadOSC
 
-Sends blink signals when sufficient motion is detected around the subject's eyes. Created by Kyle McDonald in openFrameworks v0.98 in 2016, as a branch of his ofxFaceTracker. Known to work with Mac OSX 10.13.6, includes Processing v3 demo.
+Lingdong Huang provides [TrackpadOSC](https://github.com/LingDong-/TrackpadOSC), which provides data about finger movements on the Mac trackpad. Bundle includes app and Processing receiver. [Download TrackpadOSC.zip](TrackpadOSC.zip)
 
-* Download [blinkOSC.zip](blinkOSC.zip)
+![TrackpadOSC](images/trackpad-osc.png)
 
-![blinkOSC.png](images/blinkOSC.png)
----
+--- 
 
-### EyeOSC
+### HandsFreeOSC
 
-Gaze estimation application by Kyle McDonald (2012) that sends data over OSC, developed in collaboration with Yusuke Sugano. Known to work with Mac OSX 10.13.6, includes Processing v3 demo.
+Processing receiver for "[Hands-free OSC](https://apps.apple.com/us/app/hands-free-osc-control-music-with-gestures/id1135788686)" iOS app by [James Hudson](http://www.disconnectionist.com/): [Download](HandsFreeOSC.zip)
 
-* Download [EyeOSC.zip](EyeOSC.zip)
-* [Original repository](https://github.com/kylemcdonald/AppropriatingNewTechnologies/downloads)
-
-![eyeOSC.png](images/eyeOSC.png)
 
 ---
 
-### sendMultiTouches
-
-This is a small bit of code that will allow you to send multitouch data
-from a MacBook trackpad via OSC, by Duncan Boehle (2012).
-
-![sendmultitouches.png](images/sendmultitouches.png)
-
-* Download [sendMultiTouches.zip](sendMultiTouches.zip) for OSX
-* [Original repository](https://github.com/dboehle/SendMultiTouches)
-
----
-
-### PoseOSC
-
-By Lingdong Huang (2019), developed in Node.js. Transmits pose data computed with OpenPose over OSC. For a Processing demo, use with [PoseOSCProcessingReceiverXML.pde](PoseOSCProcessingReceiverXML/PoseOSCProcessingReceiverXML.pde).
-
-* [Download PoseOSC](https://github.com/LingDong-/PoseOSC/releases)
-* [Main repository](https://github.com/LingDong-/PoseOSC)
-
-![poseOSC.png](images/poseOSC.png)
-
----
-
-
+# Non-OSC Tools
 
 
 ### PoseNet in the Browser

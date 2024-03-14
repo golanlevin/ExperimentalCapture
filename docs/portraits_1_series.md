@@ -50,6 +50,16 @@ Every year for the past 40 years, Nicholas Nixon has photographed the four Brown
 
 ---
 
+### The Only Woman
+
+![the-only-woman-immy-humes.jpg](images/portraits/the-only-woman-immy-humes.jpg)
+
+In the photo book ["The Only Woman" by Immy Humes](https://www.smithsonianmag.com/history/these-trailblazers-were-the-only-women-in-the-room-where-it-happened-180980468/), the author collected 100 historical photographs of lone women hidden among groups of men. She writes: 
+
+> *A huge percentage of the photographic record of Western culture is incredibly boring: endless large groups of formally dressed, formally arranged men facing the camera. The overwhelming majority of these groups were all male—but it’s uncanny to see how many women snuck in, one at a time, to become the only woman in the room. I found pleasure in spotting these solitary women, and then, most of all, unraveling the mystery of them: What were they doing there?*
+
+---
+
 ### Taryn Simon
 
 Taryn Simon [discusses typological approaches in her portrait series](https://www.youtube.com/watch?v=lBatctT7iFo&t=58s), *A Living Man Declared Dead and Other Chapters*.

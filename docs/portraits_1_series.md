@@ -50,6 +50,17 @@ Every year for the past 40 years, Nicholas Nixon has photographed the four Brown
 
 ---
 
+### Leaving and Waving
+
+Deanna Dikeman's book [*Leaving and Waving*](https://deannadikeman.com/leaving-and-waving) presents 27 years of the author photographing her parents waving goodbye as she left their home after a visit.
+
+![deanna_dikeman_leaving_and_waving.jpg](images/portraits/deanna_dikeman_leaving_and_waving.jpg)
+
+> For 27 years, I took photographs as I waved good-bye and drove away from visiting my parents at their home in Sioux City, Iowa. I started in 1991 with a quick snapshot, and I continued taking photographs with each departure. I never set out to make this series. I just took these photographs as a way to deal with the sadness of leaving. It gradually turned into our good-bye ritual. In 2009, there is a photograph where my father is no longer there. My mother continued to wave good-bye to me. In October of 2017 she passed away. When I left after her funeral, I took one more photograph, of the empty driveway. For the first time in my life, no one was waving back at me.
+
+
+---
+
 ### The Only Woman
 
 ![the-only-woman-immy-humes.jpg](images/portraits/the-only-woman-immy-humes.jpg)

@@ -2,10 +2,15 @@
 
 ### Computational & Expanded ███ography
 
-Primary Author: [Golan Levin](http://flong.com), Carnegie Mellon University<br />
-Curricular Materials for CMU Course 60-461/60-761/16-461<br />
+[Golan Levin](https://art.cmu.edu/people/golan-levin/) & [Nica Ross](https://www.drama.cmu.edu/people/faculty-staff/nica-ross/), Carnegie Mellon University<br />
+Curricular Materials for CMU Course 60-461/761, 54-461/661<br />
 
-> <small>This is an interdisciplinary course in experimental media practices that arise from using devices to "capture" the world. We will survey state-of-the-art techniques and emerging ideas, in the industry and in academia, to capture, model, and render objects, people, places and events. The course evaluation will be project-based, in which students will capture a wide variety of things, and develop projects around the data they collect. We will cover capture techniques including motion capture, video-based capture, panoramic and multispectral imaging, depth sensors, 3D scanners, hand and eye-gaze trackers; classic and contemporary representations of face and body pose and motion; and recent progress in animation, synthesis, classification, and rehabilitation on new forms of displays.</small>
+> <small>
+> 
+This is an interdisciplinary studio course in expanded media practices that arise from using devices and algorithms to "capture" the world. We will explore experimental workflows, ranging from no-tech and low-tech to emerging and state-of-the-art techniques, in order to capture, model, and share new representations of people, objects, places and events. Through self-directed research projects, students will develop systems to capture a wide variety of phenomena, and creatively share the media they collect. We will cover a wide range of techniques and artistic practices that incorporate immersive, panoramic, high-speed, multiscopic, and multispectral imaging; depth sensors and 3D scanners; motion capture systems for gestures of the face, body, hand, and eye; computer vision and machine learning techniques for detection, tracking, recognition and classification; and other unusual, forgotten, and nascent technologies for transducing the unseen, ephemeral, and otherwise undetectable.
+> 
+> </small>
+
 
 ---
 
@@ -84,6 +89,7 @@ More:
 
 ### Editions, Credits & Acknowledgements
 
+* [**Fall 2022**](https://courses.ideate.cmu.edu/60-461/f2022/): Golan Levin & Nica Ross (co-taught)
 * [**Spring 2020**](https://courses.ideate.cmu.edu/60-461/s2020/): Golan Levin & Nica Ross (co-taught)
 * [July 2018 one-week workshop](workshop/README.md): Golan Levin
 * [Spring 2017](http://golancourses.net/excap17/): Golan Levin & Claire Hentschker (TA)
@@ -91,7 +97,7 @@ More:
 * Fall 2015: Golan Levin
 
 
-*This syllabus contains many contributions from [James George](http://jamesgeorge.org/) and [Alexander Porter](http://alexanderporter.net/) (of [Scatter/Specular](http://www.specular.cc/)), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Kyle McDonald](http://kylemcdonald.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Suzie Silver](http://suziesilver.com/), [Claire Hentschker](http://www.clairesophie.com/), [Nica Ross](https://www.nicaross.com/), and others.* 
+*This syllabus contains contributions by [Golan Levin](http://flong.com) and [Nica Ross](https://www.nicaross.com/); [James George](http://jamesgeorge.org/) and [Alexander Porter](http://alexanderporter.net/) (of [Scatter/Specular](http://www.specular.cc/)), [Pablo Garcia](http://pablogarcia.org/), [Jeffrey Hinkelman](https://twitter.com/jeffhinkelman), [Kyle McDonald](http://kylemcdonald.net/), [Matt Gray](http://www.northeastern.edu/camd/theatre/people/matt-gray/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Suzie Silver](http://suziesilver.com/), [Claire Hentschker](http://www.clairesophie.com/), and others.* 
 
 ---
 

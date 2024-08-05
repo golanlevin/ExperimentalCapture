@@ -5,11 +5,7 @@
 [Golan Levin](https://art.cmu.edu/people/golan-levin/) & [Nica Ross](https://www.drama.cmu.edu/people/faculty-staff/nica-ross/), Carnegie Mellon University<br />
 Curricular Materials for CMU Course 60-461/761, 54-461/661<br />
 
-> <small>
-> 
-This is an interdisciplinary studio course in expanded media practices that arise from using devices and algorithms to "capture" the world. We will explore experimental workflows, ranging from no-tech and low-tech to emerging and state-of-the-art techniques, in order to capture, model, and share new representations of people, objects, places and events. Through self-directed research projects, students will develop systems to capture a wide variety of phenomena, and creatively share the media they collect. We will cover a wide range of techniques and artistic practices that incorporate immersive, panoramic, high-speed, multiscopic, and multispectral imaging; depth sensors and 3D scanners; motion capture systems for gestures of the face, body, hand, and eye; computer vision and machine learning techniques for detection, tracking, recognition and classification; and other unusual, forgotten, and nascent technologies for transducing the unseen, ephemeral, and otherwise undetectable.
-> 
-> </small>
+> <small>This is an interdisciplinary studio course in expanded media practices that arise from using devices and algorithms to "capture" the world. We will explore experimental workflows, ranging from no-tech and low-tech to emerging and state-of-the-art techniques, in order to capture, model, and share new representations of people, objects, places and events. Through self-directed research projects, students will develop systems to capture a wide variety of phenomena, and creatively share the media they collect. We will cover a wide range of techniques and artistic practices that incorporate immersive, panoramic, high-speed, multiscopic, and multispectral imaging; depth sensors and 3D scanners; motion capture systems for gestures of the face, body, hand, and eye; computer vision and machine learning techniques for detection, tracking, recognition and classification; and other unusual, forgotten, and nascent technologies for transducing the unseen, ephemeral, and otherwise undetectable.</small>
 
 
 ---

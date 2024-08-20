@@ -2,6 +2,10 @@
 
 [![](images/tracking/joystick-headtracking.png)](https://twitter.com/tannicalloy/status/1206440500162482176)
 
+![gesture-head-device.gif](images/gesture-head-device.gif)
+
+[Head motion capture with two DualShocks](https://x.com/tannicalloy/status/1206440500162482176), by @tannicalloy
+
 ---
 
 Some Code Resources: 

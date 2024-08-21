@@ -1,4 +1,4 @@
-# Point of View: Inversion
+# Point of View: Inversion & Rotation
 
 Flipping one's view upside-down to see the world in new ways. Works especially well with double-flips (i.e. flipping phenomena which are already "upside-down"). 
 
@@ -16,11 +16,19 @@ Flipping one's view upside-down to see the world in new ways. Works especially w
 
 [Inverted sloths by Andy Quitmeyer](https://x.com/HikingHack/status/1524772008973770754)
 
-![inverted-sloths.gif](images/upside-down/inverted-sloths.gif)
+![Inverted Sloths](images/upside-down/inverted-sloths.gif)
 
 [Gymnastics in an upside-down house](https://www.youtube.com/shorts/l9g74jz_dEI)
 
 ![inverted-house.gif](images/upside-down/inverted-house.gif)
+
+---
+
+### Rotation
+
+Alpine Football
+
+![Tilted camera viewing soccer on a mountain](images/upside-down/pov_tilt_alpine_football.gif)
 
 ---
 

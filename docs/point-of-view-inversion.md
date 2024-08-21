@@ -8,7 +8,7 @@ Flipping one's view upside-down to see the world in new ways. Works especially w
 
 [Underwater upside-down view of synchronized swimmers](https://www.youtube.com/watch?v=NhEvyXfGZfY) (YouTube), by Fabio Ferioli / [Source](https://x.com/Rainmaker1973/status/1821496576377762118)
 
-![inverted-swimmers.gif](images/upside-down/inverted-swimmers.gif)
+[![inverted-swimmers.gif](images/upside-down/inverted-swimmers.gif)](https://www.youtube.com/watch?v=NhEvyXfGZfY)
 
 [Hanging bats filmed upside-down look like a Goth nightclub](https://www.youtube.com/watch?v=bS6KWNB5NEo)
 

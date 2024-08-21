@@ -30,6 +30,10 @@ Alpine Football
 
 ![Tilted camera viewing soccer on a mountain](images/upside-down/pov_tilt_alpine_football.gif)
 
+View of Juggling seen from above.
+
+![Juggling](images/upside-down/PerspectiveJuggling.gif)
+
 ---
 
 ### ...With Mirrors

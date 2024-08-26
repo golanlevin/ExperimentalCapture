@@ -40,6 +40,10 @@ In *Underkey*, Miles Peyton appled panoramic stitching software to numerous imag
 
 [![](images/students/miles_underkey.jpg)](https://raw.githubusercontent.com/golanlevin/ExperimentalCapture/master/docs/images/students/miles_underkey.jpg)
 
+### Em Lugo (2022)
+
+Gigapan panoramas from a robotically controlled microscope platform. [Link](https://courses.ideate.cmu.edu/60-461/f2022/index.html%3Fp=2050.html)
+
 ---
 
 ### Michelle Ma (2015)

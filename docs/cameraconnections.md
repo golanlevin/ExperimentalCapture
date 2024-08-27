@@ -1,5 +1,7 @@
 # Camera Connections
 
+[Axis Camera Info - permission required, student access only.](https://docs.google.com/document/d/1JhGlfEX-YZKQIJL193PoBLZXpsM68H6zVT81oVtsrCY/edit?usp=sharing)
+
 
 ## Video Output Connections for Cameras
 
@@ -114,7 +116,7 @@
 
 ### **Summary:**
 
-- **RTSP** is optimized for delivering compressed video over the internet with higher latency and is more commonly used in IP cameras and streaming applications where real-time interaction isn't critical.
-- **NDI** focuses on high-quality, low-latency video over local networks, ideal for live production and broadcast where minimal delay is essential.
+- **RTSP** invented in 1996, is optimized for delivering compressed video over the internet with higher latency and is more commonly used in IP cameras and streaming applications where real-time interaction isn't critical.
+- **NDI** invented in 2015, focuses on high-quality, low-latency video over local networks, ideal for live production and broadcast where minimal delay is essential.
 					
 					

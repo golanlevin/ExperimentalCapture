@@ -2,91 +2,90 @@
 
 [Axis Camera Info - permission required, student access only.](https://docs.google.com/document/d/1JhGlfEX-YZKQIJL193PoBLZXpsM68H6zVT81oVtsrCY/edit?usp=sharing)
 
-
 ## Video Output Connections for Cameras
 
-1. **HDMI (High-Definition Multimedia Interface)**
-   - Mini HDMI or Micro HDMI: Common in consumer and some professional cameras for external video monitors or recorders.
+- **HDMI (High-Definition Multimedia Interface)**
+  - Mini HDMI or Micro HDMI: Common in consumer and some professional cameras for external video monitors or recorders.
 
-2. **SDI (Serial Digital Interface)**
-   - BNC connectors, typically used in professional video cameras, for high-quality video output over longer distances.
+- **SDI (Serial Digital Interface)**
+  - BNC connectors, typically used in professional video cameras, for high-quality video output over longer distances.
 
-3. **USB (Universal Serial Bus)**
-   - USB 2.0/3.0/Type-C: Found on many modern cameras for streaming video or file transfer to computers or other devices.
+- **USB (Universal Serial Bus)**
+  - USB 2.0/3.0/Type-C: Found on many modern cameras for streaming video or file transfer to computers or other devices.
 
-4. **AV (Analog Video)**
-   - Composite or Component connections: Older cameras often use RCA cables or YPbPr for analog video signals.
+- **AV (Analog Video)**
+  - Composite or Component connections: Older cameras often use RCA cables or YPbPr for analog video signals.
 
-5. **FireWire (IEEE 1394)**
-   - Found in some older video cameras for digital video transfer, particularly common with miniDV camcorders.
+- **FireWire (IEEE 1394)**
+  - Found in some older video cameras for digital video transfer, particularly common with miniDV camcorders.
 
-6. **Ethernet**
-   - Network connections for IP cameras or live streaming via direct network transfer.
+- **Ethernet**
+  - Network connections for IP cameras or live streaming via direct network transfer.
 
-7. **Wi-Fi / Wireless Output**
-   - Some cameras support wireless video output for live streaming or direct transfer to mobile devices.
+- **Wi-Fi / Wireless Output**
+  - Some cameras support wireless video output for live streaming or direct transfer to mobile devices.
 
-8. **XLR / Balanced Video Outputs**
-   - Rare, but occasionally seen in professional or industrial video systems.
+- **XLR / Balanced Video Outputs**
+  - Rare, but occasionally seen in professional or industrial video systems.
 
 ---
 
 ## Video Formats Carried Over Ethernet
 
-1. **RTSP (Real-Time Streaming Protocol)**
-   - Standard for real-time streaming of audio and video over IP networks.
-   - Common formats: H.264, H.265, MJPEG.
+- **RTSP (Real-Time Streaming Protocol)**
+  - Standard for real-time streaming of audio and video over IP networks.
+  - Common formats: H.264, H.265, MJPEG.
 
-2. **NDI (Network Device Interface)**
-   - A video-over-IP protocol developed by NewTek, used for low-latency, high-quality video transmission over Ethernet.
-   - Supports up to 4K resolution and various formats like H.264, H.265, and ProRes.
+- **NDI (Network Device Interface)**
+  - A video-over-IP protocol developed by NewTek, used for low-latency, high-quality video transmission over Ethernet.
+  - Supports up to 4K resolution and various formats like H.264, H.265, and ProRes.
 
-3. **SRT (Secure Reliable Transport)**
-   - Designed for low-latency, secure video streaming over the internet or IP networks.
-   - Formats typically include H.264 and H.265.
+- **SRT (Secure Reliable Transport)**
+  - Designed for low-latency, secure video streaming over the internet or IP networks.
+  - Formats typically include H.264 and H.265.
 
-4. **HLS (HTTP Live Streaming)**
-   - Common streaming protocol for delivering video over Ethernet, often used for adaptive bitrate streaming.
-   - Formats: H.264, H.265.
+- **HLS (HTTP Live Streaming)**
+  - Common streaming protocol for delivering video over Ethernet, often used for adaptive bitrate streaming.
+  - Formats: H.264, H.265.
 
-5. **MPEG-TS (Transport Stream)**
-   - Used for streaming video over IP, often used in broadcasting.
-   - Formats: H.264, H.265, MPEG-2.
+- **MPEG-TS (Transport Stream)**
+  - Used for streaming video over IP, often used in broadcasting.
+  - Formats: H.264, H.265, MPEG-2.
 
-6. **Dante AV**
-   - Protocol for carrying video (along with audio) over IP networks, developed by Audinate.
-   - Video formats: H.264, H.265.
+- **Dante AV**
+  - Protocol for carrying video (along with audio) over IP networks, developed by Audinate.
+  - Video formats: H.264, H.265.
 
-7. **JPEG XS**
-   - A low-latency, lightweight video compression format used in professional video transmission over IP networks.
-   - Common in broadcast and live event production.
+- **JPEG XS**
+  - A low-latency, lightweight video compression format used in professional video transmission over IP networks.
+  - Common in broadcast and live event production.
 
-8. **IPTV (Internet Protocol Television)**
-   - Streaming video to set-top boxes or apps over Ethernet, often using H.264 or H.265 formats.
+- **IPTV (Internet Protocol Television)**
+  - Streaming video to set-top boxes or apps over Ethernet, often using H.264 or H.265 formats.
 
-9. **ONVIF**
-   - A standard used for video over IP, particularly in security cameras.
-   - Formats typically include H.264 and H.265.
+- **ONVIF**
+  - A standard used for video over IP, particularly in security cameras.
+  - Formats typically include H.264 and H.265.
 
-10. **Pro AV over IP**
-   - Formats for video signals over Ethernet used in professional AV environments, supporting uncompressed video transmission.
-   - Formats: SDVoE (Software Defined Video over Ethernet), AVB/TSN.
+- **Pro AV over IP**
+  - Formats for video signals over Ethernet used in professional AV environments, supporting uncompressed video transmission.
+  - Formats: SDVoE (Software Defined Video over Ethernet), AVB/TSN.
 
-11. **WebRTC (Web Real-Time Communication)**
-   - Real-time communication protocol for video and audio over IP.
-   - Formats: VP8, VP9, H.264.
+- **WebRTC (Web Real-Time Communication)**
+  - Real-time communication protocol for video and audio over IP.
+  - Formats: VP8, VP9, H.264.
 
-12. **RTMP (Real-Time Messaging Protocol)**
-   - Protocol for transmitting video streams over IP.
-   - Formats: Typically H.264 and H.265.
+- **RTMP (Real-Time Messaging Protocol)**
+  - Protocol for transmitting video streams over IP.
+  - Formats: Typically H.264 and H.265.
 
-13. **Zixi**
-   - Professional video streaming protocol, used in broadcast-grade streaming over IP.
-   - Formats: H.264, H.265.
+- **Zixi**
+  - Professional video streaming protocol, used in broadcast-grade streaming over IP.
+  - Formats: H.264, H.265.
 
-14. **RTP (Real-time Transport Protocol)**
-   - Used for delivering real-time video and audio over IP networks.
-   - Formats: H.264, H.265, VP8, VP9.
+- **RTP (Real-time Transport Protocol)**
+  - Used for delivering real-time video and audio over IP networks.
+  - Formats: H.264, H.265, VP8, VP9.
 
 ## Difference Between RTSP and NDI
 
@@ -118,5 +117,3 @@
 
 - **RTSP** invented in 1996, is optimized for delivering compressed video over the internet with higher latency and is more commonly used in IP cameras and streaming applications where real-time interaction isn't critical.
 - **NDI** invented in 2015, focuses on high-quality, low-latency video over local networks, ideal for live production and broadcast where minimal delay is essential.
-					
-					

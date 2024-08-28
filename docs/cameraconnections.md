@@ -4,7 +4,7 @@
 
 - [Axis Camera Info - permission required, student access only.](https://docs.google.com/document/d/1JhGlfEX-YZKQIJL193PoBLZXpsM68H6zVT81oVtsrCY/edit?usp=sharing)
 
-- [Axis Demo System Diagram] (https://docs.google.com/drawings/d/1TdJK1_X-t0IB2ca8d5tSjgf1tWr2qlUaVwlMzruzPhY/edit?usp=sharing)
+- [Axis Demo System Diagram](https://docs.google.com/drawings/d/1TdJK1_X-t0IB2ca8d5tSjgf1tWr2qlUaVwlMzruzPhY/edit?usp=sharing)
 
 ## Video Output Connections for Cameras
 

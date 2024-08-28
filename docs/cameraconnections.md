@@ -1,6 +1,10 @@
 # Camera Connections
 
-[Axis Camera Info - permission required, student access only.](https://docs.google.com/document/d/1JhGlfEX-YZKQIJL193PoBLZXpsM68H6zVT81oVtsrCY/edit?usp=sharing)
+### Class Resources
+
+- [Axis Camera Info - permission required, student access only.](https://docs.google.com/document/d/1JhGlfEX-YZKQIJL193PoBLZXpsM68H6zVT81oVtsrCY/edit?usp=sharing)
+
+- [Axis Demo System Diagram] (https://docs.google.com/drawings/d/1TdJK1_X-t0IB2ca8d5tSjgf1tWr2qlUaVwlMzruzPhY/edit?usp=sharing)
 
 ## Video Output Connections for Cameras
 
@@ -117,3 +121,37 @@
 
 - **RTSP** invented in 1996, is optimized for delivering compressed video over the internet with higher latency and is more commonly used in IP cameras and streaming applications where real-time interaction isn't critical.
 - **NDI** invented in 2015, focuses on high-quality, low-latency video over local networks, ideal for live production and broadcast where minimal delay is essential.
+
+###RTSP Address Format for streaming
+- rtsp://[username]:[password]@[IP address]:[port]/[stream]
+
+- Record the RTSP via ffmpeg: ffmpeg -i rtsp://username:password@ip_address:port/stream -c copy ~/Desktop/output_video.mp4
+
+
+### Extra: How to Use NDI in OBS
+
+#### 1. Install NDI Plugin for OBS
+- First, you need to download and install the NDI plugin for OBS. This plugin allows OBS to receive and send NDI streams.
+- You can download the plugin from the official OBS website or GitHub.
+
+#### 2. Add NDI Source
+- Open OBS.
+- Add a new source by clicking the "+" button under the "Sources" box.
+- Select **NDI Source** from the list of options.
+
+#### 3. Configure NDI Source
+- In the "NDI Source" settings window, you'll see a dropdown labeled **Source Name**.
+- This dropdown will list all available NDI sources on your local network.
+- Select the desired NDI stream from the list.
+
+#### 4. Manual NDI Address
+- NDI doesn't typically use manual addresses like IP or RTSP. However, if you need to specify an NDI stream manually, you'd usually do this through the application that is sending the NDI stream (e.g., an NDI monitor tool or NDI-compatible camera). You would then select that source in OBS, as described above.
+
+#### 5. Advanced Settings
+- If needed, you can adjust latency, bandwidth, and other advanced settings in the **NDI Source** properties in OBS.
+
+#### Important Notes
+- **Network Configuration**: Ensure that all devices involved (cameras, computers, etc.) are on the same local network and that your network is fast enough to handle the bandwidth requirements of NDI.
+- **Firewalls**: Ensure that firewalls or security software are not blocking NDI traffic.
+
+

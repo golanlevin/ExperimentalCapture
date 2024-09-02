@@ -71,6 +71,11 @@ The info above is from the [Edgertronic wiki] (https://wiki.edgertronic.com/wiki
   
 ![Settings GUI](images/settingsedgertronic.png)
 
+
+### **Note the Relationship Between Frame Rate and Shutter Speed**
+- Minimum Shutter Speed: The maximum possible shutter speed is determined by the frame rate. For instance, at 1,000 FPS, the longest possible shutter speed would be 1/1000th of a second. This means the camera cannot expose each frame longer than the time between each frame capture.
+- Typical Shutter Speed: In practice, the shutter speed is usually set to a fraction of the frame rate (e.g., 1/2,000th of a second at 1,000 FPS) to avoid excessive motion blur. The rule of thumb is to have the shutter speed set to 1/frame rate or faster to maintain sharpness.
+
 ### **Focus and Frame Your Subject**
 - **Focus the Lens**: Manually focus the lens on your subject. Use the camera’s live view feature on the web interface to ensure the subject is sharp.
 - **Adjust the Frame**: Position the subject in the frame. Ensure that the subject’s movement will stay within the frame during recording.

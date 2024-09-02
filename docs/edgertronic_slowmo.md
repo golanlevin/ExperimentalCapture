@@ -69,7 +69,7 @@ Note: *Overclock C - Most cameras produce usable videos up to overclock C.
 | Sub-sampling | Only available on SC1 Models. Not dependent on other arguments                | Skips every other pixel and every other line when the resolution is 1/4 or smaller of the maximum resolution. This effectively allows you to get a larger field of view when the camera is configured at a lower resolution. Works well with monochrome cameras. Some color artifacts may be present when enabled on color cameras. |
 The info above is from the [Edgertronic wiki] (https://wiki.edgertronic.com/wiki/User_Manual_-_Settings).
   
-![Settings GUI] (images/settingsedgertronic.png)
+![Settings GUI](images/settingsedgertronic.png)
 
 ### **Focus and Frame Your Subject**
 - **Focus the Lens**: Manually focus the lens on your subject. Use the camera’s live view feature on the web interface to ensure the subject is sharp.

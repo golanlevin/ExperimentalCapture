@@ -31,7 +31,7 @@ Because the exposure time of each frame is so short, high-frame-rate cameras gen
 | Subsampling               | Yes            |
 | Overclock                 | 5 settings<br>0% to around 40% |
 | CMOS sensor active area   | 17.92 x 14.34 mm |
-| Price [7]                 | $6,495.00      |
+| Price                 | $6,495.00      |
 
 Note: *Overclock C - Most cameras produce usable videos up to overclock C.
 

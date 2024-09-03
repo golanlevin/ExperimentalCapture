@@ -24,6 +24,23 @@ In Meaghan Kombol's *The Subway Lines*, the artist attempted to draw straight li
 
 ---
 
+## (Photographic) Typologies 
+
+[**Exploring photography as a tool for visual classification**](https://www.photopedagogy.com/typologies.html): 
+
+> Throughout the modern era, photography has been enlisted to classify the world and its people. Driven by a belief in the scientific objectivity of photographic evidence, the logics utilized to classify photographs—in groups and categories or sequences of identically organized images—also shape our visual consciousness. In the twenty-first-century, new digital technologies and globalization have radically transformed the applications of photography, making the reconsideration of photographic information systems ever more urgent.
+— from *The Order of Things*, an exhibition at the Walther Collection, 2015
+
+> [...] The camera has been used as a tool for witnessing and classifying types of subjects - people, buildings, objects etc. - gathering this evidence together in one place (often a book or exhibition) so that the viewer is able to see and assess it. This approach to photography is sometimes referred to as typological, a typology being a study or interpretation of types of things.
+
+![](images/typologies/roth_on_talbot_daguerre.jpg)
+
+Photography, from its beginnings in the 1830s, has been preoccupied with cataloguing. Richard Roth has written: 
+
+> In William Henry Fox Talbot's *The Library* (1845) and Louis Daguerre's *Shells and Fossils* (1839), we see illustrated the curatorial nature of photography— a medium concerned, to a large degree, with preserving the present (no matter how ordinary) and cataloguing phenomena. The *series* is the backbone of photo sensibility: It implies a belief in scientific method. 'One' example is not sufficiently evidential ('one' might be a coincidence), but 'many', repeatedly, are compelling – they become proof."
+
+Typically, and unlike small multiples, typologies depict a *collection*, and not necessarily an *ordered set*. 
+
 ### J.F. Blumenbach (1752-1840)
 
 Unsurprisingly, typologies of *people* have a fraught history. 
@@ -43,24 +60,6 @@ Here's a photographic small multiple which depicts "what 200 calories looks like
 ![](images/typologies/wisegeek_200calories.jpg)
 
 ---
-
-## (Photographic) Typologies 
-
-[**Exploring photography as a tool for visual classification**](https://www.photopedagogy.com/typologies.html): 
-
-> Throughout the modern era, photography has been enlisted to classify the world and its people. Driven by a belief in the scientific objectivity of photographic evidence, the logics utilized to classify photographs—in groups and categories or sequences of identically organized images—also shape our visual consciousness. In the twenty-first-century, new digital technologies and globalization have radically transformed the applications of photography, making the reconsideration of photographic information systems ever more urgent.
-— from *The Order of Things*, an exhibition at the Walther Collection, 2015
-
-> [...] The camera has been used as a tool for witnessing and classifying types of subjects - people, buildings, objects etc. - gathering this evidence together in one place (often a book or exhibition) so that the viewer is able to see and assess it. This approach to photography is sometimes referred to as typological, a typology being a study or interpretation of types of things.
-
-![](images/typologies/roth_on_talbot_daguerre.jpg)
-
-Photography, from its beginnings in the 1830s, has been preoccupied with cataloguing. Richard Roth has written: 
-
-> In William Henry Fox Talbot's *The Library* (1845) and Louis Daguerre's *Shells and Fossils* (1839), we see illustrated the curatorial nature of photography— a medium concerned, to a large degree, with preserving the present (no matter how ordinary) and cataloguing phenomena. The *series* is the backbone of photo sensibility: It implies a belief in scientific method. 'One' example is not sufficiently evidential ('one' might be a coincidence), but 'many', repeatedly, are compelling – they become proof."
-
-Typically, and unlike small multiples, typologies depict a *collection*, and not necessarily an *ordered set*. 
-
 
 ### Alphonse Bertillon, *Anthropometry* (1885)
 

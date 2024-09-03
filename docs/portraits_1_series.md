@@ -8,7 +8,7 @@ A "Portrait Machine" at Warhol's Factory.
 
 > Warhol's *Screen Tests* are a series of short, silent, black-and-white film portraits by Andy Warhol, made between 1964 and 1966. The Screen Tests, of which 472 survive, depict a wide range of figures, many of them part of the mid-1960s downtown New York cultural scene. Under Warhol’s direction, subjects of the Screen Tests attempted to sit motionless for around three minutes while being filmed, with the resulting movies projected in slow motion. The films represent a new kind of portraiture—a slowly moving, nearly still image of a person. The *Screen Tests* were initially inspired by a 1962 New York City Police Department booklet entitled *The Thirteen Most Wanted*, which showed mugshots of wanted criminals. Warhol began to incorporate the shooting of Screen Tests into the routine of his studio, The Factory, alongside the making of new paintings and other aspects of his enterprise. The filming of Screen Tests was rarely prearranged. There was an area set up for shooting, but the decision to make one was spontaneous, generally involving people who happened to be visiting the Factory.
 
-[![Andy Warhol's Screen Test of Edie Sedgewick](images/portraits/warhol-screen-test-edie.jpg)](https://www.youtube.com/watch?v=hLW_sXv44Uc)
+[![Andy Warhol's Screen Test of Edie Sedgewick](images/portraits/warhol-screen-test-edie.jpg)](https://www.youtube.com/watch?v=p_C8NH_2Uv0)
 
 > Warhol expert Callie Angell has called these films “the yearbook of the mid-1960s avant-garde.” Each test lasted as long as a single 100-foot roll of film. Each was shot at 24 frames per second and projected at two-thirds of that speed, a trick Warhol often used. 
 

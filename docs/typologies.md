@@ -26,6 +26,8 @@ In Meaghan Kombol's *The Subway Lines*, the artist attempted to draw straight li
 
 ### J.F. Blumenbach (1752-1840)
 
+Unsurprisingly, typologies of *people* have a fraught history. 
+
 > Blumenbach’s central question, one of great interest at the time and still rarely discussed in science, was whether contemporary humans comprised one or more species. The first edition of his thesis discussed four geographically defined varieties of humans, while the second edition in 1881 outlined five geographically defined varieties. (From [*The beautiful skull and Blumenbach’s errors: the birth of the scientific concept of race*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151154/))
 
 In his writings and typological illustrations, Blumenbach put special emphasis on the comparative aesthetics of skulls. "Mostly, Blumenbach’s writing retained a scientific stance, but he exposed his bias on beauty when he wrote that the Causasian skull of a Georgian female was the “most handsome and becoming.”
@@ -62,7 +64,9 @@ Typically, and unlike small multiples, typologies depict a *collection*, and not
 
 ### Alphonse Bertillon, *Anthropometry* (1885)
 
-Photographic typologies immediately had applications in (pseudo-)scientifically cataloguing people for carceral and eugenic purposes.> While working as a clerk for the Paris police department, Alphonse Bertillon was overwhelmed by the massive accumulation of files of criminals and the lack of a system to sort or retrieve them. In particular, he was concerned with the institutional inability to identify previous offenders, or recidivists, who may have taken on new names or identities. In 1879B, Bertillon, who came from a family of statisticians, devised a method for organizing the identity records of prisoners. Applying "anthropometry", the science of bodily measurements, to police work, Bertillon established a rigorously standardized card-filing system to track records of prisoners' statistics. Later, Bertillon added photography to his methodology, developing the mug shot, which consisted of a full-face picture accompanied by a profile view of the same size. The profile view was added because Bertillon believed that the unique shape of each individual's ear was the key identifier. *Identification anthropometrique. Instructions signaletiques*, published in 1885, was an instruction manual with how-to diagrams for recording prisoners and sample photographs. This forensic method, dubbed *Bertillonage*, was adopted by the Paris police department in 1888, and was soon used in the United States, Britain, and throughout the world. [From *The Order of Things*]
+Photographic typologies immediately had applications in (pseudo-)scientifically cataloguing people for carceral and eugenic purposes.
+
+> While working as a clerk for the Paris police department, Alphonse Bertillon was overwhelmed by the massive accumulation of files of criminals and the lack of a system to sort or retrieve them. In particular, he was concerned with the institutional inability to identify previous offenders, or recidivists, who may have taken on new names or identities. In 1879B, Bertillon, who came from a family of statisticians, devised a method for organizing the identity records of prisoners. Applying "anthropometry", the science of bodily measurements, to police work, Bertillon established a rigorously standardized card-filing system to track records of prisoners' statistics. Later, Bertillon added photography to his methodology, developing the mug shot, which consisted of a full-face picture accompanied by a profile view of the same size. The profile view was added because Bertillon believed that the unique shape of each individual's ear was the key identifier. *Identification anthropometrique. Instructions signaletiques*, published in 1885, was an instruction manual with how-to diagrams for recording prisoners and sample photographs. This forensic method, dubbed *Bertillonage*, was adopted by the Paris police department in 1888, and was soon used in the United States, Britain, and throughout the world. [From *The Order of Things*]
 
 ![Bertillon](images/typologies/bertillon-1.jpg)
 
@@ -101,7 +105,8 @@ Here's [recent progress in synthesizing and capturing snowflakes in the lab](htt
 Masters of the photographic typology, Bernd and Hilla Becher spent more than 30 years documenting architectural forms they referred to as “anonymous sculpture”.
 
 ![](images/typologies/bernd-and-hilla-becher-fachwerkhauser-in-siegen.jpg)
-![](images/typologies/bernd-and-hilla-becher-untitled-gas-tanks.jpg)
+
+![](images/typologies/bernd-and-hilla-becher-untitled-gas-tanks.jpg)
 
 ![](images/typologies/becher_water_towers.jpg)
 
@@ -289,7 +294,9 @@ The artwork *Variations of Incomplete Open Cubes* by Sol Lewitt (below left, 197
 
 Tauba Auerbach and Daniel E. Kelm produced the "[RGB Colorspace Atlas](https://www.thecollectiveloop.com/2013/01/book-of-colors-for-human-eyes.html)", a 3,632-page book that showcases all possible printable colors.
 
-![](images/typologies/colorbook01.jpg)<br/>![](images/typologies/colorbook06.jpg)<br/>![](images/typologies/colorbook09.jpg)<br/>
+![](images/typologies/colorbook01.jpg)<br/>
+![](images/typologies/colorbook06.jpg)<br/>
+![](images/typologies/colorbook09.jpg)<br/>
 
 
 

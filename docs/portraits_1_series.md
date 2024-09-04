@@ -8,11 +8,11 @@ A "Portrait Machine" at Warhol's Factory.
 
 > Warhol's *Screen Tests* are a series of short, silent, black-and-white film portraits by Andy Warhol, made between 1964 and 1966. The Screen Tests, of which 472 survive, depict a wide range of figures, many of them part of the mid-1960s downtown New York cultural scene. Under Warhol’s direction, subjects of the Screen Tests attempted to sit motionless for around three minutes while being filmed, with the resulting movies projected in slow motion. The films represent a new kind of portraiture—a slowly moving, nearly still image of a person. The *Screen Tests* were initially inspired by a 1962 New York City Police Department booklet entitled *The Thirteen Most Wanted*, which showed mugshots of wanted criminals. Warhol began to incorporate the shooting of Screen Tests into the routine of his studio, The Factory, alongside the making of new paintings and other aspects of his enterprise. The filming of Screen Tests was rarely prearranged. There was an area set up for shooting, but the decision to make one was spontaneous, generally involving people who happened to be visiting the Factory.
 
-[![Andy Warhol's Screen Test of Edie Sedgewick](images/portraits/warhol-screen-test-edie.jpg)](https://www.youtube.com/watch?v=hLW_sXv44Uc)
+[![Andy Warhol's Screen Test of Edie Sedgewick](images/portraits/warhol-screen-test-edie.jpg)](https://www.youtube.com/watch?v=p_C8NH_2Uv0)
 
 > Warhol expert Callie Angell has called these films “the yearbook of the mid-1960s avant-garde.” Each test lasted as long as a single 100-foot roll of film. Each was shot at 24 frames per second and projected at two-thirds of that speed, a trick Warhol often used. 
 
-[![Andy Warhol's Screen Test of Ann Buchanan](images/portraits/warhol-screen-test-ann-buchanan.jpg)](https://www.youtube.com/watch?v=rQEiOoMyvos)
+[![Andy Warhol's Screen Test of Ann Buchanan](images/portraits/warhol-screen-test-ann-buchanan.jpg)](https://www.youtube.com/watch?v=_jjKiXKaqvA)
 
 > Many of the subjects appeared uncomfortable. Others seemed beaten. Some were insolent, provocative. Or insolent one moment and provocative the next. Mary Woronov observed in *Swimming Underground: My Years in the Warhol Factory* that the screen tests were like a psychological test: “You would see the person fighting with his image—trying to protect it. You can project your image for a few seconds, but after that it slips and your real self starts to show through. That’s why it was so great—you saw the person and the image.” [Source](http://sacksco.com/notes/dean_and_britta.html)
 
@@ -35,8 +35,10 @@ A common structure for typological portrait series is 'before-after', allowing c
 > For his project called [*Faces Of Century*](https://www.demilked.com/young-vs-old-portraits-faces-of-century-jan-langer/), photographer Jan Langer captured over a dozen Czech centenarians and compared their pictures of when they were young, and when they were over 100 years old.
 
 ![](images/portraits/young-vs-old-portraits-faces-of-century-jan-langer-5.jpg)
-![](images/portraits/young-vs-old-portraits-faces-of-century-jan-langer-7.jpg)
-![](images/portraits/young-vs-old-portraits-faces-of-century-jan-langer-10.jpg)
+
+![](images/portraits/young-vs-old-portraits-faces-of-century-jan-langer-7.jpg)
+
+![](images/portraits/young-vs-old-portraits-faces-of-century-jan-langer-10.jpg)
 
 ---
 
@@ -84,7 +86,8 @@ Taryn Simon [discusses typological approaches in her portrait series](https://ww
 Transformations can be purely formal. This [series by Alex Beck](https://time.com/2848303/heres-what-faces-would-look-like-if-they-were-perfectly-symmetrical/) and this [related work by Julian Wolkenstein](https://petapixel.com/2012/10/02/a-portrait-project-showing-subjects-with-two-perfectly-symmetrical-faces/) shows how different people's faces appear when mirrored. 
 
 ![](images/portraits/beck_both_sides_of_1.png)
-![](images/portraits/beck_both_sides_of_2.png)
+
+![](images/portraits/beck_both_sides_of_2.png)
 
 
 ---
@@ -94,8 +97,10 @@ Transformations can be purely formal. This [series by Alex Beck](https://time.co
 > A [series of self-portraits](https://www.slrlounge.com/becoming-mel-self-portrait-series/) shows photographer Mel Keiser upon waking, and then after she’s readied herself to face the world. “The first picture is taken immediately upon waking, before I have a mental concept of my identity or self-image,” says Keiser, “The second picture is taken after I begin to feel like ‘Mel,’ usually after my physical self begins to reflect what I believe ‘Mel’ looks like.”
 
 ![](images/portraits/Becoming-Mel-Day-6_8.jpg)
-![](images/portraits/Becoming-Mel-Day-6_25.jpg)
-![](images/portraits/Becoming-Mel-Day-7_01.jpg)
+
+![](images/portraits/Becoming-Mel-Day-6_25.jpg)
+
+![](images/portraits/Becoming-Mel-Day-7_01.jpg)
 
 
 --- 
@@ -123,7 +128,8 @@ Self-portraiture under different conditions of manipulation.
 Danish artist [Nicolai Howalt](https://designyoutrust.com/2016/04/boxers-before-and-after-the-fight-beautiful-photography-project-by-nicolai-howalt/) created a series of boxers' portraits, taken before and after a fight.
 
 ![](images/portraits/howalt_boxer_3-110.jpg)
-![](images/portraits/howalt_boxer_7-92.jpg)
+
+![](images/portraits/howalt_boxer_7-92.jpg)
 
 ---
 
@@ -132,7 +138,8 @@ Danish artist [Nicolai Howalt](https://designyoutrust.com/2016/04/boxers-before-
 > *Faces of Meth* is a drug education and prevention project run by the Multnomah County Sheriff's Office in Oregon. The project uses mugshots of repeat offenders to demonstrate the harmful and damaging effects of methamphetamine on its users. Deputy Bret King and his co-workers collected images of people charged with crimes related to methamphetamine addiction to document the change in physical appearance over time due to the use of the drug.
 
 ![](images/portraits/faces_of_meth_2005_3.jpg)
-![](images/portraits/faces_of_meth_2005_18.jpg)
+
+![](images/portraits/faces_of_meth_2005_18.jpg)
 
 
 ---
@@ -142,8 +149,10 @@ Danish artist [Nicolai Howalt](https://designyoutrust.com/2016/04/boxers-before-
 > Photographer Lalage Snow’s [*We Are Not Dead*](https://allthatsinteresting.com/4-amazing-contemporary-portrait-series) series visually depicts the state of mind soldiers found themselves in before, during, and after their operational tours in Afghanistan. Taken over a period of eight months, each individual was photographed on three separate occasions. The first photos were taken before heading to Afghanistan, the middle photographs were taken during the tour, and the final shots were taken once the subject had returned home.
 
 ![We Are Not Dead](images/portraits/Portrait-Before-After-War-1.jpg)
-![We Are Not Dead](images/portraits/Portrait-Before-After-War-2.jpg)
-![We Are Not Dead](images/portraits/Portrait-Before-After-War-4.jpg)
+
+![We Are Not Dead](images/portraits/Portrait-Before-After-War-2.jpg)
+
+![We Are Not Dead](images/portraits/Portrait-Before-After-War-4.jpg)
 
 ---
 
@@ -152,8 +161,10 @@ Danish artist [Nicolai Howalt](https://designyoutrust.com/2016/04/boxers-before-
 > Photographer Walter Schels was terrified of death, so much so he refused to see his mother after she passed away. Upon entering his 70s, Schels finally decided to overcome his fear through [a bold project](https://www.artfido.com/powerful-photo-series-showing-people-shortly-before-and-after-death/) – photographing individuals before and directly after their death. Schels and his partner Beate Lakotta began approaching potential individuals at hospices in Berlin and Hamburg, surprised to find few people said no. 
 
 ![Life Before Death](images/portraits/walter_schels_behrens.jpg)
-![Life Before Death](images/portraits/walter_schels_cao.jpg)
-![Life Before Death](images/portraits/walter_schels_kotzahn.jpg)
+
+![Life Before Death](images/portraits/walter_schels_cao.jpg)
+
+![Life Before Death](images/portraits/walter_schels_kotzahn.jpg)
 
 ---
 

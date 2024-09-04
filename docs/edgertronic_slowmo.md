@@ -45,7 +45,7 @@ Note: *Overclock C - Most cameras produce usable videos up to overclock C.
 
 ### **Access the Camera's Web Interface**
 - **Setup you Computer's Network**:In your network settings change your ethernet's network IP to 10.11.12.1 and your subnet mask to 255.255.255.0. If you have issues connecting, turn off your wifi.
-- **Open a Web Browser**: On your connected computer, open a web browser.
+- **Open a Web Browser**: On your connected computer, open a web browser. Works on Chrome. Doesn't like Safari.
 - **Enter the Camera’s IP Address**: Type the camera’s IP address into the browser's address bar and press Enter. The camera’s web interface should load.
  - Our cameras IP Addresses are: 
  		- 10.11.12.13 (note this is the default and will work as long as the led light in the back of the camera is yellow - do not change the IP address without prior instructor approval.)

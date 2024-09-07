@@ -2,6 +2,10 @@
 
 In this lesson, we discuss images captured from electromagnetic frequencies beyond the range of human perception. [**Multispectral imaging**](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more.
 
+[![Multispectral imaging is awesome](images/multispectral/msi_awesome.png)](https://blogs.library.duke.edu/bitstreams/2017/04/24/multispectral-imaging-whats-good/)
+
+---
+
 *Here's a rainbow over CMU. Water droplets in the air split up the sun's white light into component colors.*
 
 [![CMU Rainbow](images/multispectral/cmu-rainbow.jpg)](https://twitter.com/cmu_mech/status/784391682343182340)
@@ -53,7 +57,7 @@ Finally, it's not even necessary to image with electromagnetic radiation; let's 
 
 Because the human eye cannot see things like X-rays, IR, UV, etc., we need to use some sort of imaging technology to translate energy patterns in these spectra into patterns that our eyes can see. The "right" way to visualize such energy patterns is *always arbitrary* — or, at least, an artifact of the sensing and display technology.
 
-*Here is a face, simultaneously imaged in the (a) visible spectrum, 0.4–0.7 µm, (b) SWIR or short-wave infrared, 1.0–3.0µm, (c) MWIR or mid-wave infrared, 3.0–5.0µm, and (d) LWIR or long-wave infrared, 8.0-14.0µm. As we image using increasingly long wavelengths, we shift from seeing the **reflective** (color) properties of the subject, to the **emissive** (heat) properties of the subject.*
+*Here is a face, simultaneously imaged in the (a) visible spectrum, 0.4–0.7 µm, (b) SWIR or short-wave infrared, 1.0–3.0µm, (c) MWIR or mid-wave infrared, 3.0–5.0µm, and (d) LWIR or long-wave infrared, 8.0-14.0µm. As we image using increasingly long wavelengths, we shift from seeing the reflective (color) properties of the subject, to the emissive (heat) properties of the subject.*
 
 ![Multi-spectral face](images/face-spectra.jpg)<br />
 
@@ -69,7 +73,7 @@ Because the human eye cannot see things like X-rays, IR, UV, etc., we need to us
 
 ![UV, Vis, NIR, from Wikipedia](images/uv_vis_ir_portrait.jpg)
 
-In the photos below, by Nick Spiker and Nevada Weir, it's clear that depending on the imaging frequency, light skin can look dark, and vice-versa.
+In the photos below, by Nick Spiker and Nevada Weir, it's clear that depending on the imaging frequency, light skin can look dark, and vice-versa. The dark appearance under Short-Wave IR (SWIR) is because water just below the skin’s surface absorbs radiation in this band. 
 
 ![Vis, NIR, SWIR, from Wikipedia, by Nick Spiker](images/multispectral/infrared_portrait_comparison.jpg)
 
@@ -84,7 +88,7 @@ Satellites employ multispectral imaging to understand the Earth. Here are a set 
 
 ![FY4A_AGRI_IR_earth](images/multispectral/FY4A_AGRI_IR_earth.jpg)
 
-In order to visualize the structure of such multichannel data, a common trick in satellite imaging is to re-map a channel of invisible light (like IR) to the R,G,B channels of a regular image. [Charlie Loyd discusses this in his terrific article, *Putting Landsat8's multispectral imaging to work*](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/). This is called **false-color imaging**.
+In order to visualize the structure of such multichannel data, a common trick in satellite imaging is to re-map a channel of invisible light (like IR) to the R,G,B channels of a regular image. [Charlie Loyd discusses this in his terrific article, *Putting Landsat8's multispectral imaging to work*](images/multispectral/loyd_puttinglandsat8bandstowork.pdf). This is called **false-color imaging**.
 
 For example, here's a false-color Landsat8 image by in which SWIR data is used in the "red" channel of the image; NIR data as "green"; and near-UV as "blue". The purpose of doing this is not to create some sort of garish, psychedelic image; rather, the false-color imaging makes the patch of forest in the lower-left (which had been affected by forest fire) starkly visible:
 
@@ -106,6 +110,13 @@ Forensic specialists use infrared and ultraviolet imaging and/or fluorescence to
 
 ![multispectral-painting.jpg](images/multispectral/multispectral-painting.jpg)
 
+---
+## SWIR (Short-Wave Infrared)
+
+SWIR radiation passes readily through haze and smog, which tend to scatter visible light. The image below shows two views of an oil rig imaged through 47km of air with a substantial amount of marine haze in the air path. The rig can just barely be seen in the visible image, while the SWIR image shows strong contrast and the presence of a flare at the end of a long boom.![swir-marine.jpg](images/multispectral/swir-marine.jpg)
+
+SWIR's ability to see through haze and smoke is useful for firefighters and also [self-driving cars](https://www.youtube.com/watch?v=dn31vQjLguU).<br />![swir-marine.jpg](images/multispectral/vis-swir-lwir-comparison.jpg)
+
 
 ---
 
@@ -115,7 +126,7 @@ IR is light that is beyond the red end of the visible spectrum. Wavelengths in t
 
 ![NIR Spectrum](images/nir/nir_spectrum.png)
 
-NIR cameras can be inexpensive and easy to obtain. Given the presence of IR illumination, they allow us to see in the "dark", so they are widely used as security cameras. Here's a BBC video tracking animals, unobtrusively, licking salt in a cave at night:
+NIR cameras can be inexpensive and easy to obtain. With IR illumination, they allow us to see in the "dark", so they are widely used as security cameras. Here's a BBC video tracking animals, unobtrusively, licking salt in a cave at night:
 
 [![Animals in NIR](images/nir/elephants-nir.png)](https://www.youtube.com/watch?v=8qpZz5NPU3g)
 
@@ -127,16 +138,22 @@ It's important to distinguish between *monochromatic* IR images (a grayscale ima
 
 ![CIR images by Edward Thompson](images/nir/cir-edward-thompson.png)
 
-Incidentally, the visibility of veins in IR has been used in some medical augmented-projection applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) device: <br />![The VeinViewer visualizes an IR image with an augmented projection](images/multispectral/vein-viewer.jpg)
+Incidentally, the visibility of veins in IR has been used in some medical augmented-projection applications, such as the Christie [VeinViewer](http://www.bayareahospital.org/Images/IV_Insertions_Get_Easier_For_Patients.aspx) and other infrared vein finder devices: <br />![The VeinViewer visualizes an IR image with an augmented projection](images/nir/nir-vein-viewer.gif)
 
 It's common for CIR imaging to be used for aerial/satellite photography. Foliage, in particular, becomes much more visible:<br />![CIR images by Edward Thompson](images/nir/cir-edward-thompson-landscape.jpg)
 
+Below is a technical breakdown of how NIR-R-G "false color composite" images are constructed. If you want to try constructing such an image yourself (using the Channels palette in Photoshop, for example), here are the component images: 
+[trees_nir.png](images/multispectral/trees_nir.png), 
+[trees_rgb.png](images/multispectral/trees_rgb.png); 
+[scene_nir.png](images/nir/scene_nir.png), [scene_rgb.png](images/nir/scene_rgb.png); and here's a [NIR+RGB dataset](https://ivrlwww.epfl.ch/supplementary_material/cvpr11/index.html). Such images can be useful for calculating the [NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) (Normalized Difference Vegetation Index), a widely-used agricultural metric for quantifying the health and density of vegetation<br />![trees-making-composite.png](images/multispectral/trees-making-composite.png)
+
 Richard Mosse's *[The Enclave](https://vimeo.com/67115692)* (2013) is a documentary film about the ongoing civil war in Congo, shot on CIR film. Mosse's work has spurred controversy for the way in which it aestheticizes turmoil, especially as captured by a European working in Africa.<br />[![Richard Mosse's 'The Enclave'](images/nir/cir_film_richard_mosse_enclave.gif)](https://vimeo.com/67115692)
 
-Andrew Shurtleff explicitly aestheticizes NIR in this otherworldly [infrared time-lapse](https://vimeo.com/58232705) video:<br />
-[![Still from NIR time-lapse by Andrew Shurtleff](images/nir/nir-shurtleff.png)](https://vimeo.com/58232705)
+Some pigments are not visible in NIR. This is used as an anti-counterfeiting measure in US currency. The different patterns of (missing) stripes are also useful in machine recognition; each denomination has its own pattern. 
 
-Some materials are opaque in visible wavelengths, but transparent in NIR wavelengths. This means that NIR can be used to see certain kinds of obscured or invisible information. A common technique for this is *infrared reflectography*, which takes advantage of the NIR-transparency of some kinds of paint, in order to view a painting's underlayers:
+![nir_10_and_100.jpg](images/nir/nir_10_and_100.jpg)
+
+Some materials are opaque in visible wavelengths, but *transparent* in NIR wavelengths. This means that NIR can be used to see certain kinds of obscured or invisible information. A common technique for this is *infrared reflectography*, which takes advantage of the NIR-transparency of some kinds of paint, in order to view a painting's underlayers:
 
 ![NIR infrared reflectography](images/nir/nir_infrared_reflectography.png)
 

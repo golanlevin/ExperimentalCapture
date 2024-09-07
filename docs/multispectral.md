@@ -134,7 +134,7 @@ Owing to the different infrared reflectivity of blood, you can [see veins easily
 
 ![Veins, in NIR by Jasper Nance](images/nir/nir-veins.jpg)
 
-It's important to distinguish between *monochromatic* IR images (a grayscale image whose content is exclusively from the infrared part of the spectrum), such as the image above, and various types of *CIR* (Color+IR) images: false-color images which store multiple (spatially aligned) channels of information from different parts of the spectrum. Since RGB images are a common display format for multichannel image data, one common CIR technique ([described in this PDF](pdf/using_cir_imagery.pdf)) stores IR information in the Red channel, Red information in the Green channel, and Green information in the Blue channel. This is conceptually similar to the LandSat satellite imaging trick described above. Edward Thompson has compiled [an artful book](http://www.edwardthompson.co.uk/theunseen.html) of such images, such as this one:
+It's important to distinguish between *monochromatic* IR images (a grayscale image whose content is exclusively from the infrared part of the spectrum), such as the image above, and various types of *CIR* (Color+IR) images: false-color images which store multiple (spatially aligned) channels of information from different parts of the spectrum. Since RGB images are a common display format for multichannel image data, one common CIR technique ([described in this PDF](pdf/using_cir_imagery.pdf)) stores IR information in the Red channel, Red information in the Green channel, and Green information in the Blue channel. This is conceptually similar to the LandSat satellite imaging trick described above. Edward Thompson has compiled [an artful book](https://edwardthompson.co.uk/The-Unseen-An-Atlas-of-Infrared-Plates) of such images, such as this one:
 
 ![CIR images by Edward Thompson](images/nir/cir-edward-thompson.png)
 
@@ -161,17 +161,17 @@ For example, *The Blue Boy* (ca. 1770), an oil painting by Thomas Gainsborough (
 
 ![The Blue Boy in visible, X-Ray, and NIR](images/nir/nir_infrared_reflectometry_blueboy.jpg)
 
-The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com) and [*"Stella at the Playground"*](http://www.oliverlutz.com) by Oliver Lutz (2010) use a (visibly) black, IR-transparent overpainting—covering a "secret" image that can only be observed by means of a NIR security camera and a nearby CCTV. Lutz makes [many projects](http://www.oliverlutz.com/oliverlutz_prjct_nscr.htm) with this IR-clear, visibly-black overpainting. His work appeared in the Walker Art Center exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](http://www.walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera).
+The paintings [*"The Lynching of Leo Frank"*](http://www.oliverlutz.com) and [*"Stella at the Playground"*](http://www.oliverlutz.com) by Oliver Lutz (2010) use a (visibly) black, IR-transparent overpainting—covering a "secret" image that can only be observed by means of a NIR security camera and a nearby CCTV. Lutz makes [many projects](https://www.oliverlutz.com/) with this IR-clear, visibly-black overpainting. His work appeared in the Walker Art Center exhibition [*"Exposed: Voyeurism, Surveillance and The Camera since 1870"*](https://walkerart.org/calendar/2011/exposed-voyeurism-surveillance-and-the-camera).
 
 ![Paintings by Oliver Lutz](images/nir/nir_lutz_1.jpg)
 
 ![Paintings by Oliver Lutz](images/nir/nir_lutz_2.jpg)
 
-Artist Osman Khan created a strictly [IR-viewable image](http://www.osmankhan.com/works.asp?name=Unviewed), whose content is visible only through the audience's personal digital capture devices.<br />![Osman Khan IR-only art](images/nir/nir_osman.jpg)
+Artist Osman Khan created a strictly [IR-viewable image](https://www.osmankhan.com/works/unviewed), whose content is visible only through the audience's personal digital capture devices.<br />![Osman Khan IR-only art](images/nir/nir_osman.jpg)
 
-In some circumstances, depending on materials, NIR cameras can [see through clothes](https://www.youtube.com/watch?v=RdtJlHVDcmM), as in this example with a tattoo, below.<br />![NIR camera seeing through clothes](images/nir/nir-see-through-clothes.jpg)
+In some circumstances, depending on materials, NIR cameras can [see through clothes](https://www.youtube.com/watch?v=RdtJlHVDcmM&t=110s), as in this example with a tattoo, below.<br />![NIR camera seeing through clothes](images/nir/nir-see-through-clothes.jpg)
 
-NIR imaging can be used to [detect traced (i.e. forged) signatures](https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/tracingb.jpg):
+NIR imaging can be used to [detect traced (i.e. forged) signatures](https://archives.fbi.gov/archives/about-us/lab/forensic-science-communications/fsc/oct1999):
 
 ![Forged signatures in IR](images/nir/nir-signature.jpg)
 
@@ -181,11 +181,12 @@ There are also many uses of NIR imaging for real-time body tracking and computer
 
 ## Thermal Imaging
 
-*Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. In short, we see where something is hot.
+*Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. In short, we see *where* something is hot, and to what extent.
 
-What we see when we observe radiation in this range is *emissive* rather than *reflective*.
+![forehead-thermometer.jpg](images/multispectral/forehead-thermometer.jpg)<br />A touchless forehead thermometer (about USD20) is essentially a one-pixel thermal camera. Niklas Roy made a [DIY Thermal Camera](https://www.youtube.com/watch?v=q49p4jXGQuA) by mounting one on a pan/tilt servo.
 
-Interestingly, there is a band that is not used for imaging — the "low transmittance window", between 5000-8000nm, because *air is opaque* (absorbs IR) at those wavelengths. Put another way: those are the wavelengths of light-energy that *heat the air itself*.
+
+What we see when we observe radiation in the ~8000-14000nm range is *emissive* rather than *reflective*. Interestingly, there is a band that is not used for imaging — the "low transmittance window", between 5000-8000nm, because *air is opaque* (absorbs IR) at those wavelengths. Put another way: those are the wavelengths of light-energy that *heat the air itself*.
 
 ![IR Spectrum](images/nir/ir-spectrum.jpg)
 
@@ -193,7 +194,7 @@ Interestingly, there is a band that is not used for imaging — the "low transm
 
 [![Thermal Lizards](images/thermal/thermal-lizards.png)](https://youtu.be/e4bprBup6w4)
 
-* A cult classic, [*THE OPERATION*](https://vimeo.com/24149525) by Jacob Pander and Marne Lucas (1995) is a hybrid art/porn movie, shot completely with a thermal camera. (NSFW)
+* A cult classic, [*THE OPERATION*](https://vimeo.com/74694917) by Jacob Pander and Marne Lucas (1995) is a hybrid art/porn movie, shot completely with a thermal camera. (NSFW)
 
 ![The Operation by Jacob Pander and Marne Lucas](images/thermal/thermal-lucas.png)
 
@@ -219,7 +220,7 @@ Note that there is no "correct" way to view thermal imagery. Cameras offer a var
 
 Sometimes simply presenting such alternative views can be a provocative, entertaining or educational experience for audiences.
 
-* Many science museums, such as the Exploratorium, have a "[Heat Camera](http://exs.exploratorium.edu/exhibits/heat-camera/)" display in which the public can see themselves in a thermal camera.
+* Many science museums, such as the Exploratorium, have a "[Heat Camera](https://www.exploratorium.edu/exhibits/whats-hot-whats-not)" display in which the public can see themselves in a thermal camera.
 
 * [*City Thermogram*](http://thecreatorsproject.vice.com/blog/times-square-is-a-heat-sensitive-camera-thanks-to-peggy-ahwesh), by Peggy Ahwesh (2015), was commissioned to create a live-video installation in New York's Time Square, in which she connected up a thermal camera (trained on passersby) to a large electronic billboard.
 
@@ -248,10 +249,8 @@ Sometimes simply presenting such alternative views can be a provocative, enterta
 * [High-resolution thermal imaging of owls](https://vimeo.com/246577570)
 * [Envisioning Chemistry: Getting Hot](https://vimeo.com/236209234)
 * [Envisioning Chemistry: Getting Cold](https://vimeo.com/354855897)
-* [Simple liquid experiments](https://vimeo.com/208078286): boiling water, water convection, oil heating, ice floating in water, etc.
+* [Simple liquid experiments](https://vimeo.com/385394817): boiling water, water convection, oil heating, ice floating in water, etc.
 * ["3D thermography" (thermal imaging + photogrammetry)](https://vimeo.com/110217187)
-* [Terike Haapoja: *Community* (2007)](https://vimeo.com/129644890/610d5965f5)
-
 
 ---
 
@@ -267,7 +266,7 @@ Sometimes simply presenting such alternative views can be a provocative, enterta
 
 ![Temperature Sensitive Object by Archilab](images/thermochromic-seat.jpg)
 
-* The revelatory potential of this technology is directly connected to considerations of mammalian territory-marking behavior in this *[thermochromic toilet seat](http://theluxuryofprotest.com/Thermochromic_Toilet_Seat.html)* and this remarkable *[thermochromic urinal](http://www.technocrazed.com/wp-content/uploads/2014/08/New-Thermochromic-Furniture-And-Pots-11.jpg)*
+* The revelatory potential of this technology is directly connected to considerations of mammalian territory-marking behavior in this *[thermochromic toilet seat](https://www.youtube.com/watch?v=Aj9SDSAOXf4)* and this remarkable *[thermochromic urinal](http://www.technocrazed.com/wp-content/uploads/2014/08/New-Thermochromic-Furniture-And-Pots-11.jpg)*
 
 ![Thermochromic Urinal](images/thermochromic-urinal.jpg)
 
@@ -363,8 +362,6 @@ Ultraviolet light can also produce dramatic fluorescence in some materials.
 > Fluorescence is the emission of light by a substance that has absorbed light or other electromagnetic radiation. It is a form of luminescence. In most cases, the emitted light has a longer wavelength, and therefore lower energy, than the absorbed radiation. The most striking example of fluorescence occurs when the absorbed radiation is in the ultraviolet region of the spectrum, and thus invisible to the human eye, while the emitted light is in the visible region, which gives the fluorescent substance a distinct color that can be seen only when exposed to UV light. Fluorescent materials cease to glow nearly immediately when the radiation source stops, unlike phosphorescent materials, which continue to emit light for some time after.
 
 Because the material is *absorbing* UV light, most fluorescent materials appear dark or black in UV.
-
-![](images/uv/uv_fluorescent_minerals.jpg)
 
 * Vitamin B2 fluoresces yellow.
 * Tonic water fluoresces blue due to the presence of quinine.
@@ -464,6 +461,8 @@ Multispectral and hyperspectral cameras are built using several different techno
 ---
 
 ## Radio-Wave Imaging
+
+![Stud finder](images/multispectral/stud-finder.jpg)<br />A "stud finder" (around USD 30 at Home Depot) is essentially a one-pixel RF camera. 
 
 [From [Wikipedia](https://en.wikipedia.org/wiki/Radar)] **Radar** is an object-detection system that uses radio waves to determine the range, angle, or velocity of objects. It can be used to detect aircraft, ships, spacecraft, missiles, motor vehicles, weather formations, and terrain. A radar transmits radio waves or microwaves that reflect from any object in their path.
 

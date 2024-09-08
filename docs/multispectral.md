@@ -553,6 +553,24 @@ Some nice videos of polarization and stress visualization:
 
 ---
 
+## Raking & Transmissive Light
+
+![Raking light](images/multispectral/raking_light_ystad-2015.jpg)
+
+Sometimes, illuminating a subject *from an unusual direction* reveals new information about it. *Raking* (oblique) and *transmissive* illumination (from behind) are commonly used by [art conservators](https://www.themorgan.org/blog/looking-works-art-paper-overview-examination-and-imaging-techniques). 
+
+Raking light is a technique in which a subject is illuminated from one side only, at an extremely oblique angle in relation to its surface. Raking light is used to reveal a object's surface texture. Raised parts of the surface facing the light are illuminated, while those facing away create shadows.
+
+In this example, a single sheet of blank paper was imaged in normal illumination on the left and in raking light on the right. In the left image, the paper appears smooth and flat, while the right image reveals the laid structure of the paper by exaggerating the texture of the vertical chain lines and the watermark at the upper edge. Raking light also highlights the vertical crease running through the sheet, tears along that crease at the edges, and shorter handling creases scattered throughout.<br />![Raking light](images/multispectral/morgan-raking-light.jpg)
+
+In the example below, lighting the same piece of paper from behind reveals details (like its watermarks) that would not ordinarily be so easy to discern.<br />![Transmissive light](images/multispectral/morgan-transmissive-light.jpg)
+
+Raking light [has been used](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-019-0331-5/figures/11) to create a "crack map" of the well-known Vermeer painting. The middle image is a colorless texture image.<br />![Crack map from raking light](images/multispectral/vermeer-cracks.jpg)
+
+Vaclav Skala has used the raking light from a flatbed scanner, from 4 directions, to compute [3D reconstructions of nearly flat objects](images/multispectral/vaclav-skala-20130-3d.pdf).<br />![vaclav_skala_3D_reconstruction_scanner.jpg](images/multispectral/vaclav_skala_3D_reconstruction_scanner.jpg)
+
+---
+
 ## Schlieren Imaging and Shadowgraphy
 
 [**Schlieren imaging**](https://www.youtube.com/watch?v=mLp_rSBzteI) creates images which reveal, and depend on, minute differences in the index of refraction of air. In short, it depends not on a property of light, but on a property of light's medium.
@@ -560,8 +578,6 @@ Some nice videos of polarization and stress visualization:
 Video:<br />[![Schlieren imaging](images/schlieren.png)](https://www.youtube.com/watch?v=mLp_rSBzteI)
 
 Video:<br />[![Schlieren imaging](images/schlieren-sneeze.gif)](https://www.youtube.com/watch?v=px3oVGXr4mo)
-
-
 
 * Kyle McDonald has explored [Moiré-Schlieren imaging](https://vimeo.com/322380229).
 
@@ -581,6 +597,8 @@ Dr. Gary Settles at Penn State University, an expert in Schlieren imaging and sh
 
 ![Full Scale Schlieren](images/penn-state-full-scale-schlieren1.png)
 ![Full Scale Schlieren](images/penn-state-full-scale-schlieren2.png)
+
+It is possible to do Schlieren imaging by doing [background-subtraction in front of a white-noise image](https://x.com/kambara/status/1546830410021146626):<br />![Noise Schlieren](images/multispectral/noise-bgsub-schlieren.gif)
 
 ---
 

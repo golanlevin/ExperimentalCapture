@@ -9,7 +9,7 @@ Kelley Wilder is Professor of Photographic History, Director of the [Photographi
 
 
 
-##### **Thesis**: Photography revolutionized scientific observation by providing objectivity, reliability, and extended visibility, yet faced challenges and contradictions.
+#### **Thesis**: Photography revolutionized scientific observation by providing objectivity, technical reliability, and extended visibility, yet faced challenges and contradictions.
 
 #### **Photography and Observation**
 - Early scientific observation required innate skill and years of practice.

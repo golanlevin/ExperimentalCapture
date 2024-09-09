@@ -16,6 +16,7 @@ Kelley Wilder is Professor of Photographic History, Director of the [Photographi
 - Photography's promise to simplify and enhance scientific observation:
   - Mechanical, optical, and objective nature of photography.
   - Idealized as passive and objective, in contrast to human observation.
+
 ![Kodak] (images/You_press_the_button,_we_do_the_rest_(Kodak).jpg)
 *Advertisement for Kodak #1 or #2 camera in the 1890s.*
 

@@ -1,5 +1,5 @@
 # Scientific Photography
-
+##### This page written by Nica Ross
 ---
 
 ### Reading Summary: Photography and Scientific Observation

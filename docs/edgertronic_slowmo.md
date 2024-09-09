@@ -1,5 +1,7 @@
 # How to Use the Edgertronic Slow Motion Cameras
 
+##### This page compiled by Nica Ross
+
 For more information about overcranking aka slow motion videography see the [overcranking](overcranking.md) document in this repository. 
 
 * We have two [Edgertronics](http://edgertronic.com/) high-speed cameras, capable of up to 18,000 fps. This camera does 720p video at 1000 fps.

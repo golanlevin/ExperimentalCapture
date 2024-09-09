@@ -26,10 +26,10 @@ Kelley Wilder is Professor of Photographic History, Director of the [Photographi
 - The Dogon People of Mali identified Sirius "A"'s dwarf star twin Sirius "B" long before Alvan Clark first spotted the dwarf star using a telescope in 1862.
 ![Sirius A & B](images/siruisab.jpg)
 - Giuseppe Arcimboldo's residence as court painter to  Emperor Maximilian II gave him access to the Emperor's vast collections of rare flora and fauna and his patronage of science as well as art. During his residency he had access to scholars like the botanist Carolus Clusius and his work bridged biological observation and portraiture. 
-![Four Seasons, 1573] (images/fourseasons.jpg)
+![Four Seasons, 1573](images/fourseasons.jpg)
 
 #### **Emulsion Explainer**
-![Sobia Ahmad One Big Eye] (images/sobiaahmadonebigeye.png)
+![Sobia Ahmad One Big Eye](images/sobiaahmadonebigeye.png)
 *16 mm film still, One Big Eye (2024) by Sobia Ahmad*
 
 ‘One Big Eye’ is a hand-processed 16mm film shot at Pando, an ancient grove of aspen trees that extends across 106 acres in south-central Utah. Seemingly 47,000 individual trees, it is unified by a single immense root system, making it a ‘forest of one.’

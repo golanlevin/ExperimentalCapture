@@ -18,6 +18,7 @@ Kelley Wilder is Professor of Photographic History, Director of the [Photographi
   - Idealized as passive and objective, in contrast to human observation.
 
 ![Kodak](images/kodak.jpg)
+
 *Advertisement for Kodak #1 or #2 camera in the 1890s.*
 
 #### Pre-Photographic Scientific Observation, 2 Examples

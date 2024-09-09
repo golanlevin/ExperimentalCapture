@@ -16,6 +16,8 @@ Kelley Wilder is Professor of Photographic History, Director of the [Photographi
 - Photography's promise to simplify and enhance scientific observation:
   - Mechanical, optical, and objective nature of photography.
   - Idealized as passive and objective, in contrast to human observation.
+![Kodak] (images/You_press_the_button,_we_do_the_rest_(Kodak).jpg)
+*Advertisement for Kodak #1 or #2 camera in the 1890s.*
 
 #### Pre-Photographic Scientific Observation, 2 Examples
 
@@ -23,6 +25,20 @@ Kelley Wilder is Professor of Photographic History, Director of the [Photographi
 ![Sirius A & B](images/siruisab.jpg)
 - Giuseppe Arcimboldo's residence as court painter to  Emperor Maximilian II gave him access to the Emperor's vast collections of rare flora and fauna and his patronage of science as well as art. During his residency he had access to scholars like the botanist Carolus Clusius and his work bridged biological observation and portraiture. 
 ![Four Seasons, 1573] (images/fourseasons.jpg)
+
+#### **Emulsion Explainer**
+![Sobia Ahmad One Big Eye] (images/sobiaahmadonebigeye.png)
+*16 mm film still, One Big Eye (2024) by Sobia Ahmad*
+
+‘One Big Eye’ is a hand-processed 16mm film shot at Pando, an ancient grove of aspen trees that extends across 106 acres in south-central Utah. Seemingly 47,000 individual trees, it is unified by a single immense root system, making it a ‘forest of one.’
+The footage was processed at home over the kitchen sink over nine months using an experimental coffee-based developer, which includes other non-toxic, domestic materials such as washing soda, vitamin C powder, and salt. We see this materially focused film practice as an opportunity to rethink ecological entanglements between us and a more-than-human world.
+
+- **Colloid**: A colloid is a type of mixture where one substance is dispersed evenly throughout another. The particles in a colloid are larger than molecules but small enough to remain suspended, without settling out like in a suspension. 
+- **Photographic Emulsion**: Photographic emulsion is a colloid because it has tiny solid particles (silver crystals typically) spread out in a liquid-like gelatin. These silver crystals capture light when you take a photo. Even though it's called "emulsion," it's really a colloid where the solid particles (silver) are mixed into a sticky liquid (gelatin).
+- There are a wide array of photographic emulsions including **black-and-white emulsions**, **color film emulsions**, **infrared emulsions**, **instant film emulsions**, **alternative process emulsions**, and **X-ray emulsions**.
+
+![Eastman](images/George-Eastman-SS-photograph-Gallia-Frederick-Church-February-1890.jpg)
+*George Eastman with a Kodak camera in 1890.*
 
 
 #### **The Impact of Photography on Scientific Methods**
@@ -43,7 +59,9 @@ Seeing Color in Space. [Video Link](https://drive.google.com/file/d/1U_ZPWdqXMYc
 #### Challenges to the notion of passivity and objectivity in scientific photography.
 
 - **Human Intervention**: Photographers made decisions about framing, exposure, and developing, introducing subjectivity.
+
 - **Technical Limitations**: Variations in emulsions, lenses, and cameras led to inconsistent results, challenging objectivity.
+
 - **Image Interpretation**: Human interpretation of negatives and positives added subjective judgment, affecting the accuracy of observations.
 - **Complexity in Observations**: In fields like astronomy, photographers focused more on managing the process than the object itself, reducing objectivity.
 - **Conflicting Results**: Inconsistent photographic data, such as during the transit of Venus, led to debates on the reliability of photography for scientific measurements.

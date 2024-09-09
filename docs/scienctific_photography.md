@@ -72,7 +72,7 @@ Seeing Color in Space. [Video Link](https://drive.google.com/file/d/1U_ZPWdqXMYc
 - Marvin Heiferman's book [Seeing Science:
 How Photography Reveals the Universe, 2019] (https://aperture.org/books/seeing-science-how-photography-reveals-the-universe/)
 - Bernice Abbott's book [Documenting Science, 1958] (https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991003712429704436)
-	- [A video about Bernice Abbott's Science Photography](https://drive.google.com/file/d/1YdOrxGm0zEuH-Cuv-0wbWH7Wq8C4fLTj/view?usp=drive_link)
+	- [A video about Bernice Abbott's Science Photography](https://drive.google.com/file/d/15NVXfmocrp_S1I_dB3MNYXVl1v6516wJ/view?usp=sharing)
 ![Bernice](images/berniceabbott82.png) Magnetic Field by Bernice Abbott, 1982
 
 

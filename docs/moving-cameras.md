@@ -59,7 +59,7 @@ Sometimes the camera is moving relative to the reference frame of gravity, but n
 
 Here the camera is made to "move" in post-production, in order to produce an apparently stationary object.  
 
-[Paul Pfeiffer' *The Rules of Basketball*](https://www.youtube.com/watch?v=ssJZJs9g_xQ)<br />[![Paul Pfeiffer's The Rules of Basketball](images/pfeiffer.gif)](https://www.youtube.com/watch?v=ssJZJs9g_xQ)
+[Paul Pfeiffer' *The Rules of Basketball*](https://www.youtube.com/watch?v=x4JTLchLNCo&t=55s)<br />[![Paul Pfeiffer's The Rules of Basketball](images/pfeiffer.gif)](https://www.youtube.com/watch?v=x4JTLchLNCo&t=55s)
 
 
 [*White Glove Tracking*](http://whiteglovetracking.com/) project by Evan Roth and Ben Engebreth, et al., e.g.: [Zach Lieberman for White Glove Tracking](images/zl_pf_tribute.mov) or at their [Gallery](http://whiteglovetracking.com/gallery.html)<br />[![White Glove Tracking](images/zl-pf.gif)](https://youtu.be/jrktgrUPxjo)

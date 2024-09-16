@@ -5,7 +5,7 @@
 ### Scanning Tools	
 				
 * [Seene](http://seene.co/) (Mobile, Free)
-* [Seene hacking with Proecessing](http://seene.co/s/TGRi2y/), [Library](https://github.com/BenVanCitters/SeeneLib---Processing-Library)
+*<!--[Seene hacking with Processing](http://seene.co/s/TGRi2y/),-->[Processing Library](https://github.com/BenVanCitters/SeeneLib---Processing-Library)
 * [Kinect Fusion] *This is currently the most high-fidelity solution for scanning with a Kinect or similar sensor.*
 * [Scenect](http://www.faro.com/faro-3d-app-center/stand-alone-apps/scenect) (Free)
 * [Skanect](http://skanect.occipital.com/) (Mac/PC, Limited Free version)

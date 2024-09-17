@@ -72,7 +72,7 @@ Projector lenses rely heavily on **convex** lenses to enlarge the image as it em
 
 ![projection](images/convexupsidedown.jpg) 
 
-##Building the Scioptic Scope
+## Building the Scioptic Scope
 -
 This process was modeled after William Gurstelle's instructional [How to Build a Solar Microscope](https://www.popsci.com/build-solar-microscope/).
 

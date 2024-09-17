@@ -58,13 +58,13 @@ Critical illumination in microscopy is a technique used to focus light directly 
 - The sun makes a great even light source with few imperfections!
 - Contemporary microscopes use "Köhler illumination" which uses additional lenses in order to separate the image of the light source from the image of the specimen.
 
-- **Condenser Lens**
+**Condenser Lens**
 
 The condenser lens in the microscope collects light from the source and focuses it directly onto the specimen. This allows for a brightly lit field, making it useful for observing specimens that require high brightness.
 
 ![condenser](images/condenserlens.jpg)
 
-- **Projection**
+**Projection**
 
 ![projection](images/projection.jpg)
 
@@ -72,7 +72,8 @@ Projector lenses rely heavily on **convex** lenses to enlarge the image as it em
 
 ![projection](images/convexupsidedown.jpg) 
 
-##Building the Scioptic Scope##
+##Building the Scioptic Scope
+-
 This process was modeled after William Gurstelle's instructional [How to Build a Solar Microscope](https://www.popsci.com/build-solar-microscope/).
 
 ![microscope baker](images/solar-microscope-02-baker.jpg)

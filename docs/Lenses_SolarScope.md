@@ -27,7 +27,7 @@ Compiled by Nica Ross
     - Binoculars (part of the optical system)
 
 - **Plano-Convex Lenses**
--
+- 
 ![plano-convex](images/planoconvexlens.png)
  
   - **Shape:** One side is flat (plano), and the other is convex.
@@ -47,7 +47,7 @@ Compiled by Nica Ross
     - Beam expanders in lasers
     - Optical instruments to diverge beams
 
--
+
 ## Lensing in DIY Microscopy
 
 **Critical Illumination**

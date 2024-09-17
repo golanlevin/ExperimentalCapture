@@ -15,7 +15,7 @@ Compiled by Nica Ross
     - Microscopes
 
 **Concave (Diverging) Lenses**
-- 
+-
 ![concave](images/concave.jpg)
   
   - **Shape:** Thinner in the middle than at the edges.
@@ -27,7 +27,7 @@ Compiled by Nica Ross
     - Binoculars (part of the optical system)
 
 - **Plano-Convex Lenses**
-- 
+-
 ![plano-convex](images/planoconvexlens.png)
  
   - **Shape:** One side is flat (plano), and the other is convex.
@@ -38,7 +38,6 @@ Compiled by Nica Ross
     - Projectors
 
 - **Plano-Concave Lenses**
--
 ![plano-concave](images/planoconcavelens.png)
   
   - **Shape:** One side is flat (plano), and the other is concave.

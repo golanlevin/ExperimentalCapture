@@ -87,7 +87,7 @@ Optical enlargement for the single eye began in the 1500s but the Solar Microsco
 ![solar microscope hople](images/scopehole.jpg)
 ![seed image](images/seedscope.jpg)
 
-##Making Slides##
+## Making Slides
 
 How to make slides by hand and using a manual microtome.
 [Compliation of Instructionals by ThomasTKtungnung](https://drive.google.com/file/d/1imMkkpWks-OOIdRK-Pr8M9Hwngi8Q9Tb/view?usp=sharing)

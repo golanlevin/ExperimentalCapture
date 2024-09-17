@@ -84,8 +84,8 @@ A solar microscope is a type of projection microscope that uses sunlight as its 
 Optical enlargement for the single eye began in the 1500s but the Solar Microscope began to be widely used in the mid-1700s.
 
 ![solar microscope](images/solarmicro.jpg)
-![solar microscope hople](images/scopehole.jpg)
-![seed image](images/seedscope.jpg)
+![solar microscope hople](images/scopehole.png)
+![seed image](images/seedscope.png)
 
 ## Making Slides
 

@@ -1,4 +1,4 @@
-###Optical lenses 
+### Optical lenses 
 Compiled by Nica Ross
 
 **Convex (Converging) Lenses**

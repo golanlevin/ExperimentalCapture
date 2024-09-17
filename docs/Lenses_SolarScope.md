@@ -38,6 +38,7 @@ Compiled by Nica Ross
     - Projectors
 
 - **Plano-Concave Lenses**
+- 
 ![plano-concave](images/planoconcavelens.png)
   
   - **Shape:** One side is flat (plano), and the other is concave.

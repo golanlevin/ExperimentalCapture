@@ -26,7 +26,7 @@ Compiled by Nica Ross
     - Flashlights (to disperse light)
     - Binoculars (part of the optical system)
 
-- **Plano-Convex Lenses**
+**Plano-Convex Lenses**
 - 
 ![plano-convex](images/planoconvexlens.png)
  
@@ -37,7 +37,7 @@ Compiled by Nica Ross
     - Collimators
     - Projectors
 
-- **Plano-Concave Lenses**
+**Plano-Concave Lenses**
 - 
 ![plano-concave](images/planoconcavelens.png)
   

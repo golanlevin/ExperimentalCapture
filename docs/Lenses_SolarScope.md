@@ -76,7 +76,10 @@ Projector lenses rely heavily on **convex** lenses to enlarge the image as it em
 
 This process was modeled after William Gurstelle's instructional [How to Build a Solar Microscope](https://www.popsci.com/build-solar-microscope/).
 
+![solar microscope drawing](images/solarmicrodrawn.jpg)
+
 ![microscope baker](images/solar-microscope-02-baker.jpg)
+
 Solar microscope Illustration from Henry Baker’s The Microscope Made Easy, 1742.
 
 A solar microscope is a type of projection microscope that uses sunlight as its light source. The light is directed through the microscope's lenses onto a specimen, and the magnified image is projected onto a screen or wall. This allowed for large groups of people to view the same magnified image simultaneously, which was a significant advancement for educational and demonstration purposes at the time.
@@ -91,6 +94,6 @@ Optical enlargement for the single eye began in the 1500s but the Solar Microsco
 
 How to make slides by hand and using a manual microtome.
 [Compliation of Instructionals by ThomasTKtungnung](https://drive.google.com/file/d/1imMkkpWks-OOIdRK-Pr8M9Hwngi8Q9Tb/view?usp=sharing)
-![Microtome](images/microtome.png)
+![Microtome](images/microtomes.png)
 
 

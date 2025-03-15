@@ -8,12 +8,14 @@ Several artist-made cameras probe the relationship between words and images, lan
 
 * [*The Descriptive Camera*](#the-descriptive-camera) by Matt Richardson
 * [*Word.Camera*](#wordcamera) by Ross Goodwin
+* [*Poetry.Camera*](https://www.instagram.com/poetry.camera/)
 * [*Neural Talk and Walk*](#neural-talk-and-walk) by Kyle McDonald
 * [*WordsEye*](#wordseye)
 
 Some artist-made cameras make aesthetic judgements about their surroundings, and prompt or prevent their operator from capturing the scene, accordingly.
 
 * [*Camera Restricta*](#camera-restricta) by Philipp Schmitt
+* [*Trophy.Camera*](https://driesdepoorter.be/trophy-camera/) by Dries Depoorter, can only make award-winning pictures
 * [*Nadia, Intelligent Camera Interface*](#nadia-intelligent-camera-interface) by Andrew Kupresanin
 * [*Prosthetic Photographer*](#prosthetic-photographer) by Peter Buczkowski
 * [*The Unoptic Camera*](#the-unoptic-camera) by Kyle McDonald and Chris Woebken

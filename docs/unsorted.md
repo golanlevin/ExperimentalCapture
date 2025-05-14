@@ -648,5 +648,6 @@ SLAM building reconstruction
 retroreflection
 https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/coaxialb.jpg
 
-
+Progressive slicing: 
+https://www.instagram.com/p/DJZjgpvJGHd/
 

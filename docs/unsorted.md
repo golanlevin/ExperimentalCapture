@@ -636,7 +636,6 @@ http://imgur.com/LrpYIem selfie stick
 Perspective camera drawing machines 
 
 ---
----
 
 The [Human Clock](http://www.humanclock.com/) is a clock made from crowdsourced photographs. The [Photo'Clock](http://mono-1.com/photoclock/) is similar, by Mono-1.
 
@@ -650,4 +649,6 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 
 Progressive slicing: 
 https://www.instagram.com/p/DJZjgpvJGHd/
+
+Typology of identical apartments: https://www.instagram.com/p/DKK315txJh3/
 

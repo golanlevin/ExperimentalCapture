@@ -651,4 +651,6 @@ Progressive slicing:
 https://www.instagram.com/p/DJZjgpvJGHd/
 
 Typology of identical apartments: https://www.instagram.com/p/DKK315txJh3/
+Animation slicing through wood: https://www.instagram.com/p/DKPapEFxtFi/
+
 

@@ -647,10 +647,8 @@ SLAM building reconstruction
 retroreflection
 https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/images/coaxialb.jpg
 
-Progressive slicing: 
-https://www.instagram.com/p/DJZjgpvJGHd/
-
-Typology of identical apartments: https://www.instagram.com/p/DKK315txJh3/
-Animation slicing through wood: https://www.instagram.com/p/DKPapEFxtFi/
-
+* Progressive slicing: https://www.instagram.com/p/DJZjgpvJGHd/
+* Typology of identical apartments: https://www.instagram.com/p/DKK315txJh3/
+* Animation slicing through wood: https://www.instagram.com/p/DKPapEFxtFi/
+* Bowling ball camera: https://www.instagram.com/reel/DLQXgklB3fi/
 

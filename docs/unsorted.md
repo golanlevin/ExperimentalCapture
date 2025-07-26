@@ -643,4 +643,5 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Bowling ball camera: https://www.instagram.com/reel/DLQXgklB3fi/
 * Synchronized 3D-printer and robot-arm-mounted camera: https://www.instagram.com/p/DLsLNxFOj8l/
 * Park bench series: https://www.instagram.com/p/DL0hajBz36t/
+* New acoustic camera for $1000: https://www.youtube.com/watch?v=hCQCP-5g5bo&t=1310s
 

@@ -645,4 +645,5 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Park bench series: https://www.instagram.com/p/DL0hajBz36t/
 * New acoustic camera for $1000: https://www.youtube.com/watch?v=hCQCP-5g5bo&t=1310s
 * Rotated perspective on SF hills https://www.instagram.com/p/DMp2V5Uq1A-/
+* Multiple exposure, birds flying: https://www.instagram.com/p/DKaM2CDxFs4/
 

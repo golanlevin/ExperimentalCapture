@@ -646,4 +646,4 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * New acoustic camera for $1000: https://www.youtube.com/watch?v=hCQCP-5g5bo&t=1310s
 * Rotated perspective on SF hills https://www.instagram.com/p/DMp2V5Uq1A-/
 * Multiple exposure, birds flying: https://www.instagram.com/p/DKaM2CDxFs4/
-
+* Human cyanotype: https://www.instagram.com/p/DM2cEGrCQ0S/

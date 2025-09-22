@@ -650,3 +650,4 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * 42nd & vanderbilt by Peter Funch, subjects seen across multiple days: https://www.instagram.com/p/DM-w-5PJ3Ld/
 * Moving camera recording: https://www.instagram.com/reel/DOYys2TgONp/
 * inside compound pinhole camera obscura: https://www.pneu.haus/compound-camera
+* Cyanometer: https://www.instagram.com/p/DO1dMn8jcU3/

@@ -653,3 +653,5 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Cyanometer: https://www.instagram.com/p/DO1dMn8jcU3/
 * Rubbing eyes in MRI: https://www.instagram.com/reel/DPMCNYYEnQK
 * Man in front of sun (skydiving + astrophotography): https://www.instagram.com/p/DRBAaqLkvye/
+* X-ray video of moles digging in couscous: https://www.instagram.com/p/DQwieCyCLCm/
+  

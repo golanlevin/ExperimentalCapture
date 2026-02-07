@@ -658,4 +658,5 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Long exposure in train tunnel: https://www.instagram.com/reel/DSAe4v5gp7K/
 * Cassandra-style image alignment hack: https://www.instagram.com/reel/DS2rJR2Epey/
 * Tiny camera mounted on ant: https://www.instagram.com/reel/DTArNnMirke/
+* Custom transparent-LCD bokeh: https://www.youtube.com/watch?v=Kg_2MAgS_pE
   

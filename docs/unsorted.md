@@ -659,4 +659,5 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Cassandra-style image alignment hack: https://www.instagram.com/reel/DS2rJR2Epey/
 * Tiny camera mounted on ant: https://www.instagram.com/reel/DTArNnMirke/
 * Custom transparent-LCD bokeh: https://www.youtube.com/watch?v=Kg_2MAgS_pE
+* Dog-mounted camera triggered by dog's heart-rate monitor: https://www.instagram.com/p/DUgeXFuFEcJ/
   

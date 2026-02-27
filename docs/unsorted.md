@@ -662,4 +662,5 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Dog-mounted camera triggered by dog's heart-rate monitor: https://www.instagram.com/p/DUgeXFuFEcJ/
 * Pen-mounted camera mount: https://www.instagram.com/reels/DUoS-Hzj7x0/
 * Camera which only takes a photo if a dog is in frame: https://www.instagram.com/reels/DVPClLnkgyH/
+* Cheap image alignment hack https://www.instagram.com/reel/DVJTwklkSCW/
   

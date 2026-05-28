@@ -2,7 +2,7 @@
 
 ---
 
-*In these rule-based approaches to portraiture, artists have devised systems, frameworks, and platforms for eliciting candid views of their subjects. They rely not on computation, but on the observational logic of [cinéma vérité](https://en.wikipedia.org/wiki/Cin%C3%A9ma_v%C3%A9rit%C3%A9) and the organizational logic of the [small multiple](https://en.wikipedia.org/wiki/Small_multiple).*
+*In these rule-based approaches to comparative portraiture, artists have devised systematized workflows, frameworks, and platforms for eliciting candid views of their subjects. They rely not on computation, but on the observational logic of [cinéma vérité](https://en.wikipedia.org/wiki/Cin%C3%A9ma_v%C3%A9rit%C3%A9) and the organizational logic of the [small multiple](https://en.wikipedia.org/wiki/Small_multiple) for intercomparison.*
 
 ---
 
@@ -30,27 +30,15 @@ Sullivan writes:
 
 ---
 
-### People Staring at Computers
+### Time is Money
 
-[“People Staring at Computers”](https://vimeo.com/25958231) (2011) was a photographic intervention by Kyle McDonald that pushed the legal limits of candid photography in commercially-controlled commercial spaces.
+[Alexey Yurenev](https://www.yurenev.com/projects/time-is-money) traveled across New York City and asked people of different professions how long it takes them to earn one dollar. He then used their responses to set the exposure time for their respective portraits while they worked.
 
-McDonald wrote an simple application that took one picture every minute. If it found a face, it uploaded the photo to his server. He installed the app in Apple stores around NYC over three days, collecting more than a thousand photos.
+![on_the_clock_alexey_yurenev.jpg](images/on_the_clock_alexey_yurenev.jpg)<br />*Left to right: Butcher (144 seconds); Sex Worker (3.6 seconds); Shoe Shiner (60 seconds).*
 
-[![People Staring at Computers by Kyle McDonald](images/portraits/people-staring-at-computers.jpg)](https://vimeo.com/25958231)
-
-* I wasn't expecting the Secret Service" [article in WIRED](https://www.wired.com/2012/07/people-staring-at-computers/)
-
----
-
-### Eva Teppe's Visualization
-
-Eva Teppe's visualization for Elliott Carter's Dialogue (2005).<br />![*Eva Teppe*](images/portraits/eva_teppe.jpg)
-
-This stunning visualization, created by German video artist Eva Teppe, accompanied a performance by the Bruckner Orchester Linz at the 2005 Ars Electronica Festival, with Dennis Russell Davies conducting.
-
-In this visualization, Teppe videotaped the faces of people listening to a recorded version of the concert. These face-videos were then presented while the orchestra performed the same music. The conductor kept the orchestra to within 3 seconds of the timing of the original recorded version. The result? Each subject's face portrays a different visualization of the music—a completely subjective, enormously multidimensional representation which is organically derived from the psychological impact of Carter's music on the unique personality and tastes of each subject, and our own subjective proclivities as interpreters of facial expressions. Viewing the performance, we each begin to identify with one or more of the subjects, based on the similarity of their reactions to our own. We develop a mental model, not only of the music we are listening to, but of the personalities of each of the subjects. We may even laugh when a subject's expression confirms our own inner feelings.
-
-
+> "[Boulevard du Temple](https://en.wikipedia.org/wiki/Boulevard_du_Temple_(photograph))", an image taken by Louis Daguerre in 1838, is considered to be the first photographic representation of human beings. It contains the silhouette of a man having his shoes shined, his image rendered sharp by virtue of his stillness during the 7-minute exposure. Just below him is the indistinct outline of the shoe shiner, whose movements as he works make his figure fainter. This first photograph of people, then, is also the first to depict class relations, wherein the degree of social visibility afforded to each subject is made literal by their impression on the photographic plate. 
+> 
+> As in Daguerre’s photograph, Yurenev's images make visible the distinctions between workers in different occupations: some subjects are seen clearly; others blur as they move about; and still others are nearly imperceptible. [...] These photographs document the city’s deepening social stratification and ask: At what point does a worker become invisible?
 
 
 ---
@@ -71,13 +59,17 @@ The title of each photograph is a combination of the name the gamer had given th
 
 ![*Shooter*](images/portraits/portrait_shooter-geissler-sann.png)
 
---- 
+---
 
-### The Stun Gun Photoshoot
+### People Staring at Computers
 
-Patrick Hall's [*Stun Gun Photoshoot*](https://www.patrickhall.photography/the-stun-gun-photoshoot) is a photo series showcasing the various emotions and reactions of people at the moment they are hit with a 300,000 volt stun gun. Hall's approach elicits utterly candid reactions ranging, interestingly, from pain to pleasure.  
+[“People Staring at Computers”](https://vimeo.com/25958231) (2011) was a photographic intervention by Kyle McDonald that pushed the legal limits of candid photography in commercially-controlled commercial spaces.
 
-[![Stun Gun Portrait Series](images/portraits/portrait_stun_gun.jpg)](https://www.patrickhall.photography/the-stun-gun-photoshoot)
+McDonald wrote an simple application that took one picture every minute. If it found a face, it uploaded the photo to his server. He installed the app in Apple stores around NYC over three days, collecting more than a thousand photos.
+
+[![People Staring at Computers by Kyle McDonald](images/portraits/people-staring-at-computers.jpg)](https://vimeo.com/25958231)
+
+* I wasn't expecting the Secret Service" [article in WIRED](https://www.wired.com/2012/07/people-staring-at-computers/)
 
 ---
 
@@ -90,6 +82,14 @@ Patrick Hall's [*Stun Gun Photoshoot*](https://www.patrickhall.photography/the-s
 One of the writers affiliated with the project, Amanda Hess, writes: 
 
 > “*Hysterical Literature hits the internet at a time in human history where it is increasingly possible for women to obliterate that distinction [between sexual object and human subject], to express our sexuality without surrendering our agency.*”
+
+---
+
+### The Stun Gun Photoshoot
+
+Patrick Hall's [*Stun Gun Photoshoot*](https://www.patrickhall.photography/the-stun-gun-photoshoot) is a photo series showcasing the various emotions and reactions of people at the moment they are hit with a 300,000 volt stun gun. Hall's approach elicits utterly candid reactions ranging, interestingly, from pain to pleasure.  
+
+[![Stun Gun Portrait Series](images/portraits/portrait_stun_gun.jpg)](https://www.patrickhall.photography/the-stun-gun-photoshoot)
 
 ---
 
@@ -112,4 +112,15 @@ Strickland writes:
 * [Portable Portrait: PHYLIS MORRISON (1994)](https://vimeo.com/9299697)
 * [Portable Portrait: REBECCA REILLY (1995)](https://vimeo.com/9370157)
 * [Portable Portrait: JOANNA PFEIFFER (1990)](https://vimeo.com/9369129)
+
+
+---
+
+### Eva Teppe's Visualization
+
+Eva Teppe's visualization for Elliott Carter's *Dialogue* (2005).<br />![*Eva Teppe*](images/portraits/eva_teppe.jpg)
+
+This stunning visualization, created by German video artist Eva Teppe, accompanied a performance by the Bruckner Orchester Linz at the 2005 Ars Electronica Festival, with Dennis Russell Davies conducting.
+
+In this visualization, Teppe videotaped the faces of people listening to a recorded version of the concert. These face-videos were then presented while the orchestra performed the same music. The conductor kept the orchestra to within 3 seconds of the timing of the original recorded version. The result? Each subject's face portrays a different visualization of the music—a completely subjective, enormously multidimensional representation which is organically derived from the psychological impact of Carter's music on the unique personality and tastes of each subject, and our own subjective proclivities as interpreters of facial expressions. Viewing the performance, we each begin to identify with one or more of the subjects, based on the similarity of their reactions to our own. We develop a mental model, not only of the music we are listening to, but of the personalities of each of the subjects. We may even laugh when a subject's expression confirms our own inner feelings.
 

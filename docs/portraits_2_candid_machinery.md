@@ -9,6 +9,10 @@ Across these projects, the "portrait machine" is not the camera but the *designe
 
 What unites these projects is their use of procedural structure to produce *candidness at scale*. By standardizing conditions across many subjects, the artists create comparative instruments for observing how people navigate systems: social systems, technological systems, economic systems, bodily systems, and systems of attention itself. The resulting portraits are therefore not only depictions of individuals, but records of human behavior under designed conditions.
 
+* **The core question:** What can we learn about people by placing them inside a carefully designed situation?
+* **We use:** provocations, rituals, endurance tasks, constrained interactions, engineered circumstances.
+* **The output:** People are visibly present, but their portraits emerge from behavior rather than their appearance.
+
 
 ---
 

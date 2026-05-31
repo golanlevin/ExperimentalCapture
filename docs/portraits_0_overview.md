@@ -1,6 +1,8 @@
 # Portraiture-Systems
 
-Traditional portraiture often centers on a single encounter between artist and subject. In the works presented in these lectures, however, artists develop systems, procedures, and frameworks that generate portraits through repetition, comparison, observation, or inference. Rather than asking how to make a single portrait, these projects ask how a portrait might emerge from a rule, a process, or a dataset. 
+![portrait_bill_sullivan_turnstiles2.jpg](images/portraits/portrait_bill_sullivan_turnstiles2.jpg)
+
+Traditional portraiture often centers on a single encounter between artist and subject. In the works presented in these lectures, by contrast, artists develop systems, workflows, and frameworks that generate portraits through repetition, comparison, observation, or inference. Rather than asking how to make a single portrait, these projects ask how a portrait might emerge from a rule, a process, or a dataset.
 
 ---
 

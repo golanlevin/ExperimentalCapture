@@ -1,6 +1,6 @@
 # Portraits (III): The Indirect Portrait
 
-In these projects, artists construct portraits without relying on direct depictions of their subjects. Rather than photographing, interviewing, or otherwise observing a person directly, they work with traces and proxies: possessions, residues, documents, biological samples, surveillance records, personal data, and other forms of indirect evidence.
+In these projects, artists construct portraits without relying on direct depictions of their subjects. Rather than photographing or otherwise observing a person directly, they work with traces and proxies: possessions, residues,  biological samples, personal data, and other forms of indirect evidence.
 
 Across these projects, the subject may be absent, deceased, or entirely unknown. The artist assembles fragments and artifacts from which a portrait can be inferred. A room stands in for its occupant; a collection of possessions stands in for a life; a strand of hair stands in for a body. The viewer becomes an active participant in reconstructing the missing person from the evidence that remains.
 
@@ -8,7 +8,7 @@ What unites these projects is their use of procedural structures to transform tr
 
 * **The core question:** What can we learn about people without depicting them directly?
 * **We use:** possessions, traces, biological samples, archives, surveillance records, personal data.
-* **The output:** People may be absent entirely, but their portraits emerge through interpretation rather than depiction.
+* **The output:** People may be absent in a conventional sense, but their portraits emerge through interpretation rather than depiction.
 
 
 ---

@@ -669,4 +669,5 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * FreeMoCap: multi-webcam https://www.instagram.com/p/DXbjdsTgrZs/
 * NYC basketball courts typology by Austin Bell: https://bellaustin.com/nyc-courts
 * MAMMA, Markerless Accurate Multi-person Motion Acquisition: https://mamma.is.tue.mpg.de/ , https://github.com/cuevhv/mamma , https://github.com/rethink-studios/ComfyUI-MAMMA
+* WikiSpy, associative image tool, https://neal.fun/wiki-spy/similar/63775/
   

@@ -183,7 +183,9 @@ There are also many uses of NIR imaging for real-time body tracking and computer
 
 *Thermal imaging* senses light wavelengths in the range of ~8000-14000 nanometers, also called *long wave infrared*, which corresponds to what we experience as *heat*. In short, we see *where* something is hot, and to what extent.
 
-![forehead-thermometer.jpg](images/multispectral/forehead-thermometer.jpg)<br />A touchless forehead thermometer (about USD20) is essentially a one-pixel thermal camera. Niklas Roy made a [DIY Thermal Camera](https://www.youtube.com/watch?v=q49p4jXGQuA) by mounting one on a pan/tilt servo.
+![forehead-thermometer.jpg](images/multispectral/forehead-thermometer.jpg)<br />A touchless forehead thermometer (about USD20) is essentially a one-pixel thermal camera. Niklas Roy made a [DIY Thermal Camera](https://www.youtube.com/watch?v=q49p4jXGQuA) by [mounting one on a pan/tilt servo](https://www.niklasroy.com/project/195/DIY_thermal_imaging): 
+
+![niklas_roy_diy_thermal_camera.jpg](images/thermal/niklas_roy_diy_thermal_camera.jpg)
 
 
 What we see when we observe radiation in the ~8000-14000nm range is *emissive* rather than *reflective*. Interestingly, there is a band that is not used for imaging — the "low transmittance window", between 5000-8000nm, because *air is opaque* (absorbs IR) at those wavelengths. Put another way: those are the wavelengths of light-energy that *heat the air itself*.

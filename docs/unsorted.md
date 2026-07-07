@@ -22,6 +22,7 @@
 * Rottytooth Straightened trees
 * [Viewing wifi](https://www.youtube.com/watch?v=g3LT_b6K0Mc)
 
+
 https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651
 
 
@@ -670,4 +671,5 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * NYC basketball courts typology by Austin Bell: https://bellaustin.com/nyc-courts
 * MAMMA, Markerless Accurate Multi-person Motion Acquisition: https://mamma.is.tue.mpg.de/ , https://github.com/cuevhv/mamma , https://github.com/rethink-studios/ComfyUI-MAMMA
 * WikiSpy, associative image tool, https://neal.fun/wiki-spy/similar/63775/
+* Cassidy Curtis, EyeStilts: http://eyestilts.com/intro.html
   

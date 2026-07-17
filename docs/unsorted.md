@@ -672,4 +672,6 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * MAMMA, Markerless Accurate Multi-person Motion Acquisition: https://mamma.is.tue.mpg.de/ , https://github.com/cuevhv/mamma , https://github.com/rethink-studios/ComfyUI-MAMMA
 * WikiSpy, associative image tool, https://neal.fun/wiki-spy/similar/63775/
 * Cassidy Curtis, EyeStilts: http://eyestilts.com/intro.html
+* 50 Years of ecosystem recordings: https://www.facebook.com/reel/1009276725252445
+* Photo monitoring locations: Photomon, CoastSnap: https://pinerypark.on.ca/research-projects/photomontage/, https://seagrant.whoi.edu/coastsnap/
   

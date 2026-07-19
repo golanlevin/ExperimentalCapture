@@ -674,4 +674,5 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Cassidy Curtis, EyeStilts: http://eyestilts.com/intro.html
 * 50 Years of ecosystem recordings: https://www.facebook.com/reel/1009276725252445
 * Photo monitoring locations: Photomon, CoastSnap: https://pinerypark.on.ca/research-projects/photomontage/, https://seagrant.whoi.edu/coastsnap/
+* Melissa Penley Cormier, collection of microscope slides of small things she was worrying about: https://melissapenleycormier.com/fretfocus/
   

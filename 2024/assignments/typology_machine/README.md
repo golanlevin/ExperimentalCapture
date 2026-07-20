@@ -34,7 +34,7 @@ Here are some *Typology Machine* projects by prior ExCap students:
 * Cathryn built a [system to collect and compare sonocardiograms](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=1263.html) (2020).
 * Huw made a [virtual gallery for comparing 3D-modeled vs. 3D-scanned objects](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=1666.html) (2020).
 * Policarpo made a [system for capturing the thermal signatures of hugging](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=1424.html) (2020).
-* Sean somehow managed to make [3D scans of the insides of phone charging ports](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=1523.html) (2020).
+* Sean somehow managed to make [3D scans of the insides of phone charging ports](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=1523.html); [video](https://www.youtube.com/watch?v=1WnbnpjQ4lk) (2020).
 * Izzy created a collection of [omphalospheric camera lucida drawings of different environments](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=1413.html) (2020).
 
 

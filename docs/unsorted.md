@@ -675,4 +675,7 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * 50 Years of ecosystem recordings: https://www.facebook.com/reel/1009276725252445
 * Photo monitoring locations: Photomon, CoastSnap: https://pinerypark.on.ca/research-projects/photomontage/, https://seagrant.whoi.edu/coastsnap/
 * Melissa Penley Cormier, collection of microscope slides of small things she was worrying about: https://melissapenleycormier.com/fretfocus/
+* RuView turns ordinary WiFi into a contactless sensor: https://github.com/ruvnet/ruview
+* Google DeepMind GenCeption, a unified, general-purpose, feed-forward vision model: https://genception.github.io/
+* Lingbot-Map, feed-forward 3D foundation model for streaming 3D reconstruction: https://github.com/robbyant/lingbot-map
   

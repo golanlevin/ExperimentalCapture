@@ -646,7 +646,6 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Park bench series: https://www.instagram.com/p/DL0hajBz36t/
 * New acoustic camera for $1000: https://www.youtube.com/watch?v=hCQCP-5g5bo&t=1310s
 * Rotated perspective on SF hills https://www.instagram.com/p/DMp2V5Uq1A-/
-* Multiple exposure, birds flying: https://www.instagram.com/p/DKaM2CDxFs4/
 * Human cyanotype: https://www.instagram.com/p/DM2cEGrCQ0S/
 * 42nd & vanderbilt by Peter Funch, subjects seen across multiple days: https://www.instagram.com/p/DM-w-5PJ3Ld/
 * Moving camera recording: https://www.instagram.com/reel/DOYys2TgONp/
@@ -656,7 +655,6 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Man in front of sun (skydiving + astrophotography): https://www.instagram.com/p/DRBAaqLkvye/
 * X-ray video of moles digging in couscous: https://www.instagram.com/p/DQwieCyCLCm/
 * Hack for 3D scanning with iPhone: https://github.com/nelsonjchen/iphone_12_mini_face_id_3d_scanning_mount, https://www.instagram.com/reel/DSCgkfBDVu3/
-* Long exposure in train tunnel: https://www.instagram.com/reel/DSAe4v5gp7K/
 * Cassandra-style image alignment hack: https://www.instagram.com/reel/DS2rJR2Epey/
 * Tiny camera mounted on ant: https://www.instagram.com/reel/DTArNnMirke/
 * Custom transparent-LCD bokeh: https://www.youtube.com/watch?v=Kg_2MAgS_pE

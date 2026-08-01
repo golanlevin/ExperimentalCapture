@@ -648,20 +648,16 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Rotated perspective on SF hills https://www.instagram.com/p/DMp2V5Uq1A-/
 * Human cyanotype: https://www.instagram.com/p/DM2cEGrCQ0S/
 * 42nd & vanderbilt by Peter Funch, subjects seen across multiple days: https://www.instagram.com/p/DM-w-5PJ3Ld/
-* Moving camera recording: https://www.instagram.com/reel/DOYys2TgONp/
 * inside compound pinhole camera obscura: https://www.pneu.haus/compound-camera
 * Cyanometer: https://www.instagram.com/p/DO1dMn8jcU3/
 * Rubbing eyes in MRI: https://www.instagram.com/reel/DPMCNYYEnQK
-* Man in front of sun (skydiving + astrophotography): https://www.instagram.com/p/DRBAaqLkvye/
-* X-ray video of moles digging in couscous: https://www.instagram.com/p/DQwieCyCLCm/
 * Hack for 3D scanning with iPhone: https://github.com/nelsonjchen/iphone_12_mini_face_id_3d_scanning_mount, https://www.instagram.com/reel/DSCgkfBDVu3/
-* Cassandra-style image alignment hack: https://www.instagram.com/reel/DS2rJR2Epey/
+* Cassandra-Jones-style image alignment hack: https://www.instagram.com/reel/DS2rJR2Epey/
+* Cheap image alignment hack https://www.instagram.com/reel/DVJTwklkSCW/
 * Tiny camera mounted on ant: https://www.instagram.com/reel/DTArNnMirke/
 * Custom transparent-LCD bokeh: https://www.youtube.com/watch?v=Kg_2MAgS_pE
-* Dog-mounted camera triggered by dog's heart-rate monitor: https://www.instagram.com/p/DUgeXFuFEcJ/
 * Pen-mounted camera mount: https://www.instagram.com/reels/DUoS-Hzj7x0/
 * Camera which only takes a photo if a dog is in frame: https://www.instagram.com/reels/DVPClLnkgyH/
-* Cheap image alignment hack https://www.instagram.com/reel/DVJTwklkSCW/
 * Tape a camera to a train: https://www.instagram.com/reel/DVq6oUnAAPk/
 * FreeMoCap: https://www.instagram.com/p/DW8s1USAuPx/
 * XRay, CTScan, MRI, banana: https://www.instagram.com/p/DXgfEaLjLWg/
@@ -677,3 +673,9 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Google DeepMind GenCeption, a unified, general-purpose, feed-forward vision model: https://genception.github.io/
 * Lingbot-Map, feed-forward 3D foundation model for streaming 3D reconstruction: https://github.com/robbyant/lingbot-map
   
+### System-Building
+
+* High-speed photo of rainbow droplets: https://www.shinichimaruyama.com/light-sculpture-record-creation/
+* X-ray video of moles digging in couscous: https://www.instagram.com/p/DQwieCyCLCm/
+* Dog-mounted camera triggered by dog's heart-rate monitor: https://mymodernmet.com/heartography-nikon-dog-camera/
+* Man in front of sun (skydiving + astrophotography): https://www.instagram.com/p/DRBAaqLkvye/

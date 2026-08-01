@@ -37,11 +37,9 @@ Here, long exposure works as a revelatory scientific instrument. By integrating 
 
 [![Terence Chang, Airplane Takeoff/Landing](images/long_exposure/long-exposure-chang-airplane14.jpg)](http://www.amusingplanet.com/2011/05/long-exposure-shots-of-airline-takeoffs.html)
 
-[Dennis Hlynsky](https://vimeo.com/dennishlynsky)'s long exposure videos of birds and insects: [*Starlings at Sunset*](https://vimeo.com/987651028), [*Ground Cloud*](https://vimeo.com/149022523), [*Small Brains en Masse*](https://vimeo.com/109039750)
+[Dennis Hlynsky](https://vimeo.com/dennishlynsky)'s long exposure videos of birds and insects: [*Starlings at Sunset*](https://vimeo.com/987651028), [*Ground Cloud*](https://vimeo.com/149022523), [*Small Brains en Masse*](https://vimeo.com/109039750) • [**Terrific interview with Hlynsky**](https://www.youtube.com/watch?v=ML6n2t6uy1Q) (2m17s)
 
 [![Dennis Hlynsky: *Ground Cloud*](images/long_exposure/long-exposure-hlynsky.jpg)](https://vimeo.com/149022523)
-
-https://www.youtube.com/watch?v=ML6n2t6uy1Q (2m17s)
 
 Long exposure can also be used to visualize otherwise invisible physical phenomena. In these clever projects by the BERG design group, light sources respond to some hidden property of the environment. Moving that light through space during a long exposure effectively "draws" a map of that unseen field.
 

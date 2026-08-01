@@ -7,9 +7,14 @@ Long exposure is an ideal technique for visualizing trajectories, gestures and o
 * An actual single long exposure, i.e. controlling the timing of a shutter on a physical sensor or piece of light-sensitive film
 * Apps and other scripts which sum and/or blend multiple consecutive frames of video.
 
-Many terrific examples of long-exposure photography can be found in Nicholas Felton's book, [*PhotoViz*](https://www.amazon.com/dp/3899556453), and are discussed in [this 2016 lecture](https://www.youtube.com/watch?v=aRg1PxDRL5o&t=580s) (9'40"–17'20"). Felton speaks about how "the intersection of photography and data visualization is a place where optical techniques reveal complex phenomena and data viz starts to resemble a photographic process."
+### For Further Reference
+
+* A good history and technical overview of light-painting is available at [https://lightpaintingphotography.com/](https://lightpaintingphotography.com/)
+* Many terrific examples of long-exposure photography can be found in Nicholas Felton's book, [*PhotoViz*](https://www.amazon.com/dp/3899556453), and are discussed in [this 2016 lecture](https://www.youtube.com/watch?v=aRg1PxDRL5o&t=580s) (9'40"–17'20"). Felton speaks about how "the intersection of photography and data visualization is a place where optical techniques reveal complex phenomena and data viz starts to resemble a photographic process."
 
 [![Nick Felton at Webstock](images/long_exposure/felton-webstock.jpg)](https://www.youtube.com/watch?v=aRg1PxDRL5o&t=580s)
+
+
 
 ---
 
@@ -66,9 +71,25 @@ These examples apply long exposure to movement of the body, in order to create b
 
 ## Additional Examples
 
-Gjon Mili, [long exposure of violinist Jascha Heifetz for LIFE magazine](https://fenado.ai/articles/1952-gjon-mili-photograph-visually-traces-jascha-heifetzs-bow-movements-with-light), 1952, illustrates a time/space technique combining **long exposur**e (which captures the trail left by a small light) and a single **stroboscopic flash** (which captures the subject in a brief instant) — providing a detailed spatial "explanation" of the temporal trail. 
+* Man Ray, [*Space Writing*](https://www.manray.net/space-writing-self-portrait.jsp) (1935). Possibly the first major artist to intentionally use light-painting in art.
 
-![long_exposure_of_jascha_heifetz_by_gjon_mili.jpg](images/long_exposure/long_exposure_of_jascha_heifetz_by_gjon_mili.jpg)
+![light_painting_man_ray_space_writing.jpg](images/long_exposure/light_painting_man_ray_space_writing.jpg)
+
+* In 1940-41, photograher Barbara Morgan (1900-1992) created a series of light-paintings called [*Emanations*](https://collection.carnegieart.org/objects/6133e622-5040-4fe9-82a8-06c473ff4650), in which she recorded the movements of dancers holding lights. 
+
+![light_painting_barbara_morgan_emanations_1940.jpg](images/long_exposure/light_painting_barbara_morgan_emanations_1940.jpg)
+
+* From 1949-1952, photographer Gjon Mili made a series of influential long exposures for LIFE magazine, including subjects like artist [Pablo Picasso](https://www.life.com/arts-entertainment/behind-the-picture-picasso-draws-with-light/) and violinist [Jascha Heifetz](https://fenado.ai/articles/1952-gjon-mili-photograph-visually-traces-jascha-heifetzs-bow-movements-with-light). These works illustrate a time/space technique combining **long exposure** (which captures the trail left by a small light) and a single **stroboscopic flash** (which captures the subject in a brief instant) — providing a detailed spatial "explanation" of the temporal trail. 
+
+![long_exposures_by_gjon_mili.jpg](images/long_exposure/long_exposures_by_gjon_mili.jpg)
+
+* Around 1968-1970, [Ernst Haas](https://gioeledaka.blogspot.com/2015/12/unit-1-ernst-haas.html) introduced greater subjectivity into long exposure photography, by recentering the camera as the source of movement, and not the depicted object.
+
+![ernst-haas-long-exposures-1968-1970.jpg](images/long_exposure/ernst-haas-long-exposures-1968-1970.jpg)
+
+* In the late 1970s and 1980s, Eric Staller pioneered contemporary urban light painting, using graffiti-like light trails to embellish and define architectures. 
+
+![light_painting_eric_staller.jpg](images/long_exposure/light_painting_eric_staller.jpg)
 
 * [David Rokeby, *Plot Against Time*](http://www.davidrokeby.com/PlotAgainstTime.html) (Snowflakes, Pedestrians, Fireflies, Birds, etc.)
 

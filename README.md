@@ -27,13 +27,6 @@ This is an interdisciplinary course in experimental media practices that arise f
 * Demonstrate understanding of the poetic and elucidative potentials of such techniques, and their application to the production of expressive and provocative new culture.
 * Command the practical use of one or more such techniques.
 
----
-
-### Course Logistics
-
-* [**Tutorials**](docs/tutorials.md)
-* [**Readings**](docs/readings.md)
-* [**Course Policies**](docs/policies.md)
 
 ---
 
@@ -83,10 +76,15 @@ More:
 * [Perspective Capture and Representation](docs/perspective.md)
 * [Landscape: Capturing Places](docs/places.md)
 
+Readings: 
+
+* [**Readings**](docs/readings.md)
+
 --- 
 
 ### Editions, Credits & Acknowledgements
 
+* [**Fall 2024**](https://courses.ideate.cmu.edu/60-461/f2024/): Golan Levin & Nica Ross (co-taught)
 * [**Fall 2022**](https://courses.ideate.cmu.edu/60-461/f2022/): Golan Levin & Nica Ross (co-taught)
 * [**Spring 2020**](https://courses.ideate.cmu.edu/60-461/s2020/): Golan Levin & Nica Ross (co-taught)
 * [July 2018 one-week workshop](workshop/README.md): Golan Levin

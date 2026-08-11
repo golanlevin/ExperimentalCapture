@@ -672,6 +672,7 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * RuView turns ordinary WiFi into a contactless sensor: https://github.com/ruvnet/ruview
 * Google DeepMind GenCeption, a unified, general-purpose, feed-forward vision model: https://genception.github.io/
 * Lingbot-Map, feed-forward 3D foundation model for streaming 3D reconstruction: https://github.com/robbyant/lingbot-map
+* LUMEN-PS texture-scanning software using photometric stereo on flatbed scans. https://x.com/KIRI_Engine_App/status/2086758068671631513
   
 ### System-Building
 

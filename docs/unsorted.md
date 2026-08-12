@@ -673,6 +673,7 @@ https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/oct1999/ima
 * Google DeepMind GenCeption, a unified, general-purpose, feed-forward vision model: https://genception.github.io/
 * Lingbot-Map, feed-forward 3D foundation model for streaming 3D reconstruction: https://github.com/robbyant/lingbot-map
 * LUMEN-PS texture-scanning software using photometric stereo on flatbed scans. https://x.com/KIRI_Engine_App/status/2086758068671631513
+* DepthAnything3D workflow: https://x.com/aaronmharrisamh/status/2087366975269830885, https://github.com/bytedance-seed/depth-anything-3
   
 ### System-Building
 

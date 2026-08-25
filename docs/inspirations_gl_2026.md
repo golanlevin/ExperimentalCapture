@@ -71,13 +71,6 @@ such as [*Stainless, 42 Street*](https://vimeo.com/83664407):
 
 [![](images/eventide.jpg)](https://vimeo.com/84883569)
 
----
-
-### Trevor Paglen
-
-Trevor Paglen [uses photography to reveal secret sites and satellites](https://www.youtube.com/watch?v=9Igfu0VwdkQ) as a mode of artistic practice. Trevor is "a guy who points his camera through astronomy telescopes at secret military sites to photograph things that are off limits to the public." To produce his work, he designs photographic processes using astronomy telescopes.
-
-[![Paglen](images/paglen.jpg)](https://www.youtube.com/watch?v=9Igfu0VwdkQ)
 
 ---
 

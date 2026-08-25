@@ -83,8 +83,8 @@ Trevor Paglen [uses photography to reveal secret sites and satellites](https://w
 
 ### Berg, *Light Painting WiFi*
 
-[Berg: *Immaterials: Light Painting WiFi*](https://vimeo.com/20412632)<br />
-[![Berg: *Immaterials: Light Painting WiFi*](images/long-exposure-berg-wifi.jpg)](https://vimeo.com/20412632)
+[Berg: *Immaterials: Light Painting WiFi*](https://www.youtube.com/watch?v=cxdjfOkPu-E)<br />
+[![Berg: *Immaterials: Light Painting WiFi*](images/berg-wifi.png)](https://www.youtube.com/watch?v=cxdjfOkPu-E)
 
 ---
 
@@ -92,8 +92,6 @@ Trevor Paglen [uses photography to reveal secret sites and satellites](https://w
 
 Timo Arnall, [*Robot Readable World*](https://www.youtube.com/watch?v=cxdjfOkPu-E)<br />
 [![](images/robotreadableworld.png)](https://www.youtube.com/watch?v=cxdjfOkPu-E)
-
-![robotreadableworld.png](images/robotreadableworld.png)
 
 ---
 

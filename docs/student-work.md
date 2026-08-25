@@ -67,7 +67,7 @@ Claire Hentschker developed [*Shining360*](https://www.youtube.com/watch?v=AupAF
 
 ### Scott Fitzgerald (2016)
 
-Scott Fitzgerald, a workshop student, recorded a drive with a catadioptric 360° lens mounted to the front of his car— and developed custom software in Jitter to compute a 3D slitscan tube from the resulting video. 
+Scott Fitzgerald recorded a drive with a catadioptric 360° lens mounted to the front of his car— and developed custom software in Jitter to compute a 3D slitscan tube from the resulting video. 
 
 [![](images/students/scott_fitzgerald_03.jpg)](https://youtu.be/RJ9d5VkXzzY)
 
@@ -91,9 +91,9 @@ Chloé Desaulles made [high-speed Schlieren recordings](http://golancourses.net/
 
 ### Hizal Celik (2017)
 
-Using an RC car, a laser line, and custom software, Hizal Celik [made a machine](http://golancourses.net/excap17/hizlik/05/10/hizlik-final/) to create 3D scans of the undersides of cars.
+Using an RC car, a laser line, and custom software, Hizal Celik [made a machine](https://hizalcelik.com/carscanner/) to create 3D scans of the undersides of cars.
 
-[![](images/students/hizal-underside.gif)](http://golancourses.net/excap17/hizlik/05/10/hizlik-final/)
+[![](images/students/hizal-underside.gif)](https://vimeo.com/216948343)
 
 ---
 
@@ -134,6 +134,33 @@ Using the Openframeworks add-on ofxFlickr, she scraped thousands of images of sk
 Kristin Yin used the Sensel Morph pressure sensor, and neural-network machine learning, to create a [Footprint Recognizer](http://golancourses.net/excap17/weija/04/27/kyin-and-weija-final-proposal/). 
 
 [![Footprint recognizer](images/students/kyin-footprint.png)](http://golancourses.net/excap17/weija/04/27/kyin-and-weija-final-proposal/)
+
+---
+
+### Ana Jungle-Wagner (2024)
+
+Created an [interactive capture installation](https://courses.ideate.cmu.edu/60-461/f2024/12/15/final-project-smalling-documentation/2578/index.html) which gamified the act of "smallifying" oneself (minimizing the number of pixels that one occupied in a camera view).
+
+[![ana-jungle-wagner-smalling.png](images/students/ana-jungle-wagner-smalling.png)](https://courses.ideate.cmu.edu/60-461/f2024/12/15/final-project-smalling-documentation/2578/index.html)
+
+---
+
+### Policarpo Bacquera (2020)
+
+Policarpo made "[Machine-learning-enhanced rotoscoping](https://www.youtube.com/watch?v=B5Gx1PocVds) on 360 anxious frolicking" during lockdown. [Writeup](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=3309.html)
+
+![bacquera_room.gif](images/looping/bacquera_room.gif)
+
+He also developed this [photogrammetric thermal 3D scan of a hug](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=1424.html).
+
+
+---
+
+### Cat Ploehn (2020)
+
+Cat Ploehn developed [a collection](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=1263.html) of animated loop video recordings of different peoples' heartbeats, using the STUDIO's veterinary ultrasound.
+
+![cat_ploehn_ultrasound_hearts.gif](images/multispectral/cat_ploehn_ultrasound_hearts.gif)
 
 ---
 

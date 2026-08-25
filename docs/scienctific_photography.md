@@ -2,6 +2,18 @@
 ##### This page written by Nica Ross
 ---
 
+"The sensitive photographic film is the true retina of the scientist … for it possesses
+all the properties which Science could want; it faithfully preserves the images which
+depict themselves upon it, and reproduces and multiplies them indefinitely on request;
+in the radiative spectrum it covers a range more than double that which the eye can
+perceive and soon perhaps will cover it all; finally, it takes advantage of that admirable
+property which allows the accumulation of events, and whereas our retina erases all
+impressions more than a tenth of a second old, the photographic retina preserves them
+and accumulates them over a practically limitless time." 
+(French astronomer, P. J. C. Janssen, 1888)
+
+“A photograph’s punctum is that accident which pricks me (but also bruises me, is poignant to me.)” (Roland Barthes, Camera Lucida, 1989:27).
+
 ### Reading Summary: Photography and Scientific Observation
 By Kelley Wilder
 
@@ -57,6 +69,13 @@ Wikipedia describes a black hole as "a region of spacetime where gravity is so s
 ![Hubble](images/Hubble_Hero.jpg)
 
 Seeing Color in Space. [Video Link](https://drive.google.com/file/d/1U_ZPWdqXMYc6pRAcYBIB0Y5IPwL-_0TG/view?usp=sharing)
+
+![Sun](images/sun_rawimage.jpeg)
+"Ubiquitous Kelvin–Helmholtz instabilities driving plasma mixing on the Sun", [https://www.nature.com/articles/s41586-026-10871-3](https://www.nature.com/articles/s41586-026-10871-3)
+
+![Sun Color](images/sun_colorized.jpeg)
+Highest-resolution view of the solar photosphere at 416 nanometres, displayed in a gold palette. The image represents 19 kilometres of the Sun's surface. Curling forms and fine striations occur along magnetic boundaries. Source. Credit: NSF/NSO/AURA/MPS.
+More info: [https://spacedaily.com/t-sharpest-sun-images-20-kilometre-plasma-vortices-corona/](https://spacedaily.com/t-sharpest-sun-images-20-kilometre-plasma-vortices-corona/)
 
 #### Challenges to the notion of passivity and objectivity in scientific photography.
 

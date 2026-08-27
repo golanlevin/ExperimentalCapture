@@ -9,14 +9,14 @@ We remind ourselves of the "motto" of ExCap, by Egon Erwin Kisch (1885-1948):
 Kisch was widely regarded as one of the most outstanding journalists of the twentieth century. He is credited with defining reportage as a form of literary art in which accuracy of observation and fidelity to facts combine with creative narrative.
 
 
-## A Re-Orientation
+## A Different Orientation
 
-This presentation reflects a re-orientation in our semester. We are:
+This presentation reflects an orientation in which we:
 
-* de-centering exotic or 'high' technologies, in favor of an emphasis on resourcefulness with limited means; and
-* undergoing a shift: from objectivity to subjectivity, and from exteriority to interiority (centered in the uniqueness of your experience).
+* de-center exotic or 'high' technologies, in favor of an emphasis on resourcefulness with limited means; and
+* undergo a shift: from objectivity to subjectivity, and from exteriority to interiority (centered in the uniqueness of your experience).
 
-In short: Using the materials we have at hand, to get at more personal truths. 
+In short: Using the materials we have at hand, to get at more personal truths.
 
 ---
 

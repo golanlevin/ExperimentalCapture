@@ -117,9 +117,9 @@ Pohflepp writes:
 
 *And finally: what if it's not even your camera?*
 
-Julius von Bismarck's *[Image Fulgurator](http://juliusvonbismarck.com/fulgurator/)* (2007) is a device for physically manipulating photographs at the instant they are captured. It intervenes when a photo is being taken, without the photographer being able to detect anything. The manipulation is only visible on the photo afterwards.
+Julius von Bismarck's *[Image Fulgurator](https://www.youtube.com/watch?v=c6RC6pSHijY&t=32s)* (2007) is a device for physically manipulating photographs at the instant they are captured. It intervenes when a photo is being taken, without the photographer being able to detect anything. The manipulation is only visible on the photo afterwards.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=c6RC6pSHijY" target="_blank"><img src="http://img.youtube.com/vi/c6RC6pSHijY/0.jpg" width="640" height="360" border="0" /></a><br />
+<a href="https://www.youtube.com/watch?v=c6RC6pSHijY&t=32s" target="_blank"><img src="http://img.youtube.com/vi/c6RC6pSHijY/0.jpg" width="640" height="360" border="0" /></a><br />
 
 von Bismarck writes: 
 

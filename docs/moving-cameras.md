@@ -69,6 +69,9 @@ Sometimes the camera is moving relative to the reference frame of gravity, but n
 
 ![Aydin Butukas](images/buyuktas-flatland-01.jpg)
 
+Büyüktaş has inspired [this interactive Gaussian-splat transformation](https://www.orbify.eu/demo/) by Orbify.eu: 
+[![orbify_folded_landscape.gif](images/orbify_folded_landscape.gif)](https://www.orbify.eu/demo/)
+
 
 ---
 
@@ -78,7 +81,7 @@ Sometimes the camera is moving relative to the reference frame of gravity, but n
 
 ---
 
-"Bullet lens" moving quickly through narrow spaces: the [Laowa 24mm f/14 Probe Lens](https://www.kickstarter.com/projects/laowa/revolutionize-macro-videography-laowa-24mm-f-14-pr)
+"Bullet lens" moving quickly through narrow spaces: the [Laowa 24mm f/14 Probe Lens](https://www.youtube.com/watch?v=WrzQjUQds6g)
 
 ---
 

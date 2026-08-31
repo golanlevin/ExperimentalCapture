@@ -145,6 +145,15 @@ Created an [interactive capture installation](https://courses.ideate.cmu.edu/60-
 
 ---
 
+### Izzy Stephen 
+
+Izzy used a portable camera lucida to trace the contents of a mirrored sphere onto paper, capturing the distortion of objects in the world. These drawings depict the ultimate egocentric frame of reference: a spherified world emanating from the viewer at its center.
+
+![izzy_img008.jpg](images/students/izzy_img008.jpg)
+![izzy_img010.jpg](images/students/izzy_img010.jpg)
+
+---
+
 ### Policarpo Bacquera (2020)
 
 Policarpo made "[Machine-learning-enhanced rotoscoping](https://www.youtube.com/watch?v=B5Gx1PocVds) on 360 anxious frolicking" during lockdown. [Writeup](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=3309.html)
@@ -161,6 +170,36 @@ He also developed this [photogrammetric thermal 3D scan of a hug](https://course
 Cat Ploehn developed [a collection](https://courses.ideate.cmu.edu/60-461/s2020/index.html%3Fp=1263.html) of animated loop video recordings of different peoples' heartbeats, using the STUDIO's veterinary ultrasound.
 
 ![cat_ploehn_ultrasound_hearts.gif](images/multispectral/cat_ploehn_ultrasound_hearts.gif)
+
+---
+
+### Lumi Barron (2020)
+
+Lumi trained the squirrels in her backyard to eat peanut butter out of miniature place settings. She then recorded them with a high-speed camera. When the [recordings were slowed down](https://lumibarron.com/squirrels/), the squirrels seem to be eating at human speed. Lumi's project received international press. 
+
+![lumi_squirrels.jpg](images/students/lumi_squirrels.jpg)
+
+---
+
+### Bea (2022)
+
+Bumble Bea made a [machine intended to capture surprise](https://courses.ideate.cmu.edu/60-461/f2022/index.html%3Fp=925.html).
+
+![bumble_b.jpg](images/students/bumble_b.jpg)
+
+![bumble_b.gif](images/students/bumble_b.gif)
+
+---
+
+### Em Lugo (2022)
+
+Em Lugo [created a system](https://courses.ideate.cmu.edu/60-461/f2022/index.html%3Fp=2050.html) in which a computer-controlled AxiDraw served as a gantry for automated capture from a microscope. Em then stitched hundreds of microphotographs together to make gigapixel-scale images. 
+
+![lugo-microscope.png](images/students/lugo-microscope.png)
+
+![lugo_stitch.png](images/students/lugo_stitch.png)
+
+[Cucumber gigapan](http://www.gigapan.com/gigapans/231258)
 
 ---
 

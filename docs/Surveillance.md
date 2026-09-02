@@ -1,5 +1,9 @@
 # Surveillance as Artistic Material
 
+
+
+### Surveillance as discipline.
+
 > “Morals reformed—health preserved—industry invigorated—instruction diffused—public burthens lightened—Economy seated, as it were, upon a rock—the Gordian knot of the Poor-Laws are not cut, but untied—all by a simple idea in Architecture!”
 >
 > —Jeremy Bentham, Preface to *The Panopticon Writings* (1787)
@@ -35,3 +39,10 @@ Foucault wrote of a more generalized "panopticism" beyond a building's walls sta
 > "The panoptic schema . . . was destined to spread throughout the social body; its vocation was to become a generalized function."
 > 
 > —Michel Foucault, "Panopticism", Discipline & Punish: The Birth of the Prison (1975)
+
+Both Bentham and Foucault argued that the belief that one is being watched is in and of itself enough to control one's behavior. Foucault's critiscm continues with writers like Simone Browne in her book [Dark Matters: On the Surveillance of Blackness](https://www.dukeupress.edu/dark-matters?) and Toby Beauchamp's [Going Stealth: Transgender Politics and U.S. Surveillance Practices](https://read.dukeupress.edu/books/book/2570/Going-StealthTransgender-Politics-and-U-S)
+
+### Artists and Surveillance
+
+Paul Strand's Street Portraits (1916)
+

@@ -44,5 +44,6 @@ Both Bentham and Foucault argued that the belief that one is being watched is in
 
 ### Artists and Surveillance
 
-Paul Strand's Street Portraits (1916)
 
+Paul Strand's Street Portraits (1916)
+>"I suddenly got the idea of making portraits of people the way you see them in the New York parks—sitting around, not posing, not conscious of being photographed,” he recalls. “People involved in the process of daily living. But how could you conceal the camera in order to do this? There was no such thing as a candid camera in those days.” Strand’s solution was to take the shiny brass lens from his uncle’s old view camera and screw it to one side of his Ensign reflex. By holding the camera so that the false lens pointed straight ahead and the real lens stuck out under his left arm, partly concealed by his sleeve, he was able to photograph someone at right angles to the apparent subject."

@@ -115,7 +115,7 @@ Astro Noise, refers to the faint background disturbance of thermal radiation lef
 
 ![](images/bluewindow2.webp)
 
-American Artist, My Blue Window (2019)
+American Artist, [My Blue Window](https://americanartist.us/works/my-blue-window) (2019)
 
 Installation at Queen's Museum, 2019. 
 

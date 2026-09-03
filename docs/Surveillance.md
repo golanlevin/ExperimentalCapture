@@ -1,5 +1,5 @@
 # Surveillance as Artistic Material
-
+Compiled by Nica Ross
 
 
 ### Surveillance as discipline.

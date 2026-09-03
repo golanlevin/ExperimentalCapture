@@ -44,6 +44,12 @@ Both Bentham and Foucault argued that the belief that one is being watched is in
 
 Browne’s *Dark Matters* is a crucial update to the blind spots in Foucault’s writing. She argues that surveillance studies cannot begin only with Bentham’s Panopticon; it must also confront the surveillance of Black people under slavery through branding, lantern laws, slave passes, fugitive notices, and the slave ship.
 
+Lecture below regarding Dr. Browne's concept of "Dark Sousveillance" More here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IsMFdiLsqbg?si=Pd0SDXsfEEtjLkM7&amp;controls=0&amp;start=245" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Dark sousveillance describes an "archive of surveillance and slavery" which often "goes missing from surveillance studies." (Browne 5:36) One example that Browne offers in her book Dark Matters: On the Surveillance of Blackness, is the reliance of surveillance studies on the model of the panopticon as 'the' model for the making-visible of carceral subjects – as well as for the modes of surveillance culture that predominate today. In other words, surveillance studies as an area of inquiry has upheld the notion that we are 'all' subjected to a panoptic architecture and subjectivity insofar as we are 'all' under surveillance and encouraged to surveil. However, as Browne argues, a more fitting model would be the trans-Atlantic slave trade and the detailed diagrams used to force kidnapped Africans into white servitude in the Americas. – video and description from [this source](https://the-un-textbook.ghost.io/secrecy-and-surveillance-dark-sousveillance/)
+
 ## Artists and Surveillance
 
 ### Paul Strand, *Street Portraits* (1916)

@@ -41,9 +41,32 @@ Foucault wrote of a more generalized "panopticism" beyond a building's walls sta
 > —Michel Foucault, "Panopticism", Discipline & Punish: The Birth of the Prison (1975)
 
 Both Bentham and Foucault argued that the belief that one is being watched is in and of itself enough to control one's behavior. Foucault's critiscm continues with writers like Simone Browne in her book [Dark Matters: On the Surveillance of Blackness](https://www.dukeupress.edu/dark-matters?) and Toby Beauchamp's [Going Stealth: Transgender Politics and U.S. Surveillance Practices](https://read.dukeupress.edu/books/book/2570/Going-StealthTransgender-Politics-and-U-S)
+Browne's Dark Matters is a crucial update to the blindspots in Foucalt's writing. She argues that surveillance studies cannot begin only with Bentham’s Panopticon; it must also confront the surveillance of Black people under slavery through branding, lantern laws, slave passes, fugitive notices, and the slave ship.
 
 ### Artists and Surveillance
 
+![Paul Strand Street Photo](images/paul-strand-man-in-a-derby-1916.png)
+![Paul Strand Street Photo](images/paul-strand-untitled-1916.png)
+![Paul Strand Street Photo](images/strand_paul_3.jpg)
 
 Paul Strand's Street Portraits (1916)
->"I suddenly got the idea of making portraits of people the way you see them in the New York parks—sitting around, not posing, not conscious of being photographed,” he recalls. “People involved in the process of daily living. But how could you conceal the camera in order to do this? There was no such thing as a candid camera in those days.” Strand’s solution was to take the shiny brass lens from his uncle’s old view camera and screw it to one side of his Ensign reflex. By holding the camera so that the false lens pointed straight ahead and the real lens stuck out under his left arm, partly concealed by his sleeve, he was able to photograph someone at right angles to the apparent subject."
+>""I suddenly got the idea of making portraits of people the way you see them in the New York parks—sitting around, not posing, not conscious of being photographed,” he recalls. “People involved in the process of daily living. But how could you conceal the camera in order to do this? There was no such thing as a candid camera in those days.” 
+>
+>Strand’s solution was to take the shiny brass lens from his uncle’s old view camera and screw it to one side of his Ensign reflex. By holding the camera so that the false lens pointed straight ahead and the real lens stuck out under his left arm, partly concealed by his sleeve, he was able to photograph someone at right angles to the apparent subject."
+>
+> via "Look to the Things Around You" By Calvin Tomkins, New Yorker, September 9, 1974
+
+![scher information america 1995] (images/scher_info1995.png)
+
+Julia Scher. Information America. 1995
+
+*Metal office desk, five 9" NTSC monitors with metal wall brackets, 13" color monitor, plastic and vinyl signage, three black-and-white surveillance cameras, removable lenses, transformers, video matrix switchers, two time-lapse recorders, Amiga A1200HD computer, Sony Watch-Cam, two media players, desk lamp, office chair, wires and cables*
+
+"Julia Scher has been dealing with video surveillance for more than 40 years. Her work addresses surveillance both as a concrete phenomenon of control, including its apparatus and architecture, as well as its impact on private and public sphere. Very early on, her performance and video installations drew attention to the effects of increasingly ubiquitous cameras and monitors, anticipating our surveillance alienated society."
+
+—Julia's [Bio via her gallery](https://www.estherschipper.com/artists/51-julia-scher/biography/)
+
+"In the early 1990s, Scher encountered a consumer database sold by the Lotus software company that, as the artist explains, “provided a guidance system in which one’s understanding of controls, of the command structure of the computer, was key to accessing information.” Information America connects a closed-circuit surveillance camera system, taking in and displaying video feeds of the gallery in real time, with a console for data collection. Since Scher made this work, private information, including user data, has become a commodity to be harvested, exploited, and controlled on a vast scale."
+
+—Gallery label from Signals: How Video Transformed the World, March 5–July 8, 2023 [web](https://www.moma.org/collection/works/419367)
+

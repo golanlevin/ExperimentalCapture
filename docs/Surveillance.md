@@ -69,7 +69,7 @@ The time-lag of eight seconds is the outer limit of the neurophysiological short
 
 ---
 
-![scher information america 1995] (images/scher_info1995.png)
+![scher information america 1995](images/scher_info1995.png)
 
 
 Julia Scher. Information America. 1995

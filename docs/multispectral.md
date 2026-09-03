@@ -1,5 +1,7 @@
 # Multispectral Imaging
 
+![human-experience.jpg](images/human-experience.jpg)
+
 In this lesson, we discuss images captured from electromagnetic frequencies beyond the range of human perception. [**Multispectral imaging**](https://en.wikipedia.org/wiki/Multispectral_image) employs additional channels of electromagnetic radiation beyond human perception, such as infrared (IR), ultraviolet (UV), X-rays, and more.
 
 [![Multispectral imaging is awesome](images/multispectral/msi_awesome.png)](https://blogs.library.duke.edu/bitstreams/2017/04/24/multispectral-imaging-whats-good/)
@@ -128,7 +130,7 @@ IR is light that is beyond the red end of the visible spectrum. Wavelengths in t
 
 NIR cameras can be inexpensive and easy to obtain. With IR illumination, they allow us to see in the "dark", so they are widely used as security cameras. Here's a BBC video tracking animals, unobtrusively, licking salt in a cave at night:
 
-[![Animals in NIR](images/nir/elephants-nir.png)](https://www.youtube.com/watch?v=8qpZz5NPU3g)
+[![Animals in NIR](images/nir/elephants-nir.png)](https://www.youtube.com/shorts/G5uKkYpUpxU)
 
 Owing to the different infrared reflectivity of blood, you can [see veins easily](https://www.flickr.com/photos/nebarnix/2034727799) in NIR:
 

@@ -110,7 +110,33 @@ Later, in the final gallery, Last Seen (2016) displays those thermal recordings 
 Astro Noise, refers to the faint background disturbance of thermal radiation left over from the Big Bang and is the name Edward Snowden gave to an encrypted file containing evidence of mass surveillance by the National Security Agency that he shared with Poitras in 2013. She is the director of Oscar Award winning film Citizenfour (2014) which features Edward Snowden.
 –via[ Whitney's website](https://whitney.org/exhibitions/laura-poitras)
 
+---
+![](images/bluewindow.webp)
 
+![](images/bluewindow2.webp)
+
+American Artist, My Blue Window (2019)
+
+Installation at Queen's Museum, 2019. 
+
+American Artist’s practice makes use of video, installation, new media, and writing to reveal historical dynamics embedded within contemporary culture and technology. My Blue Window is an immersive multimedia installation in which Artist furthers an exploration of anti-Blackness as it operates algorithmically within systems. The exhibition focuses on predictive policing technologies, artificial intelligence tools intended to help dispatch officers to high risk crime zones before incidents are reported. My Blue Window highlights the collective bias that is encoded within such seemingly neutral or scientific tools. Invoking the divide between the Blue and Black Lives Matter movements, Artist connects this phenomenon to the legacy of slavery as an ever-present condition of racialized society in the U.S.
+–via [Queens Museum](https://queensmuseum.org/exhibition/american-artist/)
+
+
+---
+
+![](images/Honk_WebDetail-2048x1477.jpg)
+
+detail from: Honk if you’re driving or horny or love Jesus or if parts fall off or if a kid falls out or if Hellen Keller is a fraud or if you can see my weiner or if you’ve never seen a gun fired from a vehicle or if you do everything people tell you to do or if you’re the drama, 2024
+29 1/16 x 54 3/8 inches
+archival pigment print
+Edition of 3 + 1AP
+
+Julia Weist, Private Investigator
+
+"Julia Weist is the only licensed private investigator in America whose work is in the permanent collection of The Museum of Modern Art. In 2022, the artist positioned her practice as the investigative experience required to earn a license and was approved; she now has access to information that’s collected and sold to law enforcement, including a database of timestamped images of vehicles on the road.
+
+In a series of works made with this access, Weist presents surveillance photos of cars layered over satellite photography showing the location of image capture. Using a system designed to identify cars by their license plates, Weist discovered that nearly any text found in public is searchable through this investigative tool: lawn signs, bumper stickers, lost pet flyers, words on clothing. Weist visualizes the enormity of this loophole in photographic prints that feature results for terms such as proud, believe and artwork." –via [the artist's website](https://work.deaccession.org/private-investigations/)
 
 ---
 

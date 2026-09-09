@@ -90,7 +90,7 @@ Satellites employ multispectral imaging to understand the Earth. Here are a set 
 
 ![FY4A_AGRI_IR_earth](images/multispectral/FY4A_AGRI_IR_earth.jpg)
 
-In order to visualize the structure of such multichannel data, a common trick in satellite imaging is to re-map a channel of invisible light (like IR) to the R,G,B channels of a regular image. [Charlie Loyd discusses this in his terrific article, *Putting Landsat8's multispectral imaging to work*](images/multispectral/loyd_puttinglandsat8bandstowork.pdf). This is called **false-color imaging**.
+In order to visualize the structure of such multichannel data, a common trick in satellite imaging is to re-map a channel of invisible light (like IR) to the R,G,B channels of a regular image. [Charlie Loyd discusses this in his terrific article, *Putting Landsat8's multispectral imaging to work*](https://medium.com/mapbox/putting-landsat-8s-bands-to-work-631c4029e9d1) ([PDF backup](images/multispectral/loyd_puttinglandsat8bandstowork.pdf)). This is called **false-color imaging**.
 
 For example, here's a false-color Landsat8 image by in which SWIR data is used in the "red" channel of the image; NIR data as "green"; and near-UV as "blue". The purpose of doing this is not to create some sort of garish, psychedelic image; rather, the false-color imaging makes the patch of forest in the lower-left (which had been affected by forest fire) starkly visible:
 

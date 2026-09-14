@@ -61,10 +61,7 @@ Sferics—short for atmospherics—are brief, naturally occurring radio signals 
 
 A lightning discharge emits a broadband electromagnetic pulse that can travel thousands of miles through the atmosphere and around the Earth. When received as audio through a radio or VLF receiver, sferics often sound like clicks, pops, or crackling static.
 
-<iframe width="560" height="315"
-  src="https://www.youtube-nocookie.com/embed/rxUvMl_IxoQ"
-  title="Alvin Lucier – Sferics"
-  frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rxUvMl_IxoQ?si=FRfeXxOArFGAMA2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Christina Kubisch — *Electrical Walks*
 

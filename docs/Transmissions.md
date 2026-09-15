@@ -89,7 +89,7 @@ Using specially designed electromagnetic-induction headphones that make electrom
 
 ## Zach Poff — *Pond Station*
 
-![Pond Station floating at Wave Farm](images/pondstation.jpg)
+![Pond Station floating at Wave Farm](images/PondStation.jpg)
 
 *Pond Station* is a modular platform for monitoring the hidden activity of a freshwater pond. It has been transmitting since May 2015, when it was commissioned as a long-term sculpture at Wave Farm in Acra, NY. It floats on the water's surface, broadcasting underwater sounds through a live radio link, and operates from dawn to evening every day using solar-charged internal batteries. Pond Station's receiver is located in the Wave Farm radio studio, where resident artists and broadcasters on WGXC FM can experience the pond's natural sounds or remix and interpret them. International audiences are invited to do the same via the live web stream.
 

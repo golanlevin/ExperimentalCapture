@@ -68,6 +68,8 @@ A tool to help you explore FFmpeg filters.
 
 [FFmpeg Explorer](https://ffmpeg.lav.io/)
 
+[Check out more command line CV magic from Sam!](https://github.com/antiboredom/infinite-video-fall-2023)
+
 ![](images/ffmpegexplorer.png)
 
 

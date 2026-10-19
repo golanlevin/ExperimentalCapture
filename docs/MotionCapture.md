@@ -1,5 +1,5 @@
 # Motion Capture on a Budget
-By Nica Ross
+By Nica Ross 2026
 
 ## Motion capture basics
 

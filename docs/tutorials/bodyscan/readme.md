@@ -90,7 +90,7 @@ Click `DOWNLOAD` in the lower right and download an animated GLB file. I recomme
 
 The professor will provide a common Google Drive dropbox for your animated GLB model. Upload your model to the provided location.
 
-Drag all of the models into [**https://golanlevin.github.io/glbworld/](https://golanlevin.github.io/glbworld/**) To view them together. This is a simple app that I one-shotted in Codex.
+Drag all of the models into [**https://golanlevin.github.io/glbworld/**](https://golanlevin.github.io/glbworld/) To view them together, a simple DIY viewer app.
 
 
 <!-- codex resume 01a1587d-559f-7a51-8d0e-b535cc3fce29 -->

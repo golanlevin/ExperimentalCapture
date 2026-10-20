@@ -4,7 +4,7 @@ Here is a helpful three-part tutorial:
 <ol>
 	<li>Read <a href="http://git-scm.com/book/en/Getting-Started-About-Version-Control">About Version Control</a> &amp; the excellent <a href="http://skli.se/2012/09/22/introduction-to-git/">Intro to Git</a></li>
 	<li>Install Git for the command line. See the information below.</li>
-	<li>Do the <a href="http://www.codeschool.com/courses/try-git">Try Git</a> interactive tutorial. It basically runs you through using Git on the command line and with Github.</li>
+	<li>Practice in the <a href="https://coddy.tech/playground/git">Coddy Git playground</a>, which runs real Git commands in your browser and draws the commit graph as you go.</li>
 </ol>
 
 <hr />
@@ -70,7 +70,7 @@ Also, most have manual pages which can be reached by using the "man" command and
 <h2>References</h2>
 <strong>Books &amp; Tutorials</strong>
 <ul>
-	<li><strong><a href="http://www.codeschool.com/courses/try-git" target="_blank">Try Git</a> online course by Code School + Github.</strong> <em>(thx @<a href="https://twitter.com/codeschool/status/286202282662567936" target="_blank">codeSchool</a>)</em></li>
+	<li><strong><a href="https://coddy.tech/playground/git" target="_blank">Git Playground</a> by Coddy: real Git commands in the browser, with a live commit graph.</strong></li>
 	<li><a href="http://git-scm.com/book" target="_blank">Pro Git</a> book by Scott Chacon (free <a href="https://github.s3.amazonaws.com/media/progit.en.pdf" target="_blank">PDF</a>). <em>(thx @<a href="https://twitter.com/hmason/status/286154566620299264" target="_blank">hilarymason</a>)</em></li>
 	<li><a href="http://try.github.com/levels/1/challenges/1" target="_blank">Interactive Tutorial</a> by Code School. <em>(thx @maxhawkins, @<a href="https://twitter.com/raunaqgupta/status/286156853497450496" target="_blank">raunaqgupta</a>)</em></li>
 </ul>

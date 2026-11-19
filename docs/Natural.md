@@ -45,6 +45,7 @@ Four concrete tubes, each 18 feet long and 9 feet across, laid out in an X in Ut
 ## Solargraphy
  
 ![Solargraph by Tarja Trygg](images/solargraph_trygg.jpg)
+
 This solargraph is the result of a six-months exposure with a self-built pinhole camera located on a balcony in Helsinki, in 2002. Solargraph by Tarja Trygg
 
 Tarja Trygg is a Finnish artist who did much to spread solargraphy. From 2006 to 2012 she ran an international project that mailed pinhole cameras to volunteers at different latitudes to record how the sun’s path changes across the globe.
